@@ -1,0 +1,499 @@
+code	*done	* Laz / status	set1	val1	func1	stat1	set2	val2	func2	stat2	set3	val3	func3	stat3	set4	val4	func4	stat4	set5	val5	func5	stat5	set6	val6	func6	stat6	set7	val7	func7	stat7	*desc	*param	*min	*max	*notes	*eol
+pr0	1				1	is31																													none	0
+pr1	1				1	is32																													none	0
+pr2	1				1	is33																													none	0
+pr3	1				1	is34																													none	0
+pr4	1				1	is36																													none	0
+pr5	1				2	is16																													none	0
+pr6	1				1	is35																													none	0
+pr7	1				1	is0																													none	0
+pr8	1				1	is2																													none	0
+pr9	1				1	is3																													none	0
+pr10	1				1	is1																													none	0
+pr11	1				1	is9																													none	0
+pr12	1				1	is77																													none	0
+pr13	1				1	is7																													none	0
+pr14	1				1	is76																													none	0
+pr15	1				1	is19																													none	0
+pr16	1				1	is20																													none	0
+pr17	1				1	is54																													none	0
+pr18	1				1	is55																													none	0
+pr19	1				1	is56																													none	0
+pr20	1				1	is48																													none	0
+pr21	1				1	is49																													none	0
+pr22	1				1	is50																													none	0
+pr23	1				1	is51																													none	0
+pr24	1				1	is57																													none	0
+pr25	1				1	is58																													none	0
+pr26	1				1	is59																													none	0
+pr27	1				5																														none	0
+pr28	1				6																														none	0
+pr29	1				7																														none	0
+pr30	1				1	is114																													none	0
+pr31	1				1	is39																													none	0
+pr32	1				1	is40																													none	0
+pr33	1				1	is41																													none	0
+pr34	1				1	is42																													none	0
+pr35	1				1	is43																													none	0
+pr36	1				1	is44																													none	0
+pr37	1				1	is37																													none	0
+pr38	1				1	is38																													none	0
+pr39	1				1	is45																													none	0
+pr40	1				1	is46																													none	0
+pr41	1				1	is39			3	is41			3	is43			3	is45																	none	0
+pr42	1				1	is40			3	is42			3	is44			3	is46																	none	0
+pr43	1				1	is142																													none	0
+pr44	1				1	is143																													none	0
+pr45	1				1	is144																													none	0
+pr46	1				1	is145																													none	0
+pr47	1				1	is146																													none	0
+pr48	1				1	is147																													none	0
+pr49	1				1	is148																													none	0
+pr50	1				1	is149																													none	0
+pr51	1				1	is73																													none	0
+pr52	1				13	is75																													none	0
+pr53	1				1	is74																													none	0
+pr54	1				1	is78																													none	0
+pr55	1				8	is93																													none	0
+pr56	1				8	is93																													none	0
+pr57	1				8	is93																													none	0
+pr58	1				1	is79																													none	0
+pr59	1				1	is80																													none	0
+pr60	1				1	is81																													none	0
+pr61	1				1	is28																													none	0
+pr62	1				1	is27																													none	0
+pr63	1				1	is11																													none	0
+pr64	1				1	is82																													none	0
+pr65	1				1	is62																													none	0
+pr66	1				1	is60																													none	0
+pr67	1				21	is83																													none	0
+pr68	1			3	21	is83																													none	0
+pr69	1			2	21	is83																													none	0
+pr70	1			1	21	is83																													none	0
+pr71	1			4	21	is83																													none	0
+pr72	1				1	is88																													none	0
+pr73	1				1	is89																													none	0
+pr74	1		1		1	is90																													none	0
+pr75	1				1	is91																													none	0
+pr76	1				8	is96																													none	0
+pr77	1				8	is96																													none	0
+pr78	1				8	is96																													none	0
+pr79	1				8	is99																													none	0
+pr80	1				8	is99																													none	0
+pr81	1				8	is99																													none	0
+pr82	1				8	is102																													none	0
+pr83	1				8	is102																													none	0
+pr84	1				8	is102																													none	0
+pr85	1				8	is105																													none	0
+pr86	1				8	is105																													none	0
+pr87	1				8	is105																													none	0
+pr88	1				1	is110																													none	0
+pr89	1				1	is111																													none	0
+pr90	1				1	is112																													none	0
+pr91	1				1	is113																													none	0
+pr92	1				1	is115																													none	0
+pr93	1				1	is116																													none	0
+pr94	1				1	is117																													none	0
+pr95	1				1	is118																													none	0
+pr96	1				1	is119																													none	0
+pr97	1				1	is120																													none	0
+pr98	1				1	is121																													none	0
+pr99	1				1	is122																													none	0
+pr100	1				1	is123																													none	0
+pr101	1				1	is124																													none	0
+pr102	1				1	is125																													none	0
+pr103	1			1	21	is126																													none	0
+pr104	1				1	is127																													none	0
+pr105	1				1	is128																													none	0
+pr106	1				1	is134																										chance in 128	length in frames		none	0
+pr107	1				1	is135																													none	0
+pr108	1				1	is136																													none	0
+pr109	1				1	is137																													none	0
+pr110	1				1	is138																													none	0
+pr111	1				1	is139																													none	0
+pr112	1				1	is140																													none	0
+pr113	1				1	is141																													none	0
+pr114	1				1	is150																													none	0
+pr115	1				1	is153																													none	0
+pr116	1				1	is154																													none	0
+pr117	1				24	is155																													none	0
+pr118	1				1	is156																													none	0
+pr119	1				1	is157																													none	0
+pr120	1				1	is158																													none	0
+Expansion																																				0
+pr121	1			5	21	is83																									All Druid Skills				none	0
+pr122	1			6	21	is83																									All Assassin Skills				none	0
+pr123	1				22	is107																													none	0
+pr124	1				10	is188																													none	0
+pr125	1				22	is151																													none	0
+pr126	1				11	is195																									Proc Skill on Swing	Skill #	% Chance	Level	none	0
+pr127	1				11	is198																									Proc Skill on Hit	Skill #	% Chance	Level	none	0
+pr128	1				11	is201																									Proc Skill on Get Hit	Skill #	% Chance	Level	none	0
+pr129																															Increase chance of finding Gems				none	0
+pr130																																			none	0
+pr131																																			none	0
+pr132																																			none	0
+pr133	1				14	is194																													none	0
+pr134	1				15	is48			16	is49																					Fire Damage		Min	Max	none	0
+pr135	1				15	is50			16	is51																					Lightning Damage		Min	Max	none	0
+pr136	1				15	is52			16	is53																					Magic Damge		Min	Max	none	0
+pr137	1				15	is54			16	is55			17	is56																	Cold Damage	Length (Frames)	Min	Max	none	0
+pr138	1				15	is57			16	is58			17	is59																	Poison Damage	Length (Frames)	Min	Max	none	0
+pr139	1				15	is159			16	is160																					Throwing Damage		Min	Max	none	0
+pr140	1				15	is21			16	is22																					Normal Damage Modifier		Min	Max	none	0
+pr141	1				17	is214																									AC per Player Level	(32nds)			none	0
+pr142	1				17	is215																									AC% per Player Level	(32nds)			none	0
+pr143	1				17	is216																									HP per Player Level	(32nds)			none	0
+pr144	1				17	is217																									Mana per Player Level	(32nds)			none	0
+pr145	1				17	is218																									Max Damage per Player Level	(32nds)			none	0
+pr146	1				17	is225																									Max Damage % per Player Level	(32nds)			none	0
+pr147	1				17	is230																									Attack% per Player Level	(32nds)			none	0
+pr148	1				17	is231																									Max Cold Damage per Player Level	(32nds)			none	0
+pr149	1				17	is232																									Max Fire Damage per Player Level	(32nds)			none	0
+pr150	1				17	is233																									Max Lightning Dmg per Player Level	(32nds)			none	0
+pr151	1				17	is239																									Max Poison Dmg per Player Level	(32nds)			none	0
+pr152	1				17	is240																									Resist Cold% per Player Level	(32nds)			none	0
+pr153	1				17	is247																									Resist Fire% per Player Level	(32nds)			none	0
+pr154	1				17	is248																									Resist Lightning% per Player Level	(32nds)			none	0
+pr155	1				17	is252																									Resist Poison% per Player Level	(32nds)			none	0
+pr156	1				17	is253																									+% Gold Dropped per Player Lvl	(32nds)			none	0
+pr157	1				1	is254																									+% Magical per Player Lvl	(32nds)			none	0
+pr158	1																														+% Chance of Crushing Blow per Player Level	(32nds)			none	0
+pr159	1																														+% Chance of Open Wounds per Player Level	(32nds)			none	0
+pr160	1																														+% Chance of Deadly Strike per Player Level	(32nds)			none	0
+pr161	1																														regenerates durability	speed (see note)			regenerates 1 durability point per 100/lvl seconds	0
+pr162	1																														regenerates quantity	speed (see note)			regenerates 1 quantity per 100/lvl seconds	0
+pr163	1																														Increased stack size		min count	max count	none	0
+pr164																															+% Chance of finding item	item type	min chance	max chance	random chance from min to max is assigned to item	0
+pr165																															Slashing Damage		min	max	random amount from min to max is assigned to item	0
+pr166																															Slashing Damage %		min %	max %	random amount from min to max is assigned to item	0
+pr167																															Crush Damage		min	max	random amount from min to max is assigned to item	0
+pr168																															Crush Damage %		min %	max %	random amount from min to max is assigned to item	0
+pr169																															Thrust Damage		min	max	random amount from min to max is assigned to item	0
+pr170																															Thrust Damage %		min %	max %	random amount from min to max is assigned to item	0
+pr171					1	is333																									Absorb Slashing Damage		min amt	max amt	random amount from min to max is assigned to item	0
+pr172					1	is334																									Absorb Crushing Damage		min amt	max amt	random amount from min to max is assigned to item	0
+pr173					1	is335																									Absorb Thrusting Damage		min amt	max amt	random amount from min to max is assigned to item	0
+pr174					1	is336																									Absorb Slashing Damage %		min %	max %	random amount from min to max is assigned to item	0
+pr175																															Absorb Crushing Damage %		min %	max %	random amount from min to max is assigned to item	0
+pr176																															Absorb Thrusting Damage %		min %	max %	random amount from min to max is assigned to item	0
+pr177	1																														AC / time increment (0=day, 1=dusk, 2=night, 3=dawn)	center period	min	max	max at center period, min at opposite period, linear progression	0
+pr178	1																														AC% / time increment (8 periods)	center period	min	max	max at center period, min at opposite period, linear progression	0
+pr179	1																														HP / time increment	center period	min	max	max at center period, min at opposite period, linear progression	0
+pr180	1																														Mana / time increment	center period	min	max	max at center period, min at opposite period, linear progression	0
+pr181	1				20																										Max Damage / time increment	center period	min	max	max at center period, min at opposite period, linear progression	0
+pr182	1				19	is204																									Max Damage % / time increment	center period	min	max	max at center period, min at opposite period, linear progression	0
+pr183	1				1	is329																									Strength / time increment	center period	min	max	max at center period, min at opposite period, linear progression	0
+pr184	1				1	is330																									Dexterity / time increment	center period	min	max	max at center period, min at opposite period, linear progression	0
+pr185	1				1	is331																									Energy / time increment	center period	min	max	max at center period, min at opposite period, linear progression	0
+pr186	1				1	is332																									Vitality / time increment	center period	min	max	max at center period, min at opposite period, linear progression	0
+pr187	1				15	is48			16	is49			15	is50			16	is51			15	is54			16	is55			17	is56	To hit / time increment	center period	min	max	max at center period, min at opposite period, linear progression	0
+pr188	1				1	is48			3	is50			3	is54																	To Hit % / time increment	center period	min	max	max at center period, min at opposite period, linear progression	0
+pr189	1				1	is49			3	is51			3	is55			17	is56													Cold Damage Max / time inc.	center period	min	max	max at center period, min at opposite period, linear progression	0
+pr190	1				1	is0			3	is1			3	is2			3	is3													Fire Damage Max / time inc.	center period	min	max	max at center period, min at opposite period, linear progression	0
+pr191	1				1	is85																									Lightning Damage Max / time inc.	center period	min	max	max at center period, min at opposite period, linear progression	0
+pr192	1				1	is86																									Poison Damage Max / time inc.	center period	min	max	max at center period, min at opposite period, linear progression	0
+pr193	1				1	is87																									Resist Cold / time inc.	center period	min	max	max at center period, min at opposite period, linear progression	0
+pr194	1				1	is108																									Resist Fire / time inc.	center period	min	max	max at center period, min at opposite period, linear progression	0
+pr195	1				24	is179																									Resist Lightning / time inc	center period	min	max	max at center period, min at opposite period, linear progression	0
+pr196	1				24	is180																									Resist Poison / time inc	center period	min	max	max at center period, min at opposite period, linear progression	0
+pr197	1				11	is196																									Absorb Cold / time inc.	center period	min	max	max at center period, min at opposite period, linear progression	0
+pr198	1				11	is197																									Absorb Fire / time inc.	center period	min	max	max at center period, min at opposite period, linear progression	0
+pr199	1				11	is199																									Absorb Lightning / time inc.	center period	min	max	max at center period, min at opposite period, linear progression	0
+pr200	1				12	is107																									Absorb Poison / time inc.	center period	min	max	max at center period, min at opposite period, linear progression	0
+pr201	1				17	is181																									Find Gold Amt % / time inc.	center period	min	max	max at center period, min at opposite period, linear progression	0
+pr202	1				1	is92																									Find Magic % / time inc.	center period	min	max	max at center period, min at opposite period, linear progression	0
+pr203	1				23																										% / time inc.	center period	min	max	max at center period, min at opposite period, linear progression	0
+pr204	1				22	is97																									Stamina / time inc.	center period	min	max	max at center period, min at opposite period, linear progression	0
+pr205	1				24	is98																									Damage to Demons % / time inc.	center period	min	max	max at center period, min at opposite period, linear progression	0
+pr206	1				1	is377																									Damage to Undead % / time inc.	center period	min	max	max at center period, min at opposite period, linear progression	0
+pr207	1				1	is329			3	is330			3	is331			3	is332			3	is377									To Hit Demons % / time inc.	center period	min	max	max at center period, min at opposite period, linear progression	0
+pr208	1				1	is363																									To Hit Undead % / time inc.	center period	min	max	max at center period, min at opposite period, linear progression	0
+pr209	1				1	is364																									% chance of Crushing Blow / time inc.	center period	min	max	max at center period, min at opposite period, linear progression	0
+pr210	1				1	is365																									+% chance of Open Wounds / time inc.	center period	min	max	max at center period, min at opposite period, linear progression	0
+pr211	1				1	is366																									Kick Damage / time inc.	center period	min	max	max at center period, min at opposite period, linear progression	0
+pr212	1				1	is131																									+% chance of Deadly Strike / time inc.	center period	min	max	max at center period, min at opposite period, linear progression	0
+pr213					1	is109																									+% chance of finding Gems / time inc.	center period	min	max	max at center period, min at opposite period, linear progression	0
+pr214	1				1	is7			3	is9																					Negates % of Enemy Cold Resistance		min	max	none	0
+pr215	1				1	is359																									Negates % of Enemy Fire Resistance		min	max	none	0
+pr216	1				1	is360																									Negates % of Enemy Lightning Resistance		min	max	none	0
+pr217	1				1	is361																									Negates % of Enemy Poison Resistance		min	max	none	0
+pr218					1	is362																									Damage vs. specific Monster Type	monster	min	max	none	0
+pr219					1	is359			3	is360			3	is361			3	is362													Damage % vs. specific Monster Type	monster	min	max	none	0
+pr220					1	is66																									To Hit vs. specific Monster Type	monster	min	max	none	0
+pr221					1	is164																									To Hit % vs. specific Monster Type	monster	min	max	none	0
+pr222					1	is171																									AC vs. specific Monster Type	monster	min	max	none	0
+pr223					1	is25																									AC% vs. specific Monster Type	monster	min	max	none	0
+pr224	1				1	is161																									Indestructible				none	0
+pr225	1				1	is367																									Charged Skill	skill	charges	level	none	0
+pr226	1				1	is368																														0
+pr227	1				1	is76			3	is77																										0
+pr228	1				1	is183																														0
+pr229	1				1	is378																														0
+pr230	1				1	is380																														0
+pr231	1				1	is381																														0
+pr232	1				1	is384																														0
+pr233	1				1	is387																														0
+pr234	1				1	is388																									additional xp gain					0
+pr235	1				1	is389																									life gained after each kill					0
+pr236	1				1	is399																									reduces vendor prices		min	max	none	0
+pr237	1				1	is390																									slain monsters' corpses can't be used		1	1	none	0
+pr238	1				1	is409																									attack% vs. monster type	mon type	min	max		0
+pr239	1				1	is183																									damage% vs. monster type	mon type	min	max		0
+pr240	1				12	is97																									Proc Skill on killing something	Skill #	% Chance	Level		0
+pr241	1				1	is0			3	is2			3	is3			3	is359			3	is360			3	is362					Proc Skill on getting killed	Skill #	% Chance	Level		0
+pr242	1				1	is39			3	is41			3	is43																	Proc Skill on level up	Skill #	% Chance	Level		0
+pr243	1				1	is0			3	is2			3	is3																	Bonus to random skill	Level	min Skill #	max Skill #		0
+pr244	1				1	is0			3	is1			3	is3																	only use on monprop	fade type				0
+pr245	1				1	is359			3	is361			3	is362																						0
+pr246	1				1	is0			3	is2																										0
+pr247	1				1	is329			3	is330			3	is331			3	is332			3	is377			3	is25						Skill	min level	max level	none	0
+pr248	1				17	is404																										state	1	1		0
+pr249	1	skills.txt			17	is405																									Laz / Interacts with skills.txt		min	max	damage bonus to physical and magic skills	0
+pr250	1	new mod (combo)			17	is406																									Laz / EDM%		min	max	also affects elem affixes?	0
+pr251	1	new mod			17	is407																									Laz / Slows melee attacker		min	max	none	0
+pr252	1	new mod			1	is413																									Laz / Howls melee attacker		min	max	in 100ths, not in 128ths	0
+pr253	1	new mod			1	is414																									Laz / Freezes melee attacker		min	max	none	0
+pr254	1	new mod			1	is372																									Laz / Blinds melee attacker		min	max	none	0
+pr255	1	new mod			1	is373																									Laz / Percentage thorns		min	max	beware physical resistance in hell	0
+pr256	1	new mod			1	is374																									Laz / Curse resistance		min	max	cap at 75%?	0
+pr257	1	new mod			1	is96			3	is99			3	is102			3	is105			3	is93									Laz / No rocket sci here		min	max	just saves space, k?	0
+pr258	1	new mod			1	is105			3	is93																					Laz / Percentage strength		min	max	none	0
+pr259	1	new mod			1	is39			3	is41																					Laz / Percentage dexterity		min	max	none	0
+pr260	1	new mod			1	is429																									Laz / Percentage energy		min	max	none	0
+pr261	1	new mod			1	is430																									Laz / Percentage vitality		min	max	none	0
+pr262	1	new mod (combo)			1	is431																									Laz / Percentage all stats		min	max	none	0
+pr263	1	new mod			1	is402																									Laz / Adds stun length		min Frames	max Frames	only on direct melee hits?	0
+pr264	1	new mod			17	is432																									Laz / Chance uninterrupt		min	max	savebits of 5, very low cap	0
+pr265	1	new mod			1	is443																									Laz / Global AC increase		min	max	overridden by armor_override_percent	0
+pr266	1	new mod			1	is338			3	is339			3	is340																	Laz / Global dmg increase		min	max	none	0
+pr267	1	new mod			1	is444																									Laz / Athena		min	max	haven't set missile slow/no slow properly yet	0
+pr268	1	new mod			1	is467																									Laz / Elemental thorns	Frames	min Dmg	max Dmg	does it actually use cold length?	0
+pr269	1	new mod			1	is470																									Laz / Elemental thorns		min	max	none	0
+pr270	1	new mod (combo)			1	is471																									Laz / Combination affix		min	max	none	0
+pr271	1	skills.txt			1	is472																									Laz / Interacts with skills.txt		min	max	none	0
+pr272	1	skills.txt			1	is473																									Laz / Interacts with skills.txt		1	1	none	0
+pr273	1	skills.txt			1	is474																									Laz / Interacts with skills.txt		min	max	none	0
+pr274	1	skills.txt			1	is475																									Laz / Interacts with skills.txt		min Frames	max Frames	savebits of 5, very low cap	0
+pr275	1	skills.txt			1	is329			3	is330			3	is331																	Laz / Interacts with skills.txt		min	max	none	0
+pr276	1	skills.txt			1	is0			3	is86																					Laz / Interacts with skills.txt		min	max	none	0
+pr277	1	skills.txt			1	is476																									Laz / Interacts with skills.txt		min	max	none	0
+pr278	1	skills.txt			1	is477																									Laz / Interacts with skills.txt		min	max	none	0
+pr279	1	skills.txt			1	is478																									Laz / Interacts with skills.txt		min	max	none	0
+pr280	1	skills.txt			1	is479																									Laz / Interacts with skills.txt		1	1	none	0
+pr281	1	skills.txt			1	is480																									Laz / Interacts with skills.txt		min	max	none	0
+pr282	1	skills.txt			1	is481																									Laz / Interacts with skills.txt		min	max	none	0
+pr283	1	skills.txt (global)			17	is482																									Laz / Interacts with skills.txt		min	max	don't overdo it!	0
+pr284	1	cubemain.txt			17	is483																									Laz / Crafting points		min	max	none	0
+pr285	1	new mod			1	is441																									Laz / Random oskill bonus	Level	min Skill #	max Skill #	none	0
+pr286	1	new mod (combo)			1	is43			3	is1																					Laz / Combination affix		min	max	none	0
+pr287	1	new mod (combo)			1	is39			3	is0																					Laz / Combination affix		min	max	none	0
+pr288	1	new mod (combo)			1	is45			3	is2																					Laz / Combination affix		min	max	none	0
+pr289	1	new mod (combo)			1	is445																									Laz / Combination affix		min	max	none	0
+pr290	1	new mod (combo)			1	is484																									Laz / Combination affix		min	max	none	0
+pr291	1	new mod (combo)			1	is485																									Laz / Combination affix		min	max	none	0
+pr292	1	deprecated			1	is487																									Laz / Monster bonus in Hell		min	max	none	0
+pr293	1	new mod			1	is182																									Laz / Mastery per level	(32nds)			none	0
+pr294	1	new mod			1	is488																									Laz / Mastery per level	(32nds)			none	0
+pr295	1	new mod			1	is439																									Laz / Mastery per level	(32nds)			none	0
+pr296	1	new mod			1	is489																									Laz / Mastery per level	(32nds)			none	0
+pr297	1	misc.txt			1	is64																									Laz / Interacts with misc.txt		1	1	none	0
+pr298	1	misc.txt			1	is495																									Laz / Interacts with misc.txt		1	1	none	0
+pr299	1	desc only			1	is498																									Laz / String for javelins		1	1	desc string for built-in cascade attack	0
+pr300	1	desc only			1	is487			3	is39			3	is41			3	is43			3	is45									Laz / String for throwing weapons		1	1	desc string for built-in barrage attack	0
+pr301	1	desc only			1	is492																									Laz / String for Rampage		1	1	desc string for wolf morph on rampage	0
+pr302	1	desc only			1	is500																									Laz / String for Death March		1	1	desc string for death march	0
+pr303	1	desc only			17	is503																									Laz / String for Judas		1	1	none	0
+pr304	1	desc only			17	is504																									Laz / Get a life!		1	1	secret runeword bonus	0
+pr305	1	new mod (combo)			17	is505																									Laz / Combination affix		min	max	none	0
+pr306	1	new mod (combo)			1	is142			3	is144			3	is148																	Laz / Combination affix		min	max	none	0
+pr307	1	new mod (combo)			1	is329			3	is331			3	is332																	Laz / Combination affix		min	max	none	0
+pr308	1	skills.txt			1	is419																									Laz / Interacts with skills.txt		min	max	none	0
+pr309	1	misc.txt			1	is333			3	is334			3	is335			3	is336													Laz / Interacts with misc.txt		min	max	none	0
+pr310	1	skills.txt (global)			1	is333			3	is334			3	is336																	Laz / Interacts with skills.txt		min	max	adds with synergies	0
+pr311	1	skills.txt			1	is421																									Laz / Interacts with skills.txt		min	max	none	0
+pr312	1	new mod			1	is422																									Laz / Ac per level	(32nds)			none	0
+pr313	1	cubemain.txt			1	is423																									Laz / Interacts with cubemain.txt		1	1	none	0
+pr314	1	new mod			1	is424																									Laz / Combination affix		min	max	none	0
+pr315	1	skills.txt			1	is425																									Laz / Interacts with skills.txt		min	max	none	0
+pr316	1	misc.txt			1	is426																									Laz / Interacts with misc.txt		min	max	none	0
+pr317	1	skills.txt			1	is427																									Laz / Interacts with skills.txt		min	max	none	0
+pr318	1	cubemain.txt			1	is418																									Laz / Interacts with cubemain.txt		1 or -1	1 or -1	none	0
+pr319	1	cubemain.txt			1	is187																									Laz / Interacts with cubemain.txt		1	1	none	0
+pr320	1	skills.txt			1	is333			3	is334			3	is335																	Laz / Interacts with skills.txt		min	max	none	0
+pr321	1	skills.txt			17	is203																									Laz / Interacts with skills.txt		min	max	none	0
+pr322	1	desc only			1	is333			3	is334																					Laz / String for Dead Ringer		1	1	desc string for druid morph on dead ringer	0
+pr323	1	new mod (combo)			1	is444			3	is359																					Laz / EDM%		min	max	also affects elem affixes?	0
+pr324	1	new mod (combo)			1	is60			3	is62																					Laz / EDM%		min	max	also affects elem affixes?	0
+pr325	1	desc only			1	is1			3	is2																					Laz / String for Shedim		1	1	desc string for demon blood aura	0
+pr326	1	desc only			1	is208																									Laz / String for Jolly Roger		1 to 15	1 to 15	desc string for hard aura	0
+pr327	1	desc only			1	is209																									Laz / String for Jolly Roger		1	1	desc string for jolly roger	0
+pr328	1	skills.txt			1	is440																									Laz / Interacts with skills.txt		min	max	none	0
+pr329	1	itemstatcost.txt			1	is493																									Laz / Itemstatcost.txt juju		min	max	none	0
+pr330	1	itemstatcost.txt			12	is155																									Laz / Itemstatcost.txt juju		min	max	none	0
+pr331	1	hidden bonus			1	is335			3	is336			3	is331			3	is332													Laz / Hidden gem bonus	(32nds)			none	0
+pr332	1	hidden bonus			1	is136																									Laz / Hidden rune bonus	(32nds)			none	0
+pr333	1	skills.txt			1	is444			3	is359			3	is361																	Laz / Interacts with skills.txt		min	max	none	0
+pr334	1	new mod (combo)			1	is333			3	is335			3	is329			3	is331			3	is485									Laz / Combination affix		min	max	none	0
+pr335	1	new mod (combo)			1	is329			3	is331																					Laz / Combination affix		min	max	none	0
+pr336	1	new mod (combo)			1	is0			3	is3			3	is74																	Laz / Combination affix		min	max	none	0
+pr337	1	skills.txt			1	is96			3	is93																					Laz / Interacts with skills.txt		min	max	none	0
+pr338	1	desc only			1	is1			3	is2																					Laz / String for Jolly Roger		1	1	desc string for +11 difficulty	0
+pr339	1	skills.txt			1	is99			3	is105																					Laz / Interacts with skills.txt		min	max	none	0
+pr340	1	skills.txt			1	is368			3	is367			3	is128																	Laz / Interacts with skills.txt		min	max	none	0
+pr341	1	new mod			1	is39			3	is45																					Laz / Global AC increase		-100	-100	none	0
+pr342	1	new mod			1	is392																									Laz / Knockback thorns		1	1	none	0
+pr343	1	new mod			1	is385																									Laz / Life gained when struck in melee		min	max	none	0
+pr344	1	new mod			1	is331			3	is332																					Laz / Active thorns damage		min	max	none	0
+pr345	1	new mod			1	is333			3	is335			3	is336																	Laz / Stamina leech		min	max	none	0
+pr346	1	desc only			17	is450																									Laz / String for Ensi		1	1	desc string for sorceress morph on ensi	0
+pr347	1	skills.txt			1	is96			3	is105																					Laz / Interacts with skills.txt		min	max	none	0
+pr348	1	skills.txt			1	is329			3	is377																					Laz / Interacts with skills.txt		min	max	none	0
+pr349	1	skills.txt			1	is93			3	is122			3	is39			3	is41			3	is43			3	is0			3	is2	Laz / Combination affix		min	max	none	0
+pr350	1	misc.txt			1	is446																									Laz / Interacts with misc.txt		min	max	none	0
+pr351	1	skills.txt			1	is449																									Laz / Interacts with skills.txt		min	max	none	0
+pr352	1	none			1	is211																									Laz / Strength per point in BL	(32nds)			none	0
+pr353	1	none			1	is0			3	is3																					Laz / Vitality per point in BL	(32nds)			none	0
+pr354	1	none			1	is301																									Laz / Life regen per level	(32nds)			none	0
+pr355	1	none			1	is303																									Laz / Combination affix		min	max	none	0
+pr356	1	new mod (combo)			1	is210																									Laz / EDM%		min	max	also affects elem affixes?	0
+pr357	1	skills.txt			1	is296																									Laz / Interacts with skills.txt		min	max	none	0
+pr358	1	skills.txt			1	is333			3	is335																					Laz / Interacts with skills.txt		min	max	none	0
+pr359	1	new mod (combo)			1	is295																									Laz / Combination affix		min	max	none	0
+pr360	1	new mod (combo)			1	is293																									Laz / Combination affix		min	max	none	0
+pr361	1	cubemain.txt			1	is385			3	is153																					Laz / Black Road challenge		1	1	none	0
+pr362	1	cubemain.txt			1	is291																									Laz / Black Road challenge		1	1	none	0
+pr363	1	cubemain.txt			1	is391																									Laz / Black Road challenge		1	1	none	0
+pr364	1	cubemain.txt			1	is290																									Laz / Black Road challenge		1	1	none	0
+pr365	1	cubemain.txt			1	is289																									Laz / Black Road challenge		1	1	none	0
+pr366	1	cubemain.txt			1	is112			3	is364																					Laz / Black Road challenge		1	1	none	0
+pr367	1	cubemain.txt			1	is449																									Laz / Black Road challenge		1	1	none	0
+pr368	1	cubemain.txt			1	is39			3	is41			3	is43																	Laz / Interacts with cubemain.txt		1 or -1	1 or -1	none	0
+pr369	1				11	is282																									Laz / Interacts with skills.txt		min	max	none	0
+pr370	1				11	is283																									Laz / Interacts with skills.txt		min	max	none	0
+pr371	1	new mod (combo)			11	is284																									Laz / Combination affix		min	max	none	0
+pr372	1				1	is281																									Laz / Damagepercent per level	(32nds)			none	0
+pr373	1	new mod (combo)			1	is279																									Laz / Combination affix		min	max	none	0
+pr374	1	skills.txt			11	is277																									Laz / Combination affix		min	max	none	0
+pr375	1				17	is442																									Laz / Combination affix		min	max	none	0
+pr376	1	new mod (combo)			1	is275																									Laz / Combination affix		min	max	none	0
+pr377	1	new mod			1	is274																									Laz / Life on striking		min	max	none	0
+pr378	1	new mod			1	is273																									Laz / Mana on striking		min	max	none	0
+pr379	1	new mod			1	is272																									Laz / Life gained when struck in melee		min	max	none	0
+pr380	1	new mod			1	is271																									Laz / Slows ranged attacker		min	max	none	0
+pr381	1				1	is270																													none	0
+pr382	1	new mod (combo)			1	is267																									Laz / Combination affix		min	max	none	0
+pr383	1	new mod (combo)			1	is444			3	is470																					Laz / Combination affix		min	max	none	0
+pr384	1	skills.txt			1	is0			3	is1																					Laz / Combination affix		min	max	none	0
+pr385	1	new mod (combo)			11	is266																									Laz / Combination affix		min	max	none	0
+pr386	1	new mod (combo)			1	is265																									Laz / Combination affix		min	max	none	0
+pr387	1	new mod (combo)			1	is299																									Laz / Combination affix		min	max	none	0
+pr388	1	new mod (combo)			1	is300																									Laz / Combination affix		min	max	none	0
+pr389	1	new mod (combo)			1	is259																									Laz / Combination affix		min	max	none	0
+pr390	1	new mod (combo)			1	is184																									Laz / Combination affix		min	max	none	0
+pr391	1	new mod (combo)			1	is191																									Laz / Combination affix		min	max	does it actually use cold length?	0
+pr392	1	new mod (combo)			1	is192																									Laz / Combination affix		min	max	none	0
+pr393	1	skills.txt			1	is193																									Laz / Interacts with skills.txt		min	max	none	0
+pr394	1	desc only			1	is202																									Laz / String for Evanescence		1	1	desc string for Evanescence	0
+pr395	1	new mod (combo)			1	is205																									Laz / Combination affix		min	max	also affects elem affixes?	0
+pr396	1	new mod (combo)			1	is206																									Laz / Combination affix		min	max	none	0
+pr397	1	none			1	is207																									Laz / HP per Lioness level	(8ths!)			none	0
+pr398	1	new mod (combo)			1	is213																									Laz / Combination affix		min	max	none	0
+pr399	1	new mod (combo)			1	is220																									Laz / Combination affix		min	max	none	0
+pr400	1	new mod (combo)			1	is221																									Laz / Combination affix		min	max	none	0
+pr401	1	skills.txt			1	is222																									Laz / Interacts with skills.txt		min	max	none	0
+pr402	1	skills.txt			1	is223																									Laz / Interacts with skills.txt		min	max	none	0
+pr403	1	skills.txt			1	is224																									Laz / Interacts with skills.txt		min	max	none	0
+pr404	1	skills.txt			1	is226																									Laz / Interacts with skills.txt		min	max	none	0
+pr405	1	new mod (combo)			1	is227																									Laz / Combination affix		min	max	none	0
+pr406	1	skills.txt			1	is228																									Laz / Interacts with skills.txt		min	max	none	0
+pr407	1	skills.txt			1	is229																									Laz / Interacts with skills.txt		min	max	none	0
+pr408	1	skills.txt			1	is234																									Laz / Interacts with skills.txt		min	max	none	0
+pr409	1	new mod			1	is235																									Laz / Life on striking		min	max	none	0
+pr410	1				1	is236																									AC per Player Level	(32nds)			none	0
+pr411	1				1	is237																									AC per Player Level	(32nds)			none	0
+pr412	1	desc only			1	is238																									Laz / String for special class		1	1	desc string for special item class	0
+pr413	1	new mod (combo)			1	is241																									Laz / Combination affix		min	max	none	0
+pr414	1	new mod			1	is242																									Laz / Life on striking		min	max	none	0
+pr415	1	tracker			1	is243																									Laz / Interacts with cubemain.txt		min	max	none	0
+pr416	1	skills.txt			1	is244																									Laz / Interacts with skills.txt		min	max	none	0
+pr417	1	desc + stat			1	is245																									Laz / String for Evanescence		1	1	desc string for Evanescence	0
+pr418	1	skills.txt			1	is246																									Laz / Interacts with skills.txt		min	max	none	0
+pr419	1	skills.txt			1	is249																									Laz / Interacts with skills.txt		min	max	none	0
+pr420	1	skills.txt			1	is251																									Laz / Interacts with skills.txt		min	max	none	0
+pr421	1	skills.txt			1	is255																									Laz / Interacts with skills.txt		min	max	none	0
+pr422	1	skills.txt			1	is256																									Laz / Interacts with skills.txt		min	max	none	0
+pr423	1				1	is257																									Laz / Combination affix		min	max	none	0
+pr424	1	automagic.txt			1	is258																									Laz / Whaa whaa whaa		min	max	none	0
+pr425	1	desc only			1	is263																									Laz / String for oscar		1	1	desc string for built-in cascade attack	0
+pr426	1				1	is264																									Laz / Combination affix		min	max	none	0
+pr427	1				1	is285																									Laz / New procs	Skill #	% Chance	Level		0
+pr428	1				1	is286																									Laz / New procs	Skill #	% Chance	Level		0
+pr429	1				1	is287																									Laz / New procs	Skill #	% Chance	Level		0
+pr430	1	skills.txt			1	is294																									Laz / Interacts with skills.txt		min	max	none	0
+pr431	1	skills.txt			1	is297																									Laz / Interacts with skills.txt		min	max	none	0
+pr432	1				1	is298																									Laz / New procs	Skill #	% Chance	Level	white text	0
+pr433	1				1	is304																									AC per Player Level	(32nds)			none	0
+pr434	1	desc only			1	is309																									Laz / String for Judas		1	1	none	0
+pr435	1	skills.txt			1	is310																									Laz / Interacts with skills.txt		min	max	none	0
+pr436	1	skills.txt			1	is311																									Laz / Interacts with skills.txt		min	max	none	0
+pr437	1	desc only			1	is312																									Laz / String for Judas		1	1	none	0
+pr438	1	desc only			1	is313																									Laz / String for Judas		1	1	none	0
+pr439	1	tracker			1	is314																									Laz / Interacts with cubemain.txt		min	max	none	0
+pr440	1	skills.txt			1	is369																									Laz / Interacts with skills.txt		min	max	none	0
+pr441	1	skills.txt			1	is370																									Laz / Interacts with skills.txt		min	max	none	0
+pr442	1	new mod (combo)			1	is382																									Laz / Combination affix		min	max	none	0
+pr443	1				1	is383																									Laz / New procs	Skill #	% Chance	Level	white text	0
+pr444	1	tracker			1	is393																									Laz / Interacts with cubemain.txt		min	max	none	0
+pr445	1				1	is397																													none	0
+pr446	1				1	is398																													none	0
+pr447	1	desc only			1	is400																									Laz / String for drain aura		1	1	none	0
+pr448	1				1	is401																													none	0
+pr449	1	cubemain.txt			1	is403																									Laz / MC counter		min	max	none	0
+pr450	1	cubemain.txt			1	is408																									Laz / MC counter		min	max	none	0
+pr451	1	cubemain.txt			1	is458																									Laz / MC counter		min	max	none	0
+pr452	1	cubemain.txt			1	is459																									Laz / MC counter		min	max	none	0
+pr453	1	cubemain.txt			1	is460																									Laz / MC counter		min	max	none	0
+pr454	1	cubemain.txt			1	is461																									Laz / MC counter		min	max	none	0
+pr455	1	cubemain.txt			1	is462																									Laz / MC counter		min	max	none	0
+pr456	1	cubemain.txt			1	is463																									Laz / MC counter		min	max	none	0
+pr457	1	cubemain.txt			1	is464																									Laz / MC counter		min	max	none	0
+pr458	1	cubemain.txt			1	is465																									Laz / MC counter		min	max	none	0
+pr459	1	cubemain.txt			1	is466																									Laz / MC counter		min	max	none	0
+pr460	1	cubemain.txt			17	is499																									Laz / MC counter		min	max	none	0
+pr461	1	cubemain.txt			1	is278																									Laz / MC counter		min	max	none	0
+pr462	1	cubemain.txt			1	is491																									Laz / MC counter		min	max	none	0
+pr463	1	cubemain.txt			1	is99			3	is96																					Laz / MC counter		min	max	none	0
+pr464	1	cubemain.txt			1	is490																									Laz / MC counter		min	max	none	0
+pr465	1	cubemain.txt			1	is52																									Laz / MC counter		min	max	none	0
+pr466	1	cubemain.txt			1	is53																									Laz / MC counter		min	max	none	0
+pr467	1	cubemain.txt			1	is96			3	is1																					Laz / MC counter		min	max	none	0
+pr468	1	cubemain.txt			1	is441			3	is445																					Laz / MC counter		min	max	none	0
+pr469	1	cubemain.txt			1	is219																									Laz / MC counter		min	max	none	0
+pr470	1	cubemain.txt			1	is93			3	is153			3	is329			3	is330			3	is331			3	is332			3	is377	Laz / MC counter		min	max	none	0
+pr471	1	cubemain.txt			1	is261																									Laz / MC counter		min	max	none	0
+pr472	1	cubemain.txt			1	is136			3	is362																					Laz / MC counter		min	max	none	0
+pr473	1	cubemain.txt			1	is93			3	is99																					Laz / MC counter		min	max	none	0
+pr474	1	cubemain.txt			11	is371																									Laz / MC counter		min	max	none	0
+pr475	1	cubemain.txt			1	is338			3	is339			3	is340			3	is110													Laz / MC counter		min	max	none	0
+pr476	1	cubemain.txt			1	is276																									Laz / MC counter		min	max	none	0
+pr477	1	cubemain.txt			1	is333			3	is336																					Laz / MC counter		min	max	none	0
+pr478	1	cubemain.txt			11	is200																									Laz / MC counter		min	max	none	0
+pr479	1	cubemain.txt			11	is260																									Laz / MC counter		min	max	none	0
+pr480	1	cubemain.txt			1	is376																									Laz / MC counter		min	max	none	0
+pr481	1	cubemain.txt			11	is292																									Laz / MC counter		min	max	none	0
+pr482	1	cubemain.txt			1	is340																									Laz / MC counter		min	max	none	0
+pr483	1	cubemain.txt			1	is506																									Laz / MC counter		min	max	none	0
+pr484	1	cubemain.txt			1	is508																									Laz / MC counter		min	max	none	0
+pr485	1	cubemain.txt			1	is508																									Laz / MC counter		min	max	none	0
+pr486	1	cubemain.txt			1	is189																									Laz / MC counter		min	max	none	0
+pr487	1	cubemain.txt			1	is509																									Laz / MC counter		min	max	none	0
+pr488	1	cubemain.txt			1	is143				is145				is147				is149													Laz / MC counter		min	max	none	0
+pr489	1	cubemain.txt			1	is448																									Laz / MC counter		min	max	none	0
+pr490	1	cubemain.txt			1	is412																									Laz / MC counter		min	max	none	0
+pr491	1	cubemain.txt			1	is501																									Laz / MC counter		min	max	none	0
+pr492	1	cubemain.txt			1	is468																									Laz / MC counter		min	max	none	0
+pr493	1	cubemain.txt			1	is469																									Laz / MC counter		min	max	none	0
+pr494	1	cubemain.txt			1	is334			3	is336																					Laz / MC counter		min	max	none	0
+pr495	1	cubemain.txt			1	is496																									Laz / MC counter		min	max	none	0
+pr496	1	cubemain.txt			1	is329			3	is331			3	is377																	Laz / MC counter		min	max	none	0

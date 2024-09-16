@@ -1,0 +1,252 @@
+Act	*old	Place
+1	gheed	ms147
+1	cain1	ms146
+1	akara	ms148
+1	chicken	ms149
+1	rogue1	ms152
+1	kashya	ms150
+1	cow	ms179
+1	warriv1	ms155
+1	charsi	ms154
+1	andariel	ms156
+1	place_fallen	me0
+1	place_fallenshaman	me0
+1	place_bloodraven	me5
+1	cow	ms179
+1	camel	ms185
+1	place_unique_pack	me2
+1	place_npc_pack	me1
+1	place_nothing	me0
+1	place_nothing	me0
+1	place_champion	me0
+1	navi	ms266
+1	rogue1	ms152
+1	rogue3	ms272
+1	gargoyletrap	ms273
+1	place_fallennest	me0
+1	place_talkingrogue	me14
+1	place_fallen	me0
+1	place_fallenshaman	me0
+1	trap-horzmissile	ms327
+1	trap-vertmissile	ms328
+1	place_group25	me33
+1	place_group50	me34
+1	place_group75	me35
+1	place_group100	me36
+1	Bishibosh	su0
+1	Bonebreak	su1
+1	Coldcrow	su2
+1	Rakanishu	su3
+1	Treehead WoodFist	su4
+1	Griswold	su5
+1	The Countess	su6
+1	Pitspawn Fouldog	su7
+1	Flamespike the Crawler	su8
+1	Boneash	su9
+1	The Smith	su20
+1	The Cow King	su39
+1	Corpsefire	su40
+1		su32
+1		su68
+1		su69
+1		su70
+1		su71
+1		su72
+1		su78
+1		su79
+1		su80
+1		su81
+1		su82
+1		su83
+2	warriv2	ms175
+2	atma	ms176
+2	drognan	ms177
+2	fara	ms178
+2	place_nothing	me0
+2	place_nothing	me0
+2	place_nothing	me0
+2	place_nothing	me0
+2	greiz	ms198
+2	elzix	ms199
+2	lysander	ms202
+2	meshif1	ms210
+2	geglash	ms200
+2	jerhyn	ms201
+2	place_unique_pack	me2
+2	place_npc_pack	me1
+2	place_nothing	me0
+2	summoner	ms250
+2	Radament	su10
+2	duriel	ms211
+2	cain2	ms244
+2	place_champion	me0
+2	act2male	ms195
+2	act2female	ms196
+2	act2guard1	ms203
+2	act2vendor1	ms204
+2	act2vendor2	ms205
+2	place_tightspotboss	me8
+2	fish	ms320
+2	place_talkingguard	me15
+2	place_dumbguard	me16
+2	place_maggot	me0
+2	place_maggotegg	me0
+2	place_nothing	me0
+2	gargoyletrap	ms273
+2	trap-horzmissile	ms327
+2	trap-vertmissile	ms328
+2	place_group25	me33
+2	place_group50	me34
+2	place_group75	me35
+2	place_group100	me36
+2	lightningspire	ms371
+2	firetower	ms372
+2	place_nothing	me0
+2	place_nothing	me0
+2	place_nothing	me0
+2	Bloodwitch the Wild	su11
+2	Fangskin	su12
+2	Beetleburst	su13
+2	Leatherarm	su14
+2	Coldworm the Burrower	su15
+2	Fire Eye	su16
+2	Dark Elder	su17
+2	Ancient Kaa the Soulless	su19
+2	act2guard4	ms377
+2	act2guard5	ms378
+2	sarcophagus	ms228
+2	tyrael1	ms251
+2	skeleton5	ms4
+2		su57
+2		su8
+3	cain3	ms245
+3	place_champion	me0
+3	act3male	ms294
+3	act3female	ms296
+3	asheara	ms252
+3	hratli	ms253
+3	alkor	ms254
+3	ormus	ms255
+3	meshif2	ms264
+3	place_amphibian	me0
+3	place_tentacle_ns	me10
+3	place_tentacle_ew	me11
+3	place_fetishnest	me0
+3	trap-horzmissile	ms327
+3	trap-vertmissile	ms328
+3	natalya	ms297
+3	place_mosquitonest	me0
+3	place_group25	me33
+3	place_group50	me34
+3	place_group75	me35
+3	place_group100	me36
+3	compellingorb	ms366
+3	mephisto	ms242
+3	trap-melee	ms354
+3	mephistospirit	ms401
+3	act3hire	ms359
+3	place_fetish	me0
+3	place_fetishshaman	me0
+3	Web Mage the Burning	su21
+3	Witch Doctor Endugu	su22
+3	Stormtree	su23
+3	Sarina the Battlemaid	su24
+3	Icehawk Riftwing	su25
+3	Ismail Vilehand	su26
+3	Geleb Flamefinger	su27
+3	Bremm Sparkfist	su28
+3	Toorc Icefist	su29
+3	Wyand Voidfinger	su30
+3	Maffer Dragonhand	su31
+3		su33
+3		su35
+3		su67
+3		su77
+4	place_champion	me0
+4	trap-horzmissile	ms327
+4	trap-vertmissile	ms328
+4	place_group25	me33
+4	place_group50	me34
+4	place_group75	me35
+4	place_group100	me36
+4	tyrael2	ms367
+4	window2	ms393
+4	window1	ms392
+4	jamella	ms405
+4	halbu	ms257
+4	hellmeteor	ms153
+4	izual	ms256
+4	diablo	ms243
+4	Winged Death	me0
+4	The Tormentor	me0
+4	Taintbreeder	me0
+4	Riftwraith the Cannibal	me0
+4	Infector of Souls	su36
+4	Lord De Seis	su37
+4	Grand Vizier of Chaos	su38
+4	trappedsoul1	ms403
+4	trappedsoul2	ms404
+4	regurgitator3	ms309
+4	cain4	ms246
+4	malachai	ms408
+4	The Feature Creep	su41
+4		su55
+5	larzuk	ms511
+5	drehya	ms512
+5	malah	ms513
+5	nihlathak	ms514
+5	qual-kehk	ms515
+5	place_impgroup	me0
+5	Siege Boss	su43
+5	tyrael3	ms521
+5	cain6	ms520
+5	place_imp	me0
+5	place_minion	me0
+5	place_miniongroup	me0
+5	catapult2	ms498
+5	catapult1	ms497
+5	place_bloodlord	me0
+5	catapultspotter2	ms517
+5	catapultspotter1	ms516
+5	act5barb1	ms522
+5	place_deadbarb	me31
+5	place_deadminion	me29
+5	place_deadimp	me30
+5	cain6	ms520
+5	act5barb3	ms535
+5	place_reanimateddead	me0
+5	ancientstatue1	ms537
+5	ancientstatue2	ms538
+5	ancientstatue3	ms539
+5	Dac Farren	su49
+5	baalthrone	ms543
+5	baaltaunt	ms545
+5	injuredbarb1	ms567
+5	injuredbarb2	ms568
+5	injuredbarb3	ms569
+5	baalcrab	ms544
+5	Axe Dweller	me0
+5	Bonesaw Breaker	me0
+5	Megaflow Rectifier	su50
+5	Eyeback Unleashed	su51
+5	Threash Socket	su52
+5	Pindleskin	su53
+5	Snapchip Shatter	su54
+5	Anodized Elite	me0
+5	Vinvear Molech	su56
+5	Sharp Tooth Sayer	me0
+5	Magma Torquer	me0
+5	Blaze Ripper	me0
+5	Frozenstein	su60
+5	worldstoneeffect	ms574
+5	chicken	ms149
+5	place_champion	me0
+5	evilhut	me0
+5	place_nothing	me0
+5	place_nothing	me0
+5	place_nothing	me0
+5	place_nothing	me0
+5	place_nothing	me0
+5		su73
+5		su74
+5		su76

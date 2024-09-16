@@ -1,0 +1,5 @@
+Store Page	Code
+armo	armo
+weap	weap
+mag 	mag 
+misc	misc

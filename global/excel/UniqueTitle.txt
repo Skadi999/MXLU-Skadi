@@ -1,0 +1,17 @@
+Name	Namco
+unused	ut0
+unused	ut1
+unused	ut2
+unused	ut3
+unused	ut4
+unused	ut5
+unused	ut6
+unused	ut7
+unused	ut8
+unused	ut9
+unused	ut10
+unused	ut11
+unused	ut12
+unused	ut13
+unused	ut14
+unused	ut15

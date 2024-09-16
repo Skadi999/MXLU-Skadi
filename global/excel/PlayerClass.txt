@@ -1,0 +1,9 @@
+Player Class	Code
+ama 	ama 
+sor 	sor 
+nec 	nec 
+pal 	pal 
+bar 	bar 
+Expansion	
+dru 	dru 
+ass 	ass 

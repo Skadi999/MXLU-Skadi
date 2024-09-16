@@ -1,0 +1,12 @@
+Body Location	Code
+    	    
+head	head
+neck	neck
+tors	tors
+rarm	rarm
+larm	larm
+rrin	rrin
+lrin	lrin
+belt	belt
+feet	feet
+glov	glov

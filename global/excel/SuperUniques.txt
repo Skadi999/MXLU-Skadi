@@ -1,0 +1,85 @@
+Superunique	Name	Class	hcIdx	MonSound	Mod1	Mod2	Mod3	*Laz / mods	MinGrp	MaxGrp	EClass	AutoPos	Stacks	Replaceable	Utrans	Utrans(N)	Utrans(H)	TC	TC(N)	TC(H)	*eol
+su0	Snotspill	ms933		mo0	6			fast	8	8		1			11	11	11	Act 1 Super A	Act 1 (N) Super A	Act 1 (H) Super A	0
+su1	Pukerat the Unclean	ms767	1	mo0	7			curse	6	6		1			5	5	5	Act 1 Super A	Act 1 (N) Super A	Act 1 (H) Super A	0
+su2	NewGrimspike	ms1661	2	mo0	5			strong				1			18	18	18	Act 1 Super A	Act 1 (N) Super A	Act 1 (H) Super A	0
+su3	El Chupacabras	ms1661	3	mo0	7			curse	8	8				1	29	29	29	Act 1 Super B	Act 1 (N) Super B	Act 1 (H) Super B	0
+su4	Wrathraven	ms915	4	mo0	5	25		strong mana	4	4		1		1	4	4	4	Act 1 Super B	Act 1 (N) Super B	Act 1 (H) Super B	0
+su5	Griswold	ms365	5	mo0	7	28		curse stone				1		1	17	17	17	GriswoldTCex	GriswoldTCex (N)	GriswoldTCex (H)	0
+su6	The Countess	ms45	6	mo36	6	7	11	fast curse maggot	6	6		1			16	16	16	Countess	Countess (N)	Countess (H)	0
+su7	Moonbender	ms1662	7	mo0	6	17		fast lightning	7	7		1			31	31	31	Act 1 Super B	Act 1 (N) Super B	Act 1 (H) Super B	0
+su8	Flower Prowler	ms948	8	mo0	6	7	11	fast curse maggot	7	7		1			16	16	16	Act 2 Super B	Act 2 (N) Super B	Act 2 (H) Super B	0
+su9	Blightfire	ms930	9	mo0	5	9		strong fire				1			15	15	15	Act 1 Super C	Act 1 (N) Super C	Act 1 (H) Super C	0
+su10	Radament	ms229	10	mo0	7	25		curse mana				1			30	30	30	Act 2 Super A	Act 2 (N) Super A	Act 2 (H) Super A	0
+su11	Kermit	ms935	11	mo0	5	6		strong fast	4	4		1			29	29	29	Act 2 Super A	Act 2 (N) Super A	Act 2 (H) Super A	0
+su12	Plaguewrath	ms934	12	mo0	6	29		fast multi	7	7		1			14	14	14	Staff for quest YES!	Staff for quest YES!	Staff for quest YES!	0
+su13	NewFleshdoom	ms1663	13	mo0	5	7	9	strong curse fire	5	5		1		1	13	13	13	Act 2 Super B	Act 2 (N) Super B	Act 2 (H) Super B	0
+su14	Doomweaver	ms1664	14	mo0	7	25		curse mana	3	3		1			25	25	25	Act 2 Super B	Act 2 (N) Super B	Act 2 (H) Super B	0
+su15	Warmaggot the Mad	ms2048	15	mo0	8	9		resist fire							13	13	13	Act 2 Super B	Act 2 (N) Super B	Maggot Boss SuperDrop	0
+su16	Deadeye	ms1665	16	mo0	8	18		resist cold	6	6		1			12	12	12	Act 2 Super B	Act 2 (N) Super B	Act 2 (H) Super B	0
+su17	Fatal Morgana	ms932	17	mo0	6	27	27	fast tele	5	5		1		1	27	27	27	Act 2 Super B	Act 2 (N) Super B	Act 2 (H) Super B	0
+su18	The Summoner	ms250	18	mo0								1			26	26	26	Summoner	Summoner (N)	Summoner (H)	0
+su19	Warpwing	ms1666	19	mo0	6	18	26	fast cold tele	3	3		1			11	11	11	Act 2 Super C	Act 2 (N) Super C	Act 2 (H) Super C	0
+su20	The Smith	ms402	20	mo0	7	9		curse fire				1			26	26	26	Smith	Smith (N)	Smith (H)	0
+su21	Gharbad the Weak	ms1667	21	mo0	5	7		strong curse	8	8		1			19	19	19	Act 3 Super A	Act 3 (N) Super A	Act 3 (H) Super A	0
+su22	Deathspit	ms1668	22	mo0	6	25		fast mana	2	2		1			20	20	20	Act 3 Super B	Act 3 (N) Super B	Act 3 (H) Super B	0
+su23	The Vizier	ms1669	23	mo0	25	28		mana stone	1	1		1		1	35	35	35	Act 3 Super B	Act 3 (N) Super B	Act 3 (H) Super B	0
+su24	Nightwing the Cold	ms1670	24	mo0	6	18		fast cold	7	7		1		1	36	36	36	Act 3 Super B	Act 3 (N) Super B	Act 3 (H) Super B	0
+su25	NewWitchText	ms1704	25	mo0	7	18		curse cold	2	2		1			21	21	21	Act 3 Super A	Act 3 (N) Super A	Act 3 (H) Super A	0
+su26	Zhar the Mad	ms1068	26	mo0	8	27		resist tele	1	1		1			36	36	36	Act 4 Super A	Act 4 (N) Super A	Act 4 (H) Super A	0
+su27	Deathshade Fleshmaul	ms1672	27	mo0	18	26		cold tele	3	3		1			37	37	37	Act 4 Super A	Act 4 (N) Super A	Act 4 (H) Super A	0
+su28	Gorestone	ms1673	28	mo0	6	25		fast mana	5	5		1			22	22	22	Act 4 Super A	Act 4 (N) Super A	Act 4 (H) Super A	0
+su29	Lachdanan	ms963	29	mo0	5	7		strong curse	4	4		1			23	23	23	OF COURSE MY LORD	OF COURSE MY LORD	OF COURSE MY LORD	0
+su30	Bilefroth the Pit Master	ms1674	30	mo0	7	18		curse cold	4	4		1			38	38	38	Act 4 Super A	Act 4 (N) Super A	Act 4 (H) Super A	0
+su31	Bloodmoon Soulfire	ms1675	31	mo0	6	8		fast resist	4	4		1			23	23	23	Act 4 Super A	Act 4 (N) Super A	Act 4 (H) Super A	0
+su32	InfernalMachine	ms961	32	mo0	11			maggot				1			24	24	24	Act 3 Super B	Act 3 (N) Super B	Infernal Reward	0
+su33	Doomlock	ms946	33	mo0	6	8		fast resist	6	6		1			9	9	9	Act 3 Super A	Act 3 (N) Super A	Act 3 (H) Super A	0
+su34	Blightstone the Weak	ms950	34	mo0	5	7		strong curse	6	6		1			10	10	10	Act 4 Super B	Act 4 (N) Super B	Act 4 (H) Super B	0
+su35	Azmodan	ms962	35	mo0	11			maggot				1			25	25	25	Act 5 Super C	Act 5 (N) Super C	Azmodan Reward	0
+su36	Doomcloud	ms1746	36	mo0	6	17		fast lightning	5	5		1			26	26	26	Act 4 Super B	Act 4 (N) Super B	Act 4 (H) Super B	0
+su37	Bluehorn The Flayer	ms1677	37	mo0	5	8		strong resist *1B9 NAMECHANGE	5	5		1			11	11	11	Act 4 Super C	Act 4 (N) Super C	Act 4 (H) Super C	0
+su38	Viletouch	ms1676	38	mo0	7	9		curse fire	5	5		1			26	26	26	Act 4 Super B	Act 4 (N) Super B	Act 4 (H) Super B	0
+su39		ms936	39	mo0	6	17		fast lightning	6	6		1			27	27	27	Act 5 Super C	Act 5 (N) Super C	Act 5 (H) Super C	0
+su40	Prince Albrecht	ms727	40	mo0	18	27		cold tele	10	10		1			25	25	25	Act 1 Super A	Act 1 (N) Super A	Act 1 (H) Super A	0
+su41	The Feature Creep	ms409	41	mo0	7	27		curse tele				1			20	20	20	Haphesto	Haphesto (N)	Haphesto (H)	0
+su42				mo0																	0
+su43	Siege Boss	ms807	42	mo0	5	8		strong resist	3	3	1		1		7	7	7	Act 5 Champ A	Act 5 (N) Champ A	Act 5 (H) Champ A	0
+su44	Ancient Barbarian 1	ms540	43	mo0							1		1		25	25	25	Act 5 Super C	Act 5 (N) Super C	Act 5 (H) Super C	0
+su45	Ancient Barbarian 2	ms541	44	mo0							1		1		26	26	26	Act 5 Super C	Act 5 (N) Super C	Act 5 (H) Super C	0
+su46	Ancient Barbarian 3	ms542	45	mo0							1		1		11	11	11	Act 5 Super C	Act 5 (N) Super C	Act 5 (H) Super C	0
+su47	Axe Dweller	ms1029	46	mo0	6	25		fast mana	2	2	1				20	20	20	Act 5 Cast C	Act 5 (N) Cast C	Act 5 (H) Cast C	0
+su48	Spirit of Pain	ms953	47	mo0							1				35	35	35	Act 5 Super C	Act 5 (N) Super C	Act 5 (H) Super C	0
+su49	Graywar the Slayer	ms1679	48	mo0	7	26		curse tele	5	5	1			1	36	36	36	Act 5 Super B	Act 5 (N) Super B	Act 5 (H) Super B	0
+su50	Blackash the Burning	ms1680	49	mo0	7	8		curse resist	4	4	1			1	21	21	21	Act 5 Champ A	Act 5 (N) Champ A	Act 5 (H) Champ A	0
+su51	Gorefeast	ms1681	50	mo0	6	27		fast spectral	2	2	1				8	8	8	Act 5 Super A	Act 5 (N) Super A	Act 5 (H) Super A	0
+su52	Bloodskin Darkbow	ms931	51	mo0	7	9		curse fire	6	6	1				37	37	37	Act 5 Super C	Act 5 (N) Super C	Act 5 (H) Super C	0
+su53	Lionskull the Bent	ms1682	52	mo0	25	27		mana spectral	5	5	1				22	22	22	Act 5 Super C	Act 5 (N) Super C	Act 5 (H) Super C	0
+su54	Brokenstorm	ms1683	53	mo0	6	18		fast cold	5	5	1				23	23	23	Act 5 Super C	Act 5 (N) Super C	Act 5 (H) Super C	0
+su55	Sinwar of the Storm	ms951	54	mo0	17	27		lightning spectral	8	8	1				38	38	38	Act 5 Super C	Act 5 (N) Super C	Act 5 (H) Super C	0
+su56	Howlingire the Shade	ms945	55	mo0	5	6		strong fast	2	2	1				23	23	23	Act 2 Super B	Act 2 (N) Super B	Act 2 (H) Super B	0
+su57	Stormbane	ms947	56	mo0	6	8	35	fast resist shatter	4	4	1				24	24	24	Act 3 Super A	Act 3 (N) Super A	Act 3 (H) Super A	0
+su58	Spirit of Hatred	ms954	57	mo0							1				9	9	9	Act 5 Super C	Act 5 (N) Super C	Act 5 (H) Super C	0
+su59	Spirit of Terror	ms955	58	mo0							1				10	10	10	Act 5 Super C	Act 5 (N) Super C	Act 5 (H) Super C	0
+su60	Coldkill Iceguard	ms1684	59	mo0	6	26		fast tele	8	8	1				19	19	19	Act 5 Super C	Act 5 (N) Super C	Act 5 (H) Super C	0
+su61	Nihlathak	ms526	60	mo0							1		1		28	28	28	Nihlathak (D)	Nihlathak (N) (D)	Nihlathak (H) (D)	0
+su62	Red Vex	ms1214	61	mo0	7	25		curse mana	6	6			1		29	29	29	Act 5 Champ C	Act 5 (N) Champ C	Act 5 (H) Champ C	0
+su63	Blackstorm	ms1053	62	mo0	6	25		fast mana	4	4			1		21	21	21	Act 5 Champ C	Act 5 (N) Champ C	Act 5 (H) Champ C	0
+su64	Dreadjudge	ms1057	63	mo0	5	26		strong tele	8	8	1		1		36	36	36	Act 5 Champ C	Act 5 (N) Champ C	Act 5 (H) Champ C	0
+su65	Sir Gorash	ms1215	64	mo0	5	7		strong curse	8	8	1		1		20	20	20	Act 5 Champ C	Act 5 (N) Champ C	Act 5 (H) Champ C	0
+su66	CrazyTower	ms1205	65	mo0	8	9		resist fire			1		1		20	20	20	Pre Baal	Pre Baal (N)	Pre Baal (H)	0
+su67	Death Projector	ms969	66	mo0							1		1		8	8	8	Act 5 Super C	Act 5 (N) Super C	Laser Reward	0
+su68	Inarius	ms995	67	mo0	11	25		maggot mana			1		1		8	8	8	Act 5 Super C	Act 5 (N) Super C	Inarius Reward	0
+su69	High Cleric Gray	ms996	68	mo0							1		1		8	8	8	Act 5 Cast C	Act 5 (N) Cast C	Act 5 (H) Cast C	0
+su70	High Cleric Dorian	ms996	69	mo0							1		1		8	8	8	Act 5 Cast C	Act 5 (N) Cast C	Act 5 (H) Cast C	0
+su71	Crystal Ball	ms1001	70	mo0	25			mana			1		1		8	8	8	Act 5 Super C	Act 5 (N) Super C	Crystal Reward	0
+su72	Glass Skull the Jagged	ms1002	71	mo0					3	3	1		1		8	8	8	Act 5 Super C	Act 5 (N) Super C	Act 5 (H) Super C	0
+su73	NewMalic	ms1030	72	mo0	11	27		maggot spectral			1		1		8	8	8	Act 5 Super C	Act 5 (N) Super C	Malic Reward	0
+su74	Lucion	ms1032	73	mo0	18	25	27	cold mana spectral			1		1		8	8	8	Act 5 Super C	Act 5 (N) Super C	Lucion Reward	0
+su75	Spirit of Anguish	ms952	74	mo0							1				20	20	20	Act 5 Super C	Act 5 (N) Super C	Act 5 (H) Super C	0
+su76	SpiritOfMefis	ms1029	75	mo0	6	25		fast mana	2	2	1				20	20	20	Act 5 Super C	Act 5 (N) Super C	Act 5 (H) Super C	0
+su77	RathmaPrimus	ms1059	76	mo0	6			fast			1				22	22	22	Act 5 Super C	Act 5 (N) Super C	Rathma Primus Reward	0
+su78	JurisKhan	ms1076	77	mo0	11			maggot			1				22	22	22	Baal	Baal (N)	Juris Khan Reward	0
+su79	WycBoss1	ms1607	78	mo0	11			maggot			1				11	11	11	Baal	Baal (N)	Boss 5 Reward	0
+su80	WycBoss2	ms1608	79	mo0	11			maggot			1				11	11	11	Baal	Baal (N)	Boss 4 Reward	0
+su81	WycBoss3	ms1609	80	mo0	11			maggot			1				11	11	11	Baal	Baal (N)	Boss 3 Reward	0
+su82	WycBoss4	ms1610	81	mo0	11			maggot			1				11	11	11	Baal	Baal (N)	Boss 2 Reward	0
+su83	WycBoss5	ms1611	82	mo0	11			maggot			1				11	11	11	Baal	Baal (N)	Boss 1 Reward	0

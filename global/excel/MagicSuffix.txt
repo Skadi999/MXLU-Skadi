@@ -1,0 +1,972 @@
+Name	version	spawnable	rare	level	maxlevel	levelreq	classspecific	class	classlevelreq	frequency	group	mod1code	mod1param	mod1min	mod1max	* Laz / notes	mod2code	mod2param	mod2min	mod2max	mod3code	mod3param	mod3min	mod3max	transform	transformcolor	itype1	itype2	itype3	itype4	itype5	itype6	itype7	etype1	etype2	etype3	etype4	etype5	divide	multiply	add
+NoDesc	1	1	1	1	21					84	201	pr0		21	40												staf	bow	xbow	pham	pspe										
+NoDesc	1	1	1	8	33	7				120	201	pr0		41	60												staf	bow	xbow	pham	pspe										
+NoDesc	1	1	1	16	45	13				117	201	pr0		61	80												staf	bow	xbow	pham	pspe										
+NoDesc	1	1	1	23	57	19				144	201	pr0		81	100												staf	bow	xbow	pham	pspe										
+NoDesc	1	1	1	30	69	25				171	201	pr0		101	120												staf	bow	xbow	pham	pspe										
+NoDesc	1	1	1	37	81	31				198	201	pr0		121	140												staf	bow	xbow	pham	pspe										
+NoDesc	1	1	1	44	90	37				225	201	pr0		141	160												staf	bow	xbow	pham	pspe										
+NoDesc	1	1	1	52	90	43				168	201	pr0		161	180												staf	bow	xbow	pham	pspe										
+NoDesc	1	1	1	59	90	49				186	201	pr0		181	200												staf	bow	xbow	pham	pspe										
+NoDesc	1	1	1	66		55				204	201	pr0		201	220												staf	bow	xbow	pham	pspe										
+NoDesc	1	1	1	80		66				238	201	pr0		221	400												staf	bow	xbow	pham	pspe										
+NoDesc	1	1	1	1	21					105	201	pr0		11	25												amul	misl	spea					pspe							
+NoDesc	1	1	1	11	37	9				165	201	pr0		26	40												amul	misl	spea					pspe							
+NoDesc	1	1	1	18	49	15				210	201	pr0		41	55												amul	misl	spea					pspe							
+NoDesc	1	1	1	25	61	21				255	201	pr0		56	70												amul	misl	spea					pspe							
+NoDesc	1	1	1	32	73	27				44	201	pr0		71	85												amul	misl	spea					pspe							
+NoDesc	1	1	1	40	85	33				20	201	pr0		86	100												amul	misl	spea					pspe							
+NoDesc	1	1	1	47	90	39				56	201	pr0		101	115												amul	misl	spea					pspe							
+NoDesc	1	1	1	54	90	45				92	201	pr0		116	130												amul	misl	spea					pspe							
+NoDesc	1	1	1	61	90	51				32	201	pr0		131	145												amul	misl	spea					pspe							
+NoDesc	1	1	1	68		57				59	201	pr0		146	160												amul	misl	spea					pspe							
+NoDesc	1	1	1	76		63				228	201	pr0		161	200												amul	misl	spea					pspe							
+NoDesc	1	1	1	1	21					84	201	pr0		6	10												ring														
+NoDesc	1	1	1	13	41	11				144	201	pr0		11	15												ring														
+NoDesc	1	1	1	25	61	21				153	201	pr0		16	20												ring														
+NoDesc	1	1	1	37	81	31				132	201	pr0		21	25												ring														
+NoDesc	1	1	1	49		41				162	201	pr0		26	30												ring														
+NoDesc	1	1	1	2	22	2				66	202	pr191		1	2											whit	amul	belt	azhm	pzhm	phlm										
+NoDesc	1	1	1	9	34	8				93	202	pr191		3	4											whit	amul	belt	azhm	pzhm	phlm										
+NoDesc	1	1	1	16	46	14				120	202	pr191		5	6											whit	amul	belt	azhm	pzhm	phlm										
+NoDesc	1	1	1	24	58	20				147	202	pr191		7	8											whit	amul	belt	azhm	pzhm	phlm										
+NoDesc	1	1	1	31	70	26				174	202	pr191		9	10											whit	amul	belt	azhm	pzhm	phlm										
+NoDesc	1	1	1	38	82	32				201	202	pr191		11	12											whit	amul	belt	azhm	pzhm	phlm										
+NoDesc	1	1	1	45	90	38				228	202	pr191		13	14											whit	amul	belt	azhm	pzhm	phlm										
+NoDesc	1	1	1	52	90	44				255	202	pr191		15	16											whit	amul	belt	azhm	pzhm	phlm										
+NoDesc	1	1	1	60	90	50				26	202	pr191		17	18											whit	amul	belt	azhm	pzhm	phlm										
+NoDesc	1	1	1	67		56				53	202	pr191		19	20											whit	amul	belt	azhm	pzhm	phlm										
+NoDesc	1	1	1	12	38	10				102	202	pr191		1	2											whit	ring														
+NoDesc	1	1	1	27	63	22				159	202	pr191		3	4											whit	ring														
+NoDesc	1	1	1	42	89	35				216	202	pr191		5	6											whit	ring														
+NoDesc	1	1	1	57	90	48				17	202	pr191		7	8											whit	ring														
+NoDesc	1	1	1	72		60				74	202	pr191		9	10											whit	ring														
+NoDesc	1	1	1	18	49	15				126	202	pr191		1	1											whit	helm	boot						azhm	pzhm	phlm					
+NoDesc	1	1	1	32	73	27				180	202	pr191		2	2											whit	helm	boot						azhm	pzhm	phlm					
+NoDesc	1	1	1	47	90	39				234	202	pr191		3	3											whit	helm	boot						azhm	pzhm	phlm					
+NoDesc	1	1	1	61	90	51				32	202	pr191		4	4											whit	helm	boot						azhm	pzhm	phlm					
+NoDesc	1	1	1	76		63				86	202	pr191		5	5											whit	helm	boot						azhm	pzhm	phlm					
+NoDesc	1	1	1	1	21					168	203	pr190		1	3											lgld	tors	bswd	baxe												
+NoDesc	1	1	1	8	31	6				232	203	pr190		3	5											lgld	tors	bswd	baxe												
+NoDesc	1	1	1	14	42	12				40	203	pr190		6	8											lgld	tors	bswd	baxe												
+NoDesc	1	1	1	20	53	17				104	203	pr190		9	11											lgld	tors	bswd	baxe												
+NoDesc	1	1	1	27	63	22				168	203	pr190		11	13											lgld	tors	bswd	baxe												
+NoDesc	1	1	1	33	74	28				232	203	pr190		14	16											lgld	tors	bswd	baxe												
+NoDesc	1	1	1	40	85	33				40	203	pr190		17	19											lgld	tors	bswd	baxe												
+NoDesc	1	1	1	46	90	38				27	203	pr190		19	21											lgld	tors	bswd	baxe												
+NoDesc	1	1	1	52	90	44				83	203	pr190		22	24											lgld	tors	bswd	baxe												
+NoDesc	1	1	1	59	90	49				139	203	pr190		25	30											lgld	tors	bswd	baxe												
+NoDesc	1	1	1	80		66				65	203	pr190		31	40											lgld	tors	bswd	baxe												
+NoDesc	1	1	1	80		66				65	203	pr190		41	50											lgld	tors	bswd	baxe												
+NoDesc	1	1	1	1	21					168	203	pr190		1	2											lgld	belt	boot	glov	helm	amul	weap		bswd	baxe						
+NoDesc	1	1	1	13	41	11				32	203	pr190		3	4											lgld	belt	boot	glov	helm	amul	weap		bswd	baxe						
+NoDesc	1	1	1	25	61	21				152	203	pr190		5	6											lgld	belt	boot	glov	helm	amul	weap		bswd	baxe						
+NoDesc	1	1	1	37	81	31				16	203	pr190		7	8											lgld	belt	boot	glov	helm	amul	weap		bswd	baxe						
+NoDesc	1	1	1	49	90	41				55	203	pr190		9	10											lgld	belt	boot	glov	helm	amul	weap		bswd	baxe						
+NoDesc	1	1	1	61	90	51				160	203	pr190		11	14											lgld	belt	boot	glov	helm	amul	weap		bswd	baxe						
+NoDesc	1	1	1	73		61				9	203	pr190		15	20											lgld	belt	boot	glov	helm	amul	weap		bswd	baxe						
+NoDesc	1	1	1	80		66				65	203	pr190		21	30											lgld	belt	boot	glov	helm	amul	weap		bswd	baxe						
+NoDesc	1	1	1	1	21					126	203	pr190		1	2											lgld	ring														
+NoDesc	1	1	1	14	42	12				222	203	pr190		3	4											lgld	ring														
+NoDesc	1	1	1	40	86	34				164	203	pr190		5	7											lgld	ring														
+NoDesc	1	1	1	57		48				199	203	pr190		8	10											lgld	ring														
+NoDesc	1	1	1	37	81	31				132	203	pr219		5	5												tors	bswd	baxe												
+NoDesc	1	1	1	59		49				186	203	pr219		10	10												tors	bswd	baxe												
+NoDesc	1	1	1	1	21					168	203	pr7		1	5											blac	mele	tors	phlm	ashd	xbow	pzhm		staf	wand	orb					
+NoDesc	1	1	1	8	31	6				232	203	pr7		6	10											blac	mele	tors	phlm	ashd	xbow	pzhm		staf	wand	orb					
+NoDesc	1	1	1	14	42	12				40	203	pr7		11	15											blac	mele	tors	phlm	ashd	xbow	pzhm		staf	wand	orb					
+NoDesc	1	1	1	20	53	17				104	203	pr7		16	20											blac	mele	tors	phlm	ashd	xbow	pzhm		staf	wand	orb					
+NoDesc	1	1	1	27	63	22				168	203	pr7		21	25											blac	mele	tors	phlm	ashd	xbow	pzhm		staf	wand	orb					
+NoDesc	1	1	1	33	74	28				232	203	pr7		26	30											blac	mele	tors	phlm	ashd	xbow	pzhm		staf	wand	orb					
+NoDesc	1	1	1	40	85	33				40	203	pr7		31	35											blac	mele	tors	phlm	ashd	xbow	pzhm		staf	wand	orb					
+NoDesc	1	1	1	46	90	38				27	203	pr7		36	40											blac	mele	tors	phlm	ashd	xbow	pzhm		staf	wand	orb					
+NoDesc	1	1	1	52	90	44				83	203	pr7		41	45											blac	mele	tors	phlm	ashd	xbow	pzhm		staf	wand	orb					
+NoDesc	1	1	1	59	90	49				139	203	pr7		46	50											blac	mele	tors	phlm	ashd	xbow	pzhm		staf	wand	orb					
+NoDesc	1	1	1	80		66				65	203	pr7		51	75											blac	mele	tors	phlm	ashd	xbow	pzhm		staf	wand	orb					
+NoDesc	1	1	1	1	21					168	203	pr7		1	3											blac	belt	boot	glov	helm	amul	misl		phlm	pzhm						
+NoDesc	1	1	1	13	41	11				32	203	pr7		4	6											blac	belt	boot	glov	helm	amul	misl		phlm	pzhm						
+NoDesc	1	1	1	25	61	21				152	203	pr7		7	9											blac	belt	boot	glov	helm	amul	misl		phlm	pzhm						
+NoDesc	1	1	1	37	81	31				16	203	pr7		10	12											blac	belt	boot	glov	helm	amul	misl		phlm	pzhm						
+NoDesc	1	1	1	49	90	41				55	203	pr7		13	15											blac	belt	boot	glov	helm	amul	misl		phlm	pzhm						
+NoDesc	1	1	1	61	90	51				160	203	pr7		16	18											blac	belt	boot	glov	helm	amul	misl		phlm	pzhm						
+NoDesc	1	1	1	73		61				9	203	pr7		19	25											blac	belt	boot	glov	helm	amul	misl		phlm	pzhm						
+NoDesc	1	1	1	80		66				65	203	pr7		26	40											blac	belt	boot	glov	helm	amul	misl		phlm	pzhm						
+NoDesc	1	1	1	1	21					126	203	pr7		1	3											blac	ring														
+NoDesc	1	1	1	14	42	12				222	203	pr7		4	6											blac	ring														
+NoDesc	1	1	1	40	86	34				164	203	pr7		7	11											blac	ring														
+NoDesc	1	1	1	57		48				199	203	pr7		12	15											blac	ring														
+NoDesc	1	1	1	37	81	31				132	203	pr215		10	10											blac	mele	tors	phlm	ashd	xbow	pzhm		staf	wand	orb					
+NoDesc	1	1	1	59		49				186	203	pr215		20	20											blac	mele	tors	phlm	ashd	xbow	pzhm		staf	wand	orb					
+NoDesc	1	1	1	1	21					168	203	pr8		1	5											lpur	bow	tors	scep	knif	azhm	ishd	nscy	xbow							
+NoDesc	1	1	1	8	31	6				232	203	pr8		6	10											lpur	bow	tors	scep	knif	azhm	ishd	nscy	xbow							
+NoDesc	1	1	1	14	42	12				40	203	pr8		11	15											lpur	bow	tors	scep	knif	azhm	ishd	nscy	xbow							
+NoDesc	1	1	1	20	53	17				104	203	pr8		16	20											lpur	bow	tors	scep	knif	azhm	ishd	nscy	xbow							
+NoDesc	1	1	1	27	63	22				168	203	pr8		21	25											lpur	bow	tors	scep	knif	azhm	ishd	nscy	xbow							
+NoDesc	1	1	1	33	74	28				232	203	pr8		26	30											lpur	bow	tors	scep	knif	azhm	ishd	nscy	xbow							
+NoDesc	1	1	1	40	85	33				40	203	pr8		31	35											lpur	bow	tors	scep	knif	azhm	ishd	nscy	xbow							
+NoDesc	1	1	1	46	90	38				27	203	pr8		36	40											lpur	bow	tors	scep	knif	azhm	ishd	nscy	xbow							
+NoDesc	1	1	1	52	90	44				83	203	pr8		41	45											lpur	bow	tors	scep	knif	azhm	ishd	nscy	xbow							
+NoDesc	1	1	1	59	90	49				139	203	pr8		46	50											lpur	bow	tors	scep	knif	azhm	ishd	nscy	xbow							
+NoDesc	1	1	1	80		66				65	203	pr8		51	75											lpur	bow	tors	scep	knif	azhm	ishd	nscy	xbow							
+NoDesc	1	1	1	1	21					168	203	pr8		1	3											lpur	belt	boot	glov	helm	amul	weap	misl	bow	pelt	nscy					
+NoDesc	1	1	1	13	41	11				32	203	pr8		4	6											lpur	belt	boot	glov	helm	amul	weap	misl	bow	pelt	nscy					
+NoDesc	1	1	1	25	61	21				152	203	pr8		7	9											lpur	belt	boot	glov	helm	amul	weap	misl	bow	pelt	nscy					
+NoDesc	1	1	1	37	81	31				16	203	pr8		10	12											lpur	belt	boot	glov	helm	amul	weap	misl	bow	pelt	nscy					
+NoDesc	1	1	1	49	90	41				55	203	pr8		13	15											lpur	belt	boot	glov	helm	amul	weap	misl	bow	pelt	nscy					
+NoDesc	1	1	1	61	90	51				160	203	pr8		16	18											lpur	belt	boot	glov	helm	amul	weap	misl	bow	pelt	nscy					
+NoDesc	1	1	1	73		61				9	203	pr8		19	25											lpur	belt	boot	glov	helm	amul	weap	misl	bow	pelt	nscy					
+NoDesc	1	1	1	80		66				65	203	pr8		26	40											lpur	belt	boot	glov	helm	amul	weap	misl	bow	pelt	nscy					
+NoDesc	1	1	1	1	21					126	203	pr8		1	3											lpur	ring														
+NoDesc	1	1	1	14	42	12				222	203	pr8		4	6											lpur	ring														
+NoDesc	1	1	1	40	86	34				164	203	pr8		7	11											lpur	ring														
+NoDesc	1	1	1	57		48				199	203	pr8		12	15											lpur	ring														
+NoDesc	1	1	1	37	81	31				132	203	pr216		10	10											lpur	bow	tors	scep	staf	azhm	ishd	nscy	xbow							
+NoDesc	1	1	1	59		49				186	203	pr216		20	20											lpur	bow	tors	scep	staf	azhm	ishd	nscy	xbow							
+NoDesc	1	1	1	1	21					168	203	pr9		1	5											cred	tors	pole	scep	ashd	pclb	pmac	pham								
+NoDesc	1	1	1	8	31	6				232	203	pr9		6	10											cred	tors	pole	scep	ashd	pclb	pmac	pham								
+NoDesc	1	1	1	14	42	12				40	203	pr9		11	15											cred	tors	pole	scep	ashd	pclb	pmac	pham								
+NoDesc	1	1	1	20	53	17				104	203	pr9		16	20											cred	tors	pole	scep	ashd	pclb	pmac	pham								
+NoDesc	1	1	1	27	63	22				168	203	pr9		21	25											cred	tors	pole	scep	ashd	pclb	pmac	pham								
+NoDesc	1	1	1	33	74	28				232	203	pr9		26	30											cred	tors	pole	scep	ashd	pclb	pmac	pham								
+NoDesc	1	1	1	40	85	33				40	203	pr9		31	35											cred	tors	pole	scep	ashd	pclb	pmac	pham								
+NoDesc	1	1	1	46	90	38				27	203	pr9		36	40											cred	tors	pole	scep	ashd	pclb	pmac	pham								
+NoDesc	1	1	1	52	90	44				83	203	pr9		41	45											cred	tors	pole	scep	ashd	pclb	pmac	pham								
+NoDesc	1	1	1	59	90	49				139	203	pr9		46	50											cred	tors	pole	scep	ashd	pclb	pmac	pham								
+NoDesc	1	1	1	80		66				65	203	pr9		51	75											cred	tors	pole	scep	ashd	pclb	pmac	pham								
+NoDesc	1	1	1	1	21					168	203	pr9		1	5											cred	pspe	azsd	nscy												
+NoDesc	1	1	1	8	31	6				232	203	pr9		6	10											cred	pspe	azsd	nscy												
+NoDesc	1	1	1	14	42	12				40	203	pr9		11	15											cred	pspe	azsd	nscy												
+NoDesc	1	1	1	20	53	17				104	203	pr9		16	20											cred	pspe	azsd	nscy												
+NoDesc	1	1	1	27	63	22				168	203	pr9		21	25											cred	pspe	azsd	nscy												
+NoDesc	1	1	1	33	74	28				232	203	pr9		26	30											cred	pspe	azsd	nscy												
+NoDesc	1	1	1	40	85	33				40	203	pr9		31	35											cred	pspe	azsd	nscy												
+NoDesc	1	1	1	46	90	38				27	203	pr9		36	40											cred	pspe	azsd	nscy												
+NoDesc	1	1	1	52	90	44				83	203	pr9		41	45											cred	pspe	azsd	nscy												
+NoDesc	1	1	1	59	90	49				139	203	pr9		46	50											cred	pspe	azsd	nscy												
+NoDesc	1	1	1	80		66				65	203	pr9		51	75											cred	pspe	azsd	nscy												
+NoDesc	1	1	1	1	21					168	203	pr9		1	3											cred	belt	boot	glov	helm	amul	shld	pspe	ashd							
+NoDesc	1	1	1	13	41	11				32	203	pr9		4	6											cred	belt	boot	glov	helm	amul	shld	pspe	ashd							
+NoDesc	1	1	1	25	61	21				152	203	pr9		7	9											cred	belt	boot	glov	helm	amul	shld	pspe	ashd							
+NoDesc	1	1	1	37	81	31				16	203	pr9		10	12											cred	belt	boot	glov	helm	amul	shld	pspe	ashd							
+NoDesc	1	1	1	49	90	41				55	203	pr9		13	15											cred	belt	boot	glov	helm	amul	shld	pspe	ashd							
+NoDesc	1	1	1	61	90	51				160	203	pr9		16	18											cred	belt	boot	glov	helm	amul	shld	pspe	ashd							
+NoDesc	1	1	1	73		61				9	203	pr9		19	25											cred	belt	boot	glov	helm	amul	shld	pspe	ashd							
+NoDesc	1	1	1	80		66				65	203	pr9		26	40											cred	belt	boot	glov	helm	amul	shld	pspe	ashd							
+NoDesc	1	1	1	1	21					126	203	pr9		1	3											cred	ring														
+NoDesc	1	1	1	14	42	12				222	203	pr9		4	6											cred	ring														
+NoDesc	1	1	1	40	86	34				164	203	pr9		7	11											cred	ring														
+NoDesc	1	1	1	57		48				199	203	pr9		12	15											cred	ring														
+NoDesc	1	1	1	37	81	31				132	203	pr218		10	10											cred	tors	pole	scep	ashd	pclb	pmac	pham								
+NoDesc	1	1	1	37	81	31				132	203	pr218		10	10											cred	pspe	azsd	nscy												
+NoDesc	1	1	1	59		49				186	203	pr218		20	20											cred	tors	pole	scep	ashd	pclb	pmac	pham								
+NoDesc	1	1	1	59		49				186	203	pr218		20	20											cred	pspe	azsd	nscy												
+NoDesc	1	1	1	1	21					168	203	pr10		1	5											cblu	staf	scep	crsd	pelt	head	circ	stor								
+NoDesc	1	1	1	8	31	6				232	203	pr10		6	10											cblu	staf	scep	crsd	pelt	head	circ	stor								
+NoDesc	1	1	1	14	42	12				40	203	pr10		11	15											cblu	staf	scep	crsd	pelt	head	circ	stor								
+NoDesc	1	1	1	20	53	17				104	203	pr10		16	20											cblu	staf	scep	crsd	pelt	head	circ	stor								
+NoDesc	1	1	1	27	63	22				168	203	pr10		21	25											cblu	staf	scep	crsd	pelt	head	circ	stor								
+NoDesc	1	1	1	33	74	28				232	203	pr10		26	30											cblu	staf	scep	crsd	pelt	head	circ	stor								
+NoDesc	1	1	1	40	85	33				40	203	pr10		31	35											cblu	staf	scep	crsd	pelt	head	circ	stor								
+NoDesc	1	1	1	46	90	38				27	203	pr10		36	40											cblu	staf	scep	crsd	pelt	head	circ	stor								
+NoDesc	1	1	1	52	90	44				83	203	pr10		41	45											cblu	staf	scep	crsd	pelt	head	circ	stor								
+NoDesc	1	1	1	59	90	49				139	203	pr10		46	50											cblu	staf	scep	crsd	pelt	head	circ	stor								
+NoDesc	1	1	1	80		66				65	203	pr10		51	75											cblu	staf	scep	crsd	pelt	head	circ	stor								
+NoDesc	1	1	1	1	21					168	203	pr10		1	3											cblu	belt	boot	glov	helm	amul	h2h	tors	circ	stor						
+NoDesc	1	1	1	13	41	11				32	203	pr10		4	6											cblu	belt	boot	glov	helm	amul	h2h	tors	circ	stor						
+NoDesc	1	1	1	25	61	21				152	203	pr10		7	9											cblu	belt	boot	glov	helm	amul	h2h	tors	circ	stor						
+NoDesc	1	1	1	37	81	31				16	203	pr10		10	12											cblu	belt	boot	glov	helm	amul	h2h	tors	circ	stor						
+NoDesc	1	1	1	49	90	41				55	203	pr10		13	15											cblu	belt	boot	glov	helm	amul	h2h	tors	circ	stor						
+NoDesc	1	1	1	61	90	51				160	203	pr10		16	18											cblu	belt	boot	glov	helm	amul	h2h	tors	circ	stor						
+NoDesc	1	1	1	73		61				9	203	pr10		19	25											cblu	belt	boot	glov	helm	amul	h2h	tors	circ	stor						
+NoDesc	1	1	1	80		66				65	203	pr10		26	40											cblu	belt	boot	glov	helm	amul	h2h	tors	circ	stor						
+NoDesc	1	1	1	1	21					168	203	pr10		1	3											cblu	ashd	azsd	ishd	wand											
+NoDesc	1	1	1	13	41	11				32	203	pr10		4	6											cblu	ashd	azsd	ishd	wand											
+NoDesc	1	1	1	25	61	21				152	203	pr10		7	9											cblu	ashd	azsd	ishd	wand											
+NoDesc	1	1	1	37	81	31				16	203	pr10		10	12											cblu	ashd	azsd	ishd	wand											
+NoDesc	1	1	1	49	90	41				55	203	pr10		13	15											cblu	ashd	azsd	ishd	wand											
+NoDesc	1	1	1	61	90	51				160	203	pr10		16	18											cblu	ashd	azsd	ishd	wand											
+NoDesc	1	1	1	73		61				9	203	pr10		19	25											cblu	ashd	azsd	ishd	wand											
+NoDesc	1	1	1	80		66				65	203	pr10		26	40											cblu	ashd	azsd	ishd	wand											
+NoDesc	1	1	1	1	21					126	203	pr10		1	3											cblu	ring	tors	stor												
+NoDesc	1	1	1	14	42	12				222	203	pr10		4	6											cblu	ring	tors	stor												
+NoDesc	1	1	1	40	86	34				164	203	pr10		7	11											cblu	ring	tors	stor												
+NoDesc	1	1	1	57		48				199	203	pr10		12	15											cblu	ring	tors	stor												
+NoDesc	1		1	37	81	31				132	203	pr217		10	10											cblu	staf	scep	ashd	pelt	head	circ	stor								
+NoDesc	1		1	59		49				186	203	pr217		20	20											cblu	staf	scep	ashd	pelt	head	circ	stor								
+NoDesc	1	1	1	1	21					168	204	pr96		11	25												weap														
+NoDesc	1	1	1	9	34	8				248	204	pr96		26	40												weap														
+NoDesc	1	1	1	17	47	14				72	204	pr96		41	55												weap														
+NoDesc	1	1	1	25	61	21				152	204	pr96		56	70												weap														
+NoDesc	1	1	1	33	74	28				171	204	pr96		71	85												weap														
+NoDesc	1	1	1	41	87	34				241	204	pr96		86	100												weap														
+NoDesc	1	1	1	49	90	41				230	204	pr96		101	115												weap														
+NoDesc	1	1	1	57	90	48				34	204	pr96		116	130												weap														
+NoDesc	1	1	1	65	90	54				249	204	pr96		131	145												weap														
+NoDesc	1	1	1	73		61				43	204	pr96		146	180												weap														
+NoDesc	1	1	1	80		66				83	204	pr96		181	250												weap														
+NoDesc	1	1	1	5	27	4				208	204	pr96		6	10												glov	ring	misl												
+NoDesc	1	1	1	13	41	11				252	204	pr96		11	15												glov	ring	misl												
+NoDesc	1	1	1	21	54	18				20	204	pr96		16	20												glov	ring	misl												
+NoDesc	1	1	1	29	67	24				24	204	pr96		21	30												glov	ring	misl												
+NoDesc	1	1	1	37	81	31				8	204	pr96		31	50												glov	ring	misl												
+NoDesc	1		1	1	21					210	205	pr16		1	3												shld	scep													
+NoDesc	1		1	8	33	7				44	205	pr16		4	6												shld	scep													
+NoDesc	1		1	16	45	13				134	205	pr16		7	9												shld	scep													
+NoDesc	1		1	23	57	19				176	205	pr16		10	12												shld	scep													
+NoDesc	1		1	30	69	25				1	205	pr16		13	15												shld	scep													
+NoDesc	1		1	37	81	31				16	205	pr16		16	18												shld	scep													
+NoDesc	1		1	44	90	37				13	205	pr16		19	21												shld	scep													
+NoDesc	1		1	52	90	43				248	205	pr16		22	24												shld	scep													
+NoDesc	1		1	59	90	49				209	205	pr16		25	27												shld	scep													
+NoDesc	1		1	66	90	55				50	205	pr16		28	30												shld	scep													
+NoDesc	1		1	80		66				101	205	pr16		31	40												shld	scep													
+NoDesc	1		1	80		66				101	205	pr16		41	50												shld	scep													
+NoDesc	1		1	15	43	12				152	205	pr16		1	2												amul	glov	pzhm												
+NoDesc	1		1	24	59	20				200	205	pr16		3	4												amul	glov	pzhm												
+NoDesc	1		1	34	75	28				248	205	pr16		5	6												amul	glov	pzhm												
+NoDesc	1		1	44	90	36				40	205	pr16		7	8												amul	glov	pzhm												
+NoDesc	1		1	53		44				88	205	pr16		9	10												amul	glov	pzhm												
+NoDesc	1	1	1	8	33	7				132	206	pr28		1	20												weap							wand	orb	staf					
+NoDesc	1	1	1	16	45	13				146	206	pr28		21	40												weap							wand	orb	staf					
+NoDesc	1	1	1	23	57	19				16	206	pr28		41	60												weap							wand	orb	staf					
+NoDesc	1	1	1	30	69	25				88	206	pr28		61	80												weap							wand	orb	staf					
+NoDesc	1	1	1	37	81	31				106	206	pr28		81	100												weap							wand	orb	staf					
+NoDesc	1	1	1	44	90	37				70	206	pr28		101	120												weap							wand	orb	staf					
+NoDesc	1	1	1	52	90	43				236	206	pr28		121	140												weap							wand	orb	staf					
+NoDesc	1	1	1	59	90	49				92	206	pr28		141	160												weap							wand	orb	staf					
+NoDesc	1	1	1	66	90	55				150	206	pr28		161	180												weap							wand	orb	staf					
+NoDesc	1	1	1	73	90	61				154	206	pr28		181	250												weap							wand	orb	staf					
+NoDesc	1	1	1	80		66				202	206	pr28		251	300												weap							wand	orb	staf					
+NoDesc	1	1	1	80		66				168	206	pr28		301	350												weap							wand	orb	staf					
+NoDesc	1	1	1	16	45	13				234	206	pr28		1	10												glov	amul	misl	ishd	azhm	azsd	phlm								
+NoDesc	1	1	1	28	65	23				14	206	pr28		11	20												glov	amul	misl	ishd	azhm	azsd	phlm								
+NoDesc	1	1	1	40	85	33				20	206	pr28		21	30												glov	amul	misl	ishd	azhm	azsd	phlm								
+NoDesc	1	1	1	52	90	43				252	206	pr28		31	40												glov	amul	misl	ishd	azhm	azsd	phlm								
+NoDesc	1	1	1	64	90	53				198	206	pr28		41	50												glov	amul	misl	ishd	azhm	azsd	phlm								
+NoDesc	1	1	1	76		63				114	206	pr28		51	75												glov	amul	misl	ishd	azhm	azsd	phlm								
+NoDesc	1	1	1	3	23	2				138	207	pr17		1	2		pr18		3	10	pr19		6	15		lblu	weap														
+NoDesc	1	1	1	14	42	12				222	207	pr17		1	5		pr18		6	20	pr19		16	25		lblu	weap														
+NoDesc	1	1	1	25	61	21				255	207	pr17		1	10		pr18		11	40	pr19		26	35		lblu	weap														
+NoDesc	1	1	1	36	79	30				69	207	pr17		1	20		pr18		21	80	pr19		36	45		lblu	weap														
+NoDesc	1	1	1	48	90	40				139	207	pr17		1	40		pr18		41	160	pr19		46	55		lblu	weap														
+NoDesc	1	1	1	59	90	49				116	207	pr17		1	80		pr18		81	320	pr19		56	65		lblu	weap														
+NoDesc	1	1	1	70	90	58				172	207	pr17		1	160		pr18		161	640	pr19		66	75		lblu	weap														
+NoDesc	1	1	1	80		66				220	207	pr17		161	320		pr18		641	960	pr19		66	75		lblu	weap														
+NoDesc	1	1	1	3	23	2				138	207	pr20		1	2		pr21		3	10						lred	weap														
+NoDesc	1	1	1	14	42	12				222	207	pr20		1	5		pr21		6	20						lred	weap														
+NoDesc	1	1	1	25	61	21				255	207	pr20		1	10		pr21		11	40						lred	weap														
+NoDesc	1	1	1	36	79	30				69	207	pr20		1	20		pr21		21	80						lred	weap														
+NoDesc	1	1	1	48	90	40				139	207	pr20		1	40		pr21		41	160						lred	weap														
+NoDesc	1	1	1	59	90	49				116	207	pr20		1	80		pr21		81	320						lred	weap														
+NoDesc	1	1	1	70	90	58				172	207	pr20		1	160		pr21		161	640						lred	weap														
+NoDesc	1	1	1	80		66				220	207	pr20		161	320		pr21		641	960						lred	weap														
+NoDesc	1	1	1	3	23	2				138	207	pr22		1	1		pr23		3	10						lyel	weap														
+NoDesc	1	1	1	14	42	12				222	207	pr22		1	1		pr23		6	25						lyel	weap														
+NoDesc	1	1	1	25	61	21				255	207	pr22		1	1		pr23		11	50						lyel	weap														
+NoDesc	1	1	1	36	79	30				69	207	pr22		1	1		pr23		21	100						lyel	weap														
+NoDesc	1	1	1	48	90	40				139	207	pr22		1	1		pr23		41	200						lyel	weap														
+NoDesc	1	1	1	59	90	49				116	207	pr22		1	1		pr23		81	400						lyel	weap														
+NoDesc	1	1	1	70	90	58				172	207	pr22		1	1		pr23		161	800						lyel	weap														
+NoDesc	1	1	1	80		66				220	207	pr22		1	1		pr23		801	1000						lyel	weap														
+NoDesc	1	1	1	3	23	2				138	207	pr138	50	8	8											lgrn	weap														
+NoDesc	1	1	1	14	42	12				222	207	pr138	75	24	24											lgrn	weap														
+NoDesc	1	1	1	25	61	21				255	207	pr138	100	48	48											lgrn	weap														
+NoDesc	1	1	1	36	79	30				69	207	pr138	125	96	96											lgrn	weap														
+NoDesc	1	1	1	48	90	40				139	207	pr138	150	192	192											lgrn	weap														
+NoDesc	1	1	1	59	90	49				116	207	pr138	175	384	384											lgrn	weap														
+NoDesc	1	1	1	70	90	58				172	207	pr138	200	768	768											lgrn	weap														
+NoDesc	1	1	1	80		66				220	207	pr138	225	992	992											lgrn	weap														
+NoDesc	1	1	1	1	21					168	208	pr58		36	70											dgld	tors														
+NoDesc	1	1	1	11	37	9				8	208	pr58		71	105											dgld	tors														
+NoDesc	1	1	1	20	53	17				104	208	pr58		106	140											dgld	tors														
+NoDesc	1	1	1	30	69	25				200	208	pr58		141	175											dgld	tors														
+NoDesc	1	1	1	40	85	33				40	208	pr58		176	210											dgld	tors														
+NoDesc	1	1	1	49	90	41				136	208	pr58		211	245											dgld	tors														
+NoDesc	1	1	1	59	90	49				232	208	pr58		246	280											dgld	tors														
+NoDesc	1	1	1	68		57				72	208	pr58		281	400											dgld	tors														
+NoDesc	1	1	1	1	21					147	208	pr58		26	50											dgld	ring	glov	belt	weap	misl										
+NoDesc	1	1	1	11	37	9				231	208	pr58		51	75											dgld	ring	glov	belt	weap	misl										
+NoDesc	1	1	1	20	53	17				59	208	pr58		76	100											dgld	ring	glov	belt	weap	misl										
+NoDesc	1	1	1	30	69	25				143	208	pr58		101	125											dgld	ring	glov	belt	weap	misl										
+NoDesc	1	1	1	40	85	33				227	208	pr58		126	150											dgld	ring	glov	belt	weap	misl										
+NoDesc	1	1	1	49	90	41				55	208	pr58		151	175											dgld	ring	glov	belt	weap	misl										
+NoDesc	1	1	1	59	90	49				139	208	pr58		176	200											dgld	ring	glov	belt	weap	misl										
+NoDesc	1	1	1	68		57				223	208	pr58		201	250											dgld	ring	glov	belt	weap	misl										
+NoDesc	1	1	1	9	34	8				186	208	pr58		16	30											dgld	boot														
+NoDesc	1	1	1	19	50	16				2	208	pr58		31	45											dgld	boot														
+NoDesc	1	1	1	28	66	24				74	208	pr58		46	60											dgld	boot														
+NoDesc	1	1	1	38	82	32				146	208	pr58		61	75											dgld	boot														
+NoDesc	1	1	1	48		40				218	208	pr58		76	100											dgld	boot														
+NoDesc	1	1	1	1	21					126	209	pr192		1	8												weap	pelt	ishd	azsd	basd										
+NoDesc	1	1	1	9	34	8				186	209	pr192		9	16												weap	pelt	ishd	azsd	basd										
+NoDesc	1	1	1	17	47	14				246	209	pr192		17	24												weap	pelt	ishd	azsd	basd										
+NoDesc	1	1	1	25	61	21				50	209	pr192		25	32												weap	pelt	ishd	azsd	basd										
+NoDesc	1	1	1	33	74	28				110	209	pr192		33	40												weap	pelt	ishd	azsd	basd										
+NoDesc	1	1	1	41	87	34				170	209	pr192		41	48												weap	pelt	ishd	azsd	basd										
+NoDesc	1	1	1	49	90	41				230	209	pr192		49	56												weap	pelt	ishd	azsd	basd										
+NoDesc	1	1	1	57	90	48				34	209	pr192		57	64												weap	pelt	ishd	azsd	basd										
+NoDesc	1	1	1	65	90	54				94	209	pr192		65	72												weap	pelt	ishd	azsd	basd										
+NoDesc	1	1	1	73		61				154	209	pr192		73	80												weap	pelt	ishd	azsd	basd										
+NoDesc	1	1	1	80		66				202	209	pr192		81	100												weap	pelt	ishd	azsd	basd										
+NoDesc	1	1	1	9	34	8				155	209	pr192		1	4												amul	belt	phlm												
+NoDesc	1	1	1	21	54	18				230	209	pr192		5	8												amul	belt	phlm												
+NoDesc	1	1	1	33	74	28				49	209	pr192		9	12												amul	belt	phlm												
+NoDesc	1	1	1	45	90	38				124	209	pr192		13	16												amul	belt	phlm												
+NoDesc	1	1	1	57		48				199	209	pr192		17	20												amul	belt	phlm												
+NoDesc	1	1	1	15	43	12				152	209	pr192		1	3												ring														
+NoDesc	1	1	1	28	65	23				216	209	pr192		4	6												ring														
+NoDesc	1	1	1	40	86	34				24	209	pr192		7	9												ring														
+NoDesc	1	1	1	53		44				88	209	pr192		10	12												ring														
+NoDesc	1	1	1	66		55				152	209	pr192		13	15												ring														
+NoDesc	1	1	1	1	21					126	210	pr110		1	8												staf	orb													
+NoDesc	1	1	1	9	34	8				186	210	pr110		9	16												staf	orb													
+NoDesc	1	1	1	17	47	14				246	210	pr110		17	24												staf	orb													
+NoDesc	1	1	1	25	61	21				50	210	pr110		25	32												staf	orb													
+NoDesc	1	1	1	33	74	28				110	210	pr110		33	40												staf	orb													
+NoDesc	1	1	1	41	87	34				170	210	pr110		41	48												staf	orb													
+NoDesc	1	1	1	49	90	41				230	210	pr110		49	56												staf	orb													
+NoDesc	1	1	1	57	90	48				34	210	pr110		57	64												staf	orb													
+NoDesc	1	1	1	65	90	54				94	210	pr110		65	72												staf	orb													
+NoDesc	1	1	1	73		61				154	210	pr110		73	80												staf	orb													
+NoDesc	1	1	1	80		66				202	210	pr110		81	100												staf	orb													
+NoDesc	1	1	1	9	34	8				155	210	pr110		1	4												amul	helm	stor												
+NoDesc	1	1	1	21	54	18				230	210	pr110		5	8												amul	helm	stor												
+NoDesc	1	1	1	33	74	28				49	210	pr110		9	12												amul	helm	stor												
+NoDesc	1	1	1	45	90	38				124	210	pr110		13	16												amul	helm	stor												
+NoDesc	1	1	1	57		48				199	210	pr110		17	20												amul	helm	stor												
+NoDesc	1	1	1	15	43	12				152	210	pr110		1	3												ring														
+NoDesc	1	1	1	28	65	23				216	210	pr110		4	6												ring														
+NoDesc	1	1	1	40	86	34				24	210	pr110		7	9												ring														
+NoDesc	1	1	1	53		44				88	210	pr110		10	12												ring														
+NoDesc	1	1	1	66		55				152	210	pr110		13	15												ring														
+NoDesc	1	1	1	1	21					84	211	pr3		1	5												tors	ashd	phlm												
+NoDesc	1	1	1	8	33	7				120	211	pr3		6	10												tors	ashd	phlm												
+NoDesc	1	1	1	16	45	13				156	211	pr3		11	15												tors	ashd	phlm												
+NoDesc	1	1	1	23	57	19				192	211	pr3		16	20												tors	ashd	phlm												
+NoDesc	1	1	1	30	69	25				228	211	pr3		21	25												tors	ashd	phlm												
+NoDesc	1	1	1	37	81	31				8	211	pr3		26	30												tors	ashd	phlm												
+NoDesc	1	1	1	44	90	37				44	211	pr3		31	35												tors	ashd	phlm												
+NoDesc	1	1	1	52	90	43				80	211	pr3		36	40												tors	ashd	phlm												
+NoDesc	1	1	1	59		49				116	211	pr3		41	45												tors	ashd	phlm												
+NoDesc	1	1	1	66		55				152	211	pr3		46	50												tors	ashd	phlm												
+NoDesc	1	1	1	7	30	6				112	211	pr3		1	5												shld	amul	helm					phlm	ashd						
+NoDesc	1	1	1	19	50	16				172	211	pr3		6	10												shld	amul	helm					phlm	ashd						
+NoDesc	1	1	1	31	70	26				232	211	pr3		11	15												shld	amul	helm					phlm	ashd						
+NoDesc	1	1	1	43	90	36				36	211	pr3		16	20												shld	amul	helm					phlm	ashd						
+NoDesc	1	1	1	55		46				96	211	pr3		21	25												shld	amul	helm					phlm	ashd						
+NoDesc	1	1	1	67		56				156	211	pr3		26	30												shld	amul	helm					phlm	ashd						
+NoDesc	1	1	1	1	21					105	212	pr35		11	20											dblu	tors	staf	bow	scep	nscy	aspe									
+NoDesc	1	1	1	8	33	7				150	212	pr35		21	30											dblu	tors	staf	bow	scep	nscy	aspe									
+NoDesc	1	1	1	16	45	13				195	212	pr35		31	40											dblu	tors	staf	bow	scep	nscy	aspe									
+NoDesc	1	1	1	23	57	19				240	212	pr35		41	50											dblu	tors	staf	bow	scep	nscy	aspe									
+NoDesc	1	1	1	30	69	25				29	212	pr35		51	60											dblu	tors	staf	bow	scep	nscy	aspe									
+NoDesc	1	1	1	37	81	31				74	212	pr35		61	70											dblu	tors	staf	bow	scep	nscy	aspe									
+NoDesc	1	1	1	44	90	37				119	212	pr35		71	80											dblu	tors	staf	bow	scep	nscy	aspe									
+NoDesc	1	1	1	52	90	43				164	212	pr35		81	90											dblu	tors	staf	bow	scep	nscy	aspe									
+NoDesc	1	1	1	59		49				209	212	pr35		91	100											dblu	tors	staf	bow	scep	nscy	aspe									
+NoDesc	1	1	1	66		55				254	212	pr35		101	125											dblu	tors	staf	bow	scep	nscy	aspe									
+NoDesc	1	1	1	3	23	2				115	212	pr35		6	15											dblu	belt	boot	glov	helm	amul	shld	weap	tors	bow	scep	nscy	aspe			
+NoDesc	1	1	1	14	42	12				185	212	pr35		16	25											dblu	belt	boot	glov	helm	amul	shld	weap	tors	bow	scep	nscy	aspe			
+NoDesc	1	1	1	25	61	21				255	212	pr35		26	35											dblu	belt	boot	glov	helm	amul	shld	weap	tors	bow	scep	nscy	aspe			
+NoDesc	1	1	1	36	79	30				69	212	pr35		36	45											dblu	belt	boot	glov	helm	amul	shld	weap	tors	bow	scep	nscy	aspe			
+NoDesc	1	1	1	48	90	40				139	212	pr35		46	55											dblu	belt	boot	glov	helm	amul	shld	weap	tors	bow	scep	nscy	aspe			
+NoDesc	1	1	1	59	90	49				209	212	pr35		56	65											dblu	belt	boot	glov	helm	amul	shld	weap	tors	bow	scep	nscy	aspe			
+NoDesc	1	1	1	70		58				23	212	pr35		66	75											dblu	belt	boot	glov	helm	amul	shld	weap	tors	bow	scep	nscy	aspe			
+NoDesc	1	1	1	1	21					105	212	pr35		6	15											dblu	ring	misl													
+NoDesc	1	1	1	31	70	26				34	212	pr35		16	25											dblu	ring	misl													
+NoDesc	1	1	1	52		43				164	212	pr35		26	35											dblu	ring	misl													
+NoDesc	1	1	1	72		60				38	212	pr35		36	50											dblu	ring	misl													
+NoDesc	1	1	1	1	21					105	213	pr31		11	20											dred	tors	staf	bow	scep	nscy	aspe									
+NoDesc	1	1	1	8	33	7				150	213	pr31		21	30											dred	tors	staf	bow	scep	nscy	aspe									
+NoDesc	1	1	1	16	45	13				195	213	pr31		31	40											dred	tors	staf	bow	scep	nscy	aspe									
+NoDesc	1	1	1	23	57	19				240	213	pr31		41	50											dred	tors	staf	bow	scep	nscy	aspe									
+NoDesc	1	1	1	30	69	25				29	213	pr31		51	60											dred	tors	staf	bow	scep	nscy	aspe									
+NoDesc	1	1	1	37	81	31				74	213	pr31		61	70											dred	tors	staf	bow	scep	nscy	aspe									
+NoDesc	1	1	1	44	90	37				119	213	pr31		71	80											dred	tors	staf	bow	scep	nscy	aspe									
+NoDesc	1	1	1	52	90	43				164	213	pr31		81	90											dred	tors	staf	bow	scep	nscy	aspe									
+NoDesc	1	1	1	59		49				209	213	pr31		91	100											dred	tors	staf	bow	scep	nscy	aspe									
+NoDesc	1	1	1	66		55				254	213	pr31		101	125											dred	tors	staf	bow	scep	nscy	aspe									
+NoDesc	1	1	1	3	23	2				115	213	pr31		6	15											dred	belt	boot	glov	helm	amul	shld	weap	tors	bow	scep	nscy	aspe			
+NoDesc	1	1	1	14	42	12				185	213	pr31		16	25											dred	belt	boot	glov	helm	amul	shld	weap	tors	bow	scep	nscy	aspe			
+NoDesc	1	1	1	25	61	21				255	213	pr31		26	35											dred	belt	boot	glov	helm	amul	shld	weap	tors	bow	scep	nscy	aspe			
+NoDesc	1	1	1	36	79	30				69	213	pr31		36	45											dred	belt	boot	glov	helm	amul	shld	weap	tors	bow	scep	nscy	aspe			
+NoDesc	1	1	1	48	90	40				139	213	pr31		46	55											dred	belt	boot	glov	helm	amul	shld	weap	tors	bow	scep	nscy	aspe			
+NoDesc	1	1	1	59	90	49				209	213	pr31		56	65											dred	belt	boot	glov	helm	amul	shld	weap	tors	bow	scep	nscy	aspe			
+NoDesc	1	1	1	70		58				23	213	pr31		66	75											dred	belt	boot	glov	helm	amul	shld	weap	tors	bow	scep	nscy	aspe			
+NoDesc	1	1	1	1	21					105	213	pr31		6	15											dred	ring	misl													
+NoDesc	1	1	1	31	70	26				34	213	pr31		16	25											dred	ring	misl													
+NoDesc	1	1	1	52		43				164	213	pr31		26	35											dred	ring	misl													
+NoDesc	1	1	1	72		60				38	213	pr31		36	50											dred	ring	misl													
+NoDesc	1	1	1	1	21					105	214	pr33		11	20											dyel	tors	staf	bow	scep	nscy	aspe									
+NoDesc	1	1	1	8	33	7				150	214	pr33		21	30											dyel	tors	staf	bow	scep	nscy	aspe									
+NoDesc	1	1	1	16	45	13				195	214	pr33		31	40											dyel	tors	staf	bow	scep	nscy	aspe									
+NoDesc	1	1	1	23	57	19				240	214	pr33		41	50											dyel	tors	staf	bow	scep	nscy	aspe									
+NoDesc	1	1	1	30	69	25				29	214	pr33		51	60											dyel	tors	staf	bow	scep	nscy	aspe									
+NoDesc	1	1	1	37	81	31				74	214	pr33		61	70											dyel	tors	staf	bow	scep	nscy	aspe									
+NoDesc	1	1	1	44	90	37				119	214	pr33		71	80											dyel	tors	staf	bow	scep	nscy	aspe									
+NoDesc	1	1	1	52	90	43				164	214	pr33		81	90											dyel	tors	staf	bow	scep	nscy	aspe									
+NoDesc	1	1	1	59		49				209	214	pr33		91	100											dyel	tors	staf	bow	scep	nscy	aspe									
+NoDesc	1	1	1	66		55				254	214	pr33		101	125											dyel	tors	staf	bow	scep	nscy	aspe									
+NoDesc	1	1	1	3	23	2				115	214	pr33		6	15											dyel	belt	boot	glov	helm	amul	shld	weap	tors	bow	scep	nscy	aspe			
+NoDesc	1	1	1	14	42	12				185	214	pr33		16	25											dyel	belt	boot	glov	helm	amul	shld	weap	tors	bow	scep	nscy	aspe			
+NoDesc	1	1	1	25	61	21				255	214	pr33		26	35											dyel	belt	boot	glov	helm	amul	shld	weap	tors	bow	scep	nscy	aspe			
+NoDesc	1	1	1	36	79	30				69	214	pr33		36	45											dyel	belt	boot	glov	helm	amul	shld	weap	tors	bow	scep	nscy	aspe			
+NoDesc	1	1	1	48	90	40				139	214	pr33		46	55											dyel	belt	boot	glov	helm	amul	shld	weap	tors	bow	scep	nscy	aspe			
+NoDesc	1	1	1	59	90	49				209	214	pr33		56	65											dyel	belt	boot	glov	helm	amul	shld	weap	tors	bow	scep	nscy	aspe			
+NoDesc	1	1	1	70		58				23	214	pr33		66	75											dyel	belt	boot	glov	helm	amul	shld	weap	tors	bow	scep	nscy	aspe			
+NoDesc	1	1	1	1	21					105	214	pr33		6	15											dyel	ring	misl													
+NoDesc	1	1	1	31	70	26				34	214	pr33		16	25											dyel	ring	misl													
+NoDesc	1	1	1	52		43				164	214	pr33		26	35											dyel	ring	misl													
+NoDesc	1	1	1	72		60				38	214	pr33		36	50											dyel	ring	misl													
+NoDesc	1	1	1	1	21					105	215	pr39		11	20											dgrn	tors	staf	bow	scep	xbow	aspe	nscy								
+NoDesc	1	1	1	8	33	7				150	215	pr39		21	30											dgrn	tors	staf	bow	scep	xbow	aspe	nscy								
+NoDesc	1	1	1	16	45	13				195	215	pr39		31	40											dgrn	tors	staf	bow	scep	xbow	aspe	nscy								
+NoDesc	1	1	1	23	57	19				240	215	pr39		41	50											dgrn	tors	staf	bow	scep	xbow	aspe	nscy								
+NoDesc	1	1	1	30	69	25				29	215	pr39		51	60											dgrn	tors	staf	bow	scep	xbow	aspe	nscy								
+NoDesc	1	1	1	37	81	31				74	215	pr39		61	70											dgrn	tors	staf	bow	scep	xbow	aspe	nscy								
+NoDesc	1	1	1	44	90	37				119	215	pr39		71	80											dgrn	tors	staf	bow	scep	xbow	aspe	nscy								
+NoDesc	1	1	1	52	90	43				164	215	pr39		81	90											dgrn	tors	staf	bow	scep	xbow	aspe	nscy								
+NoDesc	1	1	1	59		49				209	215	pr39		91	100											dgrn	tors	staf	bow	scep	xbow	aspe	nscy								
+NoDesc	1	1	1	66		55				254	215	pr39		101	125											dgrn	tors	staf	bow	scep	xbow	aspe	nscy								
+NoDesc	1	1	1	3	23	2				115	215	pr39		6	15											dgrn	belt	boot	glov	helm	amul	shld	weap	tors	bow	scep	nscy	aspe			
+NoDesc	1	1	1	14	42	12				185	215	pr39		16	25											dgrn	belt	boot	glov	helm	amul	shld	weap	tors	bow	scep	nscy	aspe			
+NoDesc	1	1	1	25	61	21				255	215	pr39		26	35											dgrn	belt	boot	glov	helm	amul	shld	weap	tors	bow	scep	nscy	aspe			
+NoDesc	1	1	1	36	79	30				69	215	pr39		36	45											dgrn	belt	boot	glov	helm	amul	shld	weap	tors	bow	scep	nscy	aspe			
+NoDesc	1	1	1	48	90	40				139	215	pr39		46	55											dgrn	belt	boot	glov	helm	amul	shld	weap	tors	bow	scep	nscy	aspe			
+NoDesc	1	1	1	59	90	49				209	215	pr39		56	65											dgrn	belt	boot	glov	helm	amul	shld	weap	tors	bow	scep	nscy	aspe			
+NoDesc	1	1	1	70		58				23	215	pr39		66	75											dgrn	belt	boot	glov	helm	amul	shld	weap	tors	bow	scep	nscy	aspe			
+NoDesc	1	1	1	1	21					105	215	pr39		6	15											dgrn	ring	misl													
+NoDesc	1	1	1	31	70	26				34	215	pr39		16	25											dgrn	ring	misl													
+NoDesc	1	1	1	52		43				164	215	pr39		26	35											dgrn	ring	misl													
+NoDesc	1	1	1	72		60				38	215	pr39		36	50											dgrn	ring	misl													
+NoDesc	1	1	1	1	21					105	216	pr221		6	10												weap							wand	orb						
+NoDesc	1	1	1	10	35	8				160	216	pr221		11	15												weap							wand	orb						
+NoDesc	1	1	1	19	50	16				215	216	pr221		16	20												weap							wand	orb						
+NoDesc	1	1	1	28	65	23				14	216	pr221		21	25												weap							wand	orb						
+NoDesc	1	1	1	36	79	30				69	216	pr221		26	30												weap							wand	orb						
+NoDesc	1	1	1	45	90	38				124	216	pr221		31	35												weap							wand	orb						
+NoDesc	1	1	1	54	90	45				179	216	pr221		36	40												weap							wand	orb						
+NoDesc	1	1	1	63	90	52				234	216	pr221		41	45												weap							wand	orb						
+NoDesc	1	1	1	72		60				33	216	pr221		46	50												weap							wand	orb						
+NoDesc	1	1	1	3	23	2				115	216	pr221		3	5												amul	belt													
+NoDesc	1	1	1	16	46	14				200	216	pr221		6	8												amul	belt													
+NoDesc	1	1	1	30	69	25				29	216	pr221		9	11												amul	belt													
+NoDesc	1	1	1	44	90	36				114	216	pr221		12	14												amul	belt													
+NoDesc	1	1	1	57	90	48				199	216	pr221		15	17												amul	belt													
+NoDesc	1	1	1	71		59				28	216	pr221		18	20												amul	belt													
+NoDesc	1	1	1	1	23					210	251	pr0		10	20	Jewel only											jewl														
+NoDesc	1	1	1	16	59	13				17	251	pr0		21	50	Jewel only											jewl														
+NoDesc	1	1	1	28	90	24				220	251	pr0		51	100	Jewel only											jewl														
+NoDesc	1	1	1	19	68	16				86	252	pr191		1	1	Jewel only											jewl														
+NoDesc	1	1	1	45		38				76	252	pr191		2	3	Jewel only											jewl														
+NoDesc	1	1	1	6	35	5				14	254	pr190		1	1	Jewel only											jewl														
+NoDesc	1	1	1	25	83	21				101	254	pr190		2	3	Jewel only											jewl														
+NoDesc	1	1	1	53		44				88	254	pr190		4	5	Jewel only											jewl														
+NoDesc	1	1	1	1	23					210	254	pr7		2	4	Jewel only											jewl														
+NoDesc	1	1	1	19	68	16				45	254	pr7		5	7	Jewel only											jewl														
+NoDesc	1	1	1	48		40				60	254	pr7		8	10	Jewel only											jewl														
+NoDesc	1	1	1	1	23					210	254	pr8		2	4	Jewel only											jewl														
+NoDesc	1	1	1	19	68	16				45	254	pr8		5	7	Jewel only											jewl														
+NoDesc	1	1	1	48		40				60	254	pr8		8	10	Jewel only											jewl														
+NoDesc	1	1	1	1	23					210	254	pr9		2	4	Jewel only											jewl														
+NoDesc	1	1	1	19	68	16				45	254	pr9		5	7	Jewel only											jewl														
+NoDesc	1	1	1	48		40				60	254	pr9		8	10	Jewel only											jewl														
+NoDesc	1	1	1	1	23					210	254	pr10		2	4	Jewel only											jewl														
+NoDesc	1	1	1	19	68	16				45	254	pr10		5	7	Jewel only											jewl														
+NoDesc	1	1	1	48		40				60	254	pr10		8	10	Jewel only											jewl														
+NoDesc	1	1	1	9	44	8				186	255	pr28		4	10	Jewel only											jewl														
+NoDesc	1	1	1	36		30				1	255	pr28		11	15	Jewel only											jewl														
+NoDesc	1	1	1	1	23					252	256	pr75		-4	-4	Jewel only											jewl														
+NoDesc	1	1	1	14	56	12				77	256	pr75		-8	-8	Jewel only											jewl														
+NoDesc	1	1	1	32		27				104	256	pr75		-10	-10	Jewel only											jewl														
+NoDesc	1	1	1	11	47	9				198	257	pr58		25	50	Jewel only											jewl														
+NoDesc	1	1	1	38		32				12	257	pr58		51	100	Jewel only											jewl														
+NoDesc	1	1	1	1	23					210	258	pr35		5	10	Jewel only											jewl														
+NoDesc	1	1	1	18	65	15				38	258	pr35		11	15	Jewel only											jewl														
+NoDesc	1	1	1	33		28				244	258	pr35		16	25	Jewel only											jewl														
+NoDesc	1	1	1	1	23					210	259	pr31		5	10	Jewel only											jewl														
+NoDesc	1	1	1	18	65	15				38	259	pr31		11	15	Jewel only											jewl														
+NoDesc	1	1	1	33		28				244	259	pr31		16	25	Jewel only											jewl														
+NoDesc	1	1	1	1	23					210	260	pr33		5	10	Jewel only											jewl														
+NoDesc	1	1	1	18	65	15				38	260	pr33		11	15	Jewel only											jewl														
+NoDesc	1	1	1	33		28				244	260	pr33		16	25	Jewel only											jewl														
+NoDesc	1	1	1	1	23					210	261	pr39		5	10	Jewel only											jewl														
+NoDesc	1	1	1	18	65	15				38	261	pr39		11	15	Jewel only											jewl														
+NoDesc	1	1	1	33		28				244	261	pr39		16	25	Jewel only											jewl														
+NoDesc	1	1	1	25	83	21				255	262	pr221		1	2	Jewel only											jewl														
+NoDesc	1	1	1	49		41				243	262	pr221		3	5	Jewel only											jewl														
+NoDesc	1	1	1	48		40				33	217	pr204	968	2	10	Maelstrom											ajav														
+NoDesc	1	1	1	48		40				33	217	pr204	416	11	19	Deaths Fury Totem											azhm														
+NoDesc	1		1	48		40				33	217	pr204	449	2	10	Holy Armor											azsd														
+NoDesc	1	1	1	48		40				33	217	pr204	370	2	10	Mountain King											aspe														
+NoDesc	1	1	1	48		40				33	217	pr204	447	2	10	Rapture											aspe														
+NoDesc	1	1	1	48		40				33	217	pr204	383	2	10	Spore Shot											abow														
+NoDesc	1	1	1	48		40				33	217	pr204	96	1	4	Bloodlust											h2h														
+NoDesc	1	1	1	48		40				33	217	pr204	424	2	5	Oathbreaker Totem											h2h														
+NoDesc	1		1	48		40				33	217	pr204	318	2	7	Pounce											nagi														
+NoDesc	1	1	1	48		40				33	217	pr204	1018	2	6	Charm											ishd														
+NoDesc	1	1	1	48		40				33	217	pr204	404	18	24	Summon Veil King											ishd														
+NoDesc	1		1	48		40				33	217	pr204	475	2	6	Bladestorm											ishd														
+NoDesc	1	1	1	48		40				33	217	pr204	420	1	4	Howling Totem											bswd														
+NoDesc	1	1	1	48		40				33	217	pr204	414	2	5	Bend the Shadows											bswd														
+NoDesc	1	1	1	48		40				33	217	pr204	1013	18	24	Mark of the Wild											baxe														
+NoDesc	1	1	1	48		40				33	217	pr204	452	1	4	Fear of Fire											baxe														
+NoDesc	1	1	1	48		40				33	217	pr204	474	2	7	Mana Sweep											phlm														
+NoDesc	1	1	1	48		40				33	217	pr204	324	4	11	Pact of Blood											basd														
+NoDesc	1	1	1	48		40				33	217	pr204	411	6	14	Buckshot											dbow														
+NoDesc	1	1	1	48		40				33	217	pr204	358	18	24	Snake Stance											dbow														
+NoDesc	1	1	1	48		40				33	217	pr204	766	18	24	Pyroclastic Flow											dstf														
+NoDesc	1	1	1	48		40				33	217	pr204	363	7	16	Protector Spirit											dstf														
+NoDesc	1	1	1	48		40				33	217	pr204	347	12	20	Shuriken Flurry											pelt														
+NoDesc	1	1	1	48		40				33	217	pr204	57	1	3	Mana Tide Totem											pelt														
+NoDesc	1		1	48		40				33	217	pr204	445	1	3	Dark King											nscy														
+NoDesc	1		1	48		40				33	217	pr204	329	18	24	Blooming Nightshade											nknf														
+NoDesc	1		1	48		40				33	217	pr204	642	4	11	Scatter Shot											nxbw														
+NoDesc	1	1	1	48		40				33	217	pr204	263	2	6	Punisher											wand														
+NoDesc	1	1	1	48		40				33	217	pr204	670	2	5	Summon Overlord											nstf														
+NoDesc	1	1	1	48		40				33	217	pr204	446	11	17	Judgement	pr206		31	50							head														
+NoDesc	1	1	1	48		40				33	217	pr204	332	2	5	Shadow Refuge											pmac														
+NoDesc	1	1	1	48		40				33	217	pr204	354	2	7	Shower of Rocks											pham														
+NoDesc	1		1	48		40				33	217	pr204	320	1	3	Lightswarm											pspe														
+NoDesc	1	1	1	48		40				33	217	pr204	359	1	3	Bear Stance											ashd														
+NoDesc	1	1	1	48		40				33	217	pr204	402	1	4	Summon Rampagor											pzhm														
+NoDesc	1	1	1	48		40				33	217	pr204	368	2	5	Fortress											ashd														
+NoDesc	1	1	1	48		40				33	217	pr204	360	1	3	Eagle Stance											orb														
+NoDesc	1	1	1	48		40				33	217	pr204	58	1	3	Elemental Totem											orb														
+NoDesc	1		1	48		40				33	217	pr204	329	4	9	Hades Gate											scrd														
+NoDesc	1	1	1	48		40				33	217	pr204	357	3	7	Lion Stance											scrd														
+NoDesc	1	1	1	48		40				33	217	pr204	563	1	3	Other Banish											stor														
+NoDesc	1	1	1	48		40				33	217	pr204	400	16	19	Summon Acid Devils											stor														
+NoDesc	1	1	1	48		40				33	217	pr204	643	2	9	Overpower											swor														
+NoDesc	1	1	1	48		40				33	217	pr204	691	2	11	Time Strike											scyh														
+NoDesc	1	1	1	48		40				33	217	pr204	635	4	14	Guided Chain											bow														
+NoDesc	1	1	1	48		40				33	217	pr204	634	4	14	Phalanx											bow														
+NoDesc	1	1	1	48		40				33	217	pr204	669	11	22	Lightning Shield											staf														
+NoDesc	1	1	1	48		40				33	217	pr204	713	6	13	Mon Psionic Storm											scep														
+NoDesc	1	1	1	48		40				33	217	pr204	695	18	24	Shadow Blade											tkni														
+NoDesc	1	1	1	48		40				33	217	pr204	562	18	24	Other Avatar											amul														
+NoDesc	1	1	1	48		40				33	217	pr204	564	6	14	Other Blast Wave											tors														
+NoDesc	1	1	1	1	21					147	218	pr269		1	5												staf														
+NoDesc	1	1	1	8	31	6				203	218	pr269		6	10												staf														
+NoDesc	1	1	1	14	42	12				3	218	pr269		11	15												staf														
+NoDesc	1	1	1	20	53	17				59	218	pr269		16	20												staf														
+NoDesc	1	1	1	27	63	22				115	218	pr269		21	25												staf														
+NoDesc	1	1	1	33	74	28				171	218	pr269		26	30												staf														
+NoDesc	1	1	1	40	85	33				227	218	pr269		31	35												staf														
+NoDesc	1	1	1	46	90	38				206	218	pr269		36	40												staf														
+NoDesc	1	1	1	52	90	44				254	218	pr269		41	45												staf														
+NoDesc	1	1	1	59		49				46	218	pr269		46	50												staf														
+NoDesc	1	1	1	80		66				202	218	pr269		51	75												staf														
+NoDesc	1	1	1	1	21					147	218	pr269		1	3												amul	scep	wand	head	crsd	h2h	nagi								
+NoDesc	1	1	1	13	41	11				252	218	pr269		4	6												amul	scep	wand	head	crsd	h2h	nagi								
+NoDesc	1	1	1	25	61	21				101	218	pr269		7	9												amul	scep	wand	head	crsd	h2h	nagi								
+NoDesc	1	1	1	37	81	31				206	218	pr269		10	12												amul	scep	wand	head	crsd	h2h	nagi								
+NoDesc	1	1	1	49	90	41				230	218	pr269		13	15												amul	scep	wand	head	crsd	h2h	nagi								
+NoDesc	1	1	1	61	90	51				64	218	pr269		16	20												amul	scep	wand	head	crsd	h2h	nagi								
+NoDesc	1	1	1	73		61				154	218	pr269		21	30												amul	scep	wand	head	crsd	h2h	nagi								
+NoDesc	1	1	1	80		66				202	218	pr269		31	40												amul	scep	wand	head	crsd	h2h	nagi								
+NoDesc	1	1	1	1	21					147	218	pr269		1	3												bswd	baxe	phlm	pelt	circ										
+NoDesc	1	1	1	13	41	11				252	218	pr269		4	6												bswd	baxe	phlm	pelt	circ										
+NoDesc	1	1	1	25	61	21				101	218	pr269		7	9												bswd	baxe	phlm	pelt	circ										
+NoDesc	1	1	1	37	81	31				206	218	pr269		10	12												bswd	baxe	phlm	pelt	circ										
+NoDesc	1	1	1	49	90	41				230	218	pr269		13	15												bswd	baxe	phlm	pelt	circ										
+NoDesc	1	1	1	61	90	51				64	218	pr269		16	20												bswd	baxe	phlm	pelt	circ										
+NoDesc	1	1	1	73		61				154	218	pr269		21	30												bswd	baxe	phlm	pelt	circ										
+NoDesc	1	1	1	80		66				202	218	pr269		31	40												bswd	baxe	phlm	pelt	circ										
+NoDesc	1	1	1	1	21					105	218	pr269		1	3												ring														
+NoDesc	1	1	1	14	42	12				185	218	pr269		4	6												ring														
+NoDesc	1	1	1	40	86	34				94	218	pr269		7	11												ring														
+NoDesc	1	1	1	57		48				108	218	pr269		12	15												ring														
+NoDesc	1	1	1	1	21					147	219	pr267		1	5												staf														
+NoDesc	1	1	1	8	31	6				203	219	pr267		6	10												staf														
+NoDesc	1	1	1	14	42	12				3	219	pr267		11	15												staf														
+NoDesc	1	1	1	20	53	17				59	219	pr267		16	20												staf														
+NoDesc	1	1	1	27	63	22				115	219	pr267		21	25												staf														
+NoDesc	1	1	1	33	74	28				171	219	pr267		26	30												staf														
+NoDesc	1	1	1	40	85	33				227	219	pr267		31	35												staf														
+NoDesc	1	1	1	46	90	38				206	219	pr267		36	40												staf														
+NoDesc	1	1	1	52	90	44				254	219	pr267		41	45												staf														
+NoDesc	1	1	1	59		49				46	219	pr267		46	50												staf														
+NoDesc	1	1	1	80		66				202	219	pr267		51	75												staf														
+NoDesc	1	1	1	1	21					147	219	pr267		1	3												amul	scep	wand	head	crsd	h2h	nagi								
+NoDesc	1	1	1	13	41	11				252	219	pr267		4	6												amul	scep	wand	head	crsd	h2h	nagi								
+NoDesc	1	1	1	25	61	21				101	219	pr267		7	9												amul	scep	wand	head	crsd	h2h	nagi								
+NoDesc	1	1	1	37	81	31				206	219	pr267		10	12												amul	scep	wand	head	crsd	h2h	nagi								
+NoDesc	1	1	1	49	90	41				230	219	pr267		13	15												amul	scep	wand	head	crsd	h2h	nagi								
+NoDesc	1	1	1	61	90	51				64	219	pr267		16	20												amul	scep	wand	head	crsd	h2h	nagi								
+NoDesc	1	1	1	73		61				154	219	pr267		21	30												amul	scep	wand	head	crsd	h2h	nagi								
+NoDesc	1	1	1	80		66				202	219	pr267		31	40												amul	scep	wand	head	crsd	h2h	nagi								
+NoDesc	1	1	1	1	21					147	219	pr267		1	3												bswd	baxe	phlm	pelt	circ										
+NoDesc	1	1	1	13	41	11				252	219	pr267		4	6												bswd	baxe	phlm	pelt	circ										
+NoDesc	1	1	1	25	61	21				101	219	pr267		7	9												bswd	baxe	phlm	pelt	circ										
+NoDesc	1	1	1	37	81	31				206	219	pr267		10	12												bswd	baxe	phlm	pelt	circ										
+NoDesc	1	1	1	49	90	41				230	219	pr267		13	15												bswd	baxe	phlm	pelt	circ										
+NoDesc	1	1	1	61	90	51				64	219	pr267		16	20												bswd	baxe	phlm	pelt	circ										
+NoDesc	1	1	1	73		61				154	219	pr267		21	30												bswd	baxe	phlm	pelt	circ										
+NoDesc	1	1	1	80		66				202	219	pr267		31	40												bswd	baxe	phlm	pelt	circ										
+NoDesc	1	1	1	1	21					105	219	pr267		1	3												ring														
+NoDesc	1	1	1	14	42	12				185	219	pr267		4	6												ring														
+NoDesc	1	1	1	40	86	34				94	219	pr267		7	11												ring														
+NoDesc	1	1	1	57		48				108	219	pr267		12	15												ring														
+NoDesc	1	1	1	5	27	4				208	220	pr173		6	10											cblu	staf	orb	pelt	stor	pspe										
+NoDesc	1	1	1	16	46	14				64	220	pr173		11	15											cblu	staf	orb	pelt	stor	pspe										
+NoDesc	1	1	1	28	65	23				176	220	pr173		16	20											cblu	staf	orb	pelt	stor	pspe										
+NoDesc	1	1	1	39	83	32				32	220	pr173		21	25											cblu	staf	orb	pelt	stor	pspe										
+NoDesc	1	1	1	50	90	42				144	220	pr173		26	30											cblu	staf	orb	pelt	stor	pspe										
+NoDesc	1	1	1	61	90	51					220	pr173		31	35											cblu	staf	orb	pelt	stor	pspe										
+NoDesc	1	1	1	75		62				136	220	pr173		36	40											cblu	staf	orb	pelt	stor	pspe										
+NoDesc	1	1	1	80		66				184	220	pr173		41	50											cblu	staf	orb	pelt	stor	pspe										
+NoDesc	1	1	1	9	34	8				155	220	pr173		3	5											cblu	glov	amul	scep	h2h	crsd	dbow	ishd								
+NoDesc	1	1	1	22	55	18				235	220	pr173		6	8											cblu	glov	amul	scep	h2h	crsd	dbow	ishd								
+NoDesc	1	1	1	35	77	29				59	220	pr173		9	11											cblu	glov	amul	scep	h2h	crsd	dbow	ishd								
+NoDesc	1	1	1	48	90	40				139	220	pr173		12	14											cblu	glov	amul	scep	h2h	crsd	dbow	ishd								
+NoDesc	1	1	1	60	90	50				219	220	pr173		15	17											cblu	glov	amul	scep	h2h	crsd	dbow	ishd								
+NoDesc	1	1	1	73		61				43	220	pr173		18	20											cblu	glov	amul	scep	h2h	crsd	dbow	ishd								
+NoDesc	1	1	1	80		66				83	220	pr173		21	30											cblu	glov	amul	scep	h2h	crsd	dbow	ishd								
+NoDesc	1	1	1	9	34	8				155	220	pr173		3	5											cblu	wand	head	pzhm	pclb	pmac										
+NoDesc	1	1	1	22	55	18				235	220	pr173		6	8											cblu	wand	head	pzhm	pclb	pmac										
+NoDesc	1	1	1	35	77	29				59	220	pr173		9	11											cblu	wand	head	pzhm	pclb	pmac										
+NoDesc	1	1	1	48	90	40				139	220	pr173		12	14											cblu	wand	head	pzhm	pclb	pmac										
+NoDesc	1	1	1	60	90	50				219	220	pr173		15	17											cblu	wand	head	pzhm	pclb	pmac										
+NoDesc	1	1	1	73		61				43	220	pr173		18	20											cblu	wand	head	pzhm	pclb	pmac										
+NoDesc	1	1	1	80		66				83	220	pr173		21	30											cblu	wand	head	pzhm	pclb	pmac										
+NoDesc	1	1	1	25	61	21				102	220	pr173		2	4											cblu	ring	belt	helm	nscy	nknf	ashd	club	azhm	pelt	pzhm	phlm	pclb			
+NoDesc	1	1	1	42	89	35				144	220	pr173		5	7											cblu	ring	belt	helm	nscy	nknf	ashd	club	azhm	pelt	pzhm	phlm	pclb			
+NoDesc	1	1	1	59		49				186	220	pr173		8	10											cblu	ring	belt	helm	nscy	nknf	ashd	club	azhm	pelt	pzhm	phlm	pclb			
+NoDesc	1	1	1	80		66				238	220	pr173		11	20											cblu	ring	belt	helm	nscy	nknf	ashd	club	azhm	pelt	pzhm	phlm	pclb			
+NoDesc	1	1	1	5	27	4				208	220	pr171		6	10											cred	staf	orb	pelt	ashd	stor	pspe									
+NoDesc	1	1	1	16	46	14				64	220	pr171		11	15											cred	staf	orb	pelt	ashd	stor	pspe									
+NoDesc	1	1	1	28	65	23				176	220	pr171		16	20											cred	staf	orb	pelt	ashd	stor	pspe									
+NoDesc	1	1	1	39	83	32				32	220	pr171		21	25											cred	staf	orb	pelt	ashd	stor	pspe									
+NoDesc	1	1	1	50	90	42				144	220	pr171		26	30											cred	staf	orb	pelt	ashd	stor	pspe									
+NoDesc	1	1	1	61	90	51					220	pr171		31	35											cred	staf	orb	pelt	ashd	stor	pspe									
+NoDesc	1	1	1	75		62				136	220	pr171		36	40											cred	staf	orb	pelt	ashd	stor	pspe									
+NoDesc	1	1	1	80		66				184	220	pr171		41	50											cred	staf	orb	pelt	ashd	stor	pspe									
+NoDesc	1	1	1	9	34	8				155	220	pr171		3	5											cred	glov	amul	scep	h2h	crsd	dbow	ishd								
+NoDesc	1	1	1	22	55	18				235	220	pr171		6	8											cred	glov	amul	scep	h2h	crsd	dbow	ishd								
+NoDesc	1	1	1	35	77	29				59	220	pr171		9	11											cred	glov	amul	scep	h2h	crsd	dbow	ishd								
+NoDesc	1	1	1	48	90	40				139	220	pr171		12	14											cred	glov	amul	scep	h2h	crsd	dbow	ishd								
+NoDesc	1	1	1	60	90	50				219	220	pr171		15	17											cred	glov	amul	scep	h2h	crsd	dbow	ishd								
+NoDesc	1	1	1	73		61				43	220	pr171		18	20											cred	glov	amul	scep	h2h	crsd	dbow	ishd								
+NoDesc	1	1	1	80		66				83	220	pr171		21	30											cred	glov	amul	scep	h2h	crsd	dbow	ishd								
+NoDesc	1	1	1	9	34	8				155	220	pr171		3	5											cred	wand	head	pzhm	azsd	pclb	pmac									
+NoDesc	1	1	1	22	55	18				235	220	pr171		6	8											cred	wand	head	pzhm	azsd	pclb	pmac									
+NoDesc	1	1	1	35	77	29				59	220	pr171		9	11											cred	wand	head	pzhm	azsd	pclb	pmac									
+NoDesc	1	1	1	48	90	40				139	220	pr171		12	14											cred	wand	head	pzhm	azsd	pclb	pmac									
+NoDesc	1	1	1	60	90	50				219	220	pr171		15	17											cred	wand	head	pzhm	azsd	pclb	pmac									
+NoDesc	1	1	1	73		61				43	220	pr171		18	20											cred	wand	head	pzhm	azsd	pclb	pmac									
+NoDesc	1	1	1	80		66				83	220	pr171		21	30											cred	wand	head	pzhm	azsd	pclb	pmac									
+NoDesc	1	1	1	25	61	21				102	220	pr171		2	4											cred	ring	belt	helm	nscy	nknf	club		azhm	pelt	pzhm	phlm	pclb			
+NoDesc	1	1	1	42	89	35				144	220	pr171		5	7											cred	ring	belt	helm	nscy	nknf	club		azhm	pelt	pzhm	phlm	pclb			
+NoDesc	1	1	1	59		49				186	220	pr171		8	10											cred	ring	belt	helm	nscy	nknf	club		azhm	pelt	pzhm	phlm	pclb			
+NoDesc	1	1	1	80		66				238	220	pr171		11	20											cred	ring	belt	helm	nscy	nknf	club		azhm	pelt	pzhm	phlm	pclb			
+NoDesc	1	1	1	5	27	4				208	220	pr172		6	10											lyel	staf	orb	h2h	stor				dstf							
+NoDesc	1	1	1	16	46	14				64	220	pr172		11	15											lyel	staf	orb	h2h	stor				dstf							
+NoDesc	1	1	1	28	65	23				176	220	pr172		16	20											lyel	staf	orb	h2h	stor				dstf							
+NoDesc	1	1	1	39	83	32				32	220	pr172		21	25											lyel	staf	orb	h2h	stor				dstf							
+NoDesc	1	1	1	50	90	42				144	220	pr172		26	30											lyel	staf	orb	h2h	stor				dstf							
+NoDesc	1	1	1	61	90	51					220	pr172		31	35											lyel	staf	orb	h2h	stor				dstf							
+NoDesc	1	1	1	75		62				136	220	pr172		36	40											lyel	staf	orb	h2h	stor				dstf							
+NoDesc	1	1	1	80		66				184	220	pr172		41	50											lyel	staf	orb	h2h	stor				dstf							
+NoDesc	1	1	1	9	34	8				155	220	pr172		3	5											lyel	glov	amul	scep	h2h	crsd	ishd									
+NoDesc	1	1	1	22	55	18				235	220	pr172		6	8											lyel	glov	amul	scep	h2h	crsd	ishd									
+NoDesc	1	1	1	35	77	29				59	220	pr172		9	11											lyel	glov	amul	scep	h2h	crsd	ishd									
+NoDesc	1	1	1	48	90	40				139	220	pr172		12	14											lyel	glov	amul	scep	h2h	crsd	ishd									
+NoDesc	1	1	1	60	90	50				219	220	pr172		15	17											lyel	glov	amul	scep	h2h	crsd	ishd									
+NoDesc	1	1	1	73		61				43	220	pr172		18	20											lyel	glov	amul	scep	h2h	crsd	ishd									
+NoDesc	1	1	1	80		66				83	220	pr172		21	30											lyel	glov	amul	scep	h2h	crsd	ishd									
+NoDesc	1	1	1	9	34	8				155	220	pr172		3	5											lyel	wand	head	pzhm	pclb	pmac										
+NoDesc	1	1	1	22	55	18				235	220	pr172		6	8											lyel	wand	head	pzhm	pclb	pmac										
+NoDesc	1	1	1	35	77	29				59	220	pr172		9	11											lyel	wand	head	pzhm	pclb	pmac										
+NoDesc	1	1	1	48	90	40				139	220	pr172		12	14											lyel	wand	head	pzhm	pclb	pmac										
+NoDesc	1	1	1	60	90	50				219	220	pr172		15	17											lyel	wand	head	pzhm	pclb	pmac										
+NoDesc	1	1	1	73		61				43	220	pr172		18	20											lyel	wand	head	pzhm	pclb	pmac										
+NoDesc	1	1	1	80		66				83	220	pr172		21	30											lyel	wand	head	pzhm	pclb	pmac										
+NoDesc	1	1	1	25	61	21				102	220	pr172		2	4											lyel	ring	belt	helm	nscy	nknf	ashd		azhm	pelt	pzhm	phlm				
+NoDesc	1	1	1	42	89	35				144	220	pr172		5	7											lyel	ring	belt	helm	nscy	nknf	ashd		azhm	pelt	pzhm	phlm				
+NoDesc	1	1	1	59		49				186	220	pr172		8	10											lyel	ring	belt	helm	nscy	nknf	ashd		azhm	pelt	pzhm	phlm				
+NoDesc	1	1	1	80		66				238	220	pr172		11	20											lyel	ring	belt	helm	nscy	nknf	ashd		azhm	pelt	pzhm	phlm				
+NoDesc	1	1	1	5	27	4				208	220	pr174		6	10											cgrn	staf	pelt	orb	stor	scyh	knif	tkni								
+NoDesc	1	1	1	16	46	14				64	220	pr174		11	15											cgrn	staf	pelt	orb	stor	scyh	knif	tkni								
+NoDesc	1	1	1	28	65	23				176	220	pr174		16	20											cgrn	staf	pelt	orb	stor	scyh	knif	tkni								
+NoDesc	1	1	1	39	83	32				32	220	pr174		21	25											cgrn	staf	pelt	orb	stor	scyh	knif	tkni								
+NoDesc	1	1	1	50	90	42				144	220	pr174		26	30											cgrn	staf	pelt	orb	stor	scyh	knif	tkni								
+NoDesc	1	1	1	61	90	51					220	pr174		31	35											cgrn	staf	pelt	orb	stor	scyh	knif	tkni								
+NoDesc	1	1	1	75		62				136	220	pr174		36	40											cgrn	staf	pelt	orb	stor	scyh	knif	tkni								
+NoDesc	1	1	1	80		66				184	220	pr174		41	50											cgrn	staf	pelt	orb	stor	scyh	knif	tkni								
+NoDesc	1	1	1	9	34	8				155	220	pr174		3	5											cgrn	glov	amul	scep	h2h	crsd	dbow	ishd								
+NoDesc	1	1	1	22	55	18				235	220	pr174		6	8											cgrn	glov	amul	scep	h2h	crsd	dbow	ishd								
+NoDesc	1	1	1	35	77	29				59	220	pr174		9	11											cgrn	glov	amul	scep	h2h	crsd	dbow	ishd								
+NoDesc	1	1	1	48	90	40				139	220	pr174		12	14											cgrn	glov	amul	scep	h2h	crsd	dbow	ishd								
+NoDesc	1	1	1	60	90	50				219	220	pr174		15	17											cgrn	glov	amul	scep	h2h	crsd	dbow	ishd								
+NoDesc	1	1	1	73		61				43	220	pr174		18	20											cgrn	glov	amul	scep	h2h	crsd	dbow	ishd								
+NoDesc	1	1	1	80		66				83	220	pr174		21	30											cgrn	glov	amul	scep	h2h	crsd	dbow	ishd								
+NoDesc	1	1	1	9	34	8				155	220	pr174		3	5											cgrn	pzhm	azsd	pclb	pmac	pspe	phlm	bswd								
+NoDesc	1	1	1	22	55	18				235	220	pr174		6	8											cgrn	pzhm	azsd	pclb	pmac	pspe	phlm	bswd								
+NoDesc	1	1	1	35	77	29				59	220	pr174		9	11											cgrn	pzhm	azsd	pclb	pmac	pspe	phlm	bswd								
+NoDesc	1	1	1	48	90	40				139	220	pr174		12	14											cgrn	pzhm	azsd	pclb	pmac	pspe	phlm	bswd								
+NoDesc	1	1	1	60	90	50				219	220	pr174		15	17											cgrn	pzhm	azsd	pclb	pmac	pspe	phlm	bswd								
+NoDesc	1	1	1	73		61				43	220	pr174		18	20											cgrn	pzhm	azsd	pclb	pmac	pspe	phlm	bswd								
+NoDesc	1	1	1	80		66				83	220	pr174		21	30											cgrn	pzhm	azsd	pclb	pmac	pspe	phlm	bswd								
+NoDesc	1	1	1	25	61	21				102	220	pr174		2	4											cgrn	ring	belt	helm	ashd	basd	baxe	club	azhm	pelt	pzhm	phlm	pclb			
+NoDesc	1	1	1	42	89	35				144	220	pr174		5	7											cgrn	ring	belt	helm	ashd	basd	baxe	club	azhm	pelt	pzhm	phlm	pclb			
+NoDesc	1	1	1	59		49				186	220	pr174		8	10											cgrn	ring	belt	helm	ashd	basd	baxe	club	azhm	pelt	pzhm	phlm	pclb			
+NoDesc	1	1	1	80		66				238	220	pr174		11	20											cgrn	ring	belt	helm	ashd	basd	baxe	club	azhm	pelt	pzhm	phlm	pclb			
+NoDesc	1	1	1	2	22	2				110	221	pr356		1	3												weap	phlm						staf	wand	orb	bow	xbow			
+NoDesc	1	1	1	13	41	11				180	221	pr356		4	6												weap	phlm						staf	wand	orb	bow	xbow			
+NoDesc	1	1	1	24	59	20				250	221	pr356		7	9												weap	phlm						staf	wand	orb	bow	xbow			
+NoDesc	1	1	1	36	78	30				64	221	pr356		10	12												weap	phlm						staf	wand	orb	bow	xbow			
+NoDesc	1	1	1	47	90	39				134	221	pr356		13	15												weap							staf	wand	orb	bow	xbow			
+NoDesc	1	1	1	58	90	48				204	221	pr356		16	40												weap							staf	wand	orb	bow	xbow			
+NoDesc	1	1	1	69		58				18	221	pr356		41	100												weap							staf	wand	orb	bow	xbow			
+NoDesc	1	1	1	15	43	12				190	221	pr356		1	2												ring	glov	belt	basd	azhm	azsd	pzhm								
+NoDesc	1	1	1	32	73	27				44	221	pr356		3	4												ring	glov	belt	basd	azhm	azsd	pzhm								
+NoDesc	1	1	1	50		42				154	221	pr356		5	6												ring	glov	belt	basd	azhm	azsd	pzhm								
+NoDesc	1	1	1	2	22	2				110	222	pr359		1	3												weap	phlm						staf	wand	orb	bow	xbow			
+NoDesc	1	1	1	13	41	11				180	222	pr359		4	6												weap	phlm						staf	wand	orb	bow	xbow			
+NoDesc	1	1	1	24	59	20				250	222	pr359		7	9												weap	phlm						staf	wand	orb	bow	xbow			
+NoDesc	1	1	1	36	78	30				64	222	pr359		10	12												weap	phlm						staf	wand	orb	bow	xbow			
+NoDesc	1	1	1	47	90	39				134	222	pr359		13	15												weap							staf	wand	orb	bow	xbow			
+NoDesc	1	1	1	58	90	48				204	222	pr359		16	40												weap							staf	wand	orb	bow	xbow			
+NoDesc	1	1	1	69		58				18	222	pr359		41	100												weap							staf	wand	orb	bow	xbow			
+NoDesc	1	1	1	15	43	12				190	222	pr359		1	2												ring	glov	belt	basd	azhm	azsd	pzhm								
+NoDesc	1	1	1	32	73	27				44	222	pr359		3	4												ring	glov	belt	basd	azhm	azsd	pzhm								
+NoDesc	1	1	1	50		42				154	222	pr359		5	6												ring	glov	belt	basd	azhm	azsd	pzhm								
+NoDesc	1	1	1	8	50	6				30	223	pr127	451	5	2	Flamefront											weap							thro	wand	misl	staf				
+NoDesc	1	1	1	24		20				50	223	pr127	525	2	7	Mon Pain Spirit											weap							thro	wand	misl	staf				
+NoDesc	1	1	1	40		33				140	223	pr127	542	8	4	Mon Time Strike Target											weap							thro	wand	misl	staf				
+NoDesc	1	1	1	56		46				90	223	pr127	563	1	6	Other Banish											amul														
+NoDesc	1	1	1	72		60				4	223	pr127	492	25	8	Mon Arrow											bow														
+NoDesc	1	1	1	8		6				30	223	pr126	263	15	4	Punisher											mele							thro	wand	xbow	bow	staf			
+NoDesc	1	1	1	16		13				40	223	pr126	453	5	37	Flamestrike											mele							thro	wand	xbow	bow	staf			
+NoDesc	1	1	1	24		20				50	223	pr126	687	5	7	Dark Power											nscy	nknf													
+NoDesc	1	1	1	32		26				60	223	pr126	443	16	19	Mind Flay											mele							thro	wand	xbow	bow	staf			
+NoDesc	1	1	1	40		33				70	223	pr126	473	12	21	Arcane Torrent											mele							thro	wand	xbow	bow	staf			
+NoDesc	1	1	1	48		40				80	223	pr126	313	15	33	Better Bloodstorm											ishd														
+NoDesc	1	1	1	56		46				90	223	pr126	314	30	28	Magic Missiles											mele							thro	wand	xbow	bow	staf			
+NoDesc	1	1	1	64		53				100	223	pr126	447	5	24	Rapture											mele							thro	wand	xbow	bow	staf			
+NoDesc	1	1	1	72		60				110	223	pr126	469	25	36	Carpet of Spiders											basd														
+NoDesc	1	1	1	80		66				120	223	pr126	699	20	19	Cataclysm											mele							thro	wand	xbow	bow	staf			
+NoDesc	1	1	1	8		6				30	223	pr198	564	100	22	Other Blast Wave											belt														
+NoDesc	1	1	1	24		20				50	223	pr198	828	100	31	Shadow Avatar											helm														
+NoDesc	1	1	1	40		33				70	223	pr198	399	100	24	Gamma Field											glov														
+NoDesc	1	1	1	56		46				90	223	pr198	824	100	27	Meteor Shower											shld														
+NoDesc	1	1	1	72		60				110	223	pr198	680	100	52	Supernova											ring														
+NoDesc	1		1	8		6				30	223	pr199	469	100	29	Carpet of Spiders											amul														
+NoDesc	1	1	1	24		20				50	223	pr199	566	100	41	Other Fire Cascade											helm														
+NoDesc	1	1	1	40		33				70	223	pr199	29	100	39	Unholy Armor											belt														
+NoDesc	1	1	1	56		46				90	223	pr199	328	100	24	Queen of Blades											tors														
+NoDesc	1	1	1	72		60				110	223	pr199	762	100	21	Mon Beacon Target											ring														
+NoDesc	1	1	1	8		6				30	223	pr369	54	6	1	Teleport											tors														
+NoDesc	1	1	1	32		26				60	223	pr369	398	2	16	Plague Avatar											helm														
+NoDesc	1	1	1	64		53				100	223	pr369	697	1	8	Nightmare											amul														
+NoDesc	1	1	1	48		40				80	223	pr369	540	5	13	Mon Thunder Hammer											tors														
+NoDesc	1	1	1	40		33				70	223	pr370	496	1	17	Mon Celerity											boot														
+NoDesc	1	1	1	72		60				110	223	pr371	779	10	3	Mon Safe Spike Nova											helm														
+NoDesc	1	1	1	16		13				40	223	pr128	712	1	4	Timerless Charm											shld														
+NoDesc	1	1	1	24		20				50	223	pr128	702	1	8	Glacial Nova											belt														
+NoDesc	1	1	1	56		46				90	223	pr128	387	3	21	Hunting Banshee											shld														
+NoDesc	1	1	1	80		66				120	223	pr128	589	1	6	Vampiric Icon											ring														
+NoDesc	1	1	1	8		6				30	223	pr197	1013	1	31	Mark of the Wild											weap							staf	wand	orb					
+NoDesc	1	1	1	24		20				50	223	pr197	386	20	14	Elemental											weap							staf	wand	orb					
+NoDesc	1	1	1	40		33				70	223	pr197	595	16	7	Item Shower of Rocks											weap							staf	wand	orb					
+NoDesc	1	1	1	56		46				90	223	pr197	330	5	44	Doom											amul														
+NoDesc	1	1	1	72		60				110	223	pr197	511	2	15	Mon Gift of Inner Fire											weap							staf	wand	orb					
+NoDesc	1	1	1	1	23					210	263	pr269		2	6	Jewel only											jewl														
+NoDesc	1	1	1	19	68	16				45	263	pr269		7	10	Jewel only											jewl														
+NoDesc	1	1	1	48		40				60	263	pr269		11	15	Jewel only											jewl														
+NoDesc	1	1	1	1	23					210	264	pr267		2	6	Jewel only											jewl														
+NoDesc	1	1	1	19	68	16				45	264	pr267		7	10	Jewel only											jewl														
+NoDesc	1	1	1	48		40				60	264	pr267		11	15	Jewel only											jewl														
+NoDesc	1	1	1	49		41				243	254	pr215		1	2	Jewel only											jewl														
+NoDesc	1	1	1	49		41				243	254	pr216		1	2	Jewel only											jewl														
+NoDesc	1	1	1	49		41				243	254	pr217		1	2	Jewel only											jewl														
+NoDesc	1	1	1	49		41				243	254	pr218		1	2	Jewel only											jewl														
+NoDesc	1	1	1	49		41				243	254	pr219		1	1	Jewel only											jewl														
+NoDesc	1	1	1	15		12				191	205	pr16		1	1												shld														
+NoDesc	1		1	24		20				150	205	pr16		2	2												shld														
+NoDesc	1		1	34	75	28				186	205	pr16		3	3												shld														
+NoDesc	1		1	44	90	36				148	205	pr16		4	4												shld														
+NoDesc	1		1	53		44				88	205	pr16		5	5												shld														
+NoDesc	1		1	48		40				33	217	pr204	859	2	10	Spiral Dance										blac	stor	scrd													
+NoDesc	1	1	1	48		40				33	217	pr204	642	2	6	Scatter Shot										blac	nxbw														
+NoDesc	1	1	1	48		40				33	217	pr204	690	4	12	Cautious Strike										blac	bswd	baxe						2hbs	2hbx						
+NoDesc	1	1	1	48		40				33	217	pr204	573	4	12	Merc Claw Tornado										blac	aspe														
+NoDesc	1	1	1	48		40				33	217	pr204	702	16	24	Glacial Nova										blac	dstf	pelt	stor	orb	scrd										
+NoDesc	1		1	48		40				33	217	pr204	704	24	30	Lightning Cascade Old										blac	stor														
+NoDesc	1	1	1	48		40				33	217	pr204	873	2	5	Rune of Mana										blac	h2h	ishd													
+NoDesc	1	1	1	48		40				33	217	pr204	444	21	26	Other Possess										blac	nscy	nstf	wand												
+NoDesc	1	1	1	24		20				50	217	pr204	898	4	8	Typhoon										blac	bow	xbow	misl												
+NoDesc	1	1	1	48		40				33	217	pr204	906	17	29	Static Ward	pr184		41	60						blac	bswd	baxe	phlm												
+NoDesc	1	1	1	48		40				33	217	pr204	899	17	29	Squall Gust										blac	dbow														
+NoDesc	1	1	1	48		40				33	217	pr204	892	9	13	Ancients Hand										blac	bswd	baxe	phlm												
+NoDesc	1	1	1	48		40				33	217	pr204	890	15	27	Tantrum										blac	bow	xbow													
+NoDesc	1	1	1	48		40				33	217	pr204	891	14	20	Gorefest										blac	weap	glov	tors					bow	xbow						
+NoDesc	1	1	1	24		20				50	217	pr204	904	19	23	Clobber										blac	weap	glov	tors					bow	xbow						
+NoDesc	1	1	1	48		40				33	217	pr204	997	9	13	Cold Fear										blac	stor	head													
+NoDesc	1		1	48		40				33	217	pr204	998	15	27	Frozen Soul										blac	staf														
+NoDesc	1	1	1	48		40				33	217	pr204	999	14	20	Lightning Wall										blac	staf														
+NoDesc	1	1	1	48		40				33	217	pr204	1000	19	23	Searing Orb										blac	ashd														
+NoDesc	1	1	1	48		40				33	217	pr204	1001	12	15	DisinUber										blac	glov														
+NoDesc	1		1	48		40				33	217	pr204	1002	21	29	Venomous Spirit										blac	nstf														
+NoDesc	1	1	1	48		40				33	217	pr204	1003	21	29	Inner Fire										blac	belt														
+NoDesc	1	1	1	48		40				33	217	pr204	1010	11	18	Hawk Talons										blac	taxe	phlm	belt												
+NoDesc	1	1	1	48		40				33	217	pr204	1012	6	19	Whirlpool										blac	axe	mace	hamm	boot											
+NoDesc	1	1	1	24		20				50	217	pr204	1011	6	19	Skill Spiral Dance										blac	scrd	stor													
+NoDesc	1	1	1	48		40				33	217	pr204	1014	6	11	Call Leprechaun										blac	dstf	pelt													
+NoDesc	1	1	1	48		40				33	217	pr204	1016	7	12	Dominate										blac	dstf	pelt													
+NoDesc	1	1	1	48		40				33	217	pr204	1018	8	29	Elvensong										blac	dstf	pelt													
+NoDesc	1	1	1	48		40				33	217	pr204	1022	21	29	Exploding Totem										blac	wand	nstf	nknf	nscy	head										
+NoDesc	1	1	1	48		40				33	217	pr204	17	8	21	Deathstrike										blac	nxbw														
+NoDesc	1	1	1	48		40				66	217	pr204	18	8	21	Soulshatter										blac	nknf	nscy													
+NoDesc	1			48		40				33	217	pr204	20	7	14	Horned God										blac	orb	stor													
+NoDesc	1			48		40				33	217	pr204	21	21	29	Holy Trap										blac	scep														
+NoDesc	1	1	1	48		40				33	217	pr204	22	16	22	Fear Bomb Totem										blac	wand	nstf	nknf	nscy	head										
+NoDesc	1	1	1	48		40				33	217	pr204	1005	27	30	Disintegrate										blac	staf														
+NoDesc	1	1	1	48		40				33	217	pr204	809	21	26	Rune of Fire										blac	h2h	boot													
+NoDesc	1	1	1	48		40				33	217	pr204	1008	21	26	Rune of Ice										blac	h2h	boot													
+NoDesc	1	1	1	24		20				33	217	pr204	1021	19	28	Summon Darklings										blac	nstf	wand	head												
+NoDesc	1		1	80		80				82	206	pr28		351	400												weap							wand	orb	staf					
+NoDesc	1		1	80		60				9	206	pr28		351	400	Crystalline	pr52		-50	-50							swor	axe	spea												
+NoDesc	1	1	1	1	21					168	203	pr8		1	5											lpur	pelt														
+NoDesc	1	1	1	8	31	6				232	203	pr8		6	10											lpur	pelt														
+NoDesc	1	1	1	14	42	12				40	203	pr8		11	15											lpur	pelt														
+NoDesc	1	1	1	20	53	17				104	203	pr8		16	20											lpur	pelt														
+NoDesc	1	1	1	27	63	22				168	203	pr8		21	25											lpur	pelt														
+NoDesc	1	1	1	33	74	28				232	203	pr8		26	30											lpur	pelt														
+NoDesc	1	1	1	40	85	33				40	203	pr8		31	35											lpur	pelt														
+NoDesc	1	1	1	46	90	38				27	203	pr8		36	40											lpur	pelt														
+NoDesc	1	1	1	52	90	44				83	203	pr8		41	45											lpur	pelt														
+NoDesc	1	1	1	59	90	49				139	203	pr8		46	50											lpur	pelt														
+NoDesc	1	1	1	80		66				65	203	pr8		51	75											lpur	pelt														
+NoDesc	1	1	1	8	50	6				30	223	pr127	833	10	39	Bloodstar											bow	thro													
+NoDesc	1		1	24		20				40	223	pr127	318	2	36	Pounce											mele							staf	wand	orb					
+NoDesc	1	1	1	40		33				50	223	pr127	998	15	9	Frozen Soul											bow	thro													
+NoDesc	1	1	1	56		46				60	223	pr127	682	1	16	Brimstone											mele							staf	wand	orb					
+NoDesc	1	1	1	72		60				70	223	pr127	811	5	56	Death Star											weap							staf	wand	orb					
+NoDesc	1	1	1	8	50	6				30	223	pr126	467	20	11	Lorenado											glov														
+NoDesc	1	1	1	24		20				40	223	pr126	311	5	27	Lava Pit											amul														
+NoDesc	1	1	1	40		33				50	223	pr126	980	7	5	Stormblast											glov														
+NoDesc	1		1	56		46				60	223	pr126	964	20	8	Earthquake											boot														
+NoDesc	1	1	1	72		60				70	223	pr126	963	5	13	Disintegrate											belt														
+NoDesc	1	1	1	8	50	6				30	223	pr197	458	5	27	Frigid Sphere											helm														
+NoDesc	1	1	1	24		20				40	223	pr197	450	2	43	Hymn											amul	scep	scyh												
+NoDesc	1	1	1	40		33				50	223	pr197	981	2	11	Lionheart											aspe	nagi													
+NoDesc	1	1	1	56		46				60	223	pr197	680	5	49	Supernova											ring														
+NoDesc	1	1	1	72		60				70	223	pr197	763	2	15	Dire Charm											shld														
+NoDesc	1	1	1	20		17				40	224	pr330	2	1336	1553												weap	amul													
+NoDesc	1	1	1	80		66				50	224	pr330	5	1336	1553												weap	amul	ring	glov											
+NoDesc	1		1	48		40				40	217	pr204	30	39	46	Rain of Bombs										blac	phlm														
+NoDesc	1	1	1	24		20				40	217	pr204	30	16	22	Rain of Bombs										blac	h2h														
+NoDesc	1	1	1	80		80				82	206	pr28		351	500												2hax	spea	bow	xbow	pham	scyh	nagi								
+NoDesc	1	1	1	80		80				82	206	pr28		501	750												2hax	spea	bow	xbow	pham	scyh	nagi								
+NoDesc	1	1	1	80		60				9	206	pr28		751	1000												2hax	spea	bow	xbow	pham	scyh	nagi								
+NoDesc	1	1	1	80		80				82	206	pr28		351	500												2hbx														
+NoDesc	1	1	1	80		80				82	206	pr28		501	750												2hbx														
+NoDesc	1	1	1	80		60				9	206	pr28		751	1000												2hbx														
+NoDesc	1	1	1	80		80				82	206	pr28		351	400												jave	tkni	taxe	pclb	pmac	axe	swor	2hax	bswd	ajav					
+NoDesc	1	1	1	80		60				9	206	pr28		401	500												jave	tkni	taxe	pclb	pmac	axe	swor	2hax	bswd	ajav					
+NoDesc	1	1	1	80		80				82	206	pr28		351	400												knif	h2h	club	mace	crsd	scep		scrd							
+NoDesc	1	1	1	80		60				9	206	pr28		401	500												knif	h2h	club	mace	crsd	scep		scrd							
+NoDesc	1	1	1	80		80				82	206	pr28		351	500												bswd	2hsd	scrd	hamm	ajav	baxe		2hbx							
+NoDesc	1	1	1	80		60				9	206	pr28		501	750												bswd	2hsd	scrd	hamm	ajav	baxe		2hbx							
+NoDesc	1	1	1	56		46				90	223	pr126	498	9	11	Mon Claw Tornado Effect											mele							orb	staf	wand					
+NoDesc	1	1	1	56		46				90	223	pr127	806	18	10	Mon Tknife											tkni	bow	xbow												
+NoDesc	1	1	1	56		46				90	223	pr127	628	6	30	Itemless Scorpion Blade											tkni														
+NoDesc				72		60				120	223	pr197	962	10	25	Item Deathstrikes											bow	xbow													
+NoDesc	1	1	1	72		60				120	223	pr126	821	1	14	NTCS											nscy	aspe	nagi					orb	staf	wand					
+NoDesc	1	1	1	56		46				90	223	pr197	884	9	19	ATMG Sentry											weap							orb	staf	wand					
+NoDesc	1	1	1	56		46				90	223	pr197	507	12	15	Mon Flurry of Javelins											jave														
+NoDesc	1	1	1	72		60				120	223	pr197	779	15	20	Mon Safe Spike Nova											mele							orb	staf	wand					
+NoDesc	1	1	1	72		60				30	223	pr126	832	15	5	Hammertime											mele							orb	staf	wand					
+NoDesc	1	1	1	48		40				33	217	pr204	882	8	10	Player Dynamite										blac	phlm														
+NoDesc	1	1	1	48		40				33	217	pr204	636	3	7	Silver Streak										blac	xbow	nxbw													
+NoDesc	1	1	1	48		40				33	217	pr204	637	7	10	Exorcism										blac	pham	pmac	pclb												
+NoDesc	1	1	1	48		40				33	217	pr204	839	1	3	Blood Fury										blac	azhm	azsd													
+NoDesc	1			48		40				99	217	pr204	13	1	16	Frag Shot										blac	nxbw														
+NoDesc	1	1	1	48		40				33	217	pr204	57	4	14	Mana Tide Totem										blac	nstf	nxbw	head	wand											
+NoDesc	1			48		40				33	217	pr204	58	4	14	Elemental Totem										blac	nstf	nxbw	head	wand											
+NoDesc	1	1	1	48		40				33	217	pr204	83	24	29	Totembound Guardian										blac	nstf	nxbw	head	wand											
+NoDesc	1	1	1	48		40				33	217	pr204	153	14	28	Nova Bomb										blac	h2h	ishd													
+NoDesc	1	1	1	48		40				33	217	pr204	154	14	28	Immolation Bomb										blac	h2h	ishd													
+NoDesc	1	1	1	48		40				33	217	pr204	119	22	30	Hailstorm										blac	amul														
+NoDesc	1	1	1	72		60				30	223	pr197	119	4	46	Hailstorm											pspe	nagi													
+NoDesc	1	1	1	48		40				33	217	pr204	24	40	45	OHMAN										blac	bow	xbow													
+NoDesc	1	1	1	48		40				33	217	pr204	236	12	16	Lightning Arena										blac	amul														
+NoDesc	1	1	1	56		46				90	223	pr126	681	15	38	Searing Glow											mele							orb	staf	wand					
+NoDesc	1	1	1	56		46				90	223	pr126	312	50	22	Balefire											mele							orb	staf	wand					
+NoDesc	1	1	1	72		60				90	223	pr127	695	9	31	Shadow Blade											tkni														
+NoDesc	1	1	1	72		60				90	223	pr197	962	2	25	Item Deathstrikes											bow	xbow													
+NoDesc	1	1	1	48		40				33	217	pr204	688	4	9	Conquest										blac	phlm														
+NoDesc	1	1	1	48		40				33	217	pr204	711	4	9	Death Shards										blac	jave														
+NoDesc	1	1	1	48		40				33	217	pr204	351	6	11	Earthquake										blac	pham	pmac	pclb	pspe											
+NoDesc	1	1	1	48		40				33	217	pr204	884	5	7	ATMG Sentry										blac	h2h	ishd													
+NoDesc	1	1	1	24		20				33	217	pr204	903	6	10	Arrow Swarm										blac	bow	xbow													
+NoDesc	1	1	1	24		20				33	217	pr204	904	6	10	Clobber										blac	mele														
+NoDesc	1	1	1	24		20				66	217	pr204	19	6	12	Black Lotus Strike										blac	amul														
+NoDesc	1	1	1	24		20				66	217	pr204	20	6	12	Death Blossom										blac	amul														
+NoDesc	1	1	1	24		20				66	217	pr204	840	6	12	Shock Flower										blac	amul														
+NoDesc	1	1	1	24		20				66	217	pr204	68	11	14	Danse Macabre										blac	h2h														
+NoDesc	1	1	1	24		20				66	217	pr204	263	6	13	Punisher										blac	pzhm	pclb													
+NoDesc	1	1	1	48		40				33	217	pr204	76	14	19	Wrath										blac	pzhm														
+NoDesc	1	1	1	48		60				30	217	pr204	705	16	18	Vortex										blac	stor														
+NoDesc	1	1	1	48		60				30	217	pr204	139	18	26	Diseased Cattle										blac	stor														
+NoDesc	1	1	1	40		30				82	224	pr114		6	10												weap														
+NoDesc	1	1	1	80		80				82	224	pr114		11	20												weap														
+NoDesc	1	1	1	90		90				33	217	pr204	479	18	29	Kraken Stance										blac	phlm														
+NoDesc	1	1	1	56		46				33	217	pr204	118	11	17	Reward Hounfor										blac	nstf	head													
+NoDesc	1	1	1	80		80				44	224	pr114		21	30												weap														
+NoDesc	1	1	1	72		60				41	223	pr197	118	1	5	Reward Hounfor											nscy														
+NoDesc	1	1	1	72		60				60	223	pr126	114	2	1	NTMY											amul														
+NoDesc	1	1	1	72		60				62	223	pr128	129	2	12	Innate Force Wall											belt														
+NoDesc	1	1	1	48		40				40	223	pr197	109	1	16	Innate Pain Wall											glov														
+NoDesc	1	1	1	56		46				42	223	pr126	98	3	11	NTSB											pzhm														
+NoDesc	1	1	1	1		1				120	223	pr199	455	100	57	Firedance											boot														
+NoDesc	1			80		80				80	223	pr127	472	2	28	Familiar											bow	xbow													
+NoDesc	1	1	1	56		46				62	223	pr126	468	20	21	Miasma											mele							orb	staf						
+NoDesc	1	1	1	40		30				71	223	pr198	645	100	10	Mind Wave											helm														
+NoDesc	1	1	1	72		60				3	223	pr197	832	7	6	Hammertime											weap							orb	staf	wand					
+NoDesc	1	1	1	40		30				82	224	pr471		1	1												nstf														
+NoDesc	1	1	1	80		60				66	224	pr285		3	4												nstf														
+NoDesc	1	1	1	60		45				64	224	pr285		1	2												wand	head	nstf												
+NoDesc	1	1	1	72		60				41	223	pr197	476	2	10	Mon Inflict Blackness											ring														
+NoDesc	1	1	1	48		40				33	217	pr204	15	2	7	Shunpo										blac	nagi														
+NoDesc	1	1	1	24		20				60	217	pr204	1024	9	22	Phoenix Wave										blac	staf	wand													
+NoDesc	1	1	1	1		1				33	217	pr204	1025	2	6	Splitfire										blac	glov														
+NoDesc	1	1	1	24		20				60	217	pr204	1026	9	22	Stormfront										blac	staf	wand													
+NoDesc	1	1	1	1		1				33	217	pr204	1027	2	6	New Static Spike										blac	belt														
+NoDesc	1	1	1	24		20				60	217	pr204	1028	9	22	Avalanche										blac	staf	wand													
+NoDesc	1	1	1	1		1				33	217	pr204	1029	2	6	Churel										blac	boot														
+NoDesc	1	1	1	24		20				33	217	pr204	1030	4	15	Devouring Acid										blac	glov														
+NoDesc	1	1	1	24		20				33	217	pr204	1031	4	15	Emerald Prison										blac	glov														
+NoDesc	1	1	1	56		46				33	217	pr204	1032	2	8	Time Wave										blac	hamm	mace						pham	pmac						
+NoDesc	1	1	1	1		1				33	217	pr204	1033	2	4	Char Slicer Blade										blac	ring														
+NoDesc	1	1	1	24		20				24	217	pr204	1037	5	16	Psicrown										blac	circ														
+NoDesc	1	1	1	72		60				33	217	pr204	1025	14	20	Splitfire										blac	ring														
+NoDesc	1	1	1	72		60				33	217	pr204	1027	14	20	New Static Spike										blac	ring														
+NoDesc	1	1	1	72		60				33	217	pr204	1029	14	20	Churel										blac	ring														
+NoDesc	1	1	1	72		60				40	217	pr204	1030	17	26	Devouring Acid										blac	amul														
+NoDesc	1	1	1	72		60				40	217	pr204	1031	17	26	Emerald Prison										blac	amul														
+NoDesc	1	1	1	24		20				32	217	pr204	632	9	15	Fire Star										blac	scep														
+NoDesc	1	1	1	24		20				32	217	pr204	566	9	15	Other Fire Cascade										blac	glov														
+NoDesc	1	1	1	48		40				52	217	pr204	571	5	9	Other Shackles of Ice										blac	glov														
+NoDesc	1	1	1	1		1				36	217	pr204	833	4	6	Bloodstar										blac	staf														
+NoDesc	1	1	1	1		1				36	217	pr204	807	4	6	Flash										blac	staf														
+NoDesc	1	1	1	1		1				36	217	pr204	1002	4	6	Venomous Spirit										blac	staf														
+NoDesc	1	1	1	1		1				21	217	pr204	998	4	6	Frozen Soul										blac	staf														
+NoDesc	1	1	1	72		60				42	217	pr204	789	17	21	Apocalypse										blac	boot														
+NoDesc	1	1	1	48		40				19	217	pr204	824	13	21	Meteor Shower										blac	helm							circ							
+NoDesc	1	1	1	48		40				19	217	pr204	825	13	21	Countdown										blac	belt														
+NoDesc	1	1	1	48		40				19	217	pr204	826	13	21	Ball Lightning										blac	glov														
+NoDesc	1	1	1	70		80				50	223	pr198	30	100	57												tors														
+NoDesc	1	1	1	80		90				20	223	pr126	78	5	7												tors														
+NoDesc	1	1	1	70		80				50	223	pr198	399	100	48												tors														
+NoDesc	1	1		1						10	299	pr490		1	144												phbx														
+NoDesc	1	1	1	72		60				20	217	pr204	480	11	19											blac	dstf	pmac	pclb	nstf											
+NoDesc	1	1	1	72		95				20	217	pr204	682	16	24											blac	scep	pzhm	circ												
+NoDesc	1	1	1	72		90				25	217	pr204	1192	9	15											blac	staf	wand	ashd												
+NoDesc	1	1		1						10	298	pr491		-1	-1												shco														
+NoDesc	1	1	1	80		88				36	217	pr204	120	21	28											blac	dstf														
+NoDesc	1	1	1	80		88				20	217	pr204	424	13	19											blac	orb														
+NoDesc	1	1	1	80		93				5	217	pr204	436	29	36											blac	pclb	pham	pspe	pmac											
+NoDesc	1	1	1	80		93				5	217	pr204	431	3	12											blac	pclb	pham	pspe	pmac											

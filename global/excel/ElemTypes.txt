@@ -1,0 +1,14 @@
+Elemental Type	Code
+    	    
+fire	fire
+ltng	ltng
+mag 	mag 
+cold	cold
+pois	pois
+life	life
+mana	mana
+stam	stam
+stun	stun
+rand	rand
+burn	burn
+frze	frze

@@ -1,0 +1,10 @@
+Hireling Description	Code
+    	    
+farw	farw
+carw	carw
+comb	comb
+def 	def 
+off 	off 
+fire	fire
+cold	cold
+ltng	ltng

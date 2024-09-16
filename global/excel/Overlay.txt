@@ -1,0 +1,552 @@
+overlay	Filename	version	Frames	Character	PreDraw	1ofN	Dir	Open	Beta	Xoffset	Yoffset	Height1	Height2	Height3	Height4	AnimRate	LoopWaitTime	Trans	InitRadius	Radius	Red	Green	Blue	NumDirections	LocalBlood
+ol0	null		2	all		1		1	1							16		3			255	255	255	1	
+ol1	extra\ThunderboltShockSmall		20	?		1		1	1							16		3	11	11	255	255	255	1	
+ol2	AuraResistFireFrontCast		11	Paladin	1	1		1	1							16		3	1	10	255	193	103	1	
+ol3	AuraResistFireFront		20	Paladin	1	1		1	1							16		3	6	6	255	193	103	1	
+ol4	AuraResistColdBackCast		11	Paladin		1		1	1							16		3	1	10	210	210	255	1	
+ol5	AuraResistColdBack		20	Paladin	1	1		1	1							16		3	6	6	210	210	255	1	
+ol6	AuraResistLightningBackCast		11	Paladin		1		1	1							16		3	1	10	255	255	200	1	
+ol7	AuraResistLightningBack		20	Paladin	1	1		1	1							16		3	6	6	255	255	200	1	
+ol8	AuraResistAllCast		20	Paladin	1	1										16		3	1	10	211	148	255	1	
+ol9	AuraResistAllFront		20	Paladin		1										16		3	6	6	211	148	255	1	
+ol10	AuraResistAllBack		20	Paladin	1	1										16		3	6	6	211	148	255	1	
+ol11	AuraMightFront		15	Paladin		1		1	1	4						16		3			255	255	255	1	
+ol12	AuraMightBack		15	Paladin	1	1		1	1	4						16		3			255	255	255	1	
+ol13	AuraPrayerFront		16	Paladin		1		1	1							8		3			255	255	255	1	
+ol14	AuraPrayerBack		16	Paladin	1	1		1	1							8		3			255	255	255	1	
+ol15	AuraHolyFireFront		12	Paladin		1		1	1							16		3			255	255	255	1	
+ol16	AuraHolyFireBack		12	Paladin	1	1		1	1							16		3			255	255	255	1	
+ol17	AuraHolyFireHit		12	Paladin		1		1	1							16		3			255	255	255	1	
+ol18	AuraHfireIndicate		19	Paladin		1		1	1							16		3			255	255	255	1	
+ol19	AuraThornsFront		18	Paladin		1		1	1							16		3			255	255	255	1	
+ol20	AuraThornsBack		18	Paladin	1	1		1	1							16		3			255	255	255	1	
+ol21	AuraThornsHit		10	Paladin		1		1	1							16		3			255	255	255	1	
+ol22	AuraHfireIndicate		19	Paladin		1		1	1							16		3			255	255	255	1	
+ol23	AuraDefianceFront		15	Paladin		1		1	1							8		3			255	255	255	1	
+ol24	AuraDefianceBack		15	Paladin	1	1		1	1							8		3			255	255	255	1	
+ol25	AuraFanatic		20	Paladin	1	1										16		3			255	255	255	1	
+ol26	OverlayH		17	?		1		1	1							16		3			255	255	255	1	
+ol27	AmazonHealSpell		20	Amazon		1		1	1							16		3	1	8	255	184	199	1	
+ol28	HolyBoltCloud		16	?		1		1	1							16		3						1	
+ol29	FireCast_for_Sorceress		14	Sorceress		1		1	1							16		3	1	9	255	178	64	1	
+ol30	FireCast2		16	Sorceress		1		1	1							16		3	1	9	255	178	64	1	
+ol31	IceCastNew01		15	Sorceress		1		1	1							16		3	1	9	81	81	255	1	
+ol32	IceCastNew02		15	Sorceress		1		1	1							16		3	1	9	81	81	255	1	
+ol33	IceCastNew03		15	Sorceress		1		1	1							16		3	1	9	81	81	255	1	
+ol34	LightningCast		10	Sorceress		1		1	1							16		3	1	9	255	255	255	1	
+ol35	FireExplode		12	?		1		1	1							16		3	14	14	255	193	103	1	
+ol36	IceExplode		16	?		1		1	1							16		3	14	14	210	210	255	1	
+ol37	Warmth		14	?		1		1	1							16		3	1	8	255	193	103	1	
+ol38	FrozenArmor		24	Sorceress		1		1	1							16		3	1	13	200	200	255	1	
+ol39	FrozenArmor		24	Sorceress		1		1	1							16		3	1	13	200	200	255	1	
+ol40	FrozenArmor		24	Sorceress		1		1	1							16		3	1	13	200	200	255	1	
+ol41	AuraResistColdCast		11	Sorceress	1	1						14		-14	-60	24		3	1	6	81	81	255	1	
+ol42	AuraResistColdCast		11	Sorceress	1	1						14		-14	-60	24		3	1	6	81	81	255	1	
+ol43	AuraResistColdCast		11	Sorceress	1	1		1	1			14		-14	-60	24		3	1	6	81	81	255	1	
+ol44	AuraResistColdCast		11	Sorceress	1	1						14		-14	-60	24		3	1	6	81	81	255	1	
+ol45	Teleport		18	Sorceress		1										16		3	1	5	255	255	200	1	
+ol46	SRFireHit		16	Sorceress		1		1	1							16		3			255	193	103	1	
+ol47	EOZCast		29	Amazon		1		1	1							16		3	1	6	255	255	255	1	
+ol48	HardenArmor		24	Amazon		1		1	1							16		3	6	6	255	255	255	1	
+ol49	HOAcast		21	Amazon		1		1	1							16		3	1	6	255	255	255	1	
+ol50	HOAmissileExplode		9	Amazon		1										16		3	2	2	255	255	255	1	
+ol51	FOACast		20	Amazon		1										16		3	1	6	255	255	255	1	
+ol52	DurielBloodsplatOverlayFwd		26	?	1	1										8		5			255	255	255	1	1
+ol53	FamiliarCast		21	Necro		1		1	1							16		3			255	255	255	1	
+ol54	impacting01		4	all		3		1	1			14		-14	-60	16		3			255	255	255	1	
+ol55	impacting02		4	all		2		1	1			14		-14	-60	16		3			255	255	255	1	
+ol56	impacting03		4	all		1		1	1			14		-14	-60	16		3			255	255	255	1	
+ol57	ShrineShimmer00		15	all		1		1	1			14		-14	-60	8		3			255	255	255	1	
+ol58	ShrineShimmer01		15	all		1		1	1			14		-14	-60	8		3			255	255	255	1	
+ol59	ShrineArmor		15	all		1		1	1			14		-14	-60	8		3			255	255	255	1	
+ol60	ShrineCombat		15	all		1		1	1			14		-14	-60	8		3			255	255	255	1	
+ol61	ShrineResistLightning		15	all		1		1	1			14		-14	-60	8		3			255	255	255	1	
+ol62	ShrineResistFire		15	all		1		1	1			14		-14	-60	8		3			255	255	255	1	
+ol63	ShrineResistCold		15	all		1		1	1			14		-14	-60	8		3			255	255	255	1	
+ol64	ShrineResistPoison		15	all		1		1	1			14		-14	-60	8		3			255	255	255	1	
+ol65	ShrineSkill		15	all		1		1	1			14		-14	-60	8		3			255	255	255	1	
+ol66	ShrineManaRegen		15	all		1		1	1			14		-14	-60	8		3			255	255	255	1	
+ol67	ShrineStamina		15	all		1		1	1			14		-14	-60	8		3			255	255	255	1	
+ol68	ShrineExperience		15	all		1		1	1			14		-14	-60	8		3			255	255	255	1	
+ol69	CurseHit		10	all		1		1	1							16		3	1	10	255	193	103	1	
+ol70	Gleam		8	item		1		1	1							16	4000	3			255	255	255	1	
+ol71	multigleam		10	objects		1										10	4000	3			255	255	255	1	
+ol72	NPCSpeechBalloon		16	npcs		1		1	1	-5	-7	-30			-50	9	7000	3			255	255	255	1	
+ol73	Gleam		8	test		1		1	1	10	-14					11	4000	3			255	255	255	1	
+ol74	Gleam		8	test		1		1	1	-10	-12					12	4000	3			255	255	255	1	
+ol75	ShoutStart		20	all		1		1	1							8		3	1	6	255	255	255	1	
+ol76	Shout		20	all		1		1	1							8		3	1	6	255	255	255	1	
+ol77	CurseConfuseEffect		24	all		1		1	1							16		3	1	6	255	193	103	1	
+ol78	Zakarum_Priest_DeathGlow		24	all		1		1	1							8		3	2	2	103	193	255	1	
+ol79	ThornedHulkDeathOverlay		25	all		1		1	1							16		3	2	2	255	193	103	1	
+ol80	BAJumpLandPuff01		8	all		1		1	1							8		3			255	255	255	1	
+ol81	FireHit		8	all		1		1	1							16		3	3	1	255	193	103	1	
+ol82	FrogExplode		14	all		1		1	1							16		3			255	255	255	1	
+ol83	FetishFreakOut		16	all		1		1	1							16		3			255	255	255	1	
+ol84	brraisedeadfront		16	all		1		1	1							16		3	3	5	128	128	255	1	
+ol85	brraisedeadback		16	all	1	1		1	1							16		3	3	5	128	128	255	1	
+ol86	ManaShieldBall		8	Sorceress		1										8		5			255	255	255	1	
+ol87	ManaShieldDir00		9	Sorceress		1										16		3	3	3	255	255	255	1	
+ol88	ManaShieldDir02		9	Sorceress		1										16		3	3	3	255	255	255	1	
+ol89	ManaShieldDir04		9	Sorceress		1										16		3	3	3	255	255	255	1	
+ol90	ManaShieldDir06		9	Sorceress	1	1										16		3	3	3	255	255	255	1	
+ol91	ManaShieldDir08		9	Sorceress	1	1										16		3	3	3	255	255	255	1	
+ol92	ManaShieldDir10		9	Sorceress	1	1										16		3	3	3	255	255	255	1	
+ol93	ManaShieldDir12		9	Sorceress		1										16		3	3	3	255	255	255	1	
+ol94	ManaShieldDir14		9	Sorceress		1										16		3	3	3	255	255	255	1	
+ol95	ChillBloodPuff_curse		14	all	1	1						14		-14	-60	16		3	3	3	81	81	255	1	
+ol96	null		2	Sorceress		1										16		3	8	8	255	255	255	1	
+ol97	ThunderstormCast_operate		19	Sorceress	1	1										16		3	8	8	255	255	255	1	
+ol98	ThunderstormCast		10	Sorceress		1										16		3	1	8	255	255	255	1	
+ol99	BlessedAim_front		10	Paladin		1		1	1							8		3			255	255	255	1	
+ol100	BlessedAim_back		10	Paladin	1	1		1	1							8		3			255	255	255	1	
+ol101	Stamina_front		16	Paladin		1										8		3			255	255	255	1	
+ol102	Stamina_back		16	Paladin	1	1										8		3			255	255	255	1	
+ol103	Concentration_front		10	Paladin		1										3		3			255	255	255	1	
+ol104	Concentration_back		10	Paladin	1	1										3		3			255	255	255	1	
+ol105	HolyFreeze		15	Paladin	1	1										8		3			255	255	255	1	
+ol106	Cleansing_front		16	Paladin		1		1	1							8		3			255	255	255	1	
+ol107	Cleansing_back		16	Paladin	1	1		1	1							8		3			255	255	255	1	
+ol108	HolyShock_front		14	Paladin		1										16		3			255	255	255	1	
+ol109	HolyShock_back		14	Paladin	1	1										16		3			255	255	255	1	
+ol110	ShockHitSm		20	all		1						14		-14	-60	16		3	11	11	255	255	255	1	
+ol111	SanctuaryAura_Front		12	Paladin	1	1					-1					16		3			255	255	255	1	
+ol112	SanctuaryAura_Back		12	Paladin	1	1										16		3			255	255	255	1	
+ol113	SanctuaryKnockback		13	all		1										8		3			255	255	255	1	
+ol114	Meditation		13	Paladin		1										16		3			255	255	255	1	
+ol115	null		2	Paladin	1	1										16		3			255	255	255	1	
+ol116	Fanatacism_Front		30	Paladin		1					-1					6		3			255	255	255	1	
+ol117	Fanatacism_Back		30	Paladin	1	1										6		3			255	255	255	1	
+ol118	null		2	Paladin		1										16		3			255	255	255	1	
+ol119	CurseRevVampireHit		13	Paladin	1	1										16		3			255	255	255	1	
+ol120	null		2	Paladin		1										16		3			255	255	255	1	
+ol121	Conviction		21	all	1	1										6		3			255	255	255	1	
+ol122	MephistoOverlay		26	Monster		1										16		3			255	255	255	1	
+ol123	AuraResistColdBackCast		11	Monster		1						14		-14	-60	16		3	1	10	210	210	255	1	
+ol124	Conversion		10	Monster		1										8		3			255	255	255	1	
+ol125	Charge		8	Paladin		1										16		3			255	255	255	1	
+ol126	FingerMageSpiderXplode		6	Monster		1		1	1							16		3	1	3	255			1	
+ol127	FingerMageCurse		15	Monster		1		1	1							16		3	1	3	255			1	
+ol128	CurseAmplifyDamageEffect		24	all		1		1	1			14		-14	-60	16		3	1	6	255	64	64	1	
+ol129	CurseDimVisionEffect		24	all		1		1	1			14		-14	-60	16		3			255	255	255	1	
+ol130	CurseWeakenEffect		24	all		1		1	1			14		-14	-60	16		3	1	6	255	210	210	1	
+ol131	CurseIronMaidenEffect		29	all		1		1	1			14		-14	-60	16		3	1	6	255			1	
+ol132	CurseTerrorEffect		20	all		1		1	1			14		-14	-60	16		3			255	255	255	1	
+ol133	CurseAttractHarmEffect		24	all		1						14		-14	-60	16		3	1	6	255			1	
+ol134	CurseReverseVampireEffect		24	all		1						14		-14	-60	16		3						1	
+ol135	CurseConfuseEffect		24	all		1						14		-14	-60	16		3	1	6		255		1	
+ol136	CurseDecrepifyEffect		24	all		1						14		-14	-60	16		3	1	6			255	1	
+ol137	CurseLowerResistEffect		29	all		1						14		-14	-60	16		3	1	6			255	1	
+ol138	AuraThornsHit		10	all		1						14		-14	-60	16		3			255	255	255	1	
+ol139	CurseRevVampireHit		13	all		1						14		-14	-60	16		3			255	255	255	1	
+ol140	BoneShieldEmerge		12	Necro		1		1	1							16		3			255	255	255	1	
+ol141	BoneShieldFront		24	Necro		1		1	1							16		3			255	255	255	1	
+ol142	BoneShieldBack		24	Necro	1	1		1	1							16		3			255	255	255	1	
+ol143	null		2	Necro		1		1	1							4		3						1	
+ol144	null		2	Necro		1		1	1							2		3						1	
+ol145	RedShockEffectSmall		20	Monster		1										16		3			255	255	255	1	
+ol146	vdfeathers		26	Monster		1										16		5	2	2	255	255	255	4	
+ol147	BABash		9	all		1		1	1			14		-14	-60	16		3						1	
+ol148	Stun		12	all		1		1	1			14		-14	-60	16		3						1	
+ol149	BattleCry		15	all		1						14		-14	-60	8		3						1	
+ol150	SRIceHit		16	Monster		1		1	1							16		3			103	193	255	1	
+ol151	CurseRevVampireHit		13	all		1		1	1							16		3			255	255	255	1	
+ol152	VampiricHitMana		13	all		1		1	1							16		3			255	255	255	1	
+ol153	FireEnchant		17	Sorceress		1										16		3	1	9	255	178	64	1	
+ol154	BattleOrdersStart		11	all		1										8		3			255	255	255	1	
+ol155	BattleOrders		20	all		1										8		3			255	255	255	1	
+ol156	DurielBloodsplatOverlayRear		26	?	1	1										8		5			255	255	255	1	1
+ol157	BloodRipple		16	Monster		1										8		8	2	2				1	1
+ol158	HolyShockHit		21	all		1										16		3	2	2	255	255	255	1	
+ol159	BattleCommandStart		20	all		1										8		3			255	255	255	1	
+ol160	BattleCommand		20	all		1										8		3			255	255	255	1	
+ol161	BerserkOverlay		24	Bar		1										16		3			255	255	255	1	
+ol162	null		2	Bar	1	1										16		3			255	255	255	1	
+ol163	Frenzy		25	Bar		1										16		3			255	255	255	1	
+ol164	FireGolemOverlay		16	all		1										10		3	2	5	255			1	
+ol165	ValkarieEmerge		16	all		1										16		3			255	255	255	1	
+ol166	ValkarieGlow		20	all	1	1				5						8		3	5	10	255	96		1	
+ol167	BAWhirlwind01		8	Bar		1										16								1	
+ol168	VampiricHitHealth		8	all		1										16		3			255	255	255	1	
+ol169	FingerMageFlames		14	Monster		1		1	1							16		3	2	2	255	64	64	1	
+ol170	WarcryHit		16	Monster		1										16		3			255	255	255	1	
+ol171	DopplezonAppear		19	Monster		1										16		3	1	4	255	255	255	1	
+ol172	HydraGroundFireStart		16	Monster		1				-6	-11					16		3			255	255	255	1	
+ol173	HydraGroundFireStart		16	Monster		1					-7					16		3			255	255	255	1	
+ol174	HydraGroundFireStart		16	Monster		1				4	-15					16		3			255	255	255	1	
+ol175	HydraGroundFire		20	Monster		1				-6	-11					16		3			255	255	255	1	
+ol176	HydraGroundFire		20	Monster		1					-7					16		3			255	255	255	1	
+ol177	HydraGroundFire		20	Monster		1				4	-15					16		3			255	255	255	1	
+ol178	HydraGroundFireEnd		16	Monster		1				-6	-11					16		3			255	255	255	1	
+ol179	HydraGroundFireEnd		16	Monster		1					-7					16		3			255	255	255	1	
+ol180	HydraGroundFireEnd		16	Monster		1				4	-15					16		3			255	255	255	1	
+ol181	LIGHTJET		13	object		1										4		3			255	255	255	1	
+ol182	HoradricLightBeam		21	object		1										5		3			255	255	255	1	
+ol183	FrenzyThornhulk		25	Monster		1										16		3			255	255	255	1	
+ol184	willodeathoverlay		20	Monster		1										20		3	1	4	178	178	178	1	
+ol185	firedeath		20	Monster		1										8		3	2	2	255	64	64	1	
+ol186	LightningCastRunesFront		10	Sorceress		1		1	1							16		3	1	9	255	255	255	1	
+ol187	UMFire		20	Monster		1										16		3	2	2	255	255	255	1	
+ol188	BoneFetishDeathBones		11	Monster		1										16		5			255	255	255	1	
+ol189	BoneFetishDeathCloud		10	Monster		1										16		3			255	255	255	1	
+Expansion																									
+ol190	Expansion\PsyHammerHit	100	7	all		1						14		-14	-60	16		3			255	255	255	1	
+ol191	Expansion\PsyHammerOverlay	100	10	all		1										16		3			255	255	255	1	
+ol192	Expansion\PsyHammerOverlay	100	10	all		1										16		3			255	255	255	1	
+ol193	Willodeathoverlay	100	20	all		1										16		3			255	255	255	1	
+ol194	Expansion\Fire_Overlay_A	100	21	all		1										16		3			255	255	255	1	
+ol195	Expansion\Fire_Overlay_B	100	21	all		1										16		3			255	255	255	1	
+ol196	Expansion\ColdWindOverlay	100	21	all		1										16		3			255	255	255	1	
+ol197	Expansion\SeigeBeast_Dust	100	14	all		1										16		3			255	255	255	1	
+ol198	expansion\druidmorph	100	13	all		1										20		3			255	255	255	1	
+ol199	expansion\druidmorph	100	13	all		1										10		3			255	255	255	1	
+ol200	expansion\druidmorph	100	13	all		1										20		3			255	255	255	1	
+ol201	expansion\druidmorph	100	13	all		1										10		3			255	255	255	1	
+ol202	Expansion\minionspawnover	100	20	all		1										16		3			255	255	255	1	
+ol203	BloodRipple	100	15	all	1	1										16		3			255	255	255	1	
+ol204	Expansion\Suicide_Death_Overlay	100	20	all		1										6		3			255	255	255	1	1
+ol205	Expansion\oak_sage_Aura	100	11	all	1	1										6		3			255	255	255	1	
+ol206	Expansion\volcano_Fire	100	29	all		1			1							16		3			255	255	255	1	
+ol207	Expansion\CycloneArmorAFront	100	11	Druid		1										16		3						1	
+ol208	Expansion\CycloneArmorABack	100	11	Druid	1	1										16		3						1	
+ol209	Expansion\CycloneArmorBFront	100	11	Druid		1										16		3						1	
+ol210	Expansion\CycloneArmorBBack	100	11	Druid	1	1										16		3						1	
+ol211	Expansion\CycloneArmorCFront	100	11	Druid		1										16		3						1	
+ol212	Expansion\CycloneArmorCBack	100	11	Druid	1	1										16		3						1	
+ol213	Expansion\CloakOfShadows	100	16	all		1						-46	-60	-74	-120	16		3	1	2	255	210	210	1	
+ol214	Expansion\DeadlyFistHit	100	5	all		1						14		-14	-60	16		3	3	3	255	255	255	1	
+ol215	Expansion\DeadlyFistHit	100	5	all		1						14		-14	-60	16		3	3	3	255	255	255	1	
+ol216	Expansion\TwisterFront	100	40	all		1			1							16		3						1	
+ol217	Expansion\TwisterBack	100	40	all	1	1			1							16		3						1	
+ol218	Expansion\blade_shield	100	20	Assasin		1										16		3						1	
+ol219	Expansion\rabies	100	30	all		1						14		-14	-60	16		3						1	
+ol220	Expansion\SpawnedBirthFlames	100	8	all		1										8		3	1	3	255			1	
+ol221	Expansion\SpawnedFlames	100	8	all	1	1										8		3	1	3	255			1	
+ol222	expansion\succcurseoverlay1	100	11	all		1						14		-14	-60	8		3	1	6	255	193	103	1	
+ol223	expansion\succcurseoverlay2	100	10	all		1		1	1			14		-14	-60	16		3						1	
+ol224	FetishFreakOut	100	16	all		1		1	1			14		-14	-60	8		3	1	6	255			1	
+ol225	Expansion\catadeathoversouth	100	21	all		1						14		-14	-60	8		3	1	6	255	64	64	1	
+ol226	Expansion\catadeathovereast	100	21	all		1						14		-14	-60	8		3	1	6	255	64	64	1	
+ol227	expansion\icecage_neutral	100	1	Monster		1																		1	
+ol228	expansion\icecage_melt	100	30	Monster		1										16								1	
+ol229	expansion\succ1deathoverlay	100	18	Monster		1										10		3						1	
+ol230	expansion\MISSILE_A_A	100	16	all		1										16		3						1	
+ol231	expansion\MISSILE_A_B	100	16	all		1										16		3						1	
+ol232	expansion\MISSILE_A_C	100	16	all		1										16		3						1	
+ol233	expansion\MISSILE_B_A	100	16	all		1										16		3						1	
+ol234	expansion\MISSILE_B_B	100	16	all		1										16		3						1	
+ol235	expansion\MISSILE_B_C	100	16	all		1										16		3						1	
+ol236	expansion\MISSILE_C_A	100	10	all		1										16		3						1	
+ol237	expansion\MISSILE_C_B	100	10	all		1										16		3						1	
+ol238	expansion\MISSILE_C_C	100	10	all		1										16		3						1	
+ol239	expansion\MISSILE_RED_A	100	16	all		1										16		3						1	
+ol240	expansion\MISSILE_RED_B	100	16	all		1										16		3						1	
+ol241	expansion\MISSILE_RED_C	100	16	all		1										16		3						1	
+ol242	FireCast_for_Sorceress	100	14	all		1										32		3						1	
+ol243	FireCast2	100	16	all		1										32		3						1	
+ol244	expansion\MISSILE_BLUE_A	100	16	all		1										16		3						1	
+ol245	expansion\MISSILE_BLUE_B	100	16	all		1										16		3						1	
+ol246	expansion\MISSILE_BLUE_C	100	16	all		1										16		3						1	
+ol247	IceCastNew01	100	15	all		1										16		3						1	
+ol248	IceCastNew02	100	15	all		1										32		3						1	
+ol249	expansion\MISSILE_WHITE_A	100	16	all		1										16		3						1	
+ol250	expansion\MISSILE_WHITE_B	100	16	all		1										16		3						1	
+ol251	expansion\MISSILE_WHITE_C	100	16	all		1										16		3						1	
+ol252	expansion\skill_norotate	100	10	all		1										16		3						1	
+ol253	expansion\skill_norotate	100	10	all		1										16		3						1	
+ol254	expansion\spirit_of_barbs	100	12	all	1	1										16		3						1	
+ol255	expansion\Heart_of_Wolverine	100	30	all	1	1										16		3						1	
+ol256	expansion\painwormcurse	100	10	all	1	1		1	1							8		3	2	2	255	178		1	
+ol257	expansion\quickness	100	9	Assasin	1	1										16		3						1	
+ol258	expansion\venomclaws	100	10	Assasin		1										16		3						1	
+ol259	expansion\DragonFlight	100	9	Assasin		1										16		3						1	
+ol260	expansion\Maul_A_Front	100	16	Druid		1										16		3						1	
+ol261	expansion\Maul_B_Front	100	16	Druid		1										16		3						1	
+ol262	expansion\Maul_C_Front	100	16	Druid		1										16		3						1	
+ol263	expansion\Maul_D_Front	100	16	Druid		1										16		3						1	
+ol264	expansion\Maul_E_Front	100	16	Druid		1										16		3						1	
+ol265	expansion\feral_rage_A_Front	100	16	Druid		1										16		3						1	
+ol266	expansion\feral_rage_B_Front	100	16	Druid		1										16		3						1	
+ol267	expansion\feral_rage_C_Front	100	16	Druid		1										16		3						1	
+ol268	expansion\feral_rage_D_Front	100	16	Druid		1										16		3						1	
+ol269	expansion\feral_rage_E_Front	100	16	Druid		1										16		3						1	
+ol270	expansion\ShadowAppear	100	16	Assasin		1										16		3						1	
+ol271	expansion\ShadowAppear	100	16	Assasin		1										16		3						1	
+ol272	expansion\fade	100	20	Assasin	1	1										16		3						1	
+ol273	expansion\DireWolfCharged	100	16	all		1										16		3						1	
+ol274	expansion\poisonhit	100	8	all		1										8		3						1	
+ol275	expansion\baalshield	100	11	all		1										8		3						1	
+ol276	expansion\dethsentry01	100	12	all		1										16		3						1	
+ol277	expansion\Maul_A_Back	100	16	Druid	1	1										16		3						1	
+ol278	expansion\Maul_B_Back	100	16	Druid	1	1										16		3						1	
+ol279	expansion\Maul_C_Back	100	16	Druid	1	1										16		3						1	
+ol280	expansion\Maul_D_Back	100	16	Druid	1	1										16		3						1	
+ol281	expansion\Maul_E_Back	100	16	Druid	1	1										16		3						1	
+ol282	expansion\feral_rage_A_Back	100	16	Druid	1	1										16		3						1	
+ol283	expansion\feral_rage_B_Back	100	16	Druid	1	1										16		3						1	
+ol284	expansion\feral_rage_C_Back	100	16	Druid	1	1										16		3						1	
+ol285	expansion\feral_rage_D_Back	100	16	Druid	1	1										16		3						1	
+ol286	expansion\feral_rage_E_Back	100	16	Druid	1	1										16		3						1	
+ol287	expansion\tiger_Strike_A	100	32	all		1										8		3						1	
+ol288	expansion\tiger_Strike_B	100	32	all		1										8		3						1	
+ol289	expansion\tiger_Strike_C	100	32	all		1										8		3						1	
+ol290	expansion\Cobra_Strike_A	100	16	Assasin		1										16		3						1	
+ol291	expansion\Cobra_Strike_B	100	16	Assasin		1										16		3						1	
+ol292	expansion\Cobra_Strike_C	100	16	Assasin		1										16		3						1	
+ol293	ApocMushroom2	100	29	all		1		1	1							32		3	7	7	255	178	64	1	
+ol294	BloodRipple	100	15	all	1	1		1	1							16		3	2	4	255			1	
+ol295	BloodFlashBack	100	19	all	1	1		1	1							16		3	6	8	255	128	128	1	
+ol296	BloodFlashFront	100	19	all		1		1	1							16		3	6	8	255	128	128	1	
+ol297	BloodRipple	100	15	all		1										16		3	2	6	255			1	1
+ol298	Extra\AmRedSpellSections	100	16	all	1	1										16		3						1	
+ol299	Extra\CurseEffectBlue	100	20	all		1		1	1			14		-14	-60	16		3	1	6	64	64	255	1	
+ol300	Extra\AmGreenSpellSections	100	16	all	1	1										16		3						1	
+ol301	expansion\succ1deathoverlay	100	18	all		1										10		3	3	7	255	178	64	1	
+ol302	Extra\EvilAura	100	21	all	1	1										6		3	6	6	255			1	
+ol303	Frenzy	100	25	all		1										16		3	6	8			255	1	
+ol304	FlashBack	100	19	all	1	1		1	1							16		3	6	8	128	128	255	1	
+ol305	FlashFront	100	19	all		1		1	1							16		3	6	8	128	128	255	1	
+ol306	MephistoOverlay	100	26	all	1	1										16		3	4	5	255			1	
+ol307	Extra\TauntCurse	100	21	all		1		1	1							16		3	4	10	255			1	
+ol308	HardenArmor	100	24	all		1		1	1							16		3			255	255	255	1	
+ol309	ShrineExperience	100	15	all		1		1	1			14		-14	-60	8		3			255	255	255	1	
+ol310	DopplezonExplodeBlue	100	25	all		1		1	1			14		-14	-60	16		3	4	6	128	255	128	1	
+ol311	MoonCast	100	16	all		1										24		3	2	4	128	128	255	1	
+ol312	DopplezonExplodeLilac	100	25	all		1		1	1			14		-14	-60	16		3	4	6	255		255	1	
+ol313	PoisonFlashBack	100	19	all	1	1		1	1							16		3	6	8	128	255	128	1	
+ol314	PoisonFlashFront	100	19	all		1		1	1							16		3	6	8	128	255	128	1	
+ol315	expansion\icecage_melt	100	30	all		1		1	1							16		3	12	12	192	192	255	1	
+ol316	expansion\icecage_neutral	100	1	all	1	1		1	1							16		3	12	12	192	192	255	1	
+ol317	vdfeathers	100	26	all		1										16		5	2	2	255	255	255	4	
+ol318	SlayerCloud	100	26	all	1	1										16		3	5	10	128	128	255	1	
+ol319	SunCast	100	16	all		1										24		3	2	4	255	255		1	
+ol320	GreenSpell	100	16	all	1	1										16		3						1	
+ol321	AmazonHealSpell	100	20	all		1		1	1							16		3	4	8	255	184	199	1	
+ol322	AuraFanatic	100	20	all		1										16		3	4	5	255	128	64	1	
+ol323	extra\AuraFanaticCast	100	11	all		1										16		3	4	5	255	128	64	1	
+ol324	extra\AuraThorns	100	20	all		1										16		3	4	5		255		1	
+ol325	extra\AuraThornsCast	100	11	all		1										16		3	4	5		255		1	
+ol326	extra\AuraAbsorb	100	20	all		1										16		3	4	5	255	172	64	1	
+ol327	extra\AuraAbsorbCast	100	11	all		1										16		3	4	5	255	172	64	1	
+ol328	extra\AuraInspiration	100	20	all		1										16		3	4	5		255		1	
+ol329	extra\AuraInspirationCast	100	11	all		1										16		3	4	5		255		1	
+ol330	extra\GolemCast	100	26	all		1										32		3	2	4	255	255		1	
+ol331	extra\GreaterMummyCast	100	16	all		1										16		3	2	4	255			1	
+ol332	expansion\ProjOverlay	100	21	all		1										64		3	2	4			255	1	
+ol333	expansion\suicide_death_overlay	100	20	all		1										16		3	2	4	255	128	64	1	
+ol334	expansion\bladeshield back	100	14	all	1	1										16		3						1	
+ol335	expansion\bladeshield front	100	14	all		1										16		3	2	4	255			1	
+ol336	extra\salvationaura_front	100	12	all		1										16		3	2	4	255			1	
+ol337	extra\WhiteFlash	100	5	all		1										16		3	2	10	255	255	255	1	
+ol338	BRSmokeS1	100	20	all		1										16		3						1	
+ol339	BRSmokeNU	100	20	all		1										16		3						1	
+ol340	BRSmokeDT	100	20	all		1										16		3						1	
+ol341	extra\AuraReflection	100	20	all		1										16		3	4	5			255	1	
+ol342	extra\AuraReflectionCast	100	11	all		1										16		3	4	5			255	1	
+ol343	extra\AuraResistLightning	100	20	all		1										16		3	4	5		255		1	
+ol344	extra\AuraResistLightningCast	100	11	all		1										16		3	4	5		255		1	
+ol345	extra\AuraDefiance	100	20	all		1										16		3	4	5	255			1	
+ol346	extra\AuraDefianceCast	100	11	all		1										16		3	4	5	255			1	
+ol347	extra\CurseIronMaidenHit	100	11	all		1		1	1			14		-14	-60	16		3	1	6	255	128		1	
+ol348	expansion\steamthick_a	100	10	all		1		1	1			14		-14	-60	16		3	1	6			255	1	
+ol349	extra\GreaterMummyCast	100	16	all		1										16		3	2	4	255			1	
+ol350	expansion\SpawnedFlames	100	8	all		1		1	1			14		-14	-60	16		3	1	6	255	128	64	1	
+ol351	extra\AuraResistFire	100	20	all		1										16		3	2	4	255	81	81	1	
+ol352	extra\AuraResistFireCast	100	11	all		1										16		3	2	6	255	81	81	1	
+ol353	extra\AuraResistCold	100	20	all		1										16		3	2	4	81	81	255	1	
+ol354	extra\AuraResistColdCast	100	11	all		1										16		3	2	6	81	81	255	1	
+ol355	expansion\oak_sage_overlay	100	7	all	1	1										16		3	2	8		255		1	
+ol356	expansion\catadeathovereast	100	21	all		1										16		3	2	4	255	255		1	
+ol357	extra\firesmoke.dcc	100	26	all		1										16		3	2	4	255			1	
+ol358	extra\AuraWhite	100	31	all		1										16		3	2	4		255	212	1	
+ol359	extra\AuraST_WH	100	16	all		1										16		3	2	6		255	212	1	
+ol360	expansion\MinionSpawnOver	100	21	all		1										48		3	2	4	255			1	
+ol361	expansion\catadeathovereast	100	21	all		1										16		3	2	4	255	64		1	
+ol362	extra\vengeance	100	14	all		1		1	1							16		3	8	10	211	148	255	1	
+ol363	AuraHolyFireHit	100	12	all		1		1	1							16		3	3	5	255			1	
+ol364	expansion\druidmorph	100	13	all		1										16		3	3	5	255			1	
+ol365	expansion\MISSILE_B_C	100	16	all		1						7		-7	-30	16		3	3	4		255		1	
+ol366	expansion\MISSILE_RED_C	100	16	all		1						7		-7	-30	16		3	3	4	255			1	
+ol367	expansion\MISSILE_BLUE_C	100	16	all		1						7		-7	-30	16		3	3	4			255	1	
+ol368	expansion\MISSILE_WHITE_C	100	16	all		1						7		-7	-30	16		3	3	4	255	81	255	1	
+ol369	expansion\MISSILE_A_C	100	16	all		1						7		-7	-30	16		3	3	4	255	178	64	1	
+ol370	extra\AuraResistLightning	100	20	all		1										16		3	2	4	212	212	255	1	
+ol371	extra\AuraResistLightningCast	100	11	all		1										16		3	2	6	212	212	255	1	
+ol372	expansion\DireWolfCharged	100	16	all		1										6		3	6	6	128		255	1	
+ol373	LightJet	100	13	all		1						7		-7	30	16		3	4	6	255	255	162	1	
+ol374	LightJet	100	13	all		1						7		-7	30	16		3	4	6	255	255	162	1	
+ol375	LightJet	100	13	all		1						7		-7	30	16		3	4	6	255	255	162	1	
+ol376	LightJet	100	13	all		1						7		-7	30	16		3	4	6	255	255	162	1	
+ol377	LightJet	100	13	all		1						7		-7	30	16		3	4	6	255	255	162	1	
+ol378	LightJet	100	13	all		1						7		-7	30	16		3	4	6	255	255	162	1	
+ol379	HoradricLightBeam	100	21	all		1						21		-21	180	16		3	2	3	255	255	162	1	
+ol380	HoradricLightBeam	100	21	all		1						21		-21	180	16		3	2	3	255	255	162	1	
+ol381	HoradricLightBeam	100	21	all		1						21		-21	180	16		3	2	3	255	255	162	1	
+ol382	HoradricLightBeam	100	21	all		1						21		-21	180	16		3	2	3	255	255	162	1	
+ol383	HoradricLightBeam	100	21	all		1						21		-21	180	16		3	2	3	255	255	162	1	
+ol384	HoradricLightBeam	100	21	all		1						21		-21	180	16		3	2	3	255	255	162	1	
+ol385	vdfeathers	100	26	all		1										16		5	2	4	255	255	128	1	
+ol386	vdfeathers	100	26	all		1										16		5	2	4	255	128	128	1	
+ol387	vdfeathers	100	26	all		1										16		5	2	4	128	255	128	1	
+ol388	vdfeathers	100	26	all		1										16		5	2	4	255	128		1	
+ol389	extra\AuraRed	100	31	all		1										16		3	2	4	255			1	
+ol390	extra\AuraST_RD	100	16	all		1										16		3	2	6	255			1	
+ol391	extra\AuraBlue	100	31	all		1										16		3	2	4			255	1	
+ol392	extra\AuraST_BL	100	16	all		1										16		3	2	6			255	1	
+ol393	ThunderstormCast_operate		19	all	1	1										16		3	8	8	128	128	255	1	
+ol394	ThunderstormCast		10	all		1										16		3	1	8	128	128	255	1	
+ol395	ChillBloodPuff_curse		14	all	1	1						14		-14	-60	16		3	3	3	81	81	255	1	
+ol396	Charge		8	all		1						14		-14	-60	16		3	2	4	255	128	128	1	
+ol397	expansion\painwormcurse	100	10	all	1	1		1	1							8		3	2	4	255	178		1	
+ol398	Expansion\oak_sage_Aura	100	11	all	1	1						14		-14	-60	6		3	3	5	255	128		1	
+ol399	Expansion\volcano_Fire	100	29	all		1			1			-50	-50	-50	-50	16		3	3	5	255	178	64	1	
+ol400	extra\ShiversCast	100	9	all		1										16		3	3	4			255	1	
+ol401	extra\ShiversOverlay	100	33	all		1										16		3	3	4			255	1	
+ol402	BaalDeathHead01	100	42	all		1										32		3	3	4	255		255	1	
+ol403	BaalDeathMushroom	100	101	all		1										16		3	3	7	81	81	255	1	
+ol404	Pentacle	100	1	all	1	1		1	1							8		5	2	5	255			1	
+ol405	expansion\firesentry_explode	100	26	all	1	1		1	1							8		3	2	5	255			1	
+ol406	expansion\nehlithakglow	100	16	all	1	1		1	1							8		3	2	5			255	1	
+ol407	extra\GreaterMummyCast	100	16	all		1										1		3	2	4	255			1	
+ol408	expansion\BaalTeleport	100	20	all		1										32		3	2	4			255	1	
+ol409	expansion\IceCaveQuest_Magic	100	31	all		1										32		3	2	4	81	81	255	1	
+ol410	ChillBloodPuff_curse	100	14	all	1	1										16		3	3	5	81	81	255	1	
+ol411	extra\AnotherIceReceive	100	14	all	1	1										16		3	3	5	81	81	255	1	
+ol412	extra\BattleCryCurse	100	15	all	1	1										16		3	3	5	255	178	64	1	
+ol413	extra\FrogSplash	100	14	all	1	1										16		3	3	5	128	255	255	1	
+ol414	extra\GenericSplash	100	16	all	1	1										16		3	3	5	128	255	255	1	
+ol415	extra\GooHit	100	15	all	1	1										16		3	3	5		255		1	
+ol416	extra\IceCast	100	16	all	1	1										16		3	3	6	81	81	255	1	
+ol417	extra\RaiseDead	100	19	all	1	1										16		3	3	6	81	81	255	1	
+ol418	extra\Receive_Cold_Spell	100	14	all	1	1										16		3	3	6	81	81	255	1	
+ol419	FingerMageFlames	100	14	all	1	1										16		3	3	6	255			1	
+ol420	FireGolemOverlay	100	16	all		1										64		3	2	5	255	178	64	1	
+ol421	FrogExplode	100	14	all		1		1	1							16		3	3	6		255		1	
+ol422	MultiGleam	100	10	all		1										16		3	1	2	255	210	210	1	
+ol423	RedemptionGhost Medium	100	16	all	1	1										8		3	3	6	255			1	
+ol424	SRIceHit	100	16	all		1		1	1							16		3	1	3	128	128	255	1	
+ol425	willodeathoverlay	100	20	all		1										16		3	1	4	178	178	255	1	
+ol426	brraisedeadfront	100	16	all		1		1	1							16		3	3	5	128	128	255	1	
+ol427	elswarm	100	10	all		1		1	1							16			2	4	255			1	
+ol428	extra\FistOfAres_Front	100	12	all		1										16		3	6	6	255	255		1	
+ol429	extra\FistOfAres_Back	100	12	all	1	1										16		3	6	6	255	255		1	
+ol430	extra\FistOfAres_FadeIN	100	6	all	1	1										16		3	6	6	255	255		1	
+ol431	FingerMageCurse		15	all		1		1	1							16		3	3	5	128	128	255	1	
+ol432	BlackPentacle	100	1	all	1	1		1	1							1		3	2	5		255		1	
+ol433	MiniNova	100	16	all	1	1		1	1							16		5	2	5	255	178		1	
+ol434	YellowSkullPulse	100	200	all	1	1		1	1							16		3	2	4	255	178		1	
+ol435	YellowBigBall	100	8	all	1	1		1	1							16		3	2	4	255	178		1	
+ol436	extra\WhiteFlash	100	5	all		1										16		3	2	10	255			1	
+ol437	CeilingChunkVanish01	100	11	all		1		1	1							16		3	2	3	255	128	128	1	
+ol438	BAJumpLandPuff01	100	8	all		1		1	1							16		3	2	3	255		255	1	
+ol439	FocusGreen	100	9	all		1		1	1							16		3	1	3			255	1	
+ol440	FoHpurple	100	16	all		1		1	1							32		3	1	8	255		255	1	
+ol441	RedAuraFog		13	all		1										16		3	1	3	255	64	64	1	
+ol442	GreenAuraFog		13	all		1										16		3	1	3	64	255	64	1	
+ol443	GoldAuraFog		13	all		1										16		3	1	3	255	255	64	1	
+ol444	Expansion\DeadlyFistHit	100	5	all		1		1	1							8		3	1	6	255	255		1	
+ol445	Expansion\CloakOfShadows	100	16	all		1										16		3	1	2	64	64	210	1	
+ol446	BattleCry		15	all		1										16		3	1	3	255			1	
+ol447	BattleCommandStart		20	all		1										8		3	3	5	255	255	255	1	
+ol448	impacting01		4	all		1		1	1			14		-14	-60	8		3	2	6	255	255	255	1	
+ol449	impacting02		4	all		1		1	1			14		-14	-60	8		3	2	6	255	255	255	1	
+ol450	Extra\AuraWhite		31	all		1		1	1							8		3	1	6	128	128	255	1	
+ol451	Extra\Aurast_wh		16	all		1		1	1							8		3	1	6	128	128	255	1	
+ol452	SRFireHit		16	all		1		1	1							16		3	1	4	255	193	103	1	
+ol453	ShoutStart		20	all		1		1	1							8		3	1	6	255	212	212	1	
+ol454	Shout		20	all		1		1	1							8		3	1		255	255	255	1	
+ol455	expansion\tiger_Strike_B	100	32	all		1										8		3						1	
+ol456	expansion\tiger_Strike_C	100	32	all		1										8		3						1	
+ol457	SlayerCloud	100	26	all	1	1										16		3	5	10	255	255		1	
+ol458	extra\vampire_spelloverlay	100	24	all	1	1										16		3	5	10	64	64	64	1	
+ol459	AuraResistFireFront		20	all	1	1		1	1							16		3	6		255	255	255	1	
+ol460	Enragedz	100	23	all		1										16		3	5	10	255			1	
+ol461	extra\lifedrain.dcc	100	12	all		1										16		3	5	10	255	192	192	1	
+ol462	Stamina_front		16	all		1										16		3	1	3	255	192	192	1	
+ol463	Stamina_back		16	all	1	1										16		3	1	3	255	192	192	1	
+ol464	TreeAura		1	all		1										16		3	1	3	192	255	192	1	
+ol465	expansion\feral_rage_A_Front	100	16	all		1										16		3	1	3	255			1	
+ol466	expansion\feral_rage_A_Back	100	16	all	1	1										16		3						1	
+ol467	rockon1	100	11	Druid		1										12		3						1	
+ol468	rockon2	100	11	Druid		1										12		3						1	
+ol469	rockon3	100	11	Druid	1	1										16		3						1	
+ol470	rockon4	100	11	Druid	1	1										16		3						1	
+ol471	extra\AnotherIceReceive	100	14	all	1	1										16		3	3	5	128	255	255	1	
+ol472	AngelDeath		20	all		1		1	1							8		3	2	2	103	193	255	1	
+ol473	LazBlood		25	all		1		1	1							32		3	2	2	255			1	
+ol474	HolyMagik		17	?		1		1	1							16		3			255	255	255	1	
+ol475	WhiteRing		16	?		1		1	1							16		3	2	3	81	128	255	1	
+ol476	RedRing		16	?		1		1	1							16		3	2	3	255	255		1	
+ol477	expansion\tiger_Strike_B	100	32	all		1										8		3	2	4	255	128		1	
+ol478	Expansion\TwisterFront	100	40	all		1			1							16		3						1	
+ol479	Expansion\TwisterBack	100	40	all	1	1			1							16		3						1	
+ol480	GreenAmp		24	all		1		1	1			14		-14	-60	16		3	1	6	64	255	64	1	
+ol481	Expansion\On_Fire	100	20	all		1			1							16		3						1	
+ol482	expansion\MISSILE_C_C	100	16	all		1						7		-7	-30	16		3	3	4			255	1	
+ol483	expansion\tiger_Strike_A	100	32	all		1										64		3	2	4	255	192		1	
+ol484	FrogExplode		14	all		1		1	1							16		3	3	5	128	255	128	1	
+ol485	BoneFetishDeathBones		11	Monster		1										16		5			255	255	255	1	
+ol486	DoomPortal		30	?	1	1		1	1			50	50	50	50	16		3	2	3	255	255		1	
+ol487	ManaBubbles		15	?		1		1	1							32		3	2	3	128	128	255	1	
+ol488	WhiteBlinding		22	?		1		1	1							32		3	2	5	192	192	255	1	
+ol489	FireCracker		31	?		1		1	1							32		3	2	5	255			1	
+ol490	MassiveOrange		41	?	1	1		1	1							32		3	2	3	255			1	
+ol491	WispyBloodCast		21	?		1		1	1							32		3	2	4	255			1	
+ol492	expansion\Cobra_Strike_C	100	16	?		1										32		3	2	4	81	81	255	1	
+ol493	Extra\NecroMindRecieve	100	10	?		1										32		3	2	4	81	81	255	1	
+ol494	ShoutStart		20	all		1		1	1							16		3			255	255	255	1	
+ol495	Shout		20	all		1		1	1							16		3			255	255	255	1	
+ol496	FireCrown		1	?		1		1	1			-57	-57	-57	-57	16		3	2	3		64	255	1	
+ol497	Extra\ChillBloodInitialPoof		16	all		1										12		3	2	3			255	1	
+ol498	SanctuaryKnockback		13	all		1										8		3			255	255	255	1	
+ol499	ThreeFlames		15	all		1										24		3	2	3	255	178	64	1	
+ol500	BigBlam		16	all		1										24		3	2	3	255	178	64	1	
+ol501	rapture	100	12	all		1										16		3	2	4	128	178	255	1	
+ol502	Extra\MeteorTargetIndicator	100	17	all		1										16		3	2	4	255			1	
+ol503	LightJet	100	13	all		1						7		-7	30	32		3	2	3	255	178		1	
+ol504	Sunlight	100	21	all		1						21		-21	180	64		3	1	2	255	178		1	
+ol505	expansion\Maul_A_Front	100	16	Druid		1										16		3						1	
+ol506	BigBass	100	10	all	1	1		1	1							16		3	1	3			255	1	
+ol507	HeatWave	100	20	all	1	1		1	1							16		3	1	3			255	1	
+ol508	GhostLights	100	13	all	1	1		1	1							16		3	1	3			255	1	
+ol509	rockon1	100	11	Druid		1										12		3						1	
+ol510	HoradricLightBeam	100	21	all		1						21		-21	180	16		3	2	3	64	64	255	1	
+ol511	expansion\tiger_Strike_C	100	32	all		1										32		3			255	32	32	1	
+ol512	aura130	100	30	all	1	1										8		3			255	32		1	
+ol513	aura230	100	30	all	1	1										8		3			255	32		1	
+ol514	gore20	100	32	all	1	1										16		3				128		1	
+ol515	Trinity15		15	Sorceress		1		1	1							32		3	1	9	255	178	64	1	
+ol516	Trinity15		15	Sorceress		1		1	1							16		3	4	4	255	178	64	1	
+ol517	AuraResistAllFront		20	Paladin		1										32		3	6	6	211	148	255	1	
+ol518	PoisonDark		36	Paladin		1						14		-14	-60	32	15	3	6	6	64	255		1	
+ol519	OverlayH		17	?		1		1	1							16		3			255	255	255	1	
+ol520	AmazonHealSpell		20	Amazon		1		1	1							16		3	1	8	255	184	199	1	
+ol521	ValkarieGlow		20	all	1	1				5						16		3	4	8	255	96		1	
+ol522	ValkarieEmerge		16	all		1										32		3	1	4	255	96		1	
+ol523	AuraPrayerFront	100	16	all	1	1						-55	-65	-75	-85	8		3	3	6			255	1	
+ol524	extra\BoneCast	100	16			1										16		3	1	2			255	1	
+ol525	braxishaste	100	24			1										18		3	1	4		255		1	
+ol526	blessQQ	100	24			1										32		1	1				255	1	
+ol527	endurance_nu	100	12			1						-150	-150	-150	-150	8		3	1	3	214	161	24	1	
+ol528	endurance_on	100	17			1						-150	-150	-150	-150	16		3	2	6	214	161	24	1	
+ol529	TYLALITNUHTH	100	23		1	1					30					16	1	3	2	6	255	255	255	1	
+ol530	TYRALITNUHTH	100	23		1	1					30					16	1	3	2	6	255	255	255	1	
+ol531	zombiecloudx	100	19			1										16		3	1	6		255		1	
+ol532	zombiesparx	100	19			1										16		3	1	6		255		1	
+ol533	ragestatecastoverlay	100	1			1					-100					8		3	1	6			255	1	
+ol534	ragestateformeh	100	1			1					-100					8		3	1	6	255			1	
+ol535	inminentdeath	100	15			1					-100					16		3	1	6		255		1	
+ol536	burnout	100	12		1	1										16		3	2	4	255			1	
+ol537	spoverlray2		20			1										16		3			255	255	255	1	
+ol538	spoverlay1		20			1										16		3			255	255	255	1	
+ol539	enlightened	100	21			1					-60					16		3			255	255	255	1	
+ol540	baalshieldblue	100	11			1										8		3						1	
+ol541	absolutezero	100	8			1					-100					16		3	1	2			255	1	
+ol542	extra\NecroMindCast	100	16			1										16		3	1	2			255	1	
+ol543	braxishaste	100	24			1				-13	-150					18		3	1	4		255		1	
+ol544	AthuluaAuraFront		16			1		1	1							8		3			255			1	
+ol545	AthuluaAuraBack		16		1	1		1	1							8		3			255			1	
+ol546	antimass		25			1		1	1							16		3	2	2	255	193	103	1	
+ol547	extra\shockhit	100	29			1		1	1		-20					16		3	7	7	255	255	255	1	
+ol548	valthekuse	100	15		1	1										16		3	1	2	255	255	255	1	
+ol549	DoomPortal		30		1	1		1	1	-4	35					16		3	2	3	255	255		1	

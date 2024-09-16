@@ -1,0 +1,256 @@
+state	id	group	Laz / status	remhit	nosend	transform	aura	curable	curse	active	immed	restrict	disguise	blue	attblue	damblue	armblue	rfblue	rlblue	rcblue	stambarblue	rpblue	attred	damred	armred	rfred	rlred	rcred	rpred	exp	plrstaydeath	monstaydeath	bossstaydeath	hide	shatter	udead	life	green	pgsv	nooverlays	noclear	bossinv	meleeonly	notondead	overlay1	overlay2	overlay3	overlay4	pgsvoverlay	castoverlay	removerlay	stat	setfunc	remfunc	missile	skill	itemtype	itemtrans	colorpri	colorshift	light-r	light-g	light-b	onsound	offsound	gfxtype	gfxclass	cltevent	clteventfunc	cltactivefunc	srvactivefunc	eol
+st0	0																																																															so0	so0							0
+st1	1																															1		1	1	1									ol316						ol315								90	108	255	255	255	so365	so0							0
+st2	2																																				1	1												ol274									80	104	128	255	128	so376	so0							0
+st3	3						1				1							1																											ol3					ol2		is39												so2367	so0							0
+st4	4						1				1									1																									ol5					ol4		is43												so2366	so0							0
+st5	5						1				1								1																										ol7					ol6		is41												so2368	so0							0
+st6	6																																																															so0	so0							0
+st7	7																																																															so0	so0							0
+st8	8						1				1							1	1	1																									ol9	ol10				ol8	ol362	is41												so2369	so2534							0
+st9	9							1																																					ol128					ol69		is36												so2445	so0							0
+st10	10		RETRIBUTE					1	1																	1	1	1	1																ol155					ol154														so2358	so2534							0
+st11	11													1																																						is67							90	108	150	215	255	so365	so0							0
+st12	12				1																																																											so0	so0							0
+st13	13		FORCE SHOUT																					1																					ol523														13	13	64	64	255	so4896	so2534							0
+st14	14		VESSEL OF JUDGMENT																																										ol396																			so2377	so2534						146	0
+st15	15		MONSTER PALSHIFT																																										ol167							is67												so2413	so2534							0
+st16	16		BLOOD FURY				1																																						ol76					ol75		is329							55	100	255	128	128	so2474	so2534							0
+st17	17		BLOODHATRED						1		1					1																													ol294							is74												so2511	so2534							0
+st18	18		UNKNOWN																																																													so0	so0							0
+st19	19		BAAL SHARD CURSE																																										ol493					ol493		is35							60		128	144	255	so2368	so2534							0
+st20	20		BLOODBATH								1					1																													ol294							is348							65	1	255	128	128	so478	so2534							0
+st21	21																																												ol148																			so0	so0							0
+st22	22		RAPTURE																																										ol80							is68												so422	so2534							0
+st23	23							1																																					ol129					ol69														so2469	so0							0
+st24	24																																																															so0	so0							0
+st25	25		ON-KILL CURSE																																										ol275							is507							140	73	255			so2388	so2534							0
+st26	26		MALE WITCH																																										ol455	ol454						is25												so4851	so2534						146	0
+st27	27							1							1	1																													ol77																			so2486	so0							0
+st28	28		HOUNFOR STATE																																																								37	32	128	196	255	so0	so0							0
+st29	29		UNSEELIE CURSE									1																																						ol311		is74							160	40			30	so4783	so2534							0
+st30	30		MINION RADIUS AURA				1									1																													ol433							is25												so0	so0							0
+st31	31		ARCANE FURY																																										ol544	ol545													170	73	255			so0	so0							0
+st32	32	5	ECSTATIC FRENZY													1									1																				ol83					ol83		is67												so4821	so2534							0
+st33	33		FIREDANCE																																										ol516					ol516		is329							20	1	255	192	192	so2579	so2534							0
+st34	34	3	VANQUISH MERC VER			1						1	1			1																										1	1							ol444	ol444	is25		7					50	1	255	255	192	so453	so2534	1	2021					0
+st35	35		NEPHALEM WEAPONS									1																																	ol534					ol533									140	73				so4803	so2534							0
+st36	36						1																																						ol19	ol20													150	7		255		so2372	so0							0
+st37	37		HARD MODE AURA				1																																													is25												so0	so0							0
+st38	38		MERC AURA				1																																											ol303		is110												so2358	so2534							0
+st39	39		ICE ELEMENTALS AURA														1																																			is182												so0	so0							0
+st40	40		BURNING VEIL				1									1																													ol298					ol460									124	100	255	192	128	so0	so0							0
+st41	41						1				1					1																													ol385							is25												so2521	so0							0
+st42	42		MON AURA				1				1					1																													ol103	ol104						is25												so2355	so0							0
+st43	43		SYMPHONY OF DESTR																																										ol506				ol508															so4803	so2534							0
+st44	44		APPLE																																										ol527					ol528									250	73				so4783	so2534							0
+st45	45		CHRONOFIELD																																										ol487	ol410				ol487		is67							45	108	128	128	255	so2439	so2534							0
+st46	46		HOUNFOR																																																													so0	so0							0
+st47	47						1				1	1				1	1																												ol386							is359												so2487	so0							0
+st48	48						1				1																																		ol387							is57												so2511	so0							0
+st49	49						1				1				1	1																													ol116	ol117						is68												so0	so0							0
+st50	50						1																																						ol361					ol361														so2486	so2534							0
+st51	51						1				1																																		ol388							is74												so2493	so0							0
+st52	52																								1																											is31							115	101	255	128	64	so0	so0							0
+st53	53	10						1	1																					1															ol124						ol439													so2377	so0							0
+st54	54																																																					7										so0	so0							0
+st55	55		WITCH SPARKLES				1																																						ol498					ol498														so2364	so0							0
+st56	56							1																																					ol132					ol69														so2477	so0							0
+st57	57	2	BLACK MASS																																																	is338							125	105	255	128	255	so0	so0							0
+st58	58		FORTRESS LOCKOUT									1																																								is181							85	1	255	128		so0	so2534							0
+st59	59		KNIGHT OF DEATH				1																																						ol446					ol69		is0							50	1	255	128	156	so9	so2534							0
+st60	60		COUATL AURA					1																1																					ol136					ol69		is170												so2468	so0							0
+st61	61							1																		1	1	1	1																ol137					ol69		is41												so0	so0							0
+st62	62									1																											1																											so0	so0					85		0
+st63	63		HYMN																																															ol448	ol449	is208							80	22	255	174	128	so2353	so2534							0
+st64	64		BEACON																																										ol422																			so4790	so2534						146	0
+st65	65		SHAMANIC TRANCE													1																													ol490					ol489		is411							25	1	255	128	128	so2511	so2534							0
+st66	66		BROADSIDE LOCKOUT									1					1																																			is181							90	1		128	255	so0	so2534							0
+st67	67						1				1						1																																			is36							33	109	255		255	so2378	so2534							0
+st68	68		NECRO PET STATE																																																								36	20		255	255	so0	so0							0
+st69	69						1				1																																		ol388							is68												so2493	so0							0
+st70	70		LIGHTNING SHIELD				1																																						ol450					ol451		is128							75	1	81	81	255	so2493	so2534							0
+st71	71																																																			is433												so0	so0							0
+st72	72																																																			is434												so0	so0							0
+st73	73																																																			is435												so0	so0							0
+st74	74		UNKNOWN																																										ol128					ol69		is36												so2445	so0							0
+st75	75		FAERIE FIRE																																										ol10					ol8														so2353	so2534						146	0
+st76	76		SCOURGE PET STATE																																										ol427					ol413														so0	so0							0
+st77	77		WAR SPIRIT																																										ol428	ol429				ol430									35	1	255	255	128	so2346	so2534						146	0
+st78	78		PHASE BOMB DEBUFF																																										ol471					ol337		is39							88	106	128	255	255	so2442	so2534							0
+st79	79										1																																									is416												so0	so0							0
+st80	80		TAKEDOWN				1										1																																			is171							110	49	255	255	64	so0	so0							0
+st81	81		BLADES OF LIGHT (DEP)							1																																											7	4										so0	so0					90	145	0
+st82	82		SHADOW REFUGE				1																																													is67							95	40	255	128	64	so2356	so2534							0
+st83	83	2									1																																									is436												so0	so0							0
+st84	84	10	OFFENSIVE COTH																																										ol439							is34							140	34		255		so2369	so2534							0
+st85	85				1																																																											so0	so0							0
+st86	86	1			1																																																											so0	so0							0
+st87	87		LIGHTNING ARENA																																										ol211	ol212													44	1	64	192	255	so0	so2534					90	146	0
+st88	88		ON-KILL CURSE																																										ol454	ol459					ol333	is507							5	1	255	255	255	so0	so2534							0
+st89	89		COLOSSEUM					1																	1																				ol128						ol502	is25							20	1		128	255	so1943	so2534							0
+st90	90													1																																													100	108	150	215	255	so0	so0							0
+st91	91																																																										70	100	255	178	64	so0	so0							0
+st92	92																																																															so0	so0							0
+st93	93		HELLCAT AURA				1				1	1																																	ol445							is74							105	40	64	128	255	so2353	so0							0
+st94	94		OVERLAY																																											ol163						is169												so0	so0							0
+st95	95		THUNDERBEAR STATE									1																																	ol303	ol335	ol334					is67							105	34	128	255	255	so2346	so2534							0
+st96	96																															1	1			1																	15						85	15		128	255	so0	so0							0
+st97	97	3	SORCERESS MORPH										1																													1								ol29														so0	so0	2	1					0
+st98	98																															1	1																				4	2										so0	so0							0
+st99	99																															1	1	1		1																	10			sk124								so2388	so0							0
+st100	100																																																															so0	so0							0
+st101	101		SNAKE POISON CURSE																																		1	1							ol427					ol274									20	105	192	255	192	so376	so2534							0
+st102	102																																																															so0	so0							0
+st103	103		WRAITHVERGE																							1	1	1	1																ol166														70	102	255	255		so2358	so2534							0
+st104	104																															1	1	1		1																												so0	so0							0
+st105	105																														1	1	1																															so0	so0							0
+st106	106																																																															so0	so0							0
+st107	107																															1	1	1	1	1																												so0	so0							0
+st108	108						1																								1																																	so0	so0							0
+st109	109																																																															so0	so0							0
+st110	110																																												ol256									10										so0	so0							0
+st111	111		SUMMON JINNI																																										ol398					ol69		is333							25	1	255	128		so0	so0							0
+st112	112																																												ol397														95	100	255	178	64	so1943	so2534							0
+st113	113		TAINTED BLOOD				1																														1	1							ol415							is74												so376	so2534							0
+st114	114							1	1																																				ol223																			so0	so0							0
+st115	115																																												ol224																			so0	so0							0
+st116	116		NOVA CHARGE																																										ol207	ol208													40	1	192	192	255	so0	so2534						146	0
+st117	117		MONSTER PALSHIFT																																																								70	69	255	128		so0	so0							0
+st118	118																														1	1	1			1																												so0	so0							0
+st119	119		PATH OF FLAMES																																										ol211	ol212													44	1	255	192	64	so0	so2534						146	0
+st120	120		MOONSTRIKE													1																													ol424							is7							10	1	144	144	255	so1943	so2534							0
+st121	121	8	SKILL TIMER																																																													so0	so0							0
+st122	122		DEATHS FURY TOTEM								1																																		ol365							is150							20	1	255	192	192	so0	so0							0
+st123	123		BLOOD TIDE TOTEM								1																																		ol366							is76							20	1	255	192	192	so0	so0							0
+st124	124	3	DEATHLORD			1	1					1	1				1																									1								ol413	ol337	is25							50	1	192	255	192	so4781	so2534	1	1275					0
+st125	125		BATSTRIKE																																				1										ol441			is321	1	1										so0	so2534							0
+st126	126		LIONESS								1	1				1	1																																			is212							100	101	255	192	128	so0	so0							0
+st127	127		GREATER MANIF								1																																									is445												so0	so0							0
+st128	128																1																												ol59	ol57						is31												so0	so0							0
+st129	129														1	1																													ol60	ol57						is19												so0	so0							0
+st130	130																		1																										ol61	ol58						is41												so0	so0							0
+st131	131																	1																											ol62	ol57						is39												so0	so0							0
+st132	132																			1																									ol63	ol58						is43												so0	so0							0
+st133	133																					1																							ol64	ol58						is45												so0	so0							0
+st134	134																																												ol65	ol57							9	6										so0	so0							0
+st135	135																																												ol66	ol58																		so0	so0							0
+st136	136																				1																								ol67	ol58						is10												so0	so0							0
+st137	137																																												ol68	ol57																		so0	so0							0
+st138	138		ELEMENTAL TOTEM								1																																		ol368							is36							20	1	255	192	192	so0	so0							0
+st139	139		MOON QUEEN																																																						tors	dblu	30	1	128	128	255	so4783	so0							0
+st140	140	3	MERC BEAR MORPH			1							1			1	1																										1										14											so2346	so2346	1	431					0
+st141	141		UNUSED																																																													so0	so0							0
+st142	142		UNKNOWN																																																		5											so0	so0							0
+st143	143		RESONANCE DEBUFF				1																																											ol519		is74												so0	so2534							0
+st144	144	3	RATHMAS CHOSEN													1																													ol406					ol69		is110							200	73	255			so4852	so2534							0
+st145	145		QUEEN OF BLADES																																										ol218					ol213														so0	so2534						146	0
+st146	146																																																				12	8										so0	so0							0
+st147	147		KRAKEN STANCE				1				1																																		ol388							is34												so2524	so0							0
+st148	148		HOWLING TOTEM								1																																		ol369							is25							20	1	255	192	192	so0	so0							0
+st149	149		MANA TIDE TOTEM								1	1																																	ol548																			so0	so0							0
+st150	150									1																																											11											so0	so0					89		0
+st151	151		UNUSED																																																	is190												so0	so0							0
+st152	152		ELFIN ARROWS																																																													so0	so0							0
+st153	153			1													1																												ol475					ol475		is25	2				armo	lblu	30	1	128	128	255	so501	so365							0
+st154	154																															1	1	1		1																												so0	so0							0
+st155	155		BACCHANALIA																																																	is268					weap	cred						so4820	so0							0
+st156	156								1																1																				ol213							is171												so0	so0							0
+st157	157	3	DRUID MORPH			1							1																													1								ol29														so0	so0	2	5					0
+st158	158		SPECIAL ON-KILL CURSE																																										ol540							is507							140	73	255			so2388	so2534							0
+st159	159						1																																						ol372							is441												so2446	so0							0
+st160	160	3	BANEBLADE				1					1				1	1																												ol496					ol332	ol311	is25					tors	dblu	50	73	192	192	255	so4783	so2534	2	1					0
+st161	161	3	SUPERBEAST			1							1			1																													ol111	ol112	ol254			ol337		is329							82	73	255	144	255	so4713	so2534	1	1220					0
+st162	162		MAHASATTVA																							1	1	1	1																														150	69	255			so1076	so2534							0
+st163	163		GRAVEYARD																																										ol455	ol454						is25												so4851	so2534						146	0
+st164	164		UNUSED				1																																																				10		255	255	255	so0	so0							0
+st165	165																																																															so0	so0							0
+st166	166																																																															so0	so0							0
+st167	167																																																															so0	so0							0
+st168	168																																																															so0	so0							0
+st169	169																																																															so0	so0							0
+st170	170				1																																																											so0	so0							0
+st171	171				1																																																											so0	so0							0
+st172	172																															1	1			1								1									17		ml173									so2388	so0							0
+st173	173																															1	1	1		1								1									18		ml115									so2458	so0							0
+st174	174																																												ol167																			so0	so0							0
+st175	175																																												ol25																			so0	so0							0
+st176	176	3				1							1																																					ol30														so0	so0	1	149					0
+st177	177		VARIOUS								1																																																					so0	so0							0
+st178	178		MONSTER SUPERBEAST													1																													ol111	ol112	ol254			ol337		is25							80	73	255	96	255	so4713	so2534							0
+st179	179		CRANE STANCE				1				1					1																													ol385							is25												so2527	so0							0
+st180	180		AMAZING GRACE				1									1																													ol497							is338												so0	so0							0
+st181	181		SLAYER OVERLAY																																										ol318					ol318		is434							80	73	255			so0	so0							0
+st182	182		FLASH GRAPHIC																																										ol305	ol304													115	108			255	so0	so0							0
+st183	183	3	BLOODFLASH GRAPHIC			1							1																																ol111	ol112	ol254			ol84									82	73	255	144	255	so4938	so4939	1	2108					0
+st184	184	3	PORKULATOR			1		1					1																													1								ol69														so1635	so2534	1	1747					0
+st185	185		LIFEBLOOD																																										ol520					ol519		is74												so0	so2534							0
+st186	186		DARK KING																																										ol160					ol159														so2443	so2534							0
+st187	187	6					1																																						ol339					ol338	ol340	is127												so2443	so2534							0
+st188	188	6					1																																						ol339					ol338	ol340	is409												so2443	so2534							0
+st189	189	3	1.B9 NEW STATE			1	1					1	1			1																										1								ol311	ol311	is25							50	1	192	255	192	so453	so2534	1	1687					0
+st190	190		SPELLBIND																																															ol311		is74							105	74	255	64	64	so453	so2534							0
+st191	191		HEALING POTION				1																																						ol27					ol26		is74												so0	so2534							0
+st192	192	6					1																																						ol339					ol338	ol340	is87												so2443	so2534							0
+st193	193		INNER FIRE				1																																						ol27					ol26		is74							75	1	255	178	64	so2477	so2534							0
+st194	194		MARK OF THE WILD				1									1																													ol255					ol229		is25							75	1	255	255	144	so2527	so2534							0
+st195	195		DARK POWER				1									1																													ol300																			so0	so2534							0
+st196	196		BLOODLUST				1									1																													ol298					ol460									50	1	255	192	128	so0	so2534							0
+st197	197		SACRED ARMOR				1										1																												ol341					ol342		is34							100	73	64	172	255	so2378	so4929							0
+st198	198		CAUTIOUS STRIKE				1										1																																			is36							100	1	128	128	255	so2521	so2534							0
+st199	199		RAVEN HEART				1																																						ol324					ol325		is331							255	73	128	255	128	so3338	so2534							0
+st200	200		WHEN STRUCK CURSE																																										ol308							is420												so0	so0							0
+st201	201	3				1							1			1																													ol538	ol507				ol537		is329							2	73	128	255	128	so4713	so2534	1	2107					0
+st202	202		MIASMA					1																																					ol518					ol69		is119							110	105		128	255	so0	so2534							0
+st203	203		BANISH					1	1																																				ol299					ol69		is36							110	1	32	144	255	so2477	so2534							0
+st204	204		DOOM					1	1																																				ol363														110	100	255	64		so2486	so2534							0
+st205	205		POISON FLASH																																										ol314	ol313													115	104	64	255	64	so0	so0							0
+st206	206		MOUNTAIN KING								1					1																																				is359							51	1	255	224	202	so0	so0							0
+st207	207	13	GOODBERRY				1																																						ol462	ol463				ol79		is74												so2681	so2534							0
+st208	208	5	DEMONIC SPEED				1																		1																				ol502							is67							70	1	255	174	174	so2378	so2534							0
+st209	209		VANQUISH				1									1																													ol322					ol323		is25							100	101	255	255		so3182	so2534							0
+st210	210		DEMON BLOOD AURA																																										ol302							is76												so2474	so0							0
+st211	211		KING KOTH OVERLAY																																										ol167																			so0	so0							0
+st212	212		UNHOLY ARMOR				1																																						ol328					ol329		is34							100	73	128	255	144	so2370	so2534							0
+st213	213		ACID FIENDS AURA																																										ol355							is332												so2482	so0							0
+st214	214										1																																									is437												so0	so0							0
+st215	215		TERROR STRIKE				1					1					1																												ol303	ol335	ol334					is329							105	73	192	128	255	so2361	so2534							0
+st216	216		TOTEM GRAPHIC																																																								36	20	192	255	192	so0	so0							0
+st217	217		THUNDERGOD																																										ol370					ol371														so2444	so2534						146	0
+st218	218		MOONBEAM				1																																													is36							110	100	144	212	255	so2391	so0							0
+st219	219		CELERITY				1																																											ol226	ol225	is67							55	102	255	255	96	so2378	so2534							0
+st220	220		DARK STAR OVERLAY																																										ol318	ol422						is434							80	73			255	so2443	so2534							0
+st221	221		HIVE																																										ol209	ol210													38	1	192	255	192	so0	so2534						146	0
+st222	222		LIONESS									1				1	1																																			is212							40	1	255	192	168	so0	so0							0
+st223	223		PERCENT LIFEDRAIN				1				1																																									is74												so0	so0							0
+st224	224	6					1																																						ol339					ol338	ol340	is85												so2443	so2534							0
+st225	225	6					1																																						ol339					ol338	ol340	is80												so2443	so2534							0
+st226	226	6					1																																						ol339					ol338	ol340	is79												so2443	so2534							0
+st227	227		SHOWER OF ROCKS					1															1																						ol480					ol69		is119							120	1		255		so2456	so2534							0
+st228	228		SCREAMING EAGLE					1																1																					ol478	ol479				ol69		is68												so4766	so2534							0
+st229	229		MERKABAH														1																												ol101	ol102																		so0	so2534							0
+st230	230		WYCHWIND AND BTS																						1																											is36							105	108	192	128	255	so0	so2534							0
+st231	231	3	TRAP RAT MORPH			1	1					1	1			1	1																									1								ol311	ol311	is25							50	1	255	255	192	so453	so2534	1	1686					0
+st232	232						1				1						1																																			is39							50	73	255		255	so2445	so2534							0
+st233	233						1				1						1																																			is36												so2378	so2534							0
+st234	234		WHEN KILL CURSE																																																	is74												so0	so0							0
+st235	235		VINDICATE					1	1																																				ol347					ol373		is415							110	1	255	255		so2443	so2534							0
+st236	236	3				1	1						1																																					ol69		is76												so2378	so2534	1	243					0
+st237	237	9	THRILL OF THE HUNT								1																																		ol383					ol377		is456												so2300	so2534							0
+st238	238		NIGHTMARE					1	1																																				ol348							is67							115	109	255	96	255	so2365	so2534							0
+st239	239		LIONHEART									1																																	ol539					ol444														so4927	so4926							0
+st240	240		IDOL OF SCOSGLEN														1																																			is67							110	74	255	144	144	so4822	so4829						146	0
+st241	241	7	BLOODY MARY				1																																						ol351					ol352		is413												so2486	so2534							0
+st242	242	7	PAGAN HEART				1																																						ol353					ol354		is414							75	1	144	144	255	so2486	so2534							0
+st243	243		WARP FIELD AURA																				1																						ol434					ol69		is68							60	102	128			so0	so0							0
+st244	244	3				1	1						1																																					ol69		is76												so2387	so2534	1	544				39791	0
+st245	245		GENERIC MORPH AURA				1																																						ol317					ol317														so2387	so2534							0
+st246	246		BALEFIRE																																										ol505					ol505		is74												so0	so0							0
+st247	247		WEAKNESS NOVA				1									1																													ol167					ol337		is39							50	1			255	so2443	so2534							0
+st248	248		HAMSTRING				1																																													is66							105	20	144	255	255	so2511	so2534							0
+st249	249						1				1						1																																			is36							33	102	255	255		so2378	so2534							0
+st250	250		DAZZLE					1	1																																				ol444					ol69		is36							40	1	255	128		so2369	so2534							0
+st251	251		SPIRIT OF VENGEANCE																																										ol465	ol466						is329												so0	so0							0
+st252	252		TOTEMIC GUARDIAN																																															ol444		is250												so0	so0							0
+st253	253	3	COW DISGUISE			1	1					1	1			1	1				1																					1	1										14						255	73	255	255	192	so2346	so2346	1	430					0
+st254	254		TITAN STRIKE				1							1			1																																			is359							105	74	255	144	144	so453	so2534							0

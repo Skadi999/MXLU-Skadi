@@ -1,0 +1,78 @@
+name	version	itype1	itype2	itype3	itype4	itype5	itype6	itype7	etype1	etype2	etype3	etype4	add	multiply	divide
+Beast		armo	weap	misc	misl								0	0	0
+Eagle		armo	weap	misc	misl								0	0	0
+Raven		armo	weap	misc	misl								0	0	0
+Viper		armo	weap	misc	misl								0	0	0
+GhoulRI		armo	weap	misc	misl								0	0	0
+Skull		armo	weap	misc	misl								0	0	0
+Blood		armo	weap	misc	misl								0	0	0
+Dread		armo	weap	misc	misl								0	0	0
+Doom		armo	weap	misc	misl								0	0	0
+Grim		armo	weap	misc	misl								0	0	0
+Bone		armo	weap	misc	misl								0	0	0
+Death		armo	weap	misc	misl								0	0	0
+Shadow		armo	weap	misc	misl								0	0	0
+Storm		armo	weap	misc	misl								0	0	0
+Rune		armo	weap	misc	misl								0	0	0
+PlagueRI		armo	weap	misc	misl								0	0	0
+Stone		armo	weap	misc	misl								0	0	0
+Wraithra		armo	weap	misc	misl								0	0	0
+Spirit		armo	rod										0	0	0
+Storm		armo	weap										0	0	0
+Demon		armo	weap										0	0	0
+Cruel		armo	weap										0	0	0
+Empyrion		rod											0	0	0
+Bramble		armo	weap										0	0	0
+Pain		armo	weap										0	0	0
+Loath		armo	weap										0	0	0
+Glyph		armo	weap										0	0	0
+Imp		armo	weap										0	0	0
+Fiendra		armo	weap										0	0	0
+Hailstone		armo	weap										0	0	0
+Gale		armo	weap										0	0	0
+Dire		armo	weap										0	0	0
+Soul		armo	weap										0	0	0
+Brimstone		armo	weap										0	0	0
+Corpse		armo	weap										0	0	0
+Carrion		armo	weap										0	0	0
+Holocaust		tors	helm	shld	swor	axe							0	0	0
+Havoc		armo	weap	misc									0	0	0
+Bitter		armo	weap	misc									0	0	0
+Entropy		ring	amul										0	0	0
+Chaos		ring	amul										0	0	0
+Order		ring	amul	scep									0	0	0
+Rule		rod	pspe										0	0	0
+Warp		stor	misl	dstf	scrd								0	0	0
+Rift		stor	scrd										0	0	0
+Corruption		ring	amul										0	0	0
+TerrQ		misl	nscy	nknf									0	0	0
+Moon		ring	amul	jewl	scrd	stor	nagi						0	0	0
+Star		ring	amul	jewl	scrd	stor							0	0	0
+Leviath		nxbw	pham	nstf	nscy								0	0	0
+Gut		nxbw											0	0	0
+Flame		jewl	stor	rod	glov	scrd							0	0	0
+Peace		azhm	shie	dstf									0	0	0
+Mana		ring	amul	jewl	rod	scrd							0	0	0
+ZakQ		ashd	pmac	pham	pclb	pzhm	pspe						0	0	0
+DrQ		ashd	pmac	pham	pclb	pspe	nagi						0	0	0
+Spell		ring	amul	jewl	rod	stor	scrd						0	0	0
+SunQ		azsd	ashd	azhm	scep	dstf							0	0	0
+HateQ		ishd	baxe	bswd	nknf	nscy	nxbw	pclb					0	0	0
+WitchQ		nagi	nknf	nscy	nstf	scrd							0	0	0
+ValkQ		azsd	azhm	aspe	abow	ajav							0	0	0
+RockQ		baxe	basd	bswd	dbow								0	0	0
+RyuQ		azsd	azhm	nagi	ishd								0	0	0
+OniQ		nagi	nknf										0	0	0
+NightQ		nagi	bswd	dbow	dstf	nknf	nscy	nstf					0	0	0
+RainQ		nagi	basd	bswd	dbow	dstf							0	0	0
+SharkQ		baxe	bswd	dbow	nknf	nscy							0	0	0
+PlanetQ		basd	nscy	pzhm	scrd								0	0	0
+MythQ		azsd	azhm	baxe	basd	bswd	pzhm	pspe					0	0	0
+LoreQ		azsd	aspe	abow	ajav	baxe	basd	nstf					0	0	0
+LightningQ		nagi	baxe	bswd	dbow	nknf	nxbw	pzhm					0	0	0
+HawkQ		azhm	abow	baxe	basd	dbow							0	0	0
+PhantomQ		nagi	dstf	nknf	nscy	nstf							0	0	0
+JinxQ		dstf	nknf	nscy	nstf	nxbw	scrd						0	0	0
+TitanQ		azsd	ishd	baxe	basd	bswd	pspe						0	0	0
+TigerQ		nagi	baxe	basd	bswd								0	0	0
+BearQ		aspe	baxe	basd	dbow	dstf							0	0	0

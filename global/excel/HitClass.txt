@@ -1,0 +1,15 @@
+Hit Class	Code
+    	    
+hth 	hth 
+1hss	1hss
+1hsl	1hsl
+2hss	2hss
+2hsl	2hsl
+1ht 	1ht 
+2ht 	2ht 
+club	club
+staf	staf
+bow 	bow 
+xbow	xbow
+claw	claw
+over	over

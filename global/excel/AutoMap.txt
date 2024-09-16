@@ -1,0 +1,3378 @@
+LevelName	TileName	Style	StartSequence	EndSequence	Cel1	Cel2	Cel3	Cel4
+1 Town	fl		1	46		1	2	3
+1 Town	fl	2		3		1	2	3
+1 Town	fl	2	4	7	4	-1	-1	-1
+1 Town	fl	2	8	11	6	7	8	-1
+1 Town	fl	2	12	15		1	2	3
+1 Town	fl	2	16	19	4	-1	-1	-1
+1 Town	fl	2	20	24	6	7	8	-1
+1 Town	fl	3		3		1	2	3
+1 Town	fl	3	4	7	5	-1	-1	-1
+1 Town	fl	3	8	11		1	2	3
+1 Town	fl	3	12	15	5	-1	-1	-1
+1 Town	wr			18	60	70	-1	-1
+1 Town	wl			18	61	71	-1	-1
+1 Town	wtlr		15	15	64	-1	-1	-1
+1 Town	wtlr			1	64	-1	-1	-1
+1 Town	wtll		15	15	60	-1	-1	-1
+1 Town	wtll			1	64	-1	-1	-1
+1 Town	wbr			2	65	-1	-1	-1
+1 Town	wbr		5	-1	65	-1	-1	-1
+1 Town	wtr		-1	-1	62	-1	-1	-1
+1 Town	wbl		-1	-1	63	-1	-1	-1
+1 Town	wr	2		3	11	12	-1	-1
+1 Town	wr	2	4	4	18	-1	-1	-1
+1 Town	wl	2		3	13	14	-1	-1
+1 Town	wl	2	4	4	17	-1	-1	-1
+1 Town	wtr	2		4	13	14	-1	-1
+1 Town	wtlr	2		4	16	-1	-1	-1
+1 Town	wtll	2		4	16	-1	-1	-1
+1 Town	wbl	2		4	11	12	-1	-1
+1 Town	fl	4		3	79	-1	-1	-1
+1 Town	fl	4	4	4	76	-1	-1	-1
+1 Town	fl	4	5	6	79	-1	-1	-1
+1 Town	fl	4	7	7	73	-1	-1	-1
+1 Town	fl	4	8	8	77	-1	-1	-1
+1 Town	fl	4	9	10	79	-1	-1	-1
+1 Town	fl	4	11	11	74	-1	-1	-1
+1 Town	fl	4	12	12	77	-1	-1	-1
+1 Town	fl	4	13	14	79	-1	-1	-1
+1 Town	fl	4	15	15	74	-1	-1	-1
+1 Town	fl	4	16	16	77	-1	-1	-1
+1 Town	fl	4	17	18	79	-1	-1	-1
+1 Town	fl	4	19	19	74	-1	-1	-1
+1 Town	fl	4	20	21	79	-1	-1	-1
+1 Town	fl	4	22	22	74	-1	-1	-1
+1 Town	fl	4	23	26	79	-1	-1	-1
+1 Town	fl	4	27	27	78	-1	-1	-1
+1 Town	fl	4	28	29	79	-1	-1	-1
+1 Town	fl	4	30	30	75	-1	-1	-1
+1 Town	fl	4	31	31	77	-1	-1	-1
+1 Town	fl	4	32	33	79	-1	-1	-1
+1 Town	fl	4	34	34	74	-1	-1	-1
+1 Town	fl	4	35	35	77	-1	-1	-1
+1 Town	fl	4	36	37	79	-1	-1	-1
+1 Town	fl	4	38	38	74	-1	-1	-1
+1 Town	fl	4	39	39	77	-1	-1	-1
+1 Town	co	7	10	10	400	-1	-1	-1
+1 Town	co	7	11	11	401	-1	-1	-1
+1 Town	co	7	12	12	402	-1	-1	-1
+1 Town	co	7	13	13	403	-1	-1	-1
+1 Town	co	7	14	14	404	-1	-1	-1
+1 Town	fl	8	8	8	405	-1	-1	-1
+1 Town	co	6	5	5	406	-1	-1	-1
+1 Town	wtll		3	3	407	-1	-1	-1
+1 Town	wl		38	38	408	-1	-1	-1
+1 Town	wr		42	42	409	-1	-1	-1
+1 Town	wl		30	30	410	-1	-1	-1
+1 Town	wl		28	28	411	-1	-1	-1
+1 Town	wl		26	26	412	-1	-1	-1
+1 Town	wr		27	27	415	-1	-1	-1
+1 Town	wr		29	29	416	-1	-1	-1
+1 Town	wr		40	40	413	-1	-1	-1
+1 Town	wl		43	43	414	-1	-1	-1
+1 Town	wr		33	33	417	-1	-1	-1
+1 Town	wl		36	36	418	-1	-1	-1
+1 Town	wl		34	34	419	-1	-1	-1
+1 Town	wr		36	36	420	-1	-1	-1
+1 Town	wr		38	38	421	-1	-1	-1
+1 Town	fl	1	61	61	422	-1	-1	-1
+1 Town	fl		54	54	307	-1	-1	-1
+1 Town	wr		19	19	423	-1	-1	-1
+1 Town	wr		21	21	424	-1	-1	-1
+1 Town	co	6	7	7	319	-1	-1	-1
+1 Town	wr		24	24	425	-1	-1	-1
+1 Wilderness	wr		4	4	11	-1	-1	-1
+1 Wilderness	wr		5	5	18	-1	-1	-1
+1 Wilderness	wr		6	6	10	-1	-1	-1
+1 Wilderness	wr			3	20	-1	-1	-1
+1 Wilderness	wl				21	-1	-1	-1
+1 Wilderness	wl		1	1	35	-1	-1	-1
+1 Wilderness	wl		2	-1	21	-1	-1	-1
+1 Wilderness	wtll		-1	-1	24	-1	-1	-1
+1 Wilderness	fl		1	47		1	2	3
+1 Wilderness	fl		54	54	307	-1	-1	-1
+1 Wilderness	fl		49	49		1	2	3
+1 Wilderness	fl	2		3		1	2	3
+1 Wilderness	fl	2	4	7	4	-1	-1	-1
+1 Wilderness	fl	2	8	11	6	7	8	-1
+1 Wilderness	fl	2	12	15		1	2	3
+1 Wilderness	fl	2	16	19	4	-1	-1	-1
+1 Wilderness	fl	2	20	24	6	7	8	-1
+1 Wilderness	fl	3		3		1	2	3
+1 Wilderness	fl	3	4	7	5	-1	-1	-1
+1 Wilderness	fl	3	8	11		1	2	3
+1 Wilderness	fl	3	12	15	5	-1	-1	-1
+1 Wilderness	wr	10	2	2	22	-1	-1	-1
+1 Wilderness	wr	10		1	20	-1	-1	-1
+1 Wilderness	wr	10	3	6	20	-1	-1	-1
+1 Wilderness	wr	10	13	-1	20	-1	-1	-1
+1 Wilderness	wl	10	2	2	23	-1	-1	-1
+1 Wilderness	wl	10		1	21	-1	-1	-1
+1 Wilderness	wl	10	3	12	21	-1	-1	-1
+1 Wilderness	wl	10	14	-1	21	-1	-1	-1
+1 Wilderness	wtlr	10	-1	-1	24	-1	-1	-1
+1 Wilderness	wtll	10	-1	-1	24	-1	-1	-1
+1 Wilderness	wbr	10	-1	-1	25	-1	-1	-1
+1 Wilderness	wtr	10	-1	-1	23	-1	-1	-1
+1 Wilderness	wbl	10	-1	-1	22	-1	-1	-1
+1 Wilderness	wrd	10			25	-1	-1	-1
+1 Wilderness	wld	10	1	1	33	-1	-1	-1
+1 Wilderness	wld	10			32	-1	-1	-1
+1 Wilderness	wre	10	1	1	159	-1	-1	-1
+1 Wilderness	wre	10	3	3	158	-1	-1	-1
+1 Wilderness	wre	10			86	-1	-1	-1
+1 Wilderness	wre	10	2	2	87	-1	-1	-1
+1 Wilderness	wr	10	7	7	436	-1	-1	-1
+1 Wilderness	wr	10	9	9	437	-1	-1	-1
+1 Wilderness	wr	10	12	12	438	-1	-1	-1
+1 Wilderness	wl	10	13	13	439	-1	-1	-1
+1 Wilderness	fl	10				1	2	3
+1 Wilderness	fl	10	5	11		1	2	3
+1 Wilderness	wr	2		4	11	12	-1	-1
+1 Wilderness	wl	2		4	13	14	-1	-1
+1 Wilderness	wtr	2		4	13	14	-1	-1
+1 Wilderness	wtlr	2		4	16	-1	-1	-1
+1 Wilderness	wtll	2		4	16	-1	-1	-1
+1 Wilderness	wbl	2		4	11	12	-1	-1
+1 Wilderness	wr	2		13	60	-1	-1	-1
+1 Wilderness	wl	2		13	61	-1	-1	-1
+1 Wilderness	wtlr	2	-1	-1	64	-1	-1	-1
+1 Wilderness	wtll	2	-1	-1	64	-1	-1	-1
+1 Wilderness	wbr	2	-1	-1	65	-1	-1	-1
+1 Wilderness	wtr	2	-1	-1	63	-1	-1	-1
+1 Wilderness	wbl	2	-1	-1	62	-1	-1	-1
+1 Wilderness	wr	2	14	23	11	12	-1	-1
+1 Wilderness	wl	2	14	23	13	14	-1	-1
+1 Wilderness	wr	3	-1	-1	46	47	48	49
+1 Wilderness	wl	3	-1	-1	51	52	53	54
+1 Wilderness	wtr	3	-1	-1	51	52	53	54
+1 Wilderness	wtlr	3	-1	-1	55	-1	-1	-1
+1 Wilderness	wtll	3	-1	-1	55	-1	-1	-1
+1 Wilderness	wbr	3	-1	-1	50	-1	-1	-1
+1 Wilderness	wbl	3	-1	-1	52	-1	-1	-1
+1 Wilderness	wr	23	-1	-1	46	47	48	49
+1 Wilderness	wl	23	-1	-1	51	52	53	54
+1 Wilderness	wtr	23	-1	-1	59	-1	-1	-1
+1 Wilderness	wtlr	23	-1	-1	55	-1	-1	-1
+1 Wilderness	wtll	23	-1	-1	55	-1	-1	-1
+1 Wilderness	wbr	23	-1	-1	50	-1	-1	-1
+1 Wilderness	wbl	23	-1	-1	46	47	48	49
+1 Wilderness	wle	3			56	-1	-1	-1
+1 Wilderness	wle	3	1	1	57	-1	-1	-1
+1 Wilderness	wre	4			58	-1	-1	-1
+1 Wilderness	wre	4	1	1	59	-1	-1	-1
+1 Wilderness	wl	39			312	-1	-1	-1
+1 Wilderness	fl	4		3	79	-1	-1	-1
+1 Wilderness	fl	4	4	4	76	-1	-1	-1
+1 Wilderness	fl	4	5	6	79	-1	-1	-1
+1 Wilderness	fl	4	7	7	73	-1	-1	-1
+1 Wilderness	fl	4	8	8	77	-1	-1	-1
+1 Wilderness	fl	4	9	10	79	-1	-1	-1
+1 Wilderness	fl	4	11	11	74	-1	-1	-1
+1 Wilderness	fl	4	12	12	77	-1	-1	-1
+1 Wilderness	fl	4	13	14	79	-1	-1	-1
+1 Wilderness	fl	4	15	15	74	-1	-1	-1
+1 Wilderness	fl	4	16	16	77	-1	-1	-1
+1 Wilderness	fl	4	17	18	79	-1	-1	-1
+1 Wilderness	fl	4	19	19	74	-1	-1	-1
+1 Wilderness	fl	4	20	21	79	-1	-1	-1
+1 Wilderness	fl	4	22	22	74	-1	-1	-1
+1 Wilderness	fl	4	23	26	79	-1	-1	-1
+1 Wilderness	fl	4	27	27	78	-1	-1	-1
+1 Wilderness	fl	4	28	29	79	-1	-1	-1
+1 Wilderness	fl	4	30	30	75	-1	-1	-1
+1 Wilderness	fl	4	31	31	77	-1	-1	-1
+1 Wilderness	fl	4	32	33	79	-1	-1	-1
+1 Wilderness	fl	4	34	34	74	-1	-1	-1
+1 Wilderness	fl	4	35	35	77	-1	-1	-1
+1 Wilderness	fl	4	36	37	79	-1	-1	-1
+1 Wilderness	fl	4	38	38	74	-1	-1	-1
+1 Wilderness	fl	4	39	39	77	-1	-1	-1
+1 Wilderness	fl	21	12	12	57	-1	-1	-1
+1 Wilderness	fl	21	14	14	56	-1	-1	-1
+1 Wilderness	fl	24	10	10	59	-1	-1	-1
+1 Wilderness	fl	24	9	9	58	-1	-1	-1
+1 Wilderness	fl	25	25	25	36	-1	-1	-1
+1 Wilderness	wr	15	3	3	20	-1	-1	-1
+1 Wilderness	wr	15			430	-1	-1	-1
+1 Wilderness	wr	15	2	2	431	-1	-1	-1
+1 Wilderness	wr	15	5	5	441	-1	-1	-1
+1 Wilderness	wr	15	9	9	442	-1	-1	-1
+1 Wilderness	wr	15	8	8	444	-1	-1	-1
+1 Wilderness	wl	15	2	2	428	-1	-1	-1
+1 Wilderness	wl	15			429	-1	-1	-1
+1 Wilderness	wbl	15			440	-1	-1	-1
+1 Wilderness	wtll	15	1	1	443	-1	-1	-1
+1 Wilderness	wl	15	5	-1	21	-1	-1	-1
+1 Wilderness	wr	15	5	-1	20	-1	-1	-1
+1 Wilderness	fl	25			432	-1	-1	-1
+1 Wilderness	wle				33	-1	-1	-1
+1 Wilderness	wle	1			32	-1	-1	-1
+1 Wilderness	wr	45	-1	-1	20	-1	-1	-1
+1 Wilderness	wl	45		4	21	-1	-1	-1
+1 Wilderness	wl	45	5	6	25	-1	-1	-1
+1 Wilderness	wl	45	7	-1	21	-1	-1	-1
+1 Wilderness	wtlr	45	-1	-1	24	-1	-1	-1
+1 Wilderness	wtll	45	-1	-1	24	-1	-1	-1
+1 Wilderness	wbr	45	2	2	25	-1	-1	-1
+1 Wilderness	wbr	45	-1	-1	25	-1	-1	-1
+1 Wilderness	wtr	45		2	23	-1	-1	-1
+1 Wilderness	wtr	45	3	3	25	-1	-1	-1
+1 Wilderness	wtr	45	-1	-1	23	-1	-1	-1
+1 Wilderness	wbl	45	-1	-1	22	-1	-1	-1
+1 Wilderness	wrd	45	-1	-1	34	-1	-1	-1
+1 Wilderness	wld	45	-1	-1	35	-1	-1	-1
+1 Wilderness	wtlr	8			426	-1	-1	-1
+1 Catacombs	fl	5	3	3	307	-1	-1	-1
+1 Catacombs	wr		-1	-1	20	38	-1	-1
+1 Catacombs	wl		-1	-1	21	39	-1	-1
+1 Catacombs	wtlr		-1	-1	24	-1	-1	-1
+1 Catacombs	wtll		-1	-1	24	-1	-1	-1
+1 Catacombs	wbr		-1	-1	25	-1	-1	-1
+1 Catacombs	wtr		-1	-1	23	-1	-1	-1
+1 Catacombs	wbl		-1	-1	22	-1	-1	-1
+1 Catacombs	wrd				27	-1	-1	-1
+1 Catacombs	wrd		1	1	26	-1	-1	-1
+1 Catacombs	wld		1	1	29	-1	-1	-1
+1 Catacombs	wld				28	-1	-1	-1
+1 Catacombs	wre				30	-1	-1	-1
+1 Catacombs	wre		1	1	31	-1	-1	-1
+1 Catacombs	wle	1			32	-1	-1	-1
+1 Catacombs	wle	1	1	1	33	-1	-1	-1
+1 Catacombs	co	1		3	25	-1	-1	-1
+1 Catacombs	wr	2	-1	-1	20	38	-1	-1
+1 Catacombs	wl	2	-1	-1	21	39	-1	-1
+1 Catacombs	wtlr	2	-1	-1	24	-1	-1	-1
+1 Catacombs	wtll	2	-1	-1	24	-1	-1	-1
+1 Catacombs	wbr	2	-1	-1	25	-1	-1	-1
+1 Catacombs	wtr	2	-1	-1	23	-1	-1	-1
+1 Catacombs	wbl	2	-1	-1	22	-1	-1	-1
+1 Catacombs	wrd	2			26	-1	-1	-1
+1 Catacombs	wrd	2	1	1	27	-1	-1	-1
+1 Catacombs	wld	2	1	1	28	-1	-1	-1
+1 Catacombs	wld	2			29	-1	-1	-1
+1 Catacombs	fl	21			41	-1	-1	-1
+1 Catacombs	fl	21	1	1	42	-1	-1	-1
+1 Catacombs	fl	21	2	2	40	-1	-1	-1
+1 Catacombs	fl	21	3	3	43	-1	-1	-1
+1 Crypt	wr		-1	-1	20	38	-1	-1
+1 Crypt	wl		-1	-1	21	39	-1	-1
+1 Crypt	wtlr		-1	-1	24	-1	-1	-1
+1 Crypt	wtll		-1	-1	24	-1	-1	-1
+1 Crypt	wbr		-1	-1	25	-1	-1	-1
+1 Crypt	wtr		-1	-1	23	-1	-1	-1
+1 Crypt	wbl		-1	-1	22	-1	-1	-1
+1 Crypt	co				25	-1	-1	-1
+1 Crypt	wrd				27	-1	-1	-1
+1 Crypt	wrd		1	1	26	-1	-1	-1
+1 Crypt	wld		1	1	29	-1	-1	-1
+1 Crypt	wld				28	-1	-1	-1
+1 Crypt	wre				30	-1	-1	-1
+1 Crypt	wre		1	1	31	-1	-1	-1
+1 Crypt	wle		1	1	32	-1	-1	-1
+1 Crypt	wle				33	-1	-1	-1
+1 Crypt	wle	1			32	-1	-1	-1
+1 Crypt	wle	1	1	1	33	-1	-1	-1
+1 Crypt	wr	48	-1	-1	20	38	-1	-1
+1 Crypt	wl	48	-1	-1	21	39	-1	-1
+1 Crypt	wtlr	48	-1	-1	24	-1	-1	-1
+1 Crypt	wtll	48	-1	-1	24	-1	-1	-1
+1 Crypt	wbr	48	-1	-1	25	-1	-1	-1
+1 Crypt	wtr	48	-1	-1	23	-1	-1	-1
+1 Crypt	wbl	48	-1	-1	22	-1	-1	-1
+1 Crypt	co	48			25	-1	-1	-1
+1 Crypt	wrd	48			27	-1	-1	-1
+1 Crypt	wrd	48	1	1	26	-1	-1	-1
+1 Crypt	wld	48	1	1	29	-1	-1	-1
+1 Crypt	wld	48			28	-1	-1	-1
+1 Crypt	wre	48			30	-1	-1	-1
+1 Crypt	wre	48	1	1	31	-1	-1	-1
+1 Crypt	wle	48	1	1	32	-1	-1	-1
+1 Crypt	wle	48			33	-1	-1	-1
+1 Crypt	wle	49			32	-1	-1	-1
+1 Crypt	wle	49	1	1	33	-1	-1	-1
+1 Crypt	wr	13	-1	-1	20	38	-1	-1
+1 Crypt	wl	13	-1	-1	21	39	-1	-1
+1 Crypt	wtlr	13	-1	-1	24	-1	-1	-1
+1 Crypt	wtll	13	-1	-1	24	-1	-1	-1
+1 Crypt	wbr	13	-1	-1	25	-1	-1	-1
+1 Crypt	wtr	13	-1	-1	23	-1	-1	-1
+1 Crypt	wbl	13	-1	-1	22	-1	-1	-1
+1 Crypt	co	13			25	-1	-1	-1
+1 Crypt	wrd	13			27	-1	-1	-1
+1 Crypt	wrd	13	1	1	26	-1	-1	-1
+1 Crypt	wld	13	1	1	29	-1	-1	-1
+1 Crypt	wld	13			28	-1	-1	-1
+1 Crypt	wre	13			30	-1	-1	-1
+1 Crypt	wre	13	1	1	31	-1	-1	-1
+1 Crypt	wle	13	1	1	32	-1	-1	-1
+1 Crypt	wle	13			33	-1	-1	-1
+1 Crypt	wle	14			32	-1	-1	-1
+1 Crypt	wle	14	1	1	33	-1	-1	-1
+1 Crypt	wr	4	-1	-1	20	38	-1	-1
+1 Crypt	wl	4	-1	-1	21	39	-1	-1
+1 Crypt	wtlr	4	-1	-1	24	-1	-1	-1
+1 Crypt	wtll	4	-1	-1	24	-1	-1	-1
+1 Crypt	wbr	4	-1	-1	25	-1	-1	-1
+1 Crypt	wtr	4	-1	-1	23	-1	-1	-1
+1 Crypt	wbl	4	-1	-1	22	-1	-1	-1
+1 Crypt	co	4			25	-1	-1	-1
+1 Crypt	wrd	4			27	-1	-1	-1
+1 Crypt	wrd	4	1	1	26	-1	-1	-1
+1 Crypt	wld	4	1	1	29	-1	-1	-1
+1 Crypt	wld	4			28	-1	-1	-1
+1 Crypt	wre	4			30	-1	-1	-1
+1 Crypt	wre	4	1	1	31	-1	-1	-1
+1 Crypt	wle	4	1	1	32	-1	-1	-1
+1 Crypt	wle	4			33	-1	-1	-1
+1 Crypt	wle	5			32	-1	-1	-1
+1 Crypt	wle	5	1	1	33	-1	-1	-1
+1 Crypt	wr	32	-1	-1	20	38	-1	-1
+1 Crypt	wl	32	-1	-1	21	39	-1	-1
+1 Crypt	wtlr	32	-1	-1	24	-1	-1	-1
+1 Crypt	wtll	32	-1	-1	24	-1	-1	-1
+1 Crypt	wbr	32	-1	-1	25	-1	-1	-1
+1 Crypt	wtr	32	-1	-1	23	-1	-1	-1
+1 Crypt	wbl	32	-1	-1	22	-1	-1	-1
+1 Crypt	co	32			25	-1	-1	-1
+1 Crypt	wrd	32			27	-1	-1	-1
+1 Crypt	wrd	32	1	1	26	-1	-1	-1
+1 Crypt	wld	32	1	1	29	-1	-1	-1
+1 Crypt	wld	32			28	-1	-1	-1
+1 Crypt	wre	32			30	-1	-1	-1
+1 Crypt	wre	32	1	1	31	-1	-1	-1
+1 Crypt	wle	32	1	1	32	-1	-1	-1
+1 Crypt	wle	32			33	-1	-1	-1
+1 Crypt	wle	33			32	-1	-1	-1
+1 Crypt	wle	33	1	1	33	-1	-1	-1
+1 Crypt	wr	1	-1	-1	20	38	-1	-1
+1 Crypt	wl	1	-1	-1	21	39	-1	-1
+1 Crypt	wtlr	1	-1	-1	24	-1	-1	-1
+1 Crypt	wtll	1	-1	-1	24	-1	-1	-1
+1 Crypt	wbr	1	-1	-1	25	-1	-1	-1
+1 Crypt	wtr	1	-1	-1	23	-1	-1	-1
+1 Crypt	wbl	1	-1	-1	22	-1	-1	-1
+1 Crypt	co	1			25	-1	-1	-1
+1 Crypt	wrd	1			27	-1	-1	-1
+1 Crypt	wrd	1	1	1	26	-1	-1	-1
+1 Crypt	wld	1	1	1	29	-1	-1	-1
+1 Crypt	wld	1			28	-1	-1	-1
+1 Crypt	wre	1			30	-1	-1	-1
+1 Crypt	wre	1	1	1	31	-1	-1	-1
+1 Crypt	wle	1	1	1	32	-1	-1	-1
+1 Crypt	wle	1			33	-1	-1	-1
+1 Crypt	wle	2			32	-1	-1	-1
+1 Crypt	wle	2	1	1	33	-1	-1	-1
+1 Barracks	wl	7	-1	-1	21	-1	-1	-1
+1 Barracks	wre		1	1	31	-1	-1	-1
+1 Barracks	wre				30	-1	-1	-1
+1 Barracks	wre	1	1	1	31	-1	-1	-1
+1 Barracks	wre	1			30	-1	-1	-1
+1 Barracks	wle		1	1	33	-1	-1	-1
+1 Barracks	wle				32	-1	-1	-1
+1 Barracks	wle	1	1	1	33	-1	-1	-1
+1 Barracks	wle	1			32	-1	-1	-1
+1 Barracks	wr	4	-1	-1	20	-1	-1	-1
+1 Barracks	wl	4	-1	-1	21	-1	-1	-1
+1 Barracks	wtlr	4	-1	-1	24	-1	-1	-1
+1 Barracks	wtll	4	-1	-1	24	-1	-1	-1
+1 Barracks	wbr	4	-1	-1	25	-1	-1	-1
+1 Barracks	wtr	4	-1	-1	23	-1	-1	-1
+1 Barracks	wbl	4	-1	-1	22	-1	-1	-1
+1 Barracks	co	4	-1	-1	25	-1	-1	-1
+1 Barracks	wrd	4	-1	-1	27	-1	-1	-1
+1 Barracks	wrd	4	-1	-1	26	-1	-1	-1
+1 Barracks	wld	4	-1	-1	29	-1	-1	-1
+1 Barracks	wld	4	-1	-1	28	-1	-1	-1
+1 Barracks	wrd	5			27	-1	-1	-1
+1 Barracks	wrd	5	1	1	26	-1	-1	-1
+1 Barracks	wld	5	1	1	29	-1	-1	-1
+1 Barracks	wld	5			28	-1	-1	-1
+1 Barracks	wld	5	2	2	21	-1	-1	-1
+1 Barracks	wr	5	-1	-1	20	-1	-1	-1
+1 Barracks	wl	5	-1	-1	21	-1	-1	-1
+1 Barracks	wtlr	5	-1	-1	24	-1	-1	-1
+1 Barracks	wtll	5	-1	-1	24	-1	-1	-1
+1 Barracks	wbr	5	-1	-1	25	-1	-1	-1
+1 Barracks	wtr	5	-1	-1	23	-1	-1	-1
+1 Barracks	wbl	5	-1	-1	22	-1	-1	-1
+1 Barracks	co	5	-1	-1	25	-1	-1	-1
+1 Barracks	wr	7	-1	-1	20	-1	-1	-1
+1 Barracks	wl	7	-1	-1	21	-1	-1	-1
+1 Barracks	wtlr	7	-1	-1	24	-1	-1	-1
+1 Barracks	wtll	7	-1	-1	24	-1	-1	-1
+1 Barracks	wbr	7	-1	-1	25	-1	-1	-1
+1 Barracks	wtr	7	-1	-1	23	-1	-1	-1
+1 Barracks	wbl	7	-1	-1	22	-1	-1	-1
+1 Barracks	wrd	7			26	-1	-1	-1
+1 Barracks	wrd	7	1	1	27	-1	-1	-1
+1 Barracks	wld	7	1	1	28	-1	-1	-1
+1 Barracks	wld	7			29	-1	-1	-1
+1 Barracks	fl	21			41	-1	-1	-1
+1 Barracks	fl	21	1	1	42	-1	-1	-1
+1 Barracks	fl	21	2	2	40	-1	-1	-1
+1 Barracks	fl	21	3	3	43	-1	-1	-1
+1 Jail	wre		1	1	31	-1	-1	-1
+1 Jail	wre				30	-1	-1	-1
+1 Jail	wre	1	1	1	31	-1	-1	-1
+1 Jail	wre	1			30	-1	-1	-1
+1 Jail	wle		1	1	33	-1	-1	-1
+1 Jail	wle				32	-1	-1	-1
+1 Jail	fl		15	15	307	-1	-1	-1
+1 Jail	wle	1	1	1	33	-1	-1	-1
+1 Jail	wle	1			32	-1	-1	-1
+1 Jail	wr	4	-1	-1	20	-1	-1	-1
+1 Jail	wl	4	-1	-1	21	-1	-1	-1
+1 Jail	wtlr	4	-1	-1	24	-1	-1	-1
+1 Jail	wtll	4	-1	-1	24	-1	-1	-1
+1 Jail	wbr	4	-1	-1	25	-1	-1	-1
+1 Jail	wtr	4	-1	-1	23	-1	-1	-1
+1 Jail	wbl	4	-1	-1	22	-1	-1	-1
+1 Jail	co	4	-1	-1	25	-1	-1	-1
+1 Jail	wrd	5			27	-1	-1	-1
+1 Jail	wrd	5	1	1	26	-1	-1	-1
+1 Jail	wld	5	1	1	29	-1	-1	-1
+1 Jail	wld	5			28	-1	-1	-1
+1 Jail	wld	5	2	2	21	-1	-1	-1
+1 Jail	wr	5	-1	-1	20	-1	-1	-1
+1 Jail	wl	5	-1	-1	21	-1	-1	-1
+1 Jail	wtlr	5	-1	-1	24	-1	-1	-1
+1 Jail	wtll	5	-1	-1	24	-1	-1	-1
+1 Jail	wbr	5	-1	-1	25	-1	-1	-1
+1 Jail	wtr	5	-1	-1	23	-1	-1	-1
+1 Jail	wbl	5	-1	-1	22	-1	-1	-1
+1 Jail	co	5	-1	-1	25	-1	-1	-1
+1 Jail	wr	7	-1	-1	20	-1	-1	-1
+1 Jail	wl	7	-1	-1	21	-1	-1	-1
+1 Jail	wtlr	7	-1	-1	24	-1	-1	-1
+1 Jail	wtll	7	-1	-1	24	-1	-1	-1
+1 Jail	wbr	7	-1	-1	25	-1	-1	-1
+1 Jail	wtr	7	-1	-1	23	-1	-1	-1
+1 Jail	wbl	7	-1	-1	22	-1	-1	-1
+1 Jail	wrd	7			26	-1	-1	-1
+1 Jail	wrd	7	1	1	27	-1	-1	-1
+1 Jail	wld	7	1	1	28	-1	-1	-1
+1 Jail	wld	7			29	-1	-1	-1
+1 Jail	fl	21			41	-1	-1	-1
+1 Jail	fl	21	1	1	42	-1	-1	-1
+1 Jail	fl	21	2	2	40	-1	-1	-1
+1 Jail	fl	21	3	3	43	-1	-1	-1
+1 Courtyard	fl		54	54	307	-1	-1	-1
+1 Courtyard	wr	1	-1	-1	20	38	-1	-1
+1 Courtyard	wl	1	-1	-1	21	39	-1	-1
+1 Courtyard	wtlr	1	-1	-1	24	-1	-1	-1
+1 Courtyard	wtll	1	-1	-1	24	-1	-1	-1
+1 Courtyard	wbr	1	-1	-1	25	-1	-1	-1
+1 Courtyard	wtr	1	-1	-1	23	-1	-1	-1
+1 Courtyard	wbl	1	-1	-1	22	-1	-1	-1
+1 Courtyard	wr	2	-1	-1	20	38	-1	-1
+1 Courtyard	wl	2	-1	-1	21	39	-1	-1
+1 Courtyard	wtlr	2	-1	-1	24	-1	-1	-1
+1 Courtyard	wtll	2	-1	-1	24	-1	-1	-1
+1 Courtyard	wbr	2	-1	-1	25	-1	-1	-1
+1 Courtyard	wtr	2	-1	-1	23	-1	-1	-1
+1 Courtyard	wbl	2	-1	-1	22	-1	-1	-1
+1 Courtyard	fl	4	28	28	307	-1	-1	-1
+1 Courtyard	wr	4	-1	-1	20	38	-1	-1
+1 Courtyard	wl	4	-1	-1	21	39	-1	-1
+1 Courtyard	wtlr	4	-1	-1	24	-1	-1	-1
+1 Courtyard	wtll	4	-1	-1	24	-1	-1	-1
+1 Courtyard	wbr	4	-1	-1	25	-1	-1	-1
+1 Courtyard	wtr	4	-1	-1	23	-1	-1	-1
+1 Courtyard	wbl	4	-1	-1	22	-1	-1	-1
+1 Courtyard	wrd	4			27	-1	-1	-1
+1 Courtyard	wrd	4	1	1	26	-1	-1	-1
+1 Courtyard	wrd	4	2	2	20	-1	-1	-1
+1 Courtyard	wrd	4	5	5	26	-1	-1	-1
+1 Courtyard	wrd	4	4	4	20	-1	-1	-1
+1 Courtyard	wrd	4	3	3	27	-1	-1	-1
+1 Courtyard	wld	4	1	1	29	-1	-1	-1
+1 Courtyard	wld	4			28	-1	-1	-1
+1 Courtyard	wr	6	-1	-1	183	-1	-1	-1
+1 Courtyard	wl	6	-1	-1	184	-1	-1	-1
+1 Courtyard	wtlr	6	-1	-1	187	-1	-1	-1
+1 Courtyard	wtll	6	-1	-1	187	-1	-1	-1
+1 Courtyard	wbr	6	-1	-1	188	-1	-1	-1
+1 Courtyard	wtr	6	-1	-1	186	-1	-1	-1
+1 Courtyard	wbl	6	-1	-1	185	-1	-1	-1
+1 Courtyard	wrd	1			20	-1	-1	-1
+1 Courtyard	wrd	1	1	1	34	-1	-1	-1
+1 Courtyard	wld	1	1	1	21	-1	-1	-1
+1 Courtyard	wld	1			35	-1	-1	-1
+1 Courtyard	wrd	2			27	-1	-1	-1
+1 Courtyard	wrd	2	1	1	26	-1	-1	-1
+1 Courtyard	wld	2	1	1	29	-1	-1	-1
+1 Courtyard	wld	2			28	-1	-1	-1
+1 Courtyard	wrd	6			27	-1	-1	-1
+1 Courtyard	wrd	6	1	1	26	-1	-1	-1
+1 Courtyard	wld	6	1	1	29	-1	-1	-1
+1 Courtyard	wld	6			28	-1	-1	-1
+1 Courtyard	fl	4	23	23	433	-1	-1	-1
+1 Courtyard	fl	4	15	15	434	-1	-1	-1
+1 Courtyard	fl	21			41	-1	-1	-1
+1 Courtyard	fl	21	1	1	42	-1	-1	-1
+1 Courtyard	fl	21	2	2	40	-1	-1	-1
+1 Courtyard	fl	21	3	3	43	-1	-1	-1
+1 Cave	wre		1	1	56	-1	-1	-1
+1 Cave	wre		3	3	57	-1	-1	-1
+1 Cave	wre				56	-1	-1	-1
+1 Cave	wre		2	2	57	-1	-1	-1
+1 Cave	fl				127	-1	-1	-1
+1 Cave	fl		2	5	126	-1	-1	-1
+1 Cave	fl		12	12	126	-1	-1	-1
+1 Cave	fl		14	15	126	-1	-1	-1
+1 Cave	fl		23	23	126	-1	-1	-1
+1 Cave	fl		27	28	126	-1	-1	-1
+1 Cave	fl		31	31	126	-1	-1	-1
+1 Cave	fl		1	1	128	-1	-1	-1
+1 Cave	fl		7	9	128	-1	-1	-1
+1 Cave	fl		11	11	128	-1	-1	-1
+1 Cave	fl		18	19	128	-1	-1	-1
+1 Cave	fl		24	26	128	-1	-1	-1
+1 Cave	fl		29	29	128	-1	-1	-1
+1 Cave	fl		30	30	129	-1	-1	-1
+1 Cave	fl		32	32	125	-1	-1	-1
+1 Cave	fl		36	36	135	-1	-1	-1
+1 Cave	fl		34	34	136	-1	-1	-1
+1 Cave	fl		6	6	130	-1	-1	-1
+1 Cave	fl		10	10	133	-1	-1	-1
+1 Cave	fl		11	11	134	-1	-1	-1
+1 Cave	fl		12	12	132	-1	-1	-1
+1 Cave	fl		20	20	130	-1	-1	-1
+1 Cave	fl		16	16	131	-1	-1	-1
+1 Cave	fl		17	17	130	-1	-1	-1
+1 Cave	fl	2			124	-1	-1	-1
+1 Cave	fl	2	1	1	120	169	171	-1
+1 Cave	fl	2	2	2	121	170	172	-1
+1 Cave	fl	2	3	3	122	-1	-1	-1
+1 Cave	fl	2	4	4	124	-1	-1	-1
+1 Cave	fl	2	5	5	120	169	171	-1
+1 Cave	fl	2	6	6	124	-1	-1	-1
+1 Cave	fl	2	7	7	120	169	171	-1
+1 Cave	fl	2	8	8	124	-1	-1	-1
+1 Cave	fl	2	9	9	120	169	171	-1
+1 Cave	fl	2	10	10	124	-1	-1	-1
+1 Cave	fl	2	11	11	120	169	171	-1
+1 Cave	fl	2	12	12	124	-1	-1	-1
+1 Cave	fl	2	13	13	120	169	171	-1
+1 Cave	fl	2	14	14	124	-1	-1	-1
+1 Cave	fl	2	15	15	120	169	171	-1
+1 Cave	fl	2	16	19	124	-1	-1	-1
+1 Cave	fl	2	20	23	121	170	172	-1
+1 Cave	fl	2	24	25	124	-1	-1	-1
+1 Cave	fl	2	26	27	121	170	172	-1
+1 Cave	fl	2	28	30	124	-1	-1	-1
+1 Cave	fl	2	31	31	123	-1	-1	-1
+1 Cave	fl	2	46	46	124	-1	-1	-1
+1 Cave	fl	2	47	47	120	169	171	-1
+1 Cave	fl	2	49	49	124	-1	-1	-1
+1 Cave	fl	2	50	50	139	-1	-1	-1
+1 Cave	fl	2	51	51	140	-1	-1	-1
+1 Cave	fl	2	52	52	124	-1	-1	-1
+1 Cave	fl	2	53	53	139	-1	-1	-1
+1 Cave	fl	2	54	54	138	-1	-1	-1
+1 Cave	fl	2	55	55	121	170	172	-1
+1 Cave	fl	2	56	56	137	-1	-1	-1
+1 Cave	fl	2	59	59	120	169	171	-1
+1 Cave	fl	2	61	61	121	170	172	-1
+1 Cave	fl	2	33	34	124	-1	-1	-1
+1 Cave	fl	2	36	36	124	-1	-1	-1
+1 Cave	fl	2	43	43	124	-1	-1	-1
+1 Cave	fl	2	38	38	145	-1	-1	-1
+1 Cave	fl	2	41	41	144	-1	-1	-1
+1 Cave	fl	2	40	40	142	-1	-1	-1
+1 Cave	fl	2	37	37	142	-1	-1	-1
+1 Cave	fl	2	44	44	141	-1	-1	-1
+1 Cave	fl	2	42	42	143	-1	-1	-1
+1 Cave	fl	3	17	17	141	-1	-1	-1
+1 Cave	fl	3	13	13	144	-1	-1	-1
+1 Cave	fl	3	4	4	142	-1	-1	-1
+1 Cave	fl	3	11	11	145	-1	-1	-1
+1 Cave	fl	21	1	1	174	-1	-1	-1
+1 Cave	fl	21	5	5	174	-1	-1	-1
+1 Cave	fl	21	2	2	175	-1	-1	-1
+1 Cave	fl	21	6	6	175	-1	-1	-1
+1 Cave	fl	21			173	-1	-1	-1
+1 Cave	fl	21	4	4	173	-1	-1	-1
+1 Cave	fl	21	3	3	176	-1	-1	-1
+1 Cave	fl	21	7	7	176	-1	-1	-1
+1 Cave	fl	1	4	4	146	-1	-1	-1
+1 Cave	fl	1	6	6	146	-1	-1	-1
+1 Cave	fl	1	12	12	146	-1	-1	-1
+1 Cave	fl	1	14	14	146	-1	-1	-1
+1 Cave	fl	1	16	16	146	-1	-1	-1
+1 Cave	fl	1	34	34	146	-1	-1	-1
+1 Cave	fl	1	1	1	147	-1	-1	-1
+1 Cave	fl	1	5	5	147	-1	-1	-1
+1 Cave	fl	1	7	7	147	-1	-1	-1
+1 Cave	fl	1	13	13	147	-1	-1	-1
+1 Cave	fl	1	15	15	147	-1	-1	-1
+1 Cave	fl	1	17	17	147	-1	-1	-1
+1 Cave	fl	1	18	19	149	-1	-1	-1
+1 Cave	fl	1	22	23	149	-1	-1	-1
+1 Cave	fl	1	30	30	149	-1	-1	-1
+1 Cave	fl	1	33	33	149	-1	-1	-1
+1 Cave	fl	1	2	2	150	-1	-1	-1
+1 Cave	fl	1	24	25	150	-1	-1	-1
+1 Cave	fl	1	28	29	150	-1	-1	-1
+1 Cave	fl	1	31	31	150	-1	-1	-1
+1 Cave	fl	1	10	10	151	-1	-1	-1
+1 Cave	fl	1	8	8	152	-1	-1	-1
+1 Cave	fl	1	11	11	153	-1	-1	-1
+1 Cave	fl	1	9	9	154	-1	-1	-1
+1 Cave	fl	1	20	20	157	-1	-1	-1
+1 Cave	fl	1	21	21	158	-1	-1	-1
+1 Cave	fl	1	26	26	155	-1	-1	-1
+1 Cave	fl	1	27	27	156	-1	-1	-1
+1 Cave	fl	1			159	-1	-1	-1
+1 Cave	fl	1	3	3	160	-1	-1	-1
+1 Cave	fl	1	32	32	161	-1	-1	-1
+1 Cave	fl	1	35	35	162	-1	-1	-1
+1 Cave	fl	1	39	39	163	-1	-1	-1
+1 Cave	fl	1	37	37	164	-1	-1	-1
+1 Cave	fl	1	38	38	124	-1	-1	-1
+1 Cave	fl	1	36	36	124	-1	-1	-1
+1 Cave	fl	1	42	42	166	-1	-1	-1
+1 Cave	fl	1	43	43	167	-1	-1	-1
+1 Cave	fl	1	40	41	124	-1	-1	-1
+1 Cave	fl	4			177	-1	-1	-1
+1 Cave	fl	4	1	1	178	-1	-1	-1
+1 Cave	fl	4	2	2	179	-1	-1	-1
+1 Cave	fl	4	3	3	180	-1	-1	-1
+1 Tristram	fl		47	47	303	-1	-1	-1
+1 Tristram	wr	1		6	20	38	-1	-1
+1 Tristram	wl	1		10	21	39	-1	-1
+1 Tristram	wtlr	1			24	-1	-1	-1
+1 Tristram	wtll	1			24	-1	-1	-1
+1 Tristram	wbr	1			25	-1	-1	-1
+1 Tristram	wtr	1			23	-1	-1	-1
+1 Tristram	wbl	1			22	-1	-1	-1
+1 Tristram	wr	4		4	20	38	-1	-1
+1 Tristram	wl	4		2	21	39	-1	-1
+1 Tristram	wtlr	4			24	-1	-1	-1
+1 Tristram	wtll	4			24	-1	-1	-1
+1 Tristram	wbr	4			25	-1	-1	-1
+1 Tristram	wtr	4			23	-1	-1	-1
+1 Tristram	wbl	4			22	-1	-1	-1
+1 Tristram	wr	5		2	20	38	-1	-1
+1 Tristram	wl	5		8	21	39	-1	-1
+1 Tristram	wtlr	5			24	-1	-1	-1
+1 Tristram	wtll	5			24	-1	-1	-1
+1 Tristram	wbr	5			25	-1	-1	-1
+1 Tristram	wtr	5			23	-1	-1	-1
+1 Tristram	wbl	5			22	-1	-1	-1
+1 Tristram	wr	6		7	20	38	-1	-1
+1 Tristram	wl	6	4	6	21	39	-1	-1
+1 Tristram	wtlr	6			24	-1	-1	-1
+1 Tristram	wtll	6			24	-1	-1	-1
+1 Tristram	wbr	6			25	-1	-1	-1
+1 Tristram	wtr	6			23	-1	-1	-1
+1 Tristram	wbl	6			22	-1	-1	-1
+1 Tristram	co	6	4	4	90	-1	-1	-1
+1 Tristram	wr	7		5	20	38	-1	-1
+1 Tristram	wl	7		4	21	39	-1	-1
+1 Tristram	wtlr	7		2	24	-1	-1	-1
+1 Tristram	wtll	7		1	24	-1	-1	-1
+1 Tristram	wbr	7		1	25	-1	-1	-1
+1 Tristram	wtr	7			23	-1	-1	-1
+1 Tristram	wbl	7			22	-1	-1	-1
+1 Tristram	wr	10		7	20	38	-1	-1
+1 Tristram	wl	10	4	6	21	39	-1	-1
+1 Tristram	wtlr	10			24	-1	-1	-1
+1 Tristram	wtll	10			24	-1	-1	-1
+1 Tristram	wbr	10			25	-1	-1	-1
+1 Tristram	wtr	10			23	-1	-1	-1
+1 Tristram	wbl	10			22	-1	-1	-1
+1 Tristram	co	10	4	4	90	-1	-1	-1
+1 Tristram	fl	2	4	7	4	-1	-1	-1
+1 Tristram	fl	2	8	11	6	7	8	-1
+1 Tristram	fl	2	12	15		1	2	3
+1 Tristram	fl	2	16	19	4	-1	-1	-1
+1 Tristram	fl	2	20	24	6	7	8	-1
+1 Tristram	fl	3		3		1	2	3
+1 Tristram	fl	3	4	7	5	-1	-1	-1
+1 Tristram	fl	3	8	11		1	2	3
+1 Tristram	fl	3	12	15	5	-1	-1	-1
+1 Tristram	wr	2		3	11	12	-1	-1
+1 Tristram	wr	2	4	4	18	-1	-1	-1
+1 Tristram	wl	2		3	13	14	-1	-1
+1 Tristram	wl	2	4	4	17	-1	-1	-1
+1 Tristram	wtr	2		4	13	14	-1	-1
+1 Tristram	wtlr	2		4	16	-1	-1	-1
+1 Tristram	wtll	2		4	16	-1	-1	-1
+1 Tristram	wbl	2		4	11	12	-1	-1
+1 Tristram	wr	2	14	23	11	12	-1	-1
+1 Tristram	wl	2	14	23	13	14	-1	-1
+1 Cathedral	wr		-1	-1	20	38	-1	-1
+1 Cathedral	wl		-1	-1	21	39	-1	-1
+1 Cathedral	wtlr		-1	-1	24	-1	-1	-1
+1 Cathedral	wtll		-1	-1	24	-1	-1	-1
+1 Cathedral	wbr		-1	-1	25	-1	-1	-1
+1 Cathedral	wtr		-1	-1	23	-1	-1	-1
+1 Cathedral	wbl		-1	-1	22	-1	-1	-1
+1 Cathedral	wrd				26	-1	-1	-1
+1 Cathedral	wrd		1	1	27	-1	-1	-1
+1 Cathedral	wld		1	1	28	-1	-1	-1
+1 Cathedral	wld				29	-1	-1	-1
+1 Cathedral	wre		1	1	30	-1	-1	-1
+1 Cathedral	wre		3	3	31	-1	-1	-1
+1 Cathedral	wle				32	-1	-1	-1
+1 Cathedral	wle		2	2	33	-1	-1	-1
+1 Cathedral	co				25	-1	-1	-1
+1 Cathedral	fl	5	6	6	118	-1	-1	-1
+1 Cathedral	fl	5	8	8	118	-1	-1	-1
+1 Cathedral	wr	1		3	20	38	-1	-1
+1 Cathedral	wl	1	-1	-1	21	39	-1	-1
+1 Cathedral	wtlr	1	-1	-1	24	-1	-1	-1
+1 Cathedral	wtll	1	-1	-1	24	-1	-1	-1
+1 Cathedral	wbr	1	-1	-1	25	-1	-1	-1
+1 Cathedral	wtr	1	-1	-1	23	-1	-1	-1
+1 Cathedral	wbl	1	-1	-1	22	-1	-1	-1
+1 Cathedral	wrd	1	2	2	34	-1	-1	-1
+1 Cathedral	wld	1	2	2	35	-1	-1	-1
+1 Cathedral	wld	1			28	-1	-1	-1
+1 Cathedral	wld	1	1	1	29	-1	-1	-1
+1 Cathedral	wre	1			30	-1	-1	-1
+1 Cathedral	wre	1	1	1	31	-1	-1	-1
+1 Cathedral	fl	4	28	28	307	-1	-1	-1
+1 Cathedral	wr	4	-1	-1	20	38	-1	-1
+1 Cathedral	wl	4	-1	-1	21	39	-1	-1
+1 Cathedral	wtlr	4	-1	-1	24	-1	-1	-1
+1 Cathedral	wtll	4	-1	-1	24	-1	-1	-1
+1 Cathedral	wbr	4	-1	-1	25	-1	-1	-1
+1 Cathedral	wtr	4	-1	-1	23	-1	-1	-1
+1 Cathedral	wbl	4	-1	-1	22	-1	-1	-1
+1 Cathedral	wrd	4	2	2	20	-1	-1	-1
+1 Cathedral	wrd	4	5	5	26	-1	-1	-1
+1 Cathedral	wrd	4	4	4	20	-1	-1	-1
+1 Cathedral	wrd	4	3	3	27	-1	-1	-1
+1 Cathedral	wr	14	-1	-1	20	38	-1	-1
+1 Cathedral	wl	14	-1	-1	21	39	-1	-1
+1 Cathedral	wtlr	14	-1	-1	24	-1	-1	-1
+1 Cathedral	wtll	14	-1	-1	24	-1	-1	-1
+1 Cathedral	wbr	14	-1	-1	25	-1	-1	-1
+1 Cathedral	wtr	14	-1	-1	23	-1	-1	-1
+1 Cathedral	wbl	14	-1	-1	22	-1	-1	-1
+1 Monestary	fl		1	46		1	2	3
+1 Monestary	wr	1	-1	-1	20	38	-1	-1
+1 Monestary	wl	1	-1	-1	21	39	-1	-1
+1 Monestary	wtlr	1	-1	-1	24	-1	-1	-1
+1 Monestary	wtll	1	-1	-1	24	-1	-1	-1
+1 Monestary	wbr	1	-1	-1	25	-1	-1	-1
+1 Monestary	wtr	1	-1	-1	23	-1	-1	-1
+1 Monestary	wbl	1	-1	-1	22	-1	-1	-1
+1 Monestary	wrd	1			20	-1	-1	-1
+1 Monestary	wrd	1	1	1	34	-1	-1	-1
+1 Monestary	wld	1			21	-1	-1	-1
+1 Monestary	wld	1	1	1	35	-1	-1	-1
+1 Monestary	wr	2		3	11	12	-1	-1
+1 Monestary	wr	2	4	4	18	-1	-1	-1
+1 Monestary	wl	2		3	13	14	-1	-1
+1 Monestary	wl	2	4	4	17	-1	-1	-1
+1 Monestary	wtr	2		4	13	14	-1	-1
+1 Monestary	wtlr	2		4	16	-1	-1	-1
+1 Monestary	wtll	2		4	16	-1	-1	-1
+1 Monestary	wbl	2		4	11	12	-1	-1
+1 Monestary	wr	4	-1	-1	20	38	-1	-1
+1 Monestary	wl	4	-1	-1	21	39	-1	-1
+1 Monestary	wtlr	4	-1	-1	24	-1	-1	-1
+1 Monestary	wtll	4	-1	-1	24	-1	-1	-1
+1 Monestary	wbr	4	-1	-1	25	-1	-1	-1
+1 Monestary	wtr	4	-1	-1	23	-1	-1	-1
+1 Monestary	wbl	4	-1	-1	22	-1	-1	-1
+1 Monestary	wrd	4			27	-1	-1	-1
+1 Monestary	wrd	4	1	1	26	-1	-1	-1
+1 Monestary	wld	4			28	-1	-1	-1
+1 Monestary	wld	4	1	1	29	-1	-1	-1
+1 Monestary	wr	6	-1	-1	20	38	-1	-1
+1 Monestary	wl	6	-1	-1	21	39	-1	-1
+1 Monestary	wtlr	6	-1	-1	24	-1	-1	-1
+1 Monestary	wtll	6	-1	-1	24	-1	-1	-1
+1 Monestary	wbr	6	-1	-1	25	-1	-1	-1
+1 Monestary	wtr	6	-1	-1	23	-1	-1	-1
+1 Monestary	wbl	6	-1	-1	22	-1	-1	-1
+1 Monestary	wrd	6			30	-1	-1	-1
+1 Monestary	wrd	6	1	1	31	-1	-1	-1
+1 Monestary	wr	7	-1	-1	20	38	-1	-1
+1 Monestary	wl	7	-1	-1	21	39	-1	-1
+1 Monestary	wtlr	7	-1	-1	24	-1	-1	-1
+1 Monestary	wtll	7	-1	-1	24	-1	-1	-1
+1 Monestary	wbr	7	-1	-1	25	-1	-1	-1
+1 Monestary	wtr	7	-1	-1	23	-1	-1	-1
+1 Monestary	wbl	7	-1	-1	22	-1	-1	-1
+1 Monestary	wld	6	1	1	28	-1	-1	-1
+1 Monestary	wld	6			29	-1	-1	-1
+1 Monestary	wrd	7			27	-1	-1	-1
+1 Monestary	wrd	7	1	1	26	-1	-1	-1
+1 Monestary	wld	7	1	1	28	-1	-1	-1
+1 Monestary	wld	7			29	-1	-1	-1
+1 Monestary	wre	6	1	1	30	-1	-1	-1
+1 Monestary	wre	6	3	3	31	-1	-1	-1
+1 Monestary	wre	6			32	-1	-1	-1
+1 Monestary	wre	6	2	2	33	-1	-1	-1
+1 Monestary	wre	7	1	1	30	-1	-1	-1
+1 Monestary	wre	7	3	3	31	-1	-1	-1
+1 Monestary	wre	7			32	-1	-1	-1
+1 Monestary	wre	7	2	2	33	-1	-1	-1
+2 Town	fl	26	4	4	257	258	259	-1
+2 Town	fl	26	9	9	257	258	259	-1
+2 Town	fl	26	17	17	257	258	259	-1
+2 Town	fl	26	20	20	257	258	259	-1
+2 Town	fl	26	33	33	257	258	259	-1
+2 Town	fl	26	41	41	257	258	259	-1
+2 Town	fl	26	44	44	257	258	259	-1
+2 Town	fl	27	5	5	257	258	259	-1
+2 Town	fl	27	7	7	257	258	259	-1
+2 Town	fl	27	14	14	257	258	259	-1
+2 Town	fl	27	19	19	257	258	259	-1
+2 Town	fl	27	23	23	257	258	259	-1
+2 Town	fl	27	33	33	257	258	259	-1
+2 Town	fl	27	37	37	257	258	259	-1
+2 Town	fl	27	45	45	257	258	259	-1
+2 Town	fl	27	48	48	257	258	259	-1
+2 Town	fl	28	6	6	257	258	259	-1
+2 Town	fl	28	10	10	257	258	259	-1
+2 Town	fl	28	13	13	257	258	259	-1
+2 Town	fl	28	16	16	257	258	259	-1
+2 Town	fl	28	23	23	257	258	259	-1
+2 Town	fl	28	28	28	257	258	259	-1
+2 Town	fl	28	36	36	257	258	259	-1
+2 Town	fl	28	39	39	257	258	259	-1
+2 Town	fl	28	45	45	257	258	259	-1
+2 Town	fl	28	50	50	257	258	259	-1
+2 Town	fl	28	57	57	257	258	259	-1
+2 Harem	wr		5	5	113	-1	-1	-1
+2 Harem	wr		4	4	112	-1	-1	-1
+2 Harem	wl		5	5	110	-1	-1	-1
+2 Harem	wl		4	4	111	-1	-1	-1
+2 Harem	wr		-1	-1	100	-1	-1	-1
+2 Harem	wl		-1	-1	101	-1	-1	-1
+2 Harem	wtlr		-1	-1	104	-1	-1	-1
+2 Harem	wtll		-1	-1	104	-1	-1	-1
+2 Harem	wbr		-1	-1	105	-1	-1	-1
+2 Harem	wtr		-1	-1	103	-1	-1	-1
+2 Harem	wbl		-1	-1	102	-1	-1	-1
+2 Harem	wre		1	1	109	-1	-1	-1
+2 Harem	wre				108	-1	-1	-1
+2 Harem	wle				106	-1	-1	-1
+2 Harem	wle		1	1	107	-1	-1	-1
+2 Harem	wrd		-1	-1	114	-1	-1	-1
+2 Harem	wld		-1	-1	115	-1	-1	-1
+2 Harem	wr	1	2	2	274	-1	-1	-1
+2 Harem	wl	1	2	2	275	-1	-1	-1
+2 Harem	wl	1			275	-1	-1	-1
+2 Harem	wbl	1			276	-1	-1	-1
+2 Harem	wr	1	-1	-1	274	-1	-1	-1
+2 Harem	wl	1	-1	-1	275	-1	-1	-1
+2 Harem	wtlr	1	-1	-1	278	-1	-1	-1
+2 Harem	wtll	1	-1	-1	278	-1	-1	-1
+2 Harem	wbr	1	-1	-1	279	-1	-1	-1
+2 Harem	wtr	1	-1	-1	277	-1	-1	-1
+2 Harem	wbl	1	-1	-1	276	-1	-1	-1
+2 Harem	wre	1	1	1	109	-1	-1	-1
+2 Harem	wre	1			108	-1	-1	-1
+2 Harem	wle	1	1	1	106	-1	-1	-1
+2 Harem	wle	1			107	-1	-1	-1
+2 Harem	wrd	1	-1	-1	274	-1	-1	-1
+2 Harem	wld	1	-1	-1	275	-1	-1	-1
+2 Harem	wl	2	4	4	101	-1	-1	-1
+2 Harem	wl	2	3	3	106	-1	-1	-1
+2 Harem	wl	2	2	2	107	-1	-1	-1
+2 Harem	wl	2		1	101	-1	-1	-1
+2 Harem	wr	3	2	2	274	-1	-1	-1
+2 Harem	wl	3	2	2	275	-1	-1	-1
+2 Harem	wbl	3	1	1	102	-1	-1	-1
+2 Harem	wbl	3	2	2	102	-1	-1	-1
+2 Harem	wtll	3	1	1	104	-1	-1	-1
+2 Harem	co	3			105	-1	-1	-1
+2 Harem	wr	3			100	-1	-1	-1
+2 Harem	wl	3			101	-1	-1	-1
+2 Harem	wtlr	3			104	-1	-1	-1
+2 Harem	wtll	3			104	-1	-1	-1
+2 Harem	wtll	3	2	2	104	-1	-1	-1
+2 Harem	wbr	3			105	-1	-1	-1
+2 Harem	wtr	3			103	-1	-1	-1
+2 Harem	wbl	3			102	-1	-1	-1
+2 Harem	wrd	3			114	-1	-1	-1
+2 Harem	wld	3			115	-1	-1	-1
+2 Harem	wr	3	1	1	274	-1	-1	-1
+2 Harem	wl	3	1	1	275	-1	-1	-1
+2 Harem	wtlr	3	1	1	104	-1	-1	-1
+2 Harem	wtll	3	1	1	104	-1	-1	-1
+2 Harem	wbr	3	1	1	105	-1	-1	-1
+2 Harem	wtr	3	1	1	103	-1	-1	-1
+2 Harem	wbl	3	1	1	102	-1	-1	-1
+2 Harem	wr	4	-1	-1	100	-1	-1	-1
+2 Harem	wl	4	-1	-1	101	-1	-1	-1
+2 Harem	wtlr	4	-1	-1	104	-1	-1	-1
+2 Harem	wtll	4	-1	-1	104	-1	-1	-1
+2 Harem	wbr	4	-1	-1	105	-1	-1	-1
+2 Harem	wtr	4	-1	-1	103	-1	-1	-1
+2 Harem	wbl	4	-1	-1	102	-1	-1	-1
+2 Harem	wrd	4	-1	-1	114	-1	-1	-1
+2 Harem	wld	4	-1	-1	115	-1	-1	-1
+2 Harem	fl	21			93	-1	-1	-1
+2 Harem	fl	21	1	1	94	-1	-1	-1
+2 Harem	fl	21	2	2	95	-1	-1	-1
+2 Harem	fl	21	3	3	96	-1	-1	-1
+2 Harem	fl	22			41	-1	-1	-1
+2 Harem	fl	22	1	1	42	-1	-1	-1
+2 Harem	fl	22	2	2	40	-1	-1	-1
+2 Harem	fl	22	3	3	43	-1	-1	-1
+2 Harem	fl	23			93	-1	-1	-1
+2 Harem	fl	23	1	1	94	-1	-1	-1
+2 Harem	fl	23	2	2	95	-1	-1	-1
+2 Harem	fl	23	3	3	96	-1	-1	-1
+2 Harem	fl	24			97	-1	-1	-1
+2 Harem	fl	24	1	1	98	-1	-1	-1
+2 Harem	wtr	33	33	33	103	-1	-1	-1
+2 Basement	fl		7	7	307	-1	-1	-1
+2 Basement	wr		-1	-1	20	-1	-1	-1
+2 Basement	wl		-1	-1	21	-1	-1	-1
+2 Basement	wtlr		-1	-1	24	-1	-1	-1
+2 Basement	wtll		-1	-1	24	-1	-1	-1
+2 Basement	wbr		-1	-1	25	-1	-1	-1
+2 Basement	wtr		-1	-1	23	-1	-1	-1
+2 Basement	wbl		-1	-1	22	-1	-1	-1
+2 Basement	wrd		-1	-1	34	-1	-1	-1
+2 Basement	wld		-1	-1	35	-1	-1	-1
+2 Basement	wre				36	-1	-1	-1
+2 Basement	wle				37	-1	-1	-1
+2 Basement	wr	1	-1	-1	20	-1	-1	-1
+2 Basement	wl	1	-1	-1	21	-1	-1	-1
+2 Basement	wtlr	1	-1	-1	24	-1	-1	-1
+2 Basement	wtll	1	-1	-1	24	-1	-1	-1
+2 Basement	wbr	1	-1	-1	25	-1	-1	-1
+2 Basement	wtr	1	-1	-1	23	-1	-1	-1
+2 Basement	wbl	1	-1	-1	22	-1	-1	-1
+2 Basement	wrd	1	-1	-1	34	-1	-1	-1
+2 Basement	wld	1	-1	-1	35	-1	-1	-1
+2 Basement	wre	1			36	-1	-1	-1
+2 Basement	wle	1			37	-1	-1	-1
+2 Basement	wr	2	-1	-1	480	-1	-1	-1
+2 Basement	wl	2	-1	-1	481	-1	-1	-1
+2 Basement	wtlr	2	-1	-1	484	-1	-1	-1
+2 Basement	wtll	2	-1	-1	484	-1	-1	-1
+2 Basement	wbr	2	-1	-1	25	-1	-1	-1
+2 Basement	wtr	2	-1	-1	483	-1	-1	-1
+2 Basement	wbl	2	-1	-1	482	-1	-1	-1
+2 Basement	wrd	2	-1	-1	34	-1	-1	-1
+2 Basement	wld	2	-1	-1	35	-1	-1	-1
+2 Basement	wr	3	-1	-1	480	-1	-1	-1
+2 Basement	wl	3	-1	-1	481	-1	-1	-1
+2 Basement	wtlr	3	-1	-1	484	-1	-1	-1
+2 Basement	wtll	3	-1	-1	484	-1	-1	-1
+2 Basement	wbr	3	-1	-1	25	-1	-1	-1
+2 Basement	wtr	3	-1	-1	483	-1	-1	-1
+2 Basement	wbl	3	-1	-1	482	-1	-1	-1
+2 Basement	wrd	3	-1	-1	34	-1	-1	-1
+2 Basement	wld	3	-1	-1	35	-1	-1	-1
+2 Basement	wr	4	-1	-1	20	-1	-1	-1
+2 Basement	wl	4	-1	-1	21	-1	-1	-1
+2 Basement	wtlr	4	-1	-1	24	-1	-1	-1
+2 Basement	wtll	4	-1	-1	24	-1	-1	-1
+2 Basement	wbr	4	-1	-1	25	-1	-1	-1
+2 Basement	wtr	4	-1	-1	23	-1	-1	-1
+2 Basement	wbl	4	-1	-1	22	-1	-1	-1
+2 Basement	wrd	4	-1	-1	34	-1	-1	-1
+2 Basement	wld	4	-1	-1	35	-1	-1	-1
+2 Basement	wr	5	-1	-1	20	-1	-1	-1
+2 Basement	wl	5	-1	-1	21	-1	-1	-1
+2 Basement	wtlr	5	-1	-1	24	-1	-1	-1
+2 Basement	wtll	5	-1	-1	24	-1	-1	-1
+2 Basement	wbr	5	-1	-1	25	-1	-1	-1
+2 Basement	wtr	5	-1	-1	23	-1	-1	-1
+2 Basement	wbl	5	-1	-1	22	-1	-1	-1
+2 Basement	wrd	5	-1	-1	34	-1	-1	-1
+2 Basement	wld	5	-1	-1	35	-1	-1	-1
+2 Basement	fl	5			93	-1	-1	-1
+2 Basement	fl	5	1	1	94	-1	-1	-1
+2 Basement	fl	5	2	2	95	-1	-1	-1
+2 Basement	fl	5	3	3	96	-1	-1	-1
+2 Basement	co	5			25	-1	-1	-1
+2 Basement	wr	6	-1	-1	20	-1	-1	-1
+2 Basement	wl	6	-1	-1	21	-1	-1	-1
+2 Basement	wtlr	6	-1	-1	24	-1	-1	-1
+2 Basement	wtll	6	-1	-1	24	-1	-1	-1
+2 Basement	wbr	6	-1	-1	25	-1	-1	-1
+2 Basement	wtr	6	-1	-1	23	-1	-1	-1
+2 Basement	wbl	6	-1	-1	22	-1	-1	-1
+2 Basement	wrd	6	-1	-1	34	-1	-1	-1
+2 Basement	wld	6	-1	-1	35	-1	-1	-1
+2 Basement	wr	7	-1	-1	20	-1	-1	-1
+2 Basement	wl	7	-1	-1	21	-1	-1	-1
+2 Basement	wtlr	7	-1	-1	488	-1	-1	-1
+2 Basement	wtll	7			487	-1	-1	-1
+2 Basement	wtll	7	1	-1	24	-1	-1	-1
+2 Basement	wbr	7	-1	-1	25	-1	-1	-1
+2 Basement	wtr	7	-1	-1	23	-1	-1	-1
+2 Basement	wbl	7	-1	-1	22	-1	-1	-1
+2 Basement	wrd	7	-1	-1	34	-1	-1	-1
+2 Basement	wld	7	-1	-1	35	-1	-1	-1
+2 Basement	wr	8	-1	-1	20	-1	-1	-1
+2 Basement	wl	8	-1	-1	21	-1	-1	-1
+2 Basement	wtlr	8	-1	-1	24	-1	-1	-1
+2 Basement	wtll	8	-1	-1	24	-1	-1	-1
+2 Basement	wbr	8	-1	-1	25	-1	-1	-1
+2 Basement	wtr	8	-1	-1	23	-1	-1	-1
+2 Basement	wbl	8	-1	-1	22	-1	-1	-1
+2 Basement	wrd	8	-1	-1	34	-1	-1	-1
+2 Basement	wld	8	-1	-1	35	-1	-1	-1
+2 Basement	wr	9	-1	-1	20	-1	-1	-1
+2 Basement	wl	9	-1	-1	21	-1	-1	-1
+2 Basement	wtlr	9			488	-1	-1	-1
+2 Basement	wtlr	9	1	-1	24	-1	-1	-1
+2 Basement	wtll	9	-1	-1	24	-1	-1	-1
+2 Basement	wbr	9	-1	-1	25	-1	-1	-1
+2 Basement	wtr	9	-1	-1	23	-1	-1	-1
+2 Basement	wbl	9	-1	-1	22	-1	-1	-1
+2 Basement	wrd	9	-1	-1	34	-1	-1	-1
+2 Basement	wld	9	-1	-1	35	-1	-1	-1
+2 Basement	wr	10	-1	-1	20	-1	-1	-1
+2 Basement	wl	10	-1	-1	21	-1	-1	-1
+2 Basement	wtlr	10	-1	-1	24	-1	-1	-1
+2 Basement	wtll	10	-1	-1	24	-1	-1	-1
+2 Basement	wbr	10	-1	-1	25	-1	-1	-1
+2 Basement	wtr	10	-1	-1	23	-1	-1	-1
+2 Basement	wbl	10	-1	-1	22	-1	-1	-1
+2 Basement	wrd	10	-1	-1	34	-1	-1	-1
+2 Basement	wld	10	-1	-1	35	-1	-1	-1
+2 Basement	wr	11	-1	-1	20	-1	-1	-1
+2 Basement	wl	11	-1	-1	21	-1	-1	-1
+2 Basement	wtlr	11	-1	-1	24	-1	-1	-1
+2 Basement	wtll	11	-1	-1	24	-1	-1	-1
+2 Basement	wbr	11	-1	-1	25	-1	-1	-1
+2 Basement	wtr	11	-1	-1	23	-1	-1	-1
+2 Basement	wbl	11	-1	-1	22	-1	-1	-1
+2 Basement	wrd	11	-1	-1	34	-1	-1	-1
+2 Basement	wld	11	-1	-1	35	-1	-1	-1
+2 Basement	wr	12	-1	-1	20	-1	-1	-1
+2 Basement	wl	12	-1	-1	21	-1	-1	-1
+2 Basement	wtlr	12	-1	-1	24	-1	-1	-1
+2 Basement	wtll	12	-1	-1	24	-1	-1	-1
+2 Basement	wbr	12	-1	-1	25	-1	-1	-1
+2 Basement	wtr	12	-1	-1	23	-1	-1	-1
+2 Basement	wbl	12	-1	-1	22	-1	-1	-1
+2 Basement	wrd	12	-1	-1	34	-1	-1	-1
+2 Basement	wld	12	-1	-1	35	-1	-1	-1
+2 Basement	wr	13	-1	-1	20	-1	-1	-1
+2 Basement	wl	13	-1	-1	21	-1	-1	-1
+2 Basement	wtlr	13	-1	-1	24	-1	-1	-1
+2 Basement	wtll	13	-1	-1	24	-1	-1	-1
+2 Basement	wbr	13	-1	-1	25	-1	-1	-1
+2 Basement	wtr	13	-1	-1	23	-1	-1	-1
+2 Basement	wbl	13	-1	-1	22	-1	-1	-1
+2 Basement	wrd	13	-1	-1	34	-1	-1	-1
+2 Basement	wld	13	-1	-1	35	-1	-1	-1
+2 Basement	fl	21	4	4	93	-1	-1	-1
+2 Basement	fl	21	5	5	94	-1	-1	-1
+2 Basement	fl	21	6	6	95	-1	-1	-1
+2 Basement	fl	21	7	7	96	-1	-1	-1
+2 Basement	fl	23	4	4	93	-1	-1	-1
+2 Basement	fl	23	5	5	94	-1	-1	-1
+2 Basement	fl	23	6	6	95	-1	-1	-1
+2 Basement	fl	23	7	7	96	-1	-1	-1
+2 Desert	fl		35	35	307	-1	-1	-1
+2 Desert	wre	2			454	-1	-1	-1
+2 Desert	wre	2	1	1	455	-1	-1	-1
+2 Desert	fl	3	2	2	257	258	259	-1
+2 Desert	fl	5	6	6	257	258	259	-1
+2 Desert	fl	5	8	8	257	258	259	-1
+2 Desert	fl	5	10	10	257	258	259	-1
+2 Desert	fl	5	12	13	257	258	259	-1
+2 Desert	wbr	9			269	-1	-1	-1
+2 Desert	wr	9			270	-1	-1	-1
+2 Desert	fl	10	33	33	617	-1	-1	-1
+2 Desert	fl	10	35	35	618	-1	-1	-1
+2 Desert	fl	10	27	27	619	-1	-1	-1
+2 Desert	fl	15	5	5	257	258	259	-1
+2 Desert	fl	15	7	7	257	258	259	-1
+2 Desert	fl	15	9	9	257	258	259	-1
+2 Desert	fl	15	11	11	257	258	259	-1
+2 Desert	fl	15	16	16	257	258	259	-1
+2 Desert	fl	15	19	19	257	258	259	-1
+2 Desert	fl	15	25	25	257	258	259	-1
+2 Desert	fl	15	30	30	257	258	259	-1
+2 Desert	fl	15	32	32	257	258	259	-1
+2 Desert	fl	15	37	37	257	258	259	-1
+2 Desert	fl	15	40	40	257	258	259	-1
+2 Desert	fl	15	50	50	257	258	259	-1
+2 Desert	fl	15	55	55	257	258	259	-1
+2 Desert	fl	15	57	57	257	258	259	-1
+2 Desert	fl	15	61	61	257	258	259	-1
+2 Desert	fl	16	5	5	257	258	259	-1
+2 Desert	fl	16	12	12	257	258	259	-1
+2 Desert	fl	16	14	14	257	258	259	-1
+2 Desert	fl	16	19	19	257	258	259	-1
+2 Desert	fl	16	23	23	257	258	259	-1
+2 Desert	fl	16	41	41	273	-1	-1	-1
+2 Desert	fl	16	43	43	268	-1	-1	-1
+2 Desert	fl	17	8	8	257	258	259	-1
+2 Desert	fl	17	13	13	257	258	259	-1
+2 Desert	fl	17	15	15	257	258	259	-1
+2 Desert	fl	17	19	19	257	258	259	-1
+2 Desert	fl	17	25	25	257	258	259	-1
+2 Desert	fl	17	28	28	257	258	259	-1
+2 Desert	fl	17	29	29	257	258	259	-1
+2 Desert	fl	17	34	34	257	258	259	-1
+2 Desert	fl	17	38	38	257	258	259	-1
+2 Desert	fl	17	45	45	257	258	259	-1
+2 Desert	fl	17	54	54	257	258	259	-1
+2 Desert	fl	17	56	56	257	258	259	-1
+2 Desert	fl	17	61	61	257	258	259	-1
+2 Desert	fl	17	36	36	257	258	259	-1
+2 Desert	fl	17	60	60	257	258	259	-1
+2 Desert	fl	18	9	9	257	258	259	-1
+2 Desert	fl	18	12	12	257	258	259	-1
+2 Desert	fl	18	14	14	257	258	259	-1
+2 Desert	fl	18	38	38	263	-1	-1	-1
+2 Desert	fl	18	41	41	264	-1	-1	-1
+2 Desert	fl	18	18	18	257	258	259	-1
+2 Desert	fl	19	25	25	261	-1	-1	-1
+2 Desert	fl	19	22	22	262	-1	-1	-1
+2 Desert	fl	19	23	23	257	258	259	-1
+2 Desert	fl	20	5	5	257	258	259	-1
+2 Desert	fl	20	9	9	257	258	259	-1
+2 Desert	fl	20	20	20	257	258	259	-1
+2 Desert	fl	20	22	22	257	258	259	-1
+2 Desert	fl	20	24	24	257	258	259	-1
+2 Desert	fl	20	55	55	257	258	259	-1
+2 Desert	fl	20	48	48	257	258	259	-1
+2 Desert	fl	20	41	41	257	258	259	-1
+2 Desert	fl	20	43	43	257	258	259	-1
+2 Desert	fl	20	49	49	257	258	259	-1
+2 Desert	fl	21	8	8	257	258	259	-1
+2 Desert	fl	21	11	11	257	258	259	-1
+2 Desert	fl	21	13	13	257	258	259	-1
+2 Desert	fl	22	12	12	271	-1	-1	-1
+2 Desert	fl	22	10	10	272	-1	-1	-1
+2 Desert	fl	21	61	61	320	-1	-1	-1
+2 Desert	fl	21	59	59	321	-1	-1	-1
+2 Desert	fl	21	55	55	322	-1	-1	-1
+2 Desert	fl	21	48	48	257	258	259	-1
+2 Desert	fl	21	49	49	323	-1	-1	-1
+2 Desert	fl	21	63	63	257	258	259	-1
+2 Desert	fl	22	41	41	324	-1	-1	-1
+2 Desert	fl	22	38	38	325	-1	-1	-1
+2 Desert	fl	22	29	29	326	-1	-1	-1
+2 Desert	fl	23	8	8	257	258	259	-1
+2 Desert	fl	23	31	31	257	258	259	-1
+2 Desert	fl	23	29	29	327	-1	-1	-1
+2 Desert	fl	23	28	28	328	-1	-1	-1
+2 Desert	fl	23	20	20	329	-1	-1	-1
+2 Desert	fl	23	62	62	330	-1	-1	-1
+2 Desert	fl	23	61	61	331	-1	-1	-1
+2 Desert	fl	23	55	55	332	-1	-1	-1
+2 Desert	fl	23	50	50	333	-1	-1	-1
+2 Desert	fl	24	62	62	257	258	259	-1
+2 Desert	fl	25	16	16	217	-1	-1	-1
+2 Desert	fl	25	26	26	218	-1	-1	-1
+2 Desert	fl	25	28	28	219	-1	-1	-1
+2 Desert	fl	25	48	48	377	-1	-1	-1
+2 Desert	fl	25	58	58	378	-1	-1	-1
+2 Desert	fl	25	63	63	379	-1	-1	-1
+2 Desert	fl	25	62	62	257	258	259	-1
+2 Desert	fl	26	4	4	257	258	259	-1
+2 Desert	fl	26	9	9	257	258	259	-1
+2 Desert	fl	26	17	17	257	258	259	-1
+2 Desert	fl	26	20	20	257	258	259	-1
+2 Desert	fl	26	33	33	257	258	259	-1
+2 Desert	fl	26	41	41	257	258	259	-1
+2 Desert	fl	26	44	44	257	258	259	-1
+2 Desert	fl	27	5	5	257	258	259	-1
+2 Desert	fl	27	7	7	257	258	259	-1
+2 Desert	fl	27	14	14	257	258	259	-1
+2 Desert	fl	27	19	19	257	258	259	-1
+2 Desert	fl	27	23	23	257	258	259	-1
+2 Desert	fl	27	33	33	257	258	259	-1
+2 Desert	fl	27	37	37	257	258	259	-1
+2 Desert	fl	27	45	45	257	258	259	-1
+2 Desert	fl	27	48	48	257	258	259	-1
+2 Desert	fl	28	6	6	257	258	259	-1
+2 Desert	fl	28	10	10	257	258	259	-1
+2 Desert	fl	28	13	13	257	258	259	-1
+2 Desert	fl	28	16	16	257	258	259	-1
+2 Desert	fl	28	23	23	257	258	259	-1
+2 Desert	fl	28	28	28	257	258	259	-1
+2 Desert	fl	28	36	36	257	258	259	-1
+2 Desert	fl	28	39	39	257	258	259	-1
+2 Desert	fl	28	45	45	257	258	259	-1
+2 Desert	fl	28	50	50	257	258	259	-1
+2 Desert	fl	28	57	57	257	258	259	-1
+2 Desert	fl	29	4	4	257	258	259	-1
+2 Desert	fl	29	5	5	257	258	259	-1
+2 Desert	fl	29	15	15	257	258	259	-1
+2 Desert	fl	29	17	17	257	258	259	-1
+2 Desert	fl	30	1	17	257	258	259	-1
+2 Desert	fl	30	17	31	257	258	259	-1
+2 Desert	fl	30	32	46	257	258	259	-1
+2 Desert	fl	30	47	63	257	258	259	-1
+2 Desert	fl	34	11	11	504	-1	-1	-1
+2 Desert	fl	34	13	13	505	-1	-1	-1
+2 Desert	fl	34	6	6	506	-1	-1	-1
+2 Desert	wle	47	12	12	374	-1	-1	-1
+2 Desert	fl	47	3	3	374	-1	-1	-1
+2 Desert	fl	36	14	14	214	-1	-1	-1
+2 Desert	fl	36	26	26	215	-1	-1	-1
+2 Desert	fl	36	33	33	216	-1	-1	-1
+2 Desert	fl	36	34	34	257	258	259	-1
+2 Desert	fl	36	27	27	257	258	259	-1
+2 Desert	fl	36	43	43	257	258	259	-1
+2 Desert	fl	36	49	49	257	258	259	-1
+2 Desert	wbl	36	1	1	507	-1	-1	-1
+2 Desert	wr	36	4	4	508	-1	-1	-1
+2 Desert	wbl	36			511	-1	-1	-1
+2 Desert	wr	36	1	1	512	-1	-1	-1
+2 Desert	wr	36	3	3	513	-1	-1	-1
+2 Desert	co	36	3	3	509	-1	-1	-1
+2 Desert	co	36	4	4	510	-1	-1	-1
+2 Desert	wbr	36			514	-1	-1	-1
+2 Desert	wl	36	1	1	515	-1	-1	-1
+2 Desert	wtlr	36	-1	-1	491	-1	-1	-1
+2 Desert	wtll	36	-1	-1	492	-1	-1	-1
+2 Desert	wbr	36	-1	-1	489	-1	-1	-1
+2 Desert	wtr	36	-1	-1	490	-1	-1	-1
+2 Desert	wbl	36	-1	-1	491	-1	-1	-1
+2 Desert	co	36	-1	-1	105	-1	-1	-1
+2 Desert	fl	38	33	33	266	267	-1	-1
+2 Desert	fl	38	37	37	266	267	-1	-1
+2 Desert	fl	39			266	267	-1	-1
+2 Desert	fl	39	10	11	266	267	-1	-1
+2 Desert	fl	39	22	22	266	267	-1	-1
+2 Desert	fl	39	30	31	266	267	-1	-1
+2 Desert	fl	39	33	34	266	267	-1	-1
+2 Desert	fl	39	36	39	266	267	-1	-1
+2 Desert	fl	39	40	41	266	267	-1	-1
+2 Desert	fl	39	44	50	266	267	-1	-1
+2 Desert	fl	40	3	3	266	267	-1	-1
+2 Desert	fl	40	18	19	266	267	-1	-1
+2 Desert	wr	48	18	19	497	-1	-1	-1
+2 Desert	wr	48	26	26	497	-1	-1	-1
+2 Desert	wr	48	28	29	497	-1	-1	-1
+2 Desert	wr	48	1	1	445	-1	-1	-1
+2 Desert	wre	1	1	1	446	-1	-1	-1
+2 Desert	wr	48	2	2	447	-1	-1	-1
+2 Desert	wr	48	3	9	100	-1	-1	-1
+2 Desert	wr	48	13	20	100	-1	-1	-1
+2 Desert	wr	48	21	21	114	-1	-1	-1
+2 Desert	wr	48	22	-1	100	-1	-1	-1
+2 Desert	wl	48	18	19	498	-1	-1	-1
+2 Desert	wl	48	26	26	498	-1	-1	-1
+2 Desert	wl	48	28	29	498	-1	-1	-1
+2 Desert	wl	48		20	101	-1	-1	-1
+2 Desert	wl	48	21	21	115	-1	-1	-1
+2 Desert	wl	48	22	-1	101	-1	-1	-1
+2 Desert	wtll	48	10	10	499	-1	-1	-1
+2 Desert	wtlr	48	-1	-1	104	-1	-1	-1
+2 Desert	wtll	48	-1	-1	104	-1	-1	-1
+2 Desert	wbr	48	1	-1	105	-1	-1	-1
+2 Desert	wtr	48	-1	-1	103	-1	-1	-1
+2 Desert	wbl	48	-1	-1	102	-1	-1	-1
+2 Desert	wrd	48	-1	-1	114	-1	-1	-1
+2 Desert	wld	48	-1	-1	115	-1	-1	-1
+2 Desert	co	48	10	12	100	-1	-1	-1
+2 Desert	wr	49	1	1	448	-1	-1	-1
+2 Desert	wbr	49			449	-1	-1	-1
+2 Desert	wl	49			450	-1	-1	-1
+2 Desert	wr	49	4	4	451	-1	-1	-1
+2 Desert	wbr	49	2	2	452	-1	-1	-1
+2 Desert	wl	49	4	4	453	-1	-1	-1
+2 Desert	wr	49	14	14	454	-1	-1	-1
+2 Desert	wr	49	12	12	455	-1	-1	-1
+2 Desert	wr	49	10	10	456	-1	-1	-1
+2 Desert	wr	49	7	7	457	-1	-1	-1
+2 Desert	wbr	49	4	4	458	-1	-1	-1
+2 Desert	wl	49	7	7	459	-1	-1	-1
+2 Lair	wr			3	340	-1	-1	-1
+2 Lair	wl			3	341	-1	-1	-1
+2 Lair	wr	1		3	340	-1	-1	-1
+2 Lair	wl	1		3	341	-1	-1	-1
+2 Lair	wl		7	7	342	-1	-1	-1
+2 Lair	wtll				343	-1	-1	-1
+2 Lair	wr		7	7	344	-1	-1	-1
+2 Lair	wtll	1			345	-1	-1	-1
+2 Lair	wl		5	5	346	-1	-1	-1
+2 Lair	wl		4	4	347	-1	-1	-1
+2 Lair	wr	1	4	4	348	-1	-1	-1
+2 Lair	wbl	1			349	-1	-1	-1
+2 Lair	wl	1	4	4	350	-1	-1	-1
+2 Lair	wr		4	4	351	-1	-1	-1
+2 Lair	wr		5	5	352	-1	-1	-1
+2 Lair	wl	1	5	5	353	-1	-1	-1
+2 Lair	wtr		1	1	354	-1	-1	-1
+2 Lair	wr	1	5	5	355	-1	-1	-1
+2 Lair	wr	1	6	6	356	-1	-1	-1
+2 Lair	wr	1	7	7	357	-1	-1	-1
+2 Lair	wl	1	6	6	359	-1	-1	-1
+2 Lair	wl	1	7	7	360	-1	-1	-1
+2 Lair	wr		6	6	361	-1	-1	-1
+2 Lair	wl		6	6	363	-1	-1	-1
+2 Lair	wrd				340	-1	-1	-1
+2 Lair	wrd		1	1	369	-1	-1	-1
+2 Lair	wrd		2	2	370	-1	-1	-1
+2 Lair	wld				371	-1	-1	-1
+2 Lair	wld		2	2	341	-1	-1	-1
+2 Lair	wr	2		3	340	-1	-1	-1
+2 Lair	wl	2		3	341	-1	-1	-1
+2 Lair	wtlr	2	2	2	345	-1	-1	-1
+2 Lair	wtll	2	3	3	345	-1	-1	-1
+2 Lair	wtlr	2			370	-1	-1	-1
+2 Lair	wtll	2	1	1	372	-1	-1	-1
+2 Lair	wtr	2			370	-1	-1	-1
+2 Lair	wre				366	-1	-1	-1
+2 Lair	wre		1	1	367	-1	-1	-1
+2 Lair	co			1	368	-1	-1	-1
+2 Lair	fl	22			206	-1	-1	-1
+2 Lair	fl	22	1	1	207	-1	-1	-1
+2 Lair	fl	22	2	2	208	-1	-1	-1
+2 Lair	fl	22	3	3	209	-1	-1	-1
+2 Tomb	fl		23	23	307	-1	-1	-1
+2 Tomb	wr		-1	-1	240	-1	-1	-1
+2 Tomb	wl		-1	-1	241	-1	-1	-1
+2 Tomb	wtlr		-1	-1	244	-1	-1	-1
+2 Tomb	wtll		-1	-1	244	-1	-1	-1
+2 Tomb	wbr		-1	-1	245	-1	-1	-1
+2 Tomb	wtr		-1	-1	243	-1	-1	-1
+2 Tomb	wbl		-1	-1	242	-1	-1	-1
+2 Tomb	wre		-1	-1	248	-1	-1	-1
+2 Tomb	wle		-1	-1	249	-1	-1	-1
+2 Tomb	wr	2	3	3	240	-1	-1	-1
+2 Tomb	wrd	2	4	4	246	-1	-1	-1
+2 Tomb	wr	2	5	5	240	-1	-1	-1
+2 Tomb	wl	2			241	-1	-1	-1
+2 Tomb	wld	2	1	1	247	-1	-1	-1
+2 Tomb	wl	2	2	2	241	-1	-1	-1
+2 Tomb	wre	2	-1	-1	248	-1	-1	-1
+2 Tomb	wbl	2	3	3	242	-1	-1	-1
+2 Tomb	wbl	2	5	5	242	-1	-1	-1
+2 Tomb	wtll	2	3	11	244	-1	-1	-1
+2 Tomb	wtlr	2	3	11	244	-1	-1	-1
+2 Tomb	wr	1	-1	-1	240	-1	-1	-1
+2 Tomb	wl	1	-1	-1	241	-1	-1	-1
+2 Tomb	wtlr	1	-1	-1	244	-1	-1	-1
+2 Tomb	wtll	1	-1	-1	244	-1	-1	-1
+2 Tomb	wbr	1	-1	-1	245	-1	-1	-1
+2 Tomb	wtr	1	-1	-1	243	-1	-1	-1
+2 Tomb	wbl	1	-1	-1	242	-1	-1	-1
+2 Tomb	wrd	2	-1	-1	246	-1	-1	-1
+2 Tomb	wre	4	-1	-1	248	-1	-1	-1
+2 Tomb	wle	4	-1	-1	249	-1	-1	-1
+2 Tomb	wr	5	-1	-1	240	-1	-1	-1
+2 Tomb	wl	5	-1	-1	241	-1	-1	-1
+2 Tomb	wtlr	5	-1	-1	244	-1	-1	-1
+2 Tomb	wtll	5	-1	-1	244	-1	-1	-1
+2 Tomb	wbr	5	-1	-1	245	-1	-1	-1
+2 Tomb	wtr	5	-1	-1	243	-1	-1	-1
+2 Tomb	wbl	5	-1	-1	242	-1	-1	-1
+2 Tomb	wr	6	-1	-1	240	-1	-1	-1
+2 Tomb	wl	6	-1	-1	241	-1	-1	-1
+2 Tomb	wtlr	6	-1	-1	244	-1	-1	-1
+2 Tomb	wtll	6	-1	-1	244	-1	-1	-1
+2 Tomb	wbr	6	-1	-1	245	-1	-1	-1
+2 Tomb	wtr	6	-1	-1	243	-1	-1	-1
+2 Tomb	wbl	6	-1	-1	242	-1	-1	-1
+2 Tomb	wrd	6	3	3	246	-1	-1	-1
+2 Tomb	wrd	6	4	4	240	-1	-1	-1
+2 Tomb	wrd	6		2	246	-1	-1	-1
+2 Tomb	wld	6			241	-1	-1	-1
+2 Tomb	wld	6	1	1	247	-1	-1	-1
+2 Tomb	wld	6	2	2	241	-1	-1	-1
+2 Tomb	co				250	-1	-1	-1
+2 Tomb	wr	7	-1	-1	240	-1	-1	-1
+2 Tomb	wl	7	-1	-1	241	-1	-1	-1
+2 Tomb	wtlr	7	-1	-1	244	-1	-1	-1
+2 Tomb	wtll	7	-1	-1	244	-1	-1	-1
+2 Tomb	wbr	7	-1	-1	245	-1	-1	-1
+2 Tomb	wtr	7	-1	-1	243	-1	-1	-1
+2 Tomb	wbl	7	-1	-1	242	-1	-1	-1
+2 Tomb	wld	7			247	-1	-1	-1
+2 Tomb	wr	8	-1	-1	240	-1	-1	-1
+2 Tomb	wl	8	-1	-1	241	-1	-1	-1
+2 Tomb	wtlr	8	-1	-1	244	-1	-1	-1
+2 Tomb	wtll	8	-1	-1	244	-1	-1	-1
+2 Tomb	wbr	8	-1	-1	245	-1	-1	-1
+2 Tomb	wtr	8	-1	-1	243	-1	-1	-1
+2 Tomb	wbl	8	-1	-1	242	-1	-1	-1
+2 Tomb	wld	8	1	1	241	-1	-1	-1
+2 Tomb	wrd		1	1	248	-1	-1	-1
+2 Tomb	wrd				240	-1	-1	-1
+2 Tomb	wr	9			253	-1	-1	-1
+2 Tomb	wr	9	1	1	254	-1	-1	-1
+2 Tomb	wr	9	2	2	253	-1	-1	-1
+2 Tomb	wr	9	3	3	254	-1	-1	-1
+2 Tomb	wl	9			252	-1	-1	-1
+2 Tomb	wl	9	1	1	251	-1	-1	-1
+2 Tomb	wl	9	2	2	252	-1	-1	-1
+2 Tomb	wl	9	3	3	251	-1	-1	-1
+2 Tomb	wl	16	3	5	392	-1	-1	-1
+2 Tomb	wbr	16	1	1	392	-1	-1	-1
+2 Tomb	fl	17	16	16	395	-1	-1	-1
+2 Tomb	fl	17	17	17	396	-1	-1	-1
+2 Tomb	fl	17	18	18	397	-1	-1	-1
+2 Tomb	fl	17	13	13	398	-1	-1	-1
+2 Tomb	fl	17	8	8	399	-1	-1	-1
+2 Tomb	fl	49	43	43	336	-1	-1	-1
+2 Tomb	fl	48	30	30	255	-1	-1	-1
+2 Tomb	wr	48	-1	-1	240	-1	-1	-1
+2 Tomb	wl	48	-1	-1	241	-1	-1	-1
+2 Tomb	wtlr	48	-1	-1	244	-1	-1	-1
+2 Tomb	wtll	48	-1	-1	244	-1	-1	-1
+2 Tomb	wbr	48	-1	-1	245	-1	-1	-1
+2 Tomb	wtr	48	-1	-1	243	-1	-1	-1
+2 Tomb	wbl	48	-1	-1	242	-1	-1	-1
+2 Tomb	co	48	-1	-1	245	-1	-1	-1
+2 Sewer	wr		1	1	237	-1	-1	-1
+2 Sewer	wl		1	1	238	-1	-1	-1
+2 Sewer	wr		-1	-1	231	-1	-1	-1
+2 Sewer	wl		-1	-1	232	-1	-1	-1
+2 Sewer	wtlr		-1	-1	235	-1	-1	-1
+2 Sewer	wtll		-1	-1	235	-1	-1	-1
+2 Sewer	wbr		-1	-1	236	-1	-1	-1
+2 Sewer	wtr		-1	-1	234	-1	-1	-1
+2 Sewer	wbl		-1	-1	233	-1	-1	-1
+2 Sewer	wrd		-1	-1	26	-1	-1	-1
+2 Sewer	wrd		-1	-1	27	-1	-1	-1
+2 Sewer	wld		-1	-1	28	-1	-1	-1
+2 Sewer	wld		-1	-1	29	-1	-1	-1
+2 Sewer	wld	2			225	-1	-1	-1
+2 Sewer	wld	2	1	1	226	-1	-1	-1
+2 Sewer	wr	2	4	4	224	-1	-1	-1
+2 Sewer	fl	2			228	-1	-1	-1
+2 Sewer	fl	2	1	1	229	-1	-1	-1
+2 Sewer	fl	2	2	2	230	-1	-1	-1
+2 Sewer	fl	2	3	3	227	-1	-1	-1
+2 Sewer	wre				30	-1	-1	-1
+2 Sewer	wre		1	1	31	-1	-1	-1
+2 Sewer	wle				32	-1	-1	-1
+2 Sewer	wle		1	1	33	-1	-1	-1
+2 Sewer	wr	1	1	1	237	-1	-1	-1
+2 Sewer	wl	1	1	1	238	-1	-1	-1
+2 Sewer	wr	1	-1	-1	231	-1	-1	-1
+2 Sewer	wl	1	-1	-1	232	-1	-1	-1
+2 Sewer	wtlr	1	-1	-1	235	-1	-1	-1
+2 Sewer	wtll	1	-1	-1	235	-1	-1	-1
+2 Sewer	wbr	1	-1	-1	236	-1	-1	-1
+2 Sewer	wtr	1	-1	-1	234	-1	-1	-1
+2 Sewer	wbl	1	-1	-1	233	-1	-1	-1
+2 Sewer	wr	2	-1	-1	231	-1	-1	-1
+2 Sewer	wl	2	-1	-1	232	-1	-1	-1
+2 Sewer	wtlr	2		1	235	-1	-1	-1
+2 Sewer	wtlr	2	2	2	239	-1	-1	-1
+2 Sewer	wtll	2		1	235	-1	-1	-1
+2 Sewer	wbr	2	-1	-1	236	-1	-1	-1
+2 Sewer	co	2	-1	-1	236	-1	-1	-1
+2 Sewer	wtr	2	-1	-1	234	-1	-1	-1
+2 Sewer	wbl	2	-1	-1	233	-1	-1	-1
+2 Sewer	fl	4	20	20	307	-1	-1	-1
+2 Arcane	fl		-1	-1	337	338	-1	-1
+2 Arcane	fl	1	3	3	503	-1	-1	-1
+2 Arcane	fl	1	4	4	502	-1	-1	-1
+2 Arcane	fl	1	7	7	501	-1	-1	-1
+2 Arcane	fl	1	9	9	500	-1	-1	-1
+2 Arcane	fl	1	16	16	518	-1	-1	-1
+2 Arcane	fl	1	22	22	519	-1	-1	-1
+2 Arcane	wrd				339	-1	-1	-1
+3 Town	fl	3	37	37	307	-1	-1	-1
+3 Town	wr	3	12	12	538	-1	-1	-1
+3 Town	wl	3			539	-1	-1	-1
+3 Town	wl	3	2	2	580	-1	-1	-1
+3 Town	wl	3	3	3	581	-1	-1	-1
+3 Town	wr	3	2	2	582	-1	-1	-1
+3 Town	wr	3	3	3	583	-1	-1	-1
+3 Town	wr	3	6	6	584	-1	-1	-1
+3 Town	wr	3	7	7	585	-1	-1	-1
+3 Town	wl	3	6	6	586	-1	-1	-1
+3 Town	wl	3	7	7	587	-1	-1	-1
+3 Town	wl	3	10	10	588	-1	-1	-1
+3 Town	wr	3	10	10	589	-1	-1	-1
+3 Town	wl	3	11	11	590	-1	-1	-1
+3 Town	wl	3	12	12	591	-1	-1	-1
+3 Town	wl	3	13	13	592	-1	-1	-1
+3 Town	wl	3	14	14	593	-1	-1	-1
+3 Town	wl	3	15	15	594	-1	-1	-1
+3 Town	wl	3	16	16	595	-1	-1	-1
+3 Town	fl	3	25	32	533	534	-1	-1
+3 Town	fl	3	40	47	533	534	-1	-1
+3 Town	fl	3	51	51	533	534	-1	-1
+3 Town	fl	3	53	54	533	534	-1	-1
+3 Town	fl	5	20	20	533	534	-1	-1
+3 Town	fl	7	20	22	533	534	-1	-1
+3 Town	fl	7	28	28	533	534	-1	-1
+3 Town	fl	8	24	24	533	534	-1	-1
+3 Town	fl	8	32	32	381	-1	-1	-1
+3 Town	fl	8	44	45	533	534	-1	-1
+3 Town	fl	9			533	534	-1	-1
+3 Town	fl	9	25	25	533	534	-1	-1
+3 Town	fl	9	27	27	533	534	-1	-1
+3 Town	fl	9	36	37	533	534	-1	-1
+3 Town	fl	9	41	41	533	534	-1	-1
+3 Town	fl	9	39	39	533	534	-1	-1
+3 Town	fl	9	29	29	533	534	-1	-1
+3 Town	wr	4	-1	-1	80	-1	-1	-1
+3 Town	wl	4	-1	-1	81	-1	-1	-1
+3 Town	wtlr	4	-1	-1	84	-1	-1	-1
+3 Town	wtll	4	-1	-1	84	-1	-1	-1
+3 Town	wbr	4	-1	-1	85	-1	-1	-1
+3 Town	wtr	4	-1	-1	83	-1	-1	-1
+3 Town	wbl	4	-1	-1	82	-1	-1	-1
+3 Town	fl	10			520	521	522	-1
+3 Town	fl	4	1	1	568	-1	-1	-1
+3 Town	fl	4	5	5	568	-1	-1	-1
+3 Town	fl	4	9	9	568	-1	-1	-1
+3 Town	fl	4	12	12	568	-1	-1	-1
+3 Town	fl	4	15	15	568	-1	-1	-1
+3 Town	fl	4	20	20	568	-1	-1	-1
+3 Town	fl	4	34	34	568	-1	-1	-1
+3 Town	fl	4	38	38	568	-1	-1	-1
+3 Town	fl	4	42	42	568	-1	-1	-1
+3 Town	fl	4	46	46	568	-1	-1	-1
+3 Town	fl	4	50	50	568	-1	-1	-1
+3 Town	fl	4	2	2	569	-1	-1	-1
+3 Town	fl	4	6	6	569	-1	-1	-1
+3 Town	fl	4	10	10	569	-1	-1	-1
+3 Town	fl	4	13	13	569	-1	-1	-1
+3 Town	fl	4	16	16	569	-1	-1	-1
+3 Town	fl	4	21	21	569	-1	-1	-1
+3 Town	fl	4	33	33	523	-1	-1	-1
+3 Town	fl	4	35	35	569	-1	-1	-1
+3 Town	fl	4	39	39	569	-1	-1	-1
+3 Town	fl	4	36	36	523	-1	-1	-1
+3 Town	fl	4	40	40	520	521	522	-1
+3 Town	fl	4	43	43	569	-1	-1	-1
+3 Town	fl	4	47	47	569	-1	-1	-1
+3 Town	fl	4	51	51	569	-1	-1	-1
+3 Town	fl	4	33	33	567	-1	-1	-1
+3 Town	fl	4	36	36	596	-1	-1	-1
+3 Town	fl	5	32	32	576	-1	-1	-1
+3 Town	fl	5	29	29	577	-1	-1	-1
+3 Town	fl	5	18	18	578	-1	-1	-1
+3 Town	fl	5	13	13	579	-1	-1	-1
+3 Town	fl	5	12	13	282	-1	-1	-1
+3 Town	fl	5	18	19	282	-1	-1	-1
+3 Town	fl	5	24	25	282	-1	-1	-1
+3 Town	wr	5	10	12	80	-1	-1	-1
+3 Town	wr	5	13	14	80	-1	-1	-1
+3 Town	wl	5	53	53	81	-1	-1	-1
+3 Town	wbr	5	14	14	85	-1	-1	-1
+3 Town	fl	6			391	-1	-1	-1
+3 Town	fl	6	1	1	384	-1	-1	-1
+3 Town	fl	6	2	2	387	-1	-1	-1
+3 Town	fl	6	3	3	389	-1	-1	-1
+3 Town	fl	6	4	4	387	-1	-1	-1
+3 Town	fl	6	5	5	386	-1	-1	-1
+3 Town	fl	6	7	7	382	-1	-1	-1
+3 Town	fl	6	8	8	381	-1	-1	-1
+3 Town	fl	6	9	9	383	-1	-1	-1
+3 Town	fl	6	13	13	383	-1	-1	-1
+3 Town	fl	6	10	10	380	-1	-1	-1
+3 Town	fl	6	15	15	386	-1	-1	-1
+3 Town	fl	6	18	18	380	-1	-1	-1
+3 Town	fl	6	20	20	380	-1	-1	-1
+3 Town	fl	6	22	22	380	-1	-1	-1
+3 Town	fl	6	24	26	381	-1	-1	-1
+3 Town	fl	6	29	31	387	-1	-1	-1
+3 Town	fl	6	32	33	386	-1	-1	-1
+3 Town	fl	6	14	14	381	-1	-1	-1
+3 Town	fl	6	15	15	99	-1	-1	-1
+3 Town	fl	6	16	16	381	-1	-1	-1
+3 Town	fl	6	18	18	99	-1	-1	-1
+3 Town	fl	6	20	20	99	-1	-1	-1
+3 Town	fl	6	22	22	99	-1	-1	-1
+3 Town	fl	6	24	26	99	-1	-1	-1
+3 Town	fl	6	29	33	99	-1	-1	-1
+3 Town	fl	7		6	381	-1	-1	-1
+3 Town	fl	7	23	23	385	-1	-1	-1
+3 Town	wl	7		6	99	-1	-1	-1
+3 Town	wl	7	23	23	99	-1	-1	-1
+3 Town	fl	7	34	34	380	-1	-1	-1
+3 Town	fl	7	32	32	380	-1	-1	-1
+3 Town	fl	7	29	29	380	-1	-1	-1
+3 Town	wl	7	53	53	280	-1	-1	-1
+3 Town	wl	7	55	55	280	-1	-1	-1
+3 Town	wl	7	57	57	280	-1	-1	-1
+3 Town	fl	7	53	53	280	-1	-1	-1
+3 Town	fl	7	54	54	381	-1	-1	-1
+3 Town	fl	7	55	55	280	-1	-1	-1
+3 Town	fl	7	57	57	280	-1	-1	-1
+3 Town	fl	8			281	-1	-1	-1
+3 Town	fl	8	2	2	281	-1	-1	-1
+3 Town	fl	8	4	4	281	-1	-1	-1
+3 Town	fl	8	6	6	281	-1	-1	-1
+3 Town	fl	8	8	8	281	-1	-1	-1
+3 Town	fl	8	12	12	280	-1	-1	-1
+3 Town	fl	8	14	14	280	-1	-1	-1
+3 Town	fl	8	16	16	280	-1	-1	-1
+3 Town	fl	8	18	18	280	-1	-1	-1
+3 Town	fl	8	20	20	280	-1	-1	-1
+3 Town	fl	8	25	25	280	-1	-1	-1
+3 Town	fl	8	26	26	380	-1	-1	-1
+3 Town	fl	8	27	27	281	-1	-1	-1
+3 Town	fl	8	30	30	99	-1	-1	-1
+3 Town	fl	8	31	31	280	-1	-1	-1
+3 Town	fl	8	32	32	381	-1	-1	-1
+3 Town	fl	8	33	33	280	-1	-1	-1
+3 Town	fl	8	36	36	280	-1	-1	-1
+3 Town	fl	8	38	38	280	-1	-1	-1
+3 Town	fl	8	39	39	387	-1	-1	-1
+3 Town	fl	8	40	40	281	-1	-1	-1
+3 Town	fl	8	42	42	281	-1	-1	-1
+3 Town	fl	8	43	43	386	-1	-1	-1
+3 Town	fl	8	48	48	282	-1	-1	-1
+3 Town	fl	8	49	49	281	-1	-1	-1
+3 Town	fl	8	50	50	280	-1	-1	-1
+3 Town	fl	8	52	52	281	-1	-1	-1
+3 Town	fl	8	56	56	280	-1	-1	-1
+3 Town	fl	9	1	1	383	-1	-1	-1
+3 Town	fl	9	2	2	380	-1	-1	-1
+3 Town	fl	9	3	3	380	-1	-1	-1
+3 Town	fl	9	4	4	387	-1	-1	-1
+3 Town	fl	9	5	5	388	-1	-1	-1
+3 Town	fl	9	6	6	99	-1	-1	-1
+3 Town	fl	9	7	7	386	-1	-1	-1
+3 Town	fl	9	8	9	381	-1	-1	-1
+3 Town	fl	9	10	10	99	-1	-1	-1
+3 Town	fl	9	11	11	99	-1	-1	-1
+3 Town	fl	9	12	12	99	-1	-1	-1
+3 Town	fl	9	13	13	99	-1	-1	-1
+3 Town	fl	9	14	14	99	-1	-1	-1
+3 Town	fl	9	15	15	334	-1	-1	-1
+3 Town	fl	9	16	16	335	-1	-1	-1
+3 Town	fl	9	17	17	99	-1	-1	-1
+3 Town	fl	9	18	18	99	-1	-1	-1
+3 Town	fl	9	19	19	99	-1	-1	-1
+3 Town	fl	9	20	20	382	-1	-1	-1
+3 Town	fl	9	21	21	391	-1	-1	-1
+3 Town	fl	9	22	22	390	-1	-1	-1
+3 Town	fl	9	23	23	389	-1	-1	-1
+3 Town	fl	9	24	24	99	-1	-1	-1
+3 Town	fl	9	26	26	380	-1	-1	-1
+3 Town	fl	9	28	28	380	-1	-1	-1
+3 Town	fl	9	31	31	381	-1	-1	-1
+3 Town	fl	9	32	32	381	-1	-1	-1
+3 Town	fl	9	34	35	387	-1	-1	-1
+3 Town	fl	9	38	38	386	-1	-1	-1
+3 Town	fl	9	40	40	386	-1	-1	-1
+3 Town	wbl	10			540	-1	-1	-1
+3 Town	wl	10	1	1	541	-1	-1	-1
+3 Town	wr	10	4	4	542	-1	-1	-1
+3 Town	wr	10	2	2	543	-1	-1	-1
+3 Town	wl	10	2	2	544	-1	-1	-1
+3 Town	wbl	10	1	1	545	-1	-1	-1
+3 Town	wl	10	4	4	546	-1	-1	-1
+3 Town	fl	10	41	41	281	-1	-1	-1
+3 Town	wr	12			547	-1	-1	-1
+3 Town	wl	12	3	3	548	-1	-1	-1
+3 Town	wr	12	1	1	549	-1	-1	-1
+3 Town	wr	12	6	6	550	-1	-1	-1
+3 Town	wr	12	1	1	551	-1	-1	-1
+3 Town	wl	12			552	-1	-1	-1
+3 Town	fl	12	22	22	280	-1	-1	-1
+3 Town	fl	12	28	28	280	-1	-1	-1
+3 Town	fl	12	32	32	280	-1	-1	-1
+3 Town	fl	12	20	21	381	-1	-1	-1
+3 Town	fl	12	23	24	381	-1	-1	-1
+3 Town	fl	12	25	25	383	-1	-1	-1
+3 Town	fl	12	11	11	380	-1	-1	-1
+3 Town	fl	12	18	18	380	-1	-1	-1
+3 Town	fl	12	29	29	533	534	-1	-1
+3 Town	fl	12	13	15	533	534	-1	-1
+3 Town	fl	12	7	9	533	534	-1	-1
+3 Town	fl	13	17	17	558	-1	-1	-1
+3 Town	fl	13	24	24	559	-1	-1	-1
+3 Town	fl	13	43	43	560	-1	-1	-1
+3 Town	fl	13	45	45	561	-1	-1	-1
+3 Town	fl	13	19	19	562	-1	-1	-1
+3 Town	fl	13	35	35	563	-1	-1	-1
+3 Town	fl	13	21	21	564	-1	-1	-1
+3 Town	fl	13	37	37	565	-1	-1	-1
+3 Town	fl	13	30	30	566	-1	-1	-1
+3 Town	wr	13	1	1	556	-1	-1	-1
+3 Town	wl	13	2	2	557	-1	-1	-1
+3 Town	wr	14	6	-1	80	-1	-1	-1
+3 Town	wl	14	4	-1	81	-1	-1	-1
+3 Town	wtlr	14	3	-1	84	-1	-1	-1
+3 Town	wtll	14	3	-1	84	-1	-1	-1
+3 Town	wbr	14	3	-1	85	-1	-1	-1
+3 Town	wtr	14	3	-1	83	-1	-1	-1
+3 Town	wbl	14	3	-1	82	-1	-1	-1
+3 Jungle	fl		44	44	307	-1	-1	-1
+3 Jungle	fl	4	18	18	520	521	522	-1
+3 Jungle	fl	4	33	33	491	-1	-1	-1
+3 Jungle	fl	4	36	36	492	-1	-1	-1
+3 Jungle	fl	4	38	38	493	-1	-1	-1
+3 Jungle	fl	4	39	39	494	-1	-1	-1
+3 Jungle	fl	4	34	35	495	-1	-1	-1
+3 Jungle	fl	4	40	40	520	521	522	-1
+3 Jungle	fl	4	37	37	520	521	522	-1
+3 Jungle	fl	4	42	42	568	-1	-1	-1
+3 Jungle	fl	4	46	46	568	-1	-1	-1
+3 Jungle	fl	4	50	50	568	-1	-1	-1
+3 Jungle	fl	4	43	43	569	-1	-1	-1
+3 Jungle	fl	4	47	47	569	-1	-1	-1
+3 Jungle	fl	4	51	51	569	-1	-1	-1
+3 Jungle	fl	10			520	521	522	-1
+3 Jungle	fl	10	37	37	523	-1	-1	-1
+3 Jungle	fl	10	41	41	523	-1	-1	-1
+3 Jungle	fl	10	45	45	523	-1	-1	-1
+3 Jungle	fl	10	46	48	524	-1	-1	-1
+3 Jungle	fl	10	49	49	526	-1	-1	-1
+3 Jungle	fl	10	18	18	527	-1	-1	-1
+3 Jungle	fl	10	4	4	528	-1	-1	-1
+3 Jungle	fl	10	42	42	530	-1	-1	-1
+3 Jungle	fl	10	56	56	530	-1	-1	-1
+3 Jungle	fl	10	59	59	531	-1	-1	-1
+3 Jungle	fl	10	1	3	532	-1	-1	-1
+3 Jungle	wr	10		7	472	473	474	475
+3 Jungle	wl	10		7	472	473	474	475
+3 Jungle	wl	10	13	13	472	473	474	475
+3 Jungle	wtr	10		2	472	473	474	475
+3 Jungle	wbl	10		2	472	473	474	475
+3 Jungle	fl	11	42	42	536	-1	-1	-1
+3 Jungle	fl	11	31	31	531	-1	-1	-1
+3 Jungle	fl	11	35	35	531	-1	-1	-1
+3 Jungle	fl	11	39	39	531	-1	-1	-1
+3 Jungle	fl	11	42	42	523	-1	-1	-1
+3 Jungle	fl	11	47	47	531	-1	-1	-1
+3 Jungle	fl	11	51	51	531	-1	-1	-1
+3 Jungle	fl	11	55	55	531	-1	-1	-1
+3 Jungle	fl	11	59	59	531	-1	-1	-1
+3 Jungle	fl	11	20	20	528	-1	-1	-1
+3 Jungle	fl	11	3	3	523	-1	-1	-1
+3 Jungle	fl	11	7	7	523	-1	-1	-1
+3 Jungle	fl	11	11	11	523	-1	-1	-1
+3 Jungle	fl	11	15	15	523	-1	-1	-1
+3 Jungle	fl	12	27	27	536	-1	-1	-1
+3 Jungle	fl	12	44	44	536	-1	-1	-1
+3 Jungle	fl	12	49	49	537	-1	-1	-1
+3 Jungle	fl	12	52	52	537	-1	-1	-1
+3 Jungle	fl	12		1	532	-1	-1	-1
+3 Jungle	fl	12	5	5	532	-1	-1	-1
+3 Jungle	fl	12	50	50	532	-1	-1	-1
+3 Jungle	fl	12	56	56	531	-1	-1	-1
+3 Jungle	fl	12	60	60	531	-1	-1	-1
+3 Jungle	fl	12	24	24	530	-1	-1	-1
+3 Jungle	fl	12	51	51	528	-1	-1	-1
+3 Jungle	fl	12	6	6	529	-1	-1	-1
+3 Jungle	fl	12	29	31	524	-1	-1	-1
+3 Jungle	fl	12	28	28	525	-1	-1	-1
+3 Jungle	fl	12	2	2	520	521	522	-1
+3 Jungle	fl	12	10	10	523	-1	-1	-1
+3 Jungle	fl	12	14	14	523	-1	-1	-1
+3 Jungle	fl	12	48	48	523	-1	-1	-1
+3 Jungle	fl	13	13	13	536	-1	-1	-1
+3 Jungle	fl	13	28	28	536	-1	-1	-1
+3 Jungle	fl	13	31	34	532	-1	-1	-1
+3 Jungle	fl	13	47	47	532	-1	-1	-1
+3 Jungle	fl	13	54	54	531	-1	-1	-1
+3 Jungle	fl	13	10	10	530	-1	-1	-1
+3 Jungle	fl	13	27	27	530	-1	-1	-1
+3 Jungle	fl	13	17	17	526	-1	-1	-1
+3 Jungle	fl	13	28	30	524	-1	-1	-1
+3 Jungle	fl	13	53	53	524	-1	-1	-1
+3 Jungle	fl	13	15	16	524	-1	-1	-1
+3 Jungle	fl	13	14	14	525	-1	-1	-1
+3 Jungle	fl	13		8	520	521	522	-1
+3 Jungle	fl	13	61	61	523	-1	-1	-1
+3 Jungle	fl	14	60	60	223	-1	-1	-1
+3 Jungle	fl	14	18	18	568	-1	-1	-1
+3 Jungle	fl	14	26	26	568	-1	-1	-1
+3 Jungle	fl	14	28	28	568	-1	-1	-1
+3 Jungle	fl	14	19	19	569	-1	-1	-1
+3 Jungle	fl	14	27	27	569	-1	-1	-1
+3 Jungle	fl	14	29	29	569	-1	-1	-1
+3 Jungle	fl	14	2	2	571	-1	-1	-1
+3 Jungle	fl	14	4	4	571	-1	-1	-1
+3 Jungle	fl	14	6	6	571	-1	-1	-1
+3 Jungle	fl	14	8	8	571	-1	-1	-1
+3 Jungle	fl	14	10	10	571	-1	-1	-1
+3 Jungle	fl	14	12	12	571	-1	-1	-1
+3 Jungle	fl	14	3	3	570	-1	-1	-1
+3 Jungle	fl	14	5	5	570	-1	-1	-1
+3 Jungle	fl	14	7	7	570	-1	-1	-1
+3 Jungle	fl	14	9	9	570	-1	-1	-1
+3 Jungle	fl	14	11	11	570	-1	-1	-1
+3 Jungle	fl	14	13	13	570	-1	-1	-1
+3 Jungle	wr	14		24	80	-1	-1	-1
+3 Jungle	wl	14		18	81	-1	-1	-1
+3 Jungle	wl	14	20	24	81	-1	-1	-1
+3 Jungle	wr	14	25	25	88	-1	-1	-1
+3 Jungle	wl	14	26	26	91	-1	-1	-1
+3 Jungle	wr	14	26	26	89	-1	-1	-1
+3 Jungle	wl	14	25	25	92	-1	-1	-1
+3 Jungle	wr	14	27	27	88	-1	-1	-1
+3 Jungle	wl	14	27	27	91	-1	-1	-1
+3 Jungle	wtlr	14	-1	-1	84	-1	-1	-1
+3 Jungle	wtll	14	-1	-1	84	-1	-1	-1
+3 Jungle	wbr	14	-1	-1	85	-1	-1	-1
+3 Jungle	wtr	14	-1	-1	83	-1	-1	-1
+3 Jungle	wbl	14	-1	-1	82	-1	-1	-1
+3 Jungle	co	14	-1	-1	85	-1	-1	-1
+3 Jungle	fl	15	49	57	520	521	522	-1
+3 Jungle	fl	15	36	36	280	-1	-1	-1
+3 Jungle	fl	15	38	38	280	-1	-1	-1
+3 Jungle	fl	15	40	40	280	-1	-1	-1
+3 Jungle	fl	15	42	42	280	-1	-1	-1
+3 Jungle	fl	15	33	33	280	-1	-1	-1
+3 Jungle	fl	15	29	29	280	-1	-1	-1
+3 Jungle	fl	15	22	22	385	-1	-1	-1
+3 Jungle	fl	15	23	23	381	-1	-1	-1
+3 Jungle	fl	15	25	25	381	-1	-1	-1
+3 Jungle	fl	15	26	26	383	-1	-1	-1
+3 Jungle	fl	15	20	20	380	-1	-1	-1
+3 Jungle	fl	15	14	14	380	-1	-1	-1
+3 Jungle	wr	15	1	1	597	-1	-1	-1
+3 Jungle	wl	15			598	-1	-1	-1
+3 Jungle	fl	15	30	32	520	521	522	-1
+3 Jungle	fl	15	3	3	520	521	522	-1
+3 Jungle	fl	15	9	9	520	521	522	-1
+3 Jungle	fl	15	15	15	520	521	522	-1
+3 Jungle	fl	15	21	21	520	521	522	-1
+3 Jungle	fl	15	34	34	520	521	522	-1
+3 Jungle	fl	15	39	39	520	521	522	-1
+3 Jungle	fl	15	41	41	520	521	522	-1
+3 Jungle	fl	15	43	43	520	521	522	-1
+3 Jungle	fl	15	35	35	520	521	522	-1
+3 Jungle	fl	15	27	27	520	521	522	-1
+3 Jungle	wbr	16			516	-1	-1	-1
+3 Jungle	wbr	16	1	1	517	-1	-1	-1
+3 Jungle	fl	16	44	44	478	-1	-1	-1
+3 Jungle	fl	16	24	25	571	-1	-1	-1
+3 Jungle	fl	16	28	29	570	-1	-1	-1
+3 Jungle	fl	16	34	34	568	-1	-1	-1
+3 Jungle	fl	16	36	36	568	-1	-1	-1
+3 Jungle	fl	16	35	35	569	-1	-1	-1
+3 Jungle	fl	16	37	37	569	-1	-1	-1
+3 Jungle	fl	16	6	7	572	-1	-1	-1
+3 Jungle	fl	16	10	10	523	-1	-1	-1
+3 Jungle	fl	16	11	11	531	-1	-1	-1
+3 Jungle	fl	16	16	16	524	-1	-1	-1
+3 Jungle	fl	16	18	18	532	-1	-1	-1
+3 Jungle	fl	16	17	17	573	-1	-1	-1
+3 Jungle	fl	16	19	19	573	-1	-1	-1
+3 Jungle	fl	17	3	3	375	-1	-1	-1
+3 Jungle	fl	18	15	15	536	-1	-1	-1
+3 Jungle	fl	18	12	12	530	-1	-1	-1
+3 Jungle	fl	18	19	19	526	-1	-1	-1
+3 Jungle	fl	18	17	18	524	-1	-1	-1
+3 Jungle	fl	18	1	1	523	-1	-1	-1
+3 Jungle	fl	18	4	4	523	-1	-1	-1
+3 Jungle	fl	18	7	7	523	-1	-1	-1
+3 Jungle	fl	18	16	16	520	521	522	-1
+3 Jungle	fl	18	5	5	520	521	522	-1
+3 Jungle	fl	18	2	2	520	521	522	-1
+3 Spider	wr			9	600	-1	-1	-1
+3 Spider	wl			9	601	-1	-1	-1
+3 Spider	wr		10	10	602	-1	-1	-1
+3 Spider	wl		10	10	603	-1	-1	-1
+3 Spider	wr		11	11	604	-1	-1	-1
+3 Spider	wr		12	-1	600	-1	-1	-1
+3 Spider	wl		12	-1	601	-1	-1	-1
+3 Spider	wtlr		-1	-1	604	-1	-1	-1
+3 Spider	wtll		-1	-1	604	-1	-1	-1
+3 Spider	wbr		-1	-1	605	-1	-1	-1
+3 Spider	wtr		-1	-1	603	-1	-1	-1
+3 Spider	wbl		-1	-1	602	-1	-1	-1
+3 Spider	co		-1	-1	602	-1	-1	-1
+3 Spider	wr	1	-1	-1	600	-1	-1	-1
+3 Spider	wl	1	-1	-1	601	-1	-1	-1
+3 Spider	wtlr	1	-1	-1	604	-1	-1	-1
+3 Spider	wtll	1	-1	-1	604	-1	-1	-1
+3 Spider	wbr	1	-1	-1	605	-1	-1	-1
+3 Spider	wtr	1	-1	-1	603	-1	-1	-1
+3 Spider	wbl	1	-1	-1	602	-1	-1	-1
+3 Spider	co	1	-1	-1	605	-1	-1	-1
+3 Spider	wre	1			610	-1	-1	-1
+3 Spider	wre	1	1	1	611	-1	-1	-1
+3 Kurast	wre				30	-1	-1	-1
+3 Kurast	wre		1	1	31	-1	-1	-1
+3 Kurast	wle				32	-1	-1	-1
+3 Kurast	wle		1	1	33	-1	-1	-1
+3 Kurast	fl		44	44	307	-1	-1	-1
+3 Kurast	fl	46	25	25	307	-1	-1	-1
+3 Kurast	wre	1			30	-1	-1	-1
+3 Kurast	wre	1	1	1	31	-1	-1	-1
+3 Kurast	wre	1	4	4	30	-1	-1	-1
+3 Kurast	wre	1	5	5	31	-1	-1	-1
+3 Kurast	wle	1	4	4	32	-1	-1	-1
+3 Kurast	wle	1	5	5	33	-1	-1	-1
+3 Kurast	wre	2			30	-1	-1	-1
+3 Kurast	wre	2	1	1	31	-1	-1	-1
+3 Kurast	wle	2			32	-1	-1	-1
+3 Kurast	wle	2	1	1	33	-1	-1	-1
+3 Kurast	wre	3			30	-1	-1	-1
+3 Kurast	wre	3	1	1	31	-1	-1	-1
+3 Kurast	wr	10		7	472	473	474	475
+3 Kurast	wl	10		7	472	473	474	475
+3 Kurast	wl	10	13	13	472	473	474	475
+3 Kurast	wtr	10		2	472	473	474	475
+3 Kurast	wbl	10		2	472	473	474	475
+3 Kurast	wl	10	30	30	472	473	474	475
+3 Kurast	wr	20	-1	-1	20	38	-1	-1
+3 Kurast	wl	20	-1	-1	21	39	-1	-1
+3 Kurast	wtlr	20	-1	-1	24	-1	-1	-1
+3 Kurast	wtll	20	-1	-1	24	-1	-1	-1
+3 Kurast	wbr	20	-1	-1	25	-1	-1	-1
+3 Kurast	wtr	20	-1	-1	23	-1	-1	-1
+3 Kurast	wbl	20	-1	-1	22	-1	-1	-1
+3 Kurast	wr	20	-1	-1	20	38	-1	-1
+3 Kurast	wl	20	-1	-1	21	39	-1	-1
+3 Kurast	wtlr	20	-1	-1	24	-1	-1	-1
+3 Kurast	wtll	20	-1	-1	24	-1	-1	-1
+3 Kurast	wbr	20	-1	-1	25	-1	-1	-1
+3 Kurast	wtr	20	-1	-1	23	-1	-1	-1
+3 Kurast	wbl	20	-1	-1	22	-1	-1	-1
+3 Kurast	wrd	20			34	-1	-1	-1
+3 Kurast	wld	20			35	-1	-1	-1
+3 Kurast	wr	21	-1	-1	20	38	-1	-1
+3 Kurast	wl	21	-1	-1	21	39	-1	-1
+3 Kurast	wtlr	21	-1	-1	24	-1	-1	-1
+3 Kurast	wtll	21	-1	-1	24	-1	-1	-1
+3 Kurast	wbr	21	-1	-1	25	-1	-1	-1
+3 Kurast	wtr	21	-1	-1	23	-1	-1	-1
+3 Kurast	wbl	21	-1	-1	22	-1	-1	-1
+3 Kurast	wr	22			672	-1	-1	-1
+3 Kurast	wr	22	2	2	672	-1	-1	-1
+3 Kurast	wl	22	2	2	673	-1	-1	-1
+3 Kurast	wbl	22	2	2	674	-1	-1	-1
+3 Kurast	wtr	22	2	2	675	-1	-1	-1
+3 Kurast	wtll	22	2	2	676	-1	-1	-1
+3 Kurast	wr	22	-1	-1	20	38	-1	-1
+3 Kurast	wl	22	-1	-1	21	39	-1	-1
+3 Kurast	wtlr	22	-1	-1	24	-1	-1	-1
+3 Kurast	wtll	22	-1	-1	24	-1	-1	-1
+3 Kurast	wbr	22	-1	-1	25	-1	-1	-1
+3 Kurast	wtr	22	-1	-1	23	-1	-1	-1
+3 Kurast	wbl	22	-1	-1	22	-1	-1	-1
+3 Kurast	wr	24	-1	-1	20	38	-1	-1
+3 Kurast	wl	24	-1	-1	21	39	-1	-1
+3 Kurast	wtlr	24	-1	-1	24	-1	-1	-1
+3 Kurast	wtll	24	-1	-1	24	-1	-1	-1
+3 Kurast	wbr	24	-1	-1	25	-1	-1	-1
+3 Kurast	wtr	24	-1	-1	23	-1	-1	-1
+3 Kurast	wbl	24	-1	-1	22	-1	-1	-1
+3 Kurast	wrd	24	-1	-1	34	-1	-1	-1
+3 Kurast	wld	24	-1	-1	35	-1	-1	-1
+3 Kurast	wr	25	2	2	672	-1	-1	-1
+3 Kurast	wl	25	2	2	673	-1	-1	-1
+3 Kurast	wbl	25	2	2	674	-1	-1	-1
+3 Kurast	wtr	25	2	2	675	-1	-1	-1
+3 Kurast	wtll	25	2	2	676	-1	-1	-1
+3 Kurast	wr	26	2	-1	20	38	-1	-1
+3 Kurast	wl	26	2	-1	21	39	-1	-1
+3 Kurast	wr	27			780	-1	-1	-1
+3 Kurast	wr	27	3	8	780	-1	-1	-1
+3 Kurast	wl	27			781	-1	-1	-1
+3 Kurast	wl	27	3	8	781	-1	-1	-1
+3 Kurast	wtll	27			782	-1	-1	-1
+3 Kurast	wtr	27			783	-1	-1	-1
+3 Kurast	wbl	27			784	-1	-1	-1
+3 Kurast	wbr	27			785	-1	-1	-1
+3 Kurast	wl	27	1	1	786	-1	-1	-1
+3 Kurast	wr	27	1	1	788	-1	-1	-1
+3 Kurast	wrd	27		1	795	-1	-1	-1
+3 Kurast	wld	27		2	796	-1	-1	-1
+3 Kurast	wl	27	5	5	787	-1	-1	-1
+3 Kurast	wl	27	6	6	792	-1	-1	-1
+3 Kurast	wr	27	5	5	789	-1	-1	-1
+3 Kurast	wr	27	6	6	793	-1	-1	-1
+3 Kurast	wr	27	7	7	789	-1	-1	-1
+3 Kurast	wtll	27			797	-1	-1	-1
+3 Kurast	wtll	27			798	-1	-1	-1
+3 Kurast	wr	28			712	-1	-1	-1
+3 Kurast	wr	28	1	1	711	-1	-1	-1
+3 Kurast	wr	28	2	2	711	-1	-1	-1
+3 Kurast	wr	28	4	6	712	-1	-1	-1
+3 Kurast	wr	28	3	3	711	-1	-1	-1
+3 Kurast	wl	28			710	-1	-1	-1
+3 Kurast	wl	28	1	1	709	-1	-1	-1
+3 Kurast	wl	28	2	2	709	-1	-1	-1
+3 Kurast	wl	28	4	6	710	-1	-1	-1
+3 Kurast	wl	28	3	3	709	-1	-1	-1
+3 Kurast	wtll	28			717	-1	-1	-1
+3 Kurast	wbr	28			708	-1	-1	-1
+3 Kurast	wtr	28			714	-1	-1	-1
+3 Kurast	wbl	28			713	-1	-1	-1
+3 Kurast	wr	30	-1	-1	620	-1	-1	-1
+3 Kurast	wl	30	-1	-1	621	-1	-1	-1
+3 Kurast	wtlr	30	-1	-1	624	-1	-1	-1
+3 Kurast	wtll	30	-1	-1	624	-1	-1	-1
+3 Kurast	wbr	30	-1	-1	625	-1	-1	-1
+3 Kurast	wtr	30	-1	-1	623	-1	-1	-1
+3 Kurast	wbl	30	-1	-1	622	-1	-1	-1
+3 Kurast	fl	29	-1	-1	520	521	522	-1
+3 Kurast	fl	4	53	55	520	521	522	-1
+3 Kurast	fl	4	59	61	520	521	522	-1
+3 Kurast	fl	15	49	57	520	521	522	-1
+3 Kurast	fl	30	3	3	660	-1	-1	-1
+3 Kurast	fl	30	6	6	660	-1	-1	-1
+3 Kurast	fl	30	1	1	661	-1	-1	-1
+3 Kurast	fl	30	7	7	661	-1	-1	-1
+3 Kurast	fl	30	21	21	661	-1	-1	-1
+3 Kurast	fl	30	8	8	662	-1	-1	-1
+3 Kurast	fl	30	2	2	662	-1	-1	-1
+3 Kurast	fl	30	9	9	663	-1	-1	-1
+3 Kurast	fl	30	4	4	663	-1	-1	-1
+3 Kurast	fl	30	10	10	664	-1	-1	-1
+3 Kurast	fl	30	5	5	664	-1	-1	-1
+3 Kurast	fl	30	20	20	665	-1	-1	-1
+3 Kurast	fl	30	11	11	666	-1	-1	-1
+3 Kurast	fl	30	12	12	667	-1	-1	-1
+3 Kurast	fl	30	13	13	668	-1	-1	-1
+3 Kurast	fl	30	14	14	669	-1	-1	-1
+3 Kurast	fl	30	15	15	670	-1	-1	-1
+3 Kurast	fl	30	16	16	671	-1	-1	-1
+3 Kurast	fl	31	3	3	660	-1	-1	-1
+3 Kurast	fl	31	1	1	661	-1	-1	-1
+3 Kurast	fl	31	2	2	662	-1	-1	-1
+3 Kurast	fl	31	4	4	663	-1	-1	-1
+3 Kurast	fl	31	5	5	664	-1	-1	-1
+3 Kurast	fl	31			665	-1	-1	-1
+3 Kurast	fl	31	19	19	660	-1	-1	-1
+3 Kurast	fl	31	17	17	661	-1	-1	-1
+3 Kurast	fl	31	18	18	662	-1	-1	-1
+3 Kurast	fl	31	20	20	663	-1	-1	-1
+3 Kurast	fl	31	21	21	664	-1	-1	-1
+3 Kurast	fl	31	16	16	665	-1	-1	-1
+3 Kurast	fl	31	6	6	666	-1	-1	-1
+3 Kurast	fl	31	7	7	667	-1	-1	-1
+3 Kurast	fl	31	8	8	668	-1	-1	-1
+3 Kurast	fl	31	9	9	669	-1	-1	-1
+3 Kurast	fl	31	10	10	670	-1	-1	-1
+3 Kurast	fl	31	11	11	671	-1	-1	-1
+3 Kurast	fl	31	22	22	666	-1	-1	-1
+3 Kurast	fl	31	23	23	667	-1	-1	-1
+3 Kurast	fl	31	24	24	668	-1	-1	-1
+3 Kurast	fl	31	25	25	669	-1	-1	-1
+3 Kurast	fl	31	26	26	670	-1	-1	-1
+3 Kurast	fl	31	27	27	671	-1	-1	-1
+3 Kurast	wr	31	-1	-1	640	-1	-1	-1
+3 Kurast	wl	31	-1	-1	641	-1	-1	-1
+3 Kurast	wtlr	31	-1	-1	644	-1	-1	-1
+3 Kurast	wtll	31	-1	-1	644	-1	-1	-1
+3 Kurast	wbr	31	-1	-1	645	-1	-1	-1
+3 Kurast	wtr	31	-1	-1	643	-1	-1	-1
+3 Kurast	wbl	31	-1	-1	642	-1	-1	-1
+3 Kurast	fl	32			665	-1	-1	-1
+3 Kurast	fl	32	1	1	661	-1	-1	-1
+3 Kurast	fl	32	2	2	664	-1	-1	-1
+3 Kurast	fl	32	3	3	432	-1	-1	-1
+3 Kurast	wr	48	5	6	292	-1	-1	-1
+3 Kurast	wl	48	5	6	293	-1	-1	-1
+3 Kurast	wr	48	-1	-1	20	-1	-1	-1
+3 Kurast	wl	48	-1	-1	21	-1	-1	-1
+3 Kurast	wtlr	48	-1	-1	24	-1	-1	-1
+3 Kurast	wtll	48	-1	-1	24	-1	-1	-1
+3 Kurast	wbr	48	-1	-1	25	-1	-1	-1
+3 Kurast	wtr	48	1	1	293	-1	-1	-1
+3 Kurast	wtr	48	-1	-1	23	-1	-1	-1
+3 Kurast	wbl	48		1	292	-1	-1	-1
+3 Kurast	wbl	48	-1	-1	22	-1	-1	-1
+3 Kurast	fl	48			640	-1	-1	-1
+3 Kurast	fl	48	2	2	640	-1	-1	-1
+3 Kurast	fl	48	6	6	640	-1	-1	-1
+3 Kurast	fl	48	8	8	640	-1	-1	-1
+3 Kurast	fl	48	12	12	640	-1	-1	-1
+3 Kurast	fl	48	1	1	647	-1	-1	-1
+3 Kurast	fl	48	9	9	641	-1	-1	-1
+3 Kurast	fl	48	11	11	641	-1	-1	-1
+3 Kurast	fl	48	13	13	641	-1	-1	-1
+3 Kurast	fl	48	3	3	643	-1	-1	-1
+3 Kurast	fl	48	20	20	643	-1	-1	-1
+3 Kurast	fl	48	23	23	645	-1	-1	-1
+3 Kurast	fl	48	5	5	644	-1	-1	-1
+3 Kurast	fl	48	24	24	656	-1	-1	-1
+3 Kurast	fl	48	21	21	657	-1	-1	-1
+3 Kurast	fl	48	19	19	658	-1	-1	-1
+3 Kurast	wr	47	-1	-1	640	-1	-1	-1
+3 Kurast	wl	47	-1	-1	641	-1	-1	-1
+3 Kurast	wtlr	47	-1	-1	644	-1	-1	-1
+3 Kurast	wtll	47	-1	-1	644	-1	-1	-1
+3 Kurast	wbr	47	-1	-1	645	-1	-1	-1
+3 Kurast	wtr	47	-1	-1	643	-1	-1	-1
+3 Kurast	wbl	47	-1	-1	642	-1	-1	-1
+3 Kurast	fl	47	6	8	695	-1	-1	-1
+3 Kurast	fl	47	22	24	695	-1	-1	-1
+3 Kurast	fl	47	12	13	695	-1	-1	-1
+3 Kurast	fl	47	28	29	695	-1	-1	-1
+3 Kurast	fl	47	9	11	696	-1	-1	-1
+3 Kurast	fl	47	25	27	696	-1	-1	-1
+3 Kurast	fl	47	14	15	696	-1	-1	-1
+3 Kurast	fl	47	30	31	696	-1	-1	-1
+3 Kurast	fl	47			640	-1	-1	-1
+3 Kurast	fl	47	16	16	640	-1	-1	-1
+3 Kurast	fl	47	52	52	640	-1	-1	-1
+3 Kurast	fl	47	1	1	641	-1	-1	-1
+3 Kurast	fl	47	17	17	641	-1	-1	-1
+3 Kurast	fl	47	53	53	641	-1	-1	-1
+3 Kurast	fl	47	2	2	642	-1	-1	-1
+3 Kurast	fl	47	18	18	642	-1	-1	-1
+3 Kurast	fl	47	54	54	642	-1	-1	-1
+3 Kurast	fl	47	3	3	643	-1	-1	-1
+3 Kurast	fl	47	19	19	643	-1	-1	-1
+3 Kurast	fl	47	32	32	643	-1	-1	-1
+3 Kurast	fl	47	33	33	655	-1	-1	-1
+3 Kurast	fl	47	34	34	653	-1	-1	-1
+3 Kurast	fl	47	36	36	654	-1	-1	-1
+3 Kurast	fl	47	55	55	643	-1	-1	-1
+3 Kurast	fl	47	4	4	645	-1	-1	-1
+3 Kurast	fl	47	20	20	645	-1	-1	-1
+3 Kurast	fl	47	56	56	645	-1	-1	-1
+3 Kurast	fl	47	5	5	644	-1	-1	-1
+3 Kurast	fl	47	21	21	644	-1	-1	-1
+3 Kurast	fl	47	57	57	644	-1	-1	-1
+3 Sewer	wre	2			291	-1	-1	-1
+3 Sewer	wre	2	1	1	265	-1	-1	-1
+3 Sewer	wle	2			393	-1	-1	-1
+3 Sewer	wle	2	1	1	394	-1	-1	-1
+3 Sewer	wre	3			291	-1	-1	-1
+3 Sewer	wre	3	1	1	265	-1	-1	-1
+3 Sewer	wle	3			393	-1	-1	-1
+3 Sewer	wle	3	1	1	394	-1	-1	-1
+3 Sewer	wr	45	-1	-1	283	-1	-1	-1
+3 Sewer	wl	45	-1	-1	284	-1	-1	-1
+3 Sewer	wtlr	45	-1	-1	287	-1	-1	-1
+3 Sewer	wtll	45	-1	-1	287	-1	-1	-1
+3 Sewer	wbr	45	-1	-1	288	-1	-1	-1
+3 Sewer	wtr	45	-1	-1	286	-1	-1	-1
+3 Sewer	wbl	45	-1	-1	285	-1	-1	-1
+3 Sewer	wre	1			291	-1	-1	-1
+3 Sewer	wre	1	1	1	265	-1	-1	-1
+3 Sewer	wle				393	-1	-1	-1
+3 Sewer	wle		1	1	394	-1	-1	-1
+3 Sewer	fl	45	1	1	290	-1	-1	-1
+3 Sewer	fl	45	3	3	290	-1	-1	-1
+3 Sewer	fl	45	-1	-1	289	-1	-1	-1
+3 Dungeon	wtr				679	-1	-1	-1
+3 Dungeon	wbl				678	-1	-1	-1
+3 Dungeon	wr			17	80	-1	-1	-1
+3 Dungeon	wl			17	81	-1	-1	-1
+3 Dungeon	wr		20	-1	80	-1	-1	-1
+3 Dungeon	wl		20	-1	81	-1	-1	-1
+3 Dungeon	wtlr		-1	-1	84	-1	-1	-1
+3 Dungeon	wtll		-1	-1	84	-1	-1	-1
+3 Dungeon	wbr		-1	-1	85	-1	-1	-1
+3 Dungeon	wtr		-1	-1	83	-1	-1	-1
+3 Dungeon	wbl		-1	-1	82	-1	-1	-1
+3 Dungeon	co		-1	-1	90	-1	-1	-1
+3 Dungeon	wr		18	18	26	-1	-1	-1
+3 Dungeon	wr		19	19	27	-1	-1	-1
+3 Dungeon	wl		18	18	29	-1	-1	-1
+3 Dungeon	wl		19	19	28	-1	-1	-1
+3 Dungeon	wr	1			26	-1	-1	-1
+3 Dungeon	wr	1	1	1	27	-1	-1	-1
+3 Dungeon	wl	1			29	-1	-1	-1
+3 Dungeon	wl	1	1	1	28	-1	-1	-1
+3 Dungeon	wr	1	3	3	295	-1	-1	-1
+3 Dungeon	wl	1	3	3	296	-1	-1	-1
+3 Dungeon	wr	1	-1	-1	80	-1	-1	-1
+3 Dungeon	wl	1	-1	-1	81	-1	-1	-1
+3 Dungeon	wtlr	1	1	1	299	-1	-1	-1
+3 Dungeon	wtll	1			298	-1	-1	-1
+3 Dungeon	wtlr	1	4	4	299	-1	-1	-1
+3 Dungeon	wtll	1	2	2	298	-1	-1	-1
+3 Dungeon	wbr	1	-1	-1	85	-1	-1	-1
+3 Dungeon	wtr	1	-1	-1	83	-1	-1	-1
+3 Dungeon	wbl	1	-1	-1	82	-1	-1	-1
+3 Dungeon	wre	1			30	-1	-1	-1
+3 Dungeon	wre	1	1	1	31	-1	-1	-1
+3 Dungeon	fl	1			41	-1	-1	-1
+3 Dungeon	fl	1	1	1	42	-1	-1	-1
+3 Dungeon	fl	1	2	2	40	-1	-1	-1
+3 Dungeon	fl	1	3	3	43	-1	-1	-1
+3 Dungeon	fl	2			680	-1	-1	-1
+3 Dungeon	fl	2	1	2	681	-1	-1	-1
+3 Dungeon	fl	2	3	3	682	-1	-1	-1
+3 Dungeon	fl	2	4	5	683	-1	-1	-1
+3 Dungeon	fl	2	6	7	684	-1	-1	-1
+3 Dungeon	fl	2	8	8	685	-1	-1	-1
+3 Dungeon	fl	2	9	10	686	-1	-1	-1
+3 Dungeon	fl	2	11	11	687	-1	-1	-1
+3 Dungeon	fl	2	12	12	688	-1	-1	-1
+3 Dungeon	fl	2	13	13	689	-1	-1	-1
+3 Dungeon	fl	2	14	14	690	-1	-1	-1
+3 Dungeon	fl	2	15	15	691	-1	-1	-1
+3 Dungeon	fl	2	16	16	692	-1	-1	-1
+3 Dungeon	wre	2			44	-1	-1	-1
+3 Dungeon	wre	2	1	1	45	-1	-1	-1
+3 Dungeon	wle	2			72	-1	-1	-1
+3 Dungeon	wle	2	1	1	99	-1	-1	-1
+3 Dungeon	wr	2	-1	-1	80	-1	-1	-1
+3 Dungeon	wl	2	-1	-1	81	-1	-1	-1
+3 Dungeon	wtlr	2	-1	-1	84	-1	-1	-1
+3 Dungeon	wtll	2	-1	-1	84	-1	-1	-1
+3 Dungeon	wbr	2	-1	-1	85	-1	-1	-1
+3 Dungeon	wtr	2	-1	-1	83	-1	-1	-1
+3 Dungeon	wbl	2	-1	-1	82	-1	-1	-1
+4 Town	fl	12	32	32	1080	-1	-1	-1
+4 Town	fl	12	33	33	1081	-1	-1	-1
+4 Town	fl	12	34	34	1082	-1	-1	-1
+4 Town	fl	12	35	35	1083	-1	-1	-1
+4 Town	fl	12	4	4	1084	-1	-1	-1
+4 Town	fl	12	5	5	1085	-1	-1	-1
+4 Town	fl	12	6	6	1086	-1	-1	-1
+4 Town	fl	12	7	7	1087	-1	-1	-1
+4 Town	fl	12	9	9	1088	-1	-1	-1
+4 Town	fl	12	10	10	1089	-1	-1	-1
+4 Town	fl	12	11	11	1090	-1	-1	-1
+4 Town	fl	12	13	13	1091	-1	-1	-1
+4 Town	fl	12	12	12	1092	-1	-1	-1
+4 Town	fl	12	14	14	1093	-1	-1	-1
+4 Town	fl	12	15	15	1094	-1	-1	-1
+4 Town	fl	12	16	16	1156	-1	-1	-1
+4 Town	fl	12	18	18	1095	-1	-1	-1
+4 Town	fl	12	36	36	1096	-1	-1	-1
+4 Town	fl	12	37	37	1097	-1	-1	-1
+4 Mesa	fl	26	43	43	307	-1	-1	-1
+4 Mesa	fl	18	24	24	307	-1	-1	-1
+4 Mesa	fl	11			460	-1	-1	-1
+4 Mesa	fl	11	1	1	461	-1	-1	-1
+4 Mesa	fl	11	2	2	462	-1	-1	-1
+4 Mesa	fl	11	3	3	463	-1	-1	-1
+4 Mesa	fl	11	4	4	464	-1	-1	-1
+4 Mesa	fl	11	5	5	465	-1	-1	-1
+4 Mesa	fl	11	6	6	466	-1	-1	-1
+4 Mesa	fl	11	7	8	467	-1	-1	-1
+4 Mesa	fl	11	9	9	468	-1	-1	-1
+4 Mesa	fl	11	10	10	469	-1	-1	-1
+4 Mesa	fl	11	11	11	470	-1	-1	-1
+4 Mesa	fl	11	12	12	471	-1	-1	-1
+4 Mesa	fl	11	14	14	1161	-1	-1	-1
+4 Mesa	fl	11	15	15	1162	-1	-1	-1
+4 Mesa	fl	11	16	16	1163	-1	-1	-1
+4 Mesa	fl	11	17	17	1164	-1	-1	-1
+4 Mesa	fl	11	19	19	1166	-1	-1	-1
+4 Mesa	fl	11	20	20	1167	-1	-1	-1
+4 Mesa	fl	11	21	21	1168	-1	-1	-1
+4 Mesa	fl	11	22	22	1169	-1	-1	-1
+4 Mesa	fl	11	23	23	1170	-1	-1	-1
+4 Mesa	fl	11	24	24	1171	-1	-1	-1
+4 Mesa	fl	11	25	25	1172	-1	-1	-1
+4 Mesa	fl	11	26	26	1173	-1	-1	-1
+4 Mesa	fl	11	27	27	1174	-1	-1	-1
+4 Mesa	fl	11	28	28	1175	-1	-1	-1
+4 Mesa	fl	12	32	32	1080	-1	-1	-1
+4 Mesa	fl	12	33	33	1081	-1	-1	-1
+4 Mesa	fl	12	34	34	1082	-1	-1	-1
+4 Mesa	fl	12	35	35	1083	-1	-1	-1
+4 Mesa	fl	12	4	4	1084	-1	-1	-1
+4 Mesa	fl	12	5	5	1085	-1	-1	-1
+4 Mesa	fl	12	6	6	1086	-1	-1	-1
+4 Mesa	fl	12	7	7	1087	-1	-1	-1
+4 Mesa	fl	12	9	9	1088	-1	-1	-1
+4 Mesa	fl	12	10	10	1089	-1	-1	-1
+4 Mesa	fl	12	11	11	1090	-1	-1	-1
+4 Mesa	fl	12	13	13	1091	-1	-1	-1
+4 Mesa	fl	12	12	12	1092	-1	-1	-1
+4 Mesa	fl	12	14	14	1093	-1	-1	-1
+4 Mesa	fl	12	15	15	1094	-1	-1	-1
+4 Mesa	fl	12	16	16	1156	-1	-1	-1
+4 Mesa	fl	12	18	18	1095	-1	-1	-1
+4 Mesa	fl	12	36	36	1096	-1	-1	-1
+4 Mesa	fl	12	37	37	1097	-1	-1	-1
+4 Mesa	fl	13	29	29	1060	-1	-1	-1
+4 Mesa	fl	13	24	24	1061	-1	-1	-1
+4 Mesa	fl	13	31	31	1062	-1	-1	-1
+4 Mesa	fl	12	22	22	1063	-1	-1	-1
+4 Mesa	fl	12	17	17	1064	-1	-1	-1
+4 Mesa	fl	13	30	30	1065	-1	-1	-1
+4 Mesa	fl	13	32	32	1066	-1	-1	-1
+4 Mesa	fl	13	20	20	1067	-1	-1	-1
+4 Mesa	fl	14	32	32	1068	-1	-1	-1
+4 Mesa	fl	14	31	31	1069	-1	-1	-1
+4 Mesa	fl	12	24	24	1070	-1	-1	-1
+4 Mesa	fl	12	20	20	1071	-1	-1	-1
+4 Mesa	fl	14	30	30	1072	-1	-1	-1
+4 Mesa	fl	14	17	17	1073	-1	-1	-1
+4 Mesa	fl	14	29	29	1074	-1	-1	-1
+4 Mesa	fl	14	22	22	1075	-1	-1	-1
+4 Mesa	fl	15	17	17	1098	-1	-1	-1
+4 Mesa	fl	15	18	18	1099	-1	-1	-1
+4 Mesa	fl	15	19	19	1100	-1	-1	-1
+4 Mesa	fl	15	20	20	1101	-1	-1	-1
+4 Mesa	fl	15	21	21	1102	-1	-1	-1
+4 Mesa	fl	15	22	22	1103	-1	-1	-1
+4 Mesa	fl	15	23	23	1104	-1	-1	-1
+4 Mesa	fl	15	24	24	1105	-1	-1	-1
+4 Mesa	fl	15	26	26	1028	-1	-1	-1
+4 Mesa	fl	15	29	29	1108	-1	-1	-1
+4 Mesa	fl	15	30	30	1109	-1	-1	-1
+4 Mesa	fl	15	31	31	1110	-1	-1	-1
+4 Mesa	fl	15	32	32	1111	-1	-1	-1
+4 Mesa	fl	15	39	39	1112	-1	-1	-1
+4 Mesa	fl	15	40	40	1113	-1	-1	-1
+4 Mesa	wtll	11	6	6	1244	-1	-1	-1
+4 Mesa	co	11	6	6	1245	-1	-1	-1
+4 Mesa	wtr	11	7	7	1246	-1	-1	-1
+4 Mesa	wbl	11	6	6	1247	-1	-1	-1
+4 Mesa	wbr	11	6	6	1248	-1	-1	-1
+4 Mesa	wbr	11	7	7	1249	-1	-1	-1
+4 Mesa	wtr	11	9	9	1250	-1	-1	-1
+4 Mesa	wbl	11	7	7	1251	-1	-1	-1
+4 Mesa	wbr	11	8	8	1252	-1	-1	-1
+4 Mesa	wbl	11	8	8	1253	-1	-1	-1
+4 Mesa	wtr	11	8	8	1254	-1	-1	-1
+4 Mesa	wr	12			1200	-1	-1	-1
+4 Mesa	wl	12			1201	-1	-1	-1
+4 Mesa	wtr	12			1202	-1	-1	-1
+4 Mesa	wbl	12			1203	-1	-1	-1
+4 Mesa	wtr	12	1	1	1204	-1	-1	-1
+4 Mesa	wbl	12	1	1	1205	-1	-1	-1
+4 Mesa	wl	12	1	2	1206	-1	-1	-1
+4 Mesa	wr	12	1	2	1207	-1	-1	-1
+4 Mesa	wtll	12			1208	-1	-1	-1
+4 Mesa	wtlr	12			1209	-1	-1	-1
+4 Mesa	co	13			1210	-1	-1	-1
+4 Mesa	wbl	13			1211	-1	-1	-1
+4 Mesa	wr	13			1212	-1	-1	-1
+4 Mesa	wl	13			1213	-1	-1	-1
+4 Mesa	wtr	13			1214	-1	-1	-1
+4 Mesa	wbl	13	1	1	1215	-1	-1	-1
+4 Mesa	wr	13	1	1	1216	-1	-1	-1
+4 Mesa	wr	13	2	2	1217	-1	-1	-1
+4 Mesa	wbr	13	1	1	1218	-1	-1	-1
+4 Mesa	wtr	13	2	2	1219	-1	-1	-1
+4 Mesa	wl	13	1	1	1220	-1	-1	-1
+4 Mesa	wl	13	2	2	1221	-1	-1	-1
+4 Mesa	wtr	13	1	1	1222	-1	-1	-1
+4 Mesa	wbr	13	3	3	1223	-1	-1	-1
+4 Mesa	wbr	13	4	4	1224	-1	-1	-1
+4 Mesa	wl	13	3	3	1225	-1	-1	-1
+4 Mesa	wtll	13		1	1226	-1	-1	-1
+4 Mesa	wr	13	3	3	1227	-1	-1	-1
+4 Mesa	wl	14	1	1	1228	-1	-1	-1
+4 Mesa	wtll	14	1	1	1229	-1	-1	-1
+4 Mesa	wtlr	14	1	1	1230	-1	-1	-1
+4 Mesa	wtll	14	2	2	1231	-1	-1	-1
+4 Mesa	wtlr	14	2	2	1232	-1	-1	-1
+4 Mesa	wr	14	1	1	1233	-1	-1	-1
+4 Mesa	wtr	14	3	4	1234	-1	-1	-1
+4 Mesa	wtr	14	3	4	1235	-1	-1	-1
+4 Mesa	wr	14	6	6	1236	-1	-1	-1
+4 Mesa	wl	14	5	5	1237	-1	-1	-1
+4 Mesa	wtr	14	6	6	1238	-1	-1	-1
+4 Mesa	wbl	14	6	6	1239	-1	-1	-1
+4 Mesa	wl	14	8	9	1240	-1	-1	-1
+4 Mesa	wr	14	8	9	1242	-1	-1	-1
+4 Mesa	wtll	14	9	9	1242	-1	-1	-1
+4 Mesa	wtlr	14	9	9	1243	-1	-1	-1
+4 Mesa	fl	18	20	20	1077	-1	-1	-1
+4 Mesa	fl	18	18	18	1078	-1	-1	-1
+4 Mesa	fl	18	16	16	1079	-1	-1	-1
+4 Lava	fl	26	43	43	307	-1	-1	-1
+4 Lava	wr	13	-1	-1	20	-1	-1	-1
+4 Lava	wl	13	-1	-1	21	-1	-1	-1
+4 Lava	wtll	13	-1	-1	24	-1	-1	-1
+4 Lava	wtlr	13	-1	-1	24	-1	-1	-1
+4 Lava	wbr	13	-1	-1	25	-1	-1	-1
+4 Lava	wtr	13	-1	-1	23	-1	-1	-1
+4 Lava	co	13	-1	-1	25	-1	-1	-1
+4 Lava	wbl	13	-1	-1	22	-1	-1	-1
+4 Lava	fl	22	16	16	800	-1	-1	-1
+4 Lava	fl	22	17	17	801	-1	-1	-1
+4 Lava	fl	22	18	18	802	-1	-1	-1
+4 Lava	fl	22	19	19	803	-1	-1	-1
+4 Lava	fl	22	20	20	804	-1	-1	-1
+4 Lava	fl	22	21	21	805	-1	-1	-1
+4 Lava	fl	22	24	24	806	-1	-1	-1
+4 Lava	fl	22	26	26	807	-1	-1	-1
+4 Lava	fl	22	27	27	808	-1	-1	-1
+4 Lava	fl	22	28	28	809	-1	-1	-1
+4 Lava	fl	22	29	29	810	-1	-1	-1
+4 Lava	fl	22	30	30	811	-1	-1	-1
+4 Lava	fl	22	31	31	812	-1	-1	-1
+4 Lava	fl	22	32	32	813	-1	-1	-1
+4 Lava	fl	22	33	33	814	-1	-1	-1
+4 Lava	fl	22	34	34	815	-1	-1	-1
+4 Lava	fl	22	35	35	816	-1	-1	-1
+4 Lava	fl	22	36	36	817	-1	-1	-1
+4 Lava	fl	22	37	37	818	-1	-1	-1
+4 Lava	fl	22	38	38	819	-1	-1	-1
+4 Lava	fl	22	39	39	820	-1	-1	-1
+4 Lava	fl	22	40	40	821	-1	-1	-1
+4 Lava	fl	22	42	42	822	-1	-1	-1
+4 Lava	fl	22	45	45	823	-1	-1	-1
+4 Lava	fl	22	46	46	824	-1	-1	-1
+4 Lava	fl	22	47	47	825	-1	-1	-1
+4 Lava	fl	22	48	48	826	-1	-1	-1
+4 Lava	fl	22	49	49	827	-1	-1	-1
+4 Lava	fl	22	50	50	828	-1	-1	-1
+4 Lava	fl	22	51	51	829	-1	-1	-1
+4 Lava	fl	22	52	52	830	-1	-1	-1
+4 Lava	fl	22	53	53	831	-1	-1	-1
+4 Lava	fl	22	54	54	832	-1	-1	-1
+4 Lava	fl	22	55	55	833	-1	-1	-1
+4 Lava	fl	22	56	56	834	-1	-1	-1
+4 Lava	fl	22	57	57	835	-1	-1	-1
+4 Lava	fl	22	58	58	836	-1	-1	-1
+4 Lava	fl	22	59	59	837	-1	-1	-1
+4 Lava	fl	22	60	60	838	-1	-1	-1
+4 Lava	fl	23	3	3	840	-1	-1	-1
+4 Lava	fl	23	4	4	841	-1	-1	-1
+4 Lava	fl	23	6	6	842	-1	-1	-1
+4 Lava	fl	23	7	7	843	-1	-1	-1
+4 Lava	fl	23	8	8	844	-1	-1	-1
+4 Lava	fl	23	9	9	845	-1	-1	-1
+4 Lava	fl	23	11	11	846	-1	-1	-1
+4 Lava	fl	23	12	12	847	-1	-1	-1
+4 Lava	fl	23	13	13	848	-1	-1	-1
+4 Lava	fl	23	14	14	849	-1	-1	-1
+4 Lava	fl	23	15	15	850	-1	-1	-1
+4 Lava	fl	23	17	17	851	-1	-1	-1
+4 Lava	fl	23	18	18	852	-1	-1	-1
+4 Lava	fl	23	19	19	853	-1	-1	-1
+4 Lava	fl	23	20	20	854	-1	-1	-1
+4 Lava	fl	23	21	21	855	-1	-1	-1
+4 Lava	fl	23	22	22	856	-1	-1	-1
+4 Lava	fl	23	23	23	857	-1	-1	-1
+4 Lava	fl	23	24	24	858	-1	-1	-1
+4 Lava	fl	23	25	25	859	-1	-1	-1
+4 Lava	fl	23	28	28	860	-1	-1	-1
+4 Lava	fl	23	29	29	861	-1	-1	-1
+4 Lava	fl	23	31	31	862	-1	-1	-1
+4 Lava	fl	23	32	32	863	-1	-1	-1
+4 Lava	fl	23	34	34	864	-1	-1	-1
+4 Lava	fl	23	35	35	865	-1	-1	-1
+4 Lava	fl	23	36	36	866	-1	-1	-1
+4 Lava	fl	23	37	37	867	-1	-1	-1
+4 Lava	fl	23	38	38	868	-1	-1	-1
+4 Lava	fl	23	39	39	869	-1	-1	-1
+4 Lava	fl	23	40	40	870	-1	-1	-1
+4 Lava	fl	23	41	41	871	-1	-1	-1
+4 Lava	fl	23	42	42	872	-1	-1	-1
+4 Lava	fl	23	46	46	873	-1	-1	-1
+4 Lava	fl	23	47	47	874	-1	-1	-1
+4 Lava	fl	23	49	49	875	-1	-1	-1
+4 Lava	fl	23	50	50	876	-1	-1	-1
+4 Lava	fl	23	51	51	877	-1	-1	-1
+4 Lava	fl	23	53	53	878	-1	-1	-1
+4 Lava	fl	23	54	54	879	-1	-1	-1
+4 Lava	fl	23	57	57	880	-1	-1	-1
+4 Lava	fl	23	58	58	881	-1	-1	-1
+4 Lava	fl	23	59	59	882	-1	-1	-1
+4 Lava	fl	23	60	60	883	-1	-1	-1
+4 Lava	fl	23	62	62	884	-1	-1	-1
+4 Lava	fl	23	63	63	885	-1	-1	-1
+4 Lava	fl	24	1	1	886	-1	-1	-1
+4 Lava	fl	24	4	4	887	-1	-1	-1
+4 Lava	fl	24	5	5	888	-1	-1	-1
+4 Lava	fl	24	6	6	889	-1	-1	-1
+4 Lava	fl	24	8	8	890	-1	-1	-1
+4 Lava	fl	24	9	9	891	-1	-1	-1
+4 Lava	fl	24	10	10	892	-1	-1	-1
+4 Lava	fl	24	11	11	893	-1	-1	-1
+4 Lava	fl	24	12	12	894	-1	-1	-1
+4 Lava	fl	24	13	13	895	-1	-1	-1
+4 Lava	fl	24	14	14	896	-1	-1	-1
+4 Lava	fl	24	20	20	897	-1	-1	-1
+4 Lava	fl	24	21	21	898	-1	-1	-1
+4 Lava	fl	24	22	22	899	-1	-1	-1
+4 Lava	fl	24	23	23	900	-1	-1	-1
+4 Lava	fl	24	24	24	901	-1	-1	-1
+4 Lava	fl	24	26	26	902	-1	-1	-1
+4 Lava	fl	24	27	27	903	-1	-1	-1
+4 Lava	fl	24	28	28	904	-1	-1	-1
+4 Lava	fl	24	29	29	905	-1	-1	-1
+4 Lava	fl	24	30	30	906	-1	-1	-1
+4 Lava	fl	24	32	32	907	-1	-1	-1
+4 Lava	fl	24	33	33	908	-1	-1	-1
+4 Lava	fl	24	34	34	909	-1	-1	-1
+4 Lava	fl	24	36	36	839	-1	-1	-1
+4 Lava	fl	24	37	37	910	-1	-1	-1
+4 Lava	fl	24	38	38	911	-1	-1	-1
+4 Lava	fl	24	39	39	912	-1	-1	-1
+4 Lava	fl	24	40	40	913	-1	-1	-1
+4 Lava	fl	24	41	41	914	-1	-1	-1
+4 Lava	fl	24	43	43	915	-1	-1	-1
+4 Lava	fl	24	44	44	916	-1	-1	-1
+4 Lava	fl	24	45	45	917	-1	-1	-1
+4 Lava	fl	24	47	47	918	-1	-1	-1
+4 Lava	fl	24	48	48	919	-1	-1	-1
+4 Lava	fl	24	49	49	920	-1	-1	-1
+4 Lava	fl	24	50	50	920	-1	-1	-1
+4 Lava	fl	24	51	51	921	-1	-1	-1
+4 Lava	fl	25	2	2	922	-1	-1	-1
+4 Lava	fl	25	3	3	923	-1	-1	-1
+4 Lava	fl	25	5	5	924	-1	-1	-1
+4 Lava	fl	25	8	8	927	-1	-1	-1
+4 Lava	fl	25	9	9	928	-1	-1	-1
+4 Lava	fl	25	10	10	929	-1	-1	-1
+4 Lava	fl	25	12	12	930	-1	-1	-1
+4 Lava	fl	25	13	13	931	-1	-1	-1
+4 Lava	fl	25	14	14	932	-1	-1	-1
+4 Lava	fl	25	15	15	933	-1	-1	-1
+4 Lava	fl	25	22	22	935	-1	-1	-1
+4 Lava	fl	25	23	23	936	-1	-1	-1
+4 Lava	fl	25	25	25	938	-1	-1	-1
+4 Lava	fl	26	9	9	1076	-1	-1	-1
+4 Lava	fl	26	21	21	1052	-1	-1	-1
+4 Lava	fl	26	23	23	1053	-1	-1	-1
+4 Lava	fl	26	29	29	941	-1	-1	-1
+4 Lava	fl	26	30	30	942	-1	-1	-1
+4 Lava	fl	26	33	33	943	-1	-1	-1
+4 Lava	fl	26	34	34	944	-1	-1	-1
+4 Lava	fl	26	37	37	945	-1	-1	-1
+4 Lava	fl	26	38	38	946	-1	-1	-1
+4 Lava	fl	26	43	43	307	-1	-1	-1
+4 Lava	fl	27	20	20	1055	-1	-1	-1
+4 Lava	fl	27	21	21	1056	-1	-1	-1
+4 Lava	fl	27	22	22	1057	-1	-1	-1
+4 Lava	fl	27	18	18	1058	-1	-1	-1
+4 Lava	fl	27	13	13	1059	-1	-1	-1
+4 Lava	fl	29	1	1	947	-1	-1	-1
+4 Lava	fl	29	2	2	948	-1	-1	-1
+4 Lava	fl	29	3	3	949	-1	-1	-1
+4 Lava	fl	29	5	5	950	-1	-1	-1
+4 Lava	fl	29	6	6	951	-1	-1	-1
+4 Lava	fl	29	10	10	953	-1	-1	-1
+4 Lava	fl	29	14	14	955	-1	-1	-1
+4 Lava	fl	29	22	22	957	-1	-1	-1
+4 Lava	fl	29	23	23	958	-1	-1	-1
+4 Lava	fl	29	26	26	959	-1	-1	-1
+4 Lava	fl	29	27	27	960	-1	-1	-1
+4 Lava	fl	29	30	30	961	-1	-1	-1
+4 Lava	fl	29	31	31	962	-1	-1	-1
+4 Lava	fl	29	36	36	963	-1	-1	-1
+4 Lava	fl	29	37	37	964	-1	-1	-1
+4 Lava	fl	29	40	40	965	-1	-1	-1
+4 Lava	fl	29	41	41	966	-1	-1	-1
+4 Lava	fl	29	42	42	967	-1	-1	-1
+4 Lava	fl	29	44	44	968	-1	-1	-1
+4 Lava	fl	29	46	46	969	-1	-1	-1
+4 Lava	fl	29	53	53	970	-1	-1	-1
+4 Lava	fl	29	54	54	971	-1	-1	-1
+4 Lava	fl	29	57	57	972	-1	-1	-1
+4 Lava	fl	29	58	58	973	-1	-1	-1
+4 Lava	fl	29	61	61	974	-1	-1	-1
+4 Lava	fl	29	62	62	975	-1	-1	-1
+4 Lava	fl	35			980	-1	-1	-1
+4 Lava	fl	35	3	3	981	-1	-1	-1
+4 Lava	fl	35	12	12	982	-1	-1	-1
+4 Lava	fl	35	13	13	983	-1	-1	-1
+4 Lava	fl	35	14	14	984	-1	-1	-1
+4 Lava	fl	35	16	16	985	-1	-1	-1
+4 Lava	fl	35	17	17	986	-1	-1	-1
+4 Lava	fl	35	18	18	987	-1	-1	-1
+4 Lava	fl	35	20	20	988	-1	-1	-1
+4 Lava	fl	35	22	22	990	-1	-1	-1
+4 Lava	fl	35	23	23	991	-1	-1	-1
+4 Lava	fl	35	24	24	992	-1	-1	-1
+4 Lava	fl	35	25	25	993	-1	-1	-1
+4 Lava	fl	35	26	26	994	-1	-1	-1
+4 Lava	fl	35	38	38	997	-1	-1	-1
+4 Lava	fl	35	39	39	995	-1	-1	-1
+4 Lava	fl	35	41	41	994	-1	-1	-1
+4 Lava	fl	35	42	42	998	-1	-1	-1
+4 Lava	fl	35	21	21	989	-1	-1	-1
+4 Lava	fl	35	33	33	995	-1	-1	-1
+4 Lava	fl	35	36	36	981	-1	-1	-1
+4 Lava	fl	35	33	33	1016	-1	-1	-1
+4 Lava	fl	35	34	34	1017	-1	-1	-1
+4 Lava	fl	35	38	38	1018	-1	-1	-1
+4 Lava	fl	36			1040	-1	-1	-1
+4 Lava	fl	36	1	1	1041	-1	-1	-1
+4 Lava	fl	36	6	6	1042	-1	-1	-1
+4 Lava	fl	36	10	10	1043	-1	-1	-1
+4 Lava	fl	36	14	14	1044	-1	-1	-1
+4 Lava	fl	36	12	12	1045	-1	-1	-1
+4 Lava	fl	36	13	13	1046	-1	-1	-1
+4 Lava	fl	36	16	16	1047	-1	-1	-1
+4 Lava	fl	36	19	19	1048	-1	-1	-1
+4 Lava	fl	36	22	22	1049	-1	-1	-1
+4 Lava	fl	36	25	25	1050	-1	-1	-1
+4 Lava	fl	36	26	26	1051	-1	-1	-1
+4 Lava	fl	36	27	27	1052	-1	-1	-1
+4 Lava	fl	39	21	21	1114	-1	-1	-1
+4 Lava	fl	39	22	22	1115	-1	-1	-1
+4 Lava	fl	39	23	23	1116	-1	-1	-1
+4 Lava	fl	37	14	14	1117	-1	-1	-1
+4 Lava	fl	37	15	15	1118	-1	-1	-1
+4 Lava	fl	39	16	16	1119	-1	-1	-1
+4 Lava	fl	39	17	17	1118	-1	-1	-1
+4 Lava	fl	39	18	18	1121	-1	-1	-1
+4 Lava	fl	39	19	19	1122	-1	-1	-1
+4 Lava	fl	39	20	20	1123	-1	-1	-1
+4 Lava	fl	37	4	4	1124	-1	-1	-1
+4 Lava	fl	37			1125	-1	-1	-1
+4 Lava	fl	39	24	24	1126	-1	-1	-1
+4 Lava	fl	39	25	25	1127	-1	-1	-1
+4 Lava	fl	37	12	12	1128	-1	-1	-1
+4 Lava	fl	37	5	5	1129	-1	-1	-1
+4 Lava	fl	37	1	1	1130	-1	-1	-1
+4 Lava	fl	37	10	10	1131	-1	-1	-1
+4 Lava	fl	37	2	2	1132	-1	-1	-1
+4 Lava	fl	37	17	17	1133	-1	-1	-1
+4 Lava	fl	37	18	18	1134	-1	-1	-1
+4 Lava	fl	37	21	21	1135	-1	-1	-1
+4 Lava	fl	37	22	22	1136	-1	-1	-1
+4 Lava	fl	37	23	23	1137	-1	-1	-1
+4 Lava	fl	37	24	24	1138	-1	-1	-1
+4 Lava	fl	39	26	26	1139	-1	-1	-1
+4 Lava	fl	39	27	27	1140	-1	-1	-1
+4 Lava	fl	39	30	30	1141	-1	-1	-1
+4 Lava	fl	39	31	31	1142	-1	-1	-1
+4 Lava	fl	39	32	32	1143	-1	-1	-1
+4 Lava	fl	39	33	33	1144	-1	-1	-1
+4 Lava	fl	39	40	40	1195	-1	-1	-1
+4 Lava	fl	39	41	41	1196	-1	-1	-1
+4 Lava	fl	39	42	42	1197	-1	-1	-1
+4 Lava	fl	39	43	43	1198	-1	-1	-1
+4 Lava	fl	39	45	45	1199	-1	-1	-1
+4 Lava	fl	39			1000	-1	-1	-1
+4 Lava	fl	39	1	1	1001	-1	-1	-1
+4 Lava	fl	39	2	2	1002	-1	-1	-1
+4 Lava	fl	39	3	3	1003	-1	-1	-1
+4 Lava	fl	39	4	4	1004	-1	-1	-1
+4 Lava	fl	39	5	5	1005	-1	-1	-1
+4 Lava	fl	39	6	6	1006	-1	-1	-1
+4 Lava	fl	39	7	7	1007	-1	-1	-1
+4 Lava	fl	39	8	8	1008	-1	-1	-1
+4 Lava	fl	39	9	9	1009	-1	-1	-1
+4 Lava	fl	39	10	10	1010	-1	-1	-1
+4 Lava	fl	39	11	11	1011	-1	-1	-1
+4 Lava	fl	39	12	12	1012	-1	-1	-1
+4 Lava	fl	39	13	13	1013	-1	-1	-1
+4 Lava	fl	39	14	14	1014	-1	-1	-1
+4 Lava	fl	39	15	15	1015	-1	-1	-1
+4 Lava	wbl	30			1145	-1	-1	-1
+4 Lava	wtr	30			1146	-1	-1	-1
+4 Lava	wr	30		5	1147	-1	-1	-1
+4 Lava	wl	30		5	1148	-1	-1	-1
+4 Lava	wr	30	7	8	1147	-1	-1	-1
+4 Lava	wl	30	6	7	1148	-1	-1	-1
+4 Lava	wr	30	6	6	1149	-1	-1	-1
+4 Lava	wl	30	8	8	1150	-1	-1	-1
+4 Lava	wtll	30			1151	-1	-1	-1
+4 Lava	wl	30	9	10	1152	-1	-1	-1
+4 Lava	wtll	30	1	2	1153	-1	-1	-1
+4 Lava	wr	30	10	11	1154	-1	-1	-1
+4 Lava	wl	30	22	22	1152	-1	-1	-1
+4 Lava	wbr	30			1153	-1	-1	-1
+4 Lava	wr	30	22	22	1154	-1	-1	-1
+4 Lava	wr	30	13	18	1147	-1	-1	-1
+4 Lava	wrd	30	-1	-1	1155	-1	-1	-1
+4 Lava	wld	30	-1	-1	35	-1	-1	-1
+4 Lava	wre	30	-1	-1	36	-1	-1	-1
+4 Lava	wle	30	-1	-1	37	-1	-1	-1
+4 Lava	co	30	-1	-1	1153	-1	-1	-1
+4 Lava	fl	31	20	23	9	-1	-1	-1
+4 Lava	wr	31	-1	-1	20	-1	-1	-1
+4 Lava	wl	31	-1	-1	21	-1	-1	-1
+4 Lava	wtlr	31	-1	-1	24	-1	-1	-1
+4 Lava	wtll	31	-1	-1	24	-1	-1	-1
+4 Lava	wbr	31	-1	-1	25	-1	-1	-1
+4 Lava	wtr	31	-1	-1	23	-1	-1	-1
+4 Lava	wbl	31	-1	-1	22	-1	-1	-1
+4 Lava	wrd	31	-1	-1	34	-1	-1	-1
+4 Lava	wld	31	-1	-1	35	-1	-1	-1
+4 Lava	wre	31	-1	-1	36	-1	-1	-1
+4 Lava	wle	31	-1	-1	37	-1	-1	-1
+4 Lava	co	31	-1	-1	25	-1	-1	-1
+4 Lava	fl	30	17	19	1026	-1	-1	-1
+4 Lava	fl	30	23	23	1027	-1	-1	-1
+4 Lava	fl	30	20	22	1028	-1	-1	-1
+4 Lava	fl	30	24	24	1029	-1	-1	-1
+4 Lava	fl	30	25	27	1030	-1	-1	-1
+4 Lava	fl	30	36	38	1031	-1	-1	-1
+4 Lava	fl	30	39	39	1032	-1	-1	-1
+4 Lava	fl	30	48	48	1033	-1	-1	-1
+4 Lava	fl	31		3	1026	-1	-1	-1
+4 Lava	fl	31	32	34	1026	-1	-1	-1
+4 Lava	fl	31	4	7	1028	-1	-1	-1
+4 Lava	fl	31	37	39	1028	-1	-1	-1
+4 Lava	fl	31	8	11	1030	-1	-1	-1
+4 Lava	fl	31	42	44	1030	-1	-1	-1
+4 Lava	fl	31	20	23	1031	-1	-1	-1
+4 Lava	fl	31	45	45	1031	-1	-1	-1
+4 Lava	fl	31	49	49	1031	-1	-1	-1
+4 Lava	fl	31	53	53	1031	-1	-1	-1
+4 Lava	fl	31	35	35	1034	-1	-1	-1
+4 Lava	fl	31	36	36	1035	-1	-1	-1
+4 Lava	fl	31	40	40	1036	-1	-1	-1
+4 Lava	fl	31	41	41	1037	-1	-1	-1
+4 Lava	fl	33	7	7	1159	-1	-1	-1
+4 Lava	fl	33	13	13	1157	-1	-1	-1
+4 Lava	fl	33	15	15	1158	-1	-1	-1
+5 Siege	wr	2	3	6	20	-1	-1	-1
+5 Siege	wr	2	12	12	25	-1	-1	-1
+5 Siege	wl	2	3	4	21	-1	-1	-1
+5 Siege	wl	2	10	11	21	-1	-1	-1
+5 Siege	wtr	2	2	2	21	-1	-1	-1
+5 Siege	wtlr	2	-1	-1	24	-1	-1	-1
+5 Siege	wtll	2	-1	-1	24	-1	-1	-1
+5 Siege	wbr	2	-1	-1	25	-1	-1	-1
+5 Siege	wtr	2	6	6	23	-1	-1	-1
+5 Siege	wbl	2	6	6	22	-1	-1	-1
+5 Siege	fl	10			1260	-1	-1	-1
+5 Siege	fl	10	4	4	1261	-1	-1	-1
+5 Siege	fl	10	1	1	1262	-1	-1	-1
+5 Siege	fl	10	3	3	1263	-1	-1	-1
+5 Siege	fl	10	5	5	1264	-1	-1	-1
+5 Siege	fl	10	6	6	1265	-1	-1	-1
+5 Siege	fl	10	7	7	1266	-1	-1	-1
+5 Siege	fl	10	2	2	1267	-1	-1	-1
+5 Siege	fl	10	11	11	1268	-1	-1	-1
+5 Siege	fl	10	9	9	1269	-1	-1	-1
+5 Siege	fl	10	8	8	1270	-1	-1	-1
+5 Siege	fl	10	10	10	1271	-1	-1	-1
+5 Siege	fl	10	15	15	1272	-1	-1	-1
+5 Siege	fl	10	16	16	1273	-1	-1	-1
+5 Siege	fl	10	17	17	1274	-1	-1	-1
+5 Siege	fl	10	18	18	1275	-1	-1	-1
+5 Siege	fl	10	19	19	1276	-1	-1	-1
+5 Siege	fl	10	20	20	1277	-1	-1	-1
+5 Siege	fl	10	21	21	1278	-1	-1	-1
+5 Siege	fl	10	22	22	1279	-1	-1	-1
+5 Siege	wr	3	-1	-1	46	47	48	49
+5 Siege	wl	3	-1	-1	51	52	53	54
+5 Siege	wtlr	3	-1	-1	55	-1	-1	-1
+5 Siege	wtll	3	-1	-1	55	-1	-1	-1
+5 Siege	wbr	3	-1	-1	50	-1	-1	-1
+5 Siege	fl	8	4	4	1280	-1	-1	-1
+5 Siege	fl	9	32	32	1281	-1	-1	-1
+5 Siege	fl	8	8	9	1281	-1	-1	-1
+5 Siege	fl	8	32	32	1282	-1	-1	-1
+5 Siege	fl	8	34	34	1283	-1	-1	-1
+5 Siege	fl	9	34	34	1283	-1	-1	-1
+5 Siege	fl	8	24	24	1284	-1	-1	-1
+5 Siege	fl	8	25	25	1285	-1	-1	-1
+5 Siege	fl	9	36	36	1286	-1	-1	-1
+5 Siege	fl	8	16	17	1286	-1	-1	-1
+5 Siege	fl	8	12	12	1287	-1	-1	-1
+5 Siege	fl	8	28	28	1288	-1	-1	-1
+5 Siege	fl	8	45	45	1289	-1	-1	-1
+5 Siege	fl	8	44	44	1286	-1	-1	-1
+5 Siege	fl	8	48	48	1294	-1	-1	-1
+5 Siege	fl	8	42	42	1290	-1	-1	-1
+5 Siege	fl	8	36	36	1291	-1	-1	-1
+5 Siege	fl	8	51	51	1292	-1	-1	-1
+5 Siege	fl	8	6	6	1280	-1	-1	-1
+5 Siege	fl	9	30	30	1280	-1	-1	-1
+5 Siege	fl	8	40	40	1280	-1	-1	-1
+5 Siege	fl	9	25	25	1298	-1	-1	-1
+5 Siege	fl	8	22	22	1280	-1	-1	-1
+5 Siege	fl	8	21	21	1281	-1	-1	-1
+5 Siege	fl	8	37	37	1281	-1	-1	-1
+5 Siege	fl	8	20	20	1293	-1	-1	-1
+5 Siege	fl	8	14	14	1287	-1	-1	-1
+5 Siege	fl	9	15	15	1287	-1	-1	-1
+5 Siege	fl	9	14	14	1286	-1	-1	-1
+5 Siege	fl	9	19	19	1296	-1	-1	-1
+5 Siege	fl	9	22	22	1297	-1	-1	-1
+5 Siege	fl	3	1	1	1303	-1	-1	-1
+5 Siege	fl	3	7	7	1304	-1	-1	-1
+5 Siege	fl	33			1300	-1	-1	-1
+5 Siege	fl	3	2	2	1301	-1	-1	-1
+5 Siege	fl	3	8	8	1302	-1	-1	-1
+5 Siege	fl	3			1305	-1	-1	-1
+5 Siege	fl	3	9	9	1306	-1	-1	-1
+5 Siege	fl	3	3	3	1307	-1	-1	-1
+5 Siege	fl	3	6	6	1308	-1	-1	-1
+5 Siege	fl	3	4	4	1309	-1	-1	-1
+5 Siege	fl	3	5	5	1310	-1	-1	-1
+5 Siege	fl	3	14	14	1305	-1	-1	-1
+5 Siege	fl	3	13	13	1312	-1	-1	-1
+5 Siege	fl	3	11	11	1313	-1	-1	-1
+5 Siege	fl	5	17	17	1313	-1	-1	-1
+5 Siege	fl	4			1313	-1	-1	-1
+5 Siege	fl	4	2	2	1313	-1	-1	-1
+5 Siege	fl	4	46	46	1313	-1	-1	-1
+5 Siege	fl	4	18	18	1313	-1	-1	-1
+5 Siege	fl	5			1313	-1	-1	-1
+5 Siege	fl	4	28	28	1313	-1	-1	-1
+5 Siege	fl	4	34	34	1314	-1	-1	-1
+5 Siege	fl	4	14	15	1315	-1	-1	-1
+5 Siege	fl	4	31	31	1315	-1	-1	-1
+5 Siege	fl	4	30	30	1316	-1	-1	-1
+5 Siege	fl	5	24	24	1315	-1	-1	-1
+5 Siege	fl	5	10	10	1317	-1	-1	-1
+5 Siege	fl	5	8	8	1318	-1	-1	-1
+5 Siege	fl	4	16	16	1319	-1	-1	-1
+5 Siege	fl	4	4	5	1320	-1	-1	-1
+5 Siege	fl	4	17	17	1320	-1	-1	-1
+5 Siege	fl	5	19	19	1320	-1	-1	-1
+5 Siege	fl	4	9	9	1325	-1	-1	-1
+5 Siege	fl	4	11	11	1325	-1	-1	-1
+5 Siege	fl	4	37	37	1324	-1	-1	-1
+5 Siege	fl	4	53	53	1323	-1	-1	-1
+5 Siege	fl	5	12	12	1321	-1	-1	-1
+5 Siege	fl	5	13	13	1322	-1	-1	-1
+5 Siege	fl	4	51	51	1326	-1	-1	-1
+5 Siege	fl	32	21	23	1338	-1	-1	-1
+5 Siege	fl	32	32	34	1339	-1	-1	-1
+5 Siege	fl	32	58	60	1338	-1	-1	-1
+5 Siege	fl	33	1	3	1339	-1	-1	-1
+5 Siege	fl	33	9	12	1360	-1	-1	-1
+5 Siege	fl	32	32	34	1360	-1	-1	-1
+5 Siege	fl	33	33	43	1360	-1	-1	-1
+5 Siege	fl	33	45	53	1360	-1	-1	-1
+5 Siege	fl	32	62	63	1360	-1	-1	-1
+5 Siege	fl	33	6	6	1360	-1	-1	-1
+5 Siege	fl	33			1361	-1	-1	-1
+5 Siege	fl	32	5	8	1361	-1	-1	-1
+5 Siege	fl	32	16	17	1361	-1	-1	-1
+5 Siege	fl	32	26	28	1361	-1	-1	-1
+5 Siege	fl	32	37	40	1361	-1	-1	-1
+5 Siege	fl	32		4	1360	-1	-1	-1
+5 Siege	fl	32	43	45	1360	-1	-1	-1
+5 Siege	fl	32	54	56	1361	-1	-1	-1
+5 Siege	wr	30	2	2	1361	-1	-1	-1
+5 Siege	wr	30	4	4	1361	-1	-1	-1
+5 Siege	wr	30	3	3	1360	-1	-1	-1
+5 Siege	wtll	30	4	4	1360	-1	-1	-1
+5 Siege	wl	30	8	8	1362	-1	-1	-1
+5 Siege	wl	2	20	23	1256	-1	-1	-1
+5 Siege	wtr	2	20	23	1256	-1	-1	-1
+5 Siege	wr	2	20	23	1257	-1	-1	-1
+5 Siege	wbl	2	20	23	1257	-1	-1	-1
+5 Siege	wtll	2	20	23	1255	-1	-1	-1
+5 Siege	wtlr	2	20	23	1255	-1	-1	-1
+5 Siege	wbl	20			1407	-1	-1	-1
+5 Siege	wl	20			1408	-1	-1	-1
+5 Siege	wbl	20	1	1	1409	-1	-1	-1
+5 Siege	wtr	20	1	1	1410	-1	-1	-1
+5 Siege	fl	10	37	37	1492	-1	-1	-1
+5 Siege	fl	10	34	34	1493	-1	-1	-1
+5 Barricade	wbl	2	6	6	1412	-1	-1	-1
+5 Barricade	wr	2	6	6	20	-1	-1	-1
+5 Barricade	wr	2	3	4	22	-1	-1	-1
+5 Barricade	wl	2	3	4	21	-1	-1	-1
+5 Barricade	wl	2	10	10	21	-1	-1	-1
+5 Barricade	wtr	2	6	6	23	-1	-1	-1
+5 Barricade	wtll	2	2	6	24	-1	-1	-1
+5 Barricade	wbr	2	2	2	25	-1	-1	-1
+5 Barricade	wtr	2	2	2	23	-1	-1	-1
+5 Barricade	wr	2	10	11	1412	-1	-1	-1
+5 Barricade	wr	2	12	12	1413	-1	-1	-1
+5 Barricade	wbr	2	10	11	1413	-1	-1	-1
+5 Barricade	wl	30			1361	-1	-1	-1
+5 Barricade	wl	30	3	4	1361	-1	-1	-1
+5 Barricade	wr	30	2	3	1361	-1	-1	-1
+5 Barricade	wl	30	1	1	1361	-1	-1	-1
+5 Barricade	wl	30	8	8	1361	-1	-1	-1
+5 Barricade	wtll	30			1361	-1	-1	-1
+5 Barricade	wtll	30	4	4	1361	-1	-1	-1
+5 Barricade	fl	47	32	32	1361	-1	-1	-1
+5 Barricade	fl	47	7	7	1361	-1	-1	-1
+5 Barricade	fl	47	9	9	1361	-1	-1	-1
+5 Barricade	fl	47	45	45	1361	-1	-1	-1
+5 Barricade	tr		4	4	1361	-1	-1	-1
+5 Barricade	tr		11	13	1361	-1	-1	-1
+5 Barricade	tr	30	2	2	1361	-1	-1	-1
+5 Barricade	tr	30	5	5	1361	-1	-1	-1
+5 Barricade	tr	10	2	2	1361	-1	-1	-1
+5 Barricade	tr	10	6	7	1361	-1	-1	-1
+5 Barricade	wl	2	20	23	1256	-1	-1	-1
+5 Barricade	wtr	2	20	23	1256	-1	-1	-1
+5 Barricade	wr	2	20	23	1257	-1	-1	-1
+5 Barricade	wbl	2	20	23	1257	-1	-1	-1
+5 Barricade	wtll	2	20	23	1255	-1	-1	-1
+5 Barricade	wtlr	2	20	23	1255	-1	-1	-1
+5 Barricade	wl	22	1	1	1363	-1	-1	-1
+5 Barricade	wl	22	21	21	1363	-1	-1	-1
+5 Barricade	wl	22	23	23	1401	-1	-1	-1
+5 Barricade	wl	22	22	22	1402	-1	-1	-1
+5 Barricade	wr	22	20	20	1364	-1	-1	-1
+5 Barricade	wr	22	21	21	1365	-1	-1	-1
+5 Barricade	wr	22	8	8	1364	-1	-1	-1
+5 Barricade	wr	22	9	9	1365	-1	-1	-1
+5 Barricade	wr	22	10	10	1366	-1	-1	-1
+5 Barricade	wtll	22			1375	-1	-1	-1
+5 Barricade	wtlr	22			1375	-1	-1	-1
+5 Barricade	wtll	22	2	2	1400	-1	-1	-1
+5 Barricade	wtlr	22	2	2	1400	-1	-1	-1
+5 Barricade	wr	22	13	15	1368	-1	-1	-1
+5 Barricade	wbl	22	2	2	1368	-1	-1	-1
+5 Barricade	wbl	22	3	3	1364	-1	-1	-1
+5 Barricade	wr	22	22	22	1366	-1	-1	-1
+5 Barricade	wl	22	7	8	1367	-1	-1	-1
+5 Barricade	wl	22			1367	-1	-1	-1
+5 Barricade	wtr	22			1367	-1	-1	-1
+5 Barricade	wtr	22	2	3	1370	-1	-1	-1
+5 Barricade	wl	22	2	2	1370	-1	-1	-1
+5 Barricade	fl	10			1260	-1	-1	-1
+5 Barricade	fl	10	4	4	1261	-1	-1	-1
+5 Barricade	fl	10	1	1	1262	-1	-1	-1
+5 Barricade	fl	10	3	3	1263	-1	-1	-1
+5 Barricade	fl	10	5	5	1264	-1	-1	-1
+5 Barricade	fl	10	6	6	1265	-1	-1	-1
+5 Barricade	fl	10	7	7	1266	-1	-1	-1
+5 Barricade	fl	10	2	2	1267	-1	-1	-1
+5 Barricade	fl	10	11	11	1268	-1	-1	-1
+5 Barricade	fl	10	9	9	1269	-1	-1	-1
+5 Barricade	fl	10	8	8	1270	-1	-1	-1
+5 Barricade	fl	10	10	10	1271	-1	-1	-1
+5 Barricade	fl	10	15	15	1272	-1	-1	-1
+5 Barricade	fl	10	16	16	1273	-1	-1	-1
+5 Barricade	fl	10	17	17	1274	-1	-1	-1
+5 Barricade	fl	10	18	18	1275	-1	-1	-1
+5 Barricade	fl	10	19	19	1276	-1	-1	-1
+5 Barricade	fl	10	20	20	1277	-1	-1	-1
+5 Barricade	fl	10	21	21	1278	-1	-1	-1
+5 Barricade	fl	10	22	22	1279	-1	-1	-1
+5 Barricade	fl	37	7	7	1300	-1	-1	-1
+5 Barricade	fl	3	2	2	1301	-1	-1	-1
+5 Barricade	fl	37	3	3	1301	-1	-1	-1
+5 Barricade	fl	3	8	8	1302	-1	-1	-1
+5 Barricade	fl	37	12	12	1302	-1	-1	-1
+5 Barricade	fl	3	1	1	1303	-1	-1	-1
+5 Barricade	fl	3	16	16	1478	-1	-1	-1
+5 Barricade	fl	37			1303	-1	-1	-1
+5 Barricade	fl	37	11	11	1303	-1	-1	-1
+5 Barricade	fl	37	14	14	1303	-1	-1	-1
+5 Barricade	fl	37	20	22	1303	-1	-1	-1
+5 Barricade	fl	37	24	26	1303	-1	-1	-1
+5 Barricade	fl	37	42	43	1303	-1	-1	-1
+5 Barricade	fl	37	40	40	1303	-1	-1	-1
+5 Barricade	fl	6	13	15	1303	-1	-1	-1
+5 Barricade	fl	3	18	18	1303	-1	-1	-1
+5 Barricade	fl	3	7	7	1304	-1	-1	-1
+5 Barricade	fl	37	9	9	1304	-1	-1	-1
+5 Barricade	fl	3	9	9	1306	-1	-1	-1
+5 Barricade	fl	37	8	8	1306	-1	-1	-1
+5 Barricade	fl	3	3	3	1307	-1	-1	-1
+5 Barricade	fl	37	2	2	1307	-1	-1	-1
+5 Barricade	fl	3	6	6	1308	-1	-1	-1
+5 Barricade	fl	37	15	15	1308	-1	-1	-1
+5 Barricade	fl	3	4	4	1309	-1	-1	-1
+5 Barricade	fl	37	6	6	1309	-1	-1	-1
+5 Barricade	fl	3	5	5	1310	-1	-1	-1
+5 Barricade	fl	37	5	5	1310	-1	-1	-1
+5 Barricade	fl	37	4	4	1311	-1	-1	-1
+5 Barricade	fl	3			1305	-1	-1	-1
+5 Barricade	fl	37	1	1	1305	-1	-1	-1
+5 Barricade	fl	37	16	16	1305	-1	-1	-1
+5 Barricade	fl	37	28	30	1305	-1	-1	-1
+5 Barricade	fl	37	32	34	1305	-1	-1	-1
+5 Barricade	fl	37	45	47	1305	-1	-1	-1
+5 Barricade	fl	37	51	51	1305	-1	-1	-1
+5 Barricade	fl	6	16	17	1305	-1	-1	-1
+5 Barricade	fl	3	14	14	1305	-1	-1	-1
+5 Barricade	fl	3	13	13	1312	-1	-1	-1
+5 Barricade	fl	32	21	23	1338	-1	-1	-1
+5 Barricade	fl	32	58	60	1338	-1	-1	-1
+5 Barricade	fl	32	32	34	1339	-1	-1	-1
+5 Barricade	fl	33	1	3	1339	-1	-1	-1
+5 Barricade	fl	6	55	55	1303	-1	-1	-1
+5 Barricade	fl	6	56	56	1305	-1	-1	-1
+5 Barricade	fl	6	58	58	1302	-1	-1	-1
+5 Barricade	fl	6	54	54	1301	-1	-1	-1
+5 Barricade	fl	6	52	52	1309	-1	-1	-1
+5 Barricade	fl	6	60	60	1306	-1	-1	-1
+5 Barricade	fl	6	59	59	1304	-1	-1	-1
+5 Barricade	fl	6	57	57	1307	-1	-1	-1
+5 Barricade	fl	6	50	50	1310	-1	-1	-1
+5 Barricade	fl	6	51	51	1308	-1	-1	-1
+5 Barricade	wr	11	-1	-1	20	-1	-1	-1
+5 Barricade	wl	11		10	21	-1	-1	-1
+5 Barricade	wl	11	12	30	21	-1	-1	-1
+5 Barricade	wtlr	11	-1	-1	24	-1	-1	-1
+5 Barricade	wtll	11	-1	-1	24	-1	-1	-1
+5 Barricade	wbr	11	-1	-1	25	-1	-1	-1
+5 Barricade	wtr	11	-1	-1	23	-1	-1	-1
+5 Barricade	wbl	11	-1	-1	22	-1	-1	-1
+5 Barricade	wrd	2	2	2	26	-1	-1	-1
+5 Barricade	wrd	2	5	5	1422	-1	-1	-1
+5 Barricade	wrd	2	4	4	1423	-1	-1	-1
+5 Barricade	wld	2	4	4	1424	-1	-1	-1
+5 Barricade	wld	2	5	5	1425	-1	-1	-1
+5 Barricade	wrd	2	3	3	27	-1	-1	-1
+5 Barricade	wld	2	2	2	28	-1	-1	-1
+5 Barricade	wld	2	3	3	29	-1	-1	-1
+5 Barricade	wrd	2	1	1	1258	-1	-1	-1
+5 Barricade	wld	2	1	1	1259	-1	-1	-1
+5 Barricade	fl	3	11	11	1313	-1	-1	-1
+5 Barricade	fl	5	17	17	1313	-1	-1	-1
+5 Barricade	fl	4			1313	-1	-1	-1
+5 Barricade	fl	4	2	2	1313	-1	-1	-1
+5 Barricade	fl	4	18	18	1313	-1	-1	-1
+5 Barricade	fl	4	28	28	1313	-1	-1	-1
+5 Barricade	fl	5			1313	-1	-1	-1
+5 Barricade	fl	4	34	34	1314	-1	-1	-1
+5 Barricade	fl	4	14	15	1315	-1	-1	-1
+5 Barricade	fl	5	24	24	1315	-1	-1	-1
+5 Barricade	fl	4	31	31	1315	-1	-1	-1
+5 Barricade	fl	4	30	30	1316	-1	-1	-1
+5 Barricade	fl	5	10	10	1317	-1	-1	-1
+5 Barricade	fl	5	8	8	1318	-1	-1	-1
+5 Barricade	fl	4	16	16	1319	-1	-1	-1
+5 Barricade	fl	4	46	46	1313	-1	-1	-1
+5 Barricade	fl	4	44	44	1319	-1	-1	-1
+5 Barricade	fl	4	17	17	1320	-1	-1	-1
+5 Barricade	fl	5	12	12	1321	-1	-1	-1
+5 Barricade	fl	5	13	13	1322	-1	-1	-1
+5 Barricade	fl	4	53	53	1323	-1	-1	-1
+5 Barricade	fl	4	4	5	1320	-1	-1	-1
+5 Barricade	fl	5	4	5	1320	-1	-1	-1
+5 Barricade	fl	4	40	41	1320	-1	-1	-1
+5 Barricade	fl	3	15	15	1320	-1	-1	-1
+5 Barricade	fl	4	37	37	1320	-1	-1	-1
+5 Barricade	fl	4	36	36	1324	-1	-1	-1
+5 Barricade	fl	4	8	8	1325	-1	-1	-1
+5 Barricade	fl	4	10	10	1325	-1	-1	-1
+5 Barricade	fl	4	22	22	1325	-1	-1	-1
+5 Barricade	fl	4	20	20	1326	-1	-1	-1
+5 Barricade	wr	3	-1	-1	46	47	48	49
+5 Barricade	wl	3	-1	-1	51	52	53	54
+5 Barricade	wtlr	3	-1	-1	55	-1	-1	-1
+5 Barricade	wtll	3	-1	-1	55	-1	-1	-1
+5 Barricade	wbr	3	-1	-1	50	-1	-1	-1
+5 Barricade	wtlr		-1	-1	55	-1	-1	-1
+5 Barricade	wtll		-1	-1	55	-1	-1	-1
+5 Barricade	wbr		-1	-1	50	-1	-1	-1
+5 Barricade	wr		-1	-1	46	47	48	49
+5 Barricade	wl		-1	-1	51	52	53	54
+5 Barricade	co	20	3	3	1299	-1	-1	-1
+5 Barricade	co	22			1245	-1	-1	-1
+5 Barricade	wr	20	7	7	1327	-1	-1	-1
+5 Barricade	wr	20	8	8	1328	-1	-1	-1
+5 Barricade	wbl	20	5	5	1329	-1	-1	-1
+5 Barricade	wbr	21			1331	-1	-1	-1
+5 Barricade	wtr	20	7	7	1333	-1	-1	-1
+5 Barricade	wl	20		1	1334	-1	-1	-1
+5 Barricade	wl	21		1	1334	-1	-1	-1
+5 Barricade	wtr	20			1334	-1	-1	-1
+5 Barricade	wr	20		1	1336	-1	-1	-1
+5 Barricade	wr	21			1336	-1	-1	-1
+5 Barricade	wr	20	4	4	1336	-1	-1	-1
+5 Barricade	wl	24			1333	-1	-1	-1
+5 Barricade	co	21	2	2	1331	-1	-1	-1
+5 Barricade	fl	20	46	46	1329	-1	-1	-1
+5 Barricade	fl	20	43	43	1336	-1	-1	-1
+5 Barricade	wr	20	3	3	1330	-1	-1	-1
+5 Barricade	wre	1	1	1	1419	-1	-1	-1
+5 Barricade	co	20	4	4	1337	-1	-1	-1
+5 Barricade	wre	2	1	1	1352	-1	-1	-1
+5 Barricade	wre	2			46	47	48	49
+5 Barricade	wre	2	2	2	46	47	48	49
+5 Barricade	wle	2	1	1	1353	-1	-1	-1
+5 Barricade	wle	2			51	52	53	54
+5 Barricade	wle	2	2	2	51	52	53	54
+5 Barricade	fl	17	2	2	1449	-1	-1	-1
+5 Barricade	fl	17	3	3	1450	-1	-1	-1
+5 Barricade	fl	17	1	1	1451	-1	-1	-1
+5 Barricade	fl	18	2	2	1452	-1	-1	-1
+5 Barricade	fl	18	3	3	1453	-1	-1	-1
+5 Barricade	fl	18	1	1	1454	-1	-1	-1
+5 Barricade	wl	26		4	1354	-1	-1	-1
+5 Barricade	wtr	26			1354	-1	-1	-1
+5 Barricade	wr	26		5	1355	-1	-1	-1
+5 Barricade	wbl	26			1355	-1	-1	-1
+5 Barricade	wtll	26			1356	-1	-1	-1
+5 Barricade	wtlr	26			1356	-1	-1	-1
+5 Barricade	wld	26			1357	-1	-1	-1
+5 Barricade	co	24		1	1379	-1	-1	-1
+5 Barricade	co	24	2	4	1376	-1	-1	-1
+5 Barricade	wbl	23			1403	-1	-1	-1
+5 Barricade	wtr	23			1404	-1	-1	-1
+5 Barricade	wbl	24			1405	-1	-1	-1
+5 Barricade	wbl	24	3	3	1405	-1	-1	-1
+5 Barricade	wr	24	1	1	1406	-1	-1	-1
+5 Barricade	wr	24	4	4	1406	-1	-1	-1
+5 Barricade	wbr	25			1420	-1	-1	-1
+5 Barricade	wr	25	2	2	1421	-1	-1	-1
+5 Barricade	wbr	7	14	14	1415	-1	-1	-1
+5 Barricade	wl	7	15	15	1416	-1	-1	-1
+5 Barricade	fl	7	21	21	1480	-1	-1	-1
+5 Barricade	fl	7	17	17	1481	-1	-1	-1
+5 Barricade	fl	7	13	13	1482	-1	-1	-1
+5 Barricade	tr	2	6	6	1417	-1	-1	-1
+5 Barricade	tr	2	7	7	1418	-1	-1	-1
+5 Barricade	tr	2	8	8	1417	-1	-1	-1
+5 Barricade	tr	2	9	9	1418	-1	-1	-1
+5 Barricade	tr	2			1414	-1	-1	-1
+5 Barricade	tr	2	1	1	1414	-1	-1	-1
+5 Barricade	tr	2	3	3	1417	-1	-1	-1
+5 Barricade	tr	2	4	4	1418	-1	-1	-1
+5 Barricade	fl	26	32	32	1455	-1	-1	-1
+5 Barricade	fl	26	27	27	1456	-1	-1	-1
+5 Barricade	fl	26	22	22	1457	-1	-1	-1
+5 Barricade	fl	26	17	17	1458	-1	-1	-1
+5 Barricade	fl	26	6	6	1459	-1	-1	-1
+5 Barricade	fl	26	1	1	1460	-1	-1	-1
+5 Barricade	fl	27	32	32	1461	-1	-1	-1
+5 Barricade	fl	27	27	27	1462	-1	-1	-1
+5 Barricade	fl	27	22	22	1463	-1	-1	-1
+5 Barricade	fl	27	17	17	1464	-1	-1	-1
+5 Barricade	fl	27	6	6	1465	-1	-1	-1
+5 Barricade	fl	27	1	1	1466	-1	-1	-1
+5 Ice	wl		-1	-1	1340	-1	-1	-1
+5 Ice	wr			8	1341	-1	-1	-1
+5 Ice	wr		13	24	1341	-1	-1	-1
+5 Ice	wr		10	10	1342	-1	-1	-1
+5 Ice	wr	1	-1	-1	1341	-1	-1	-1
+5 Ice	wl	1	-1	-1	1340	-1	-1	-1
+5 Ice	wtll	1	-1	-1	1343	-1	-1	-1
+5 Ice	wtll		-1	-1	1343	-1	-1	-1
+5 Ice	wbr	1		3	1342	-1	-1	-1
+5 Ice	co	2		2	1342	-1	-1	-1
+5 Ice	co	5	1	1	1342	-1	-1	-1
+5 Ice	co	5	5	6	1448	-1	-1	-1
+5 Ice	wbl	1		3	1341	-1	-1	-1
+5 Ice	wbl			3	1341	-1	-1	-1
+5 Ice	wtr	1		3	1344	-1	-1	-1
+5 Ice	wtr			3	1344	-1	-1	-1
+5 Ice	wle		1	1	1345	-1	-1	-1
+5 Ice	wle		3	3	1345	-1	-1	-1
+5 Ice	wle				1346	-1	-1	-1
+5 Ice	wle		2	2	1346	-1	-1	-1
+5 Ice	wle	1	1	1	1345	-1	-1	-1
+5 Ice	wle	1	3	3	1345	-1	-1	-1
+5 Ice	wle	1			1346	-1	-1	-1
+5 Ice	wle	1	2	2	1346	-1	-1	-1
+5 Ice	wre	2			1347	-1	-1	-1
+5 Ice	wre	2	1	1	1348	-1	-1	-1
+5 Ice	wre	1			1347	-1	-1	-1
+5 Ice	wre	1	1	1	1348	-1	-1	-1
+5 Ice	wre				1347	-1	-1	-1
+5 Ice	wre		1	1	1348	-1	-1	-1
+5 Ice	fl	1	1	1	1349	1350	1351	-1
+5 Ice	fl	2	-1	-1	1349	1350	1351	-1
+5 Ice	fl	5	-1	-1	1349	1350	1351	-1
+5 Ice	fl	6	-1	-1	1349	1350	1351	-1
+5 Ice	fl	7	3	3	1426	-1	-1	-1
+5 Ice	fl	7	20	20	1426	-1	-1	-1
+5 Ice	fl	7	4	4	1427	-1	-1	-1
+5 Ice	fl	7	21	21	1427	-1	-1	-1
+5 Ice	fl	7	5	5	1428	-1	-1	-1
+5 Ice	fl	7	22	22	1428	-1	-1	-1
+5 Ice	fl	7	6	6	1429	-1	-1	-1
+5 Ice	fl	7	23	23	1429	-1	-1	-1
+5 Ice	fl	7	8	8	1430	-1	-1	-1
+5 Ice	fl	7	25	25	1430	-1	-1	-1
+5 Ice	fl	7	9	9	1431	-1	-1	-1
+5 Ice	fl	7	27	27	1431	-1	-1	-1
+5 Ice	fl	7	10	10	1432	-1	-1	-1
+5 Ice	fl	7	26	26	1432	-1	-1	-1
+5 Ice	fl	7	11	11	1433	-1	-1	-1
+5 Ice	fl	7	13	13	1434	-1	-1	-1
+5 Ice	fl	7	15	15	1435	-1	-1	-1
+5 Ice	fl	7	17	17	1436	-1	-1	-1
+5 Ice	fl	7	7	7	1437	-1	-1	-1
+5 Ice	fl	7	24	24	1437	-1	-1	-1
+5 Ice	fl	7			1438	1439	-1	-1
+5 Ice	fl	7	1	2	1259	-1	-1	-1
+5 Ice	fl	7	30	30	1440	-1	-1	-1
+5 Ice	fl	7	31	31	1441	-1	-1	-1
+5 Ice	fl	7	32	32	1440	-1	-1	-1
+5 Ice	fl	7	33	33	1441	-1	-1	-1
+5 Ice	fl	7	34	34	1440	-1	-1	-1
+5 Ice	fl	7	35	35	1441	-1	-1	-1
+5 Ice	fl	7	39	41	1442	-1	-1	-1
+5 Ice	fl	7	36	38	1443	-1	-1	-1
+5 Temple	fl	6			1474	-1	-1	-1
+5 Temple	fl	6	1	1	1475	-1	-1	-1
+5 Temple	fl	6	2	2	1476	-1	-1	-1
+5 Temple	fl	6	3	3	1477	-1	-1	-1
+5 Temple	fl	1		2	1469	1470	1471	-1
+5 Temple	fl	5		5	1469	1470	1471	-1
+5 Temple	wl			9	81	-1	-1	-1
+5 Temple	wl		11	30	81	-1	-1	-1
+5 Temple	wl	2			81	-1	-1	-1
+5 Temple	wl	3		9	81	-1	-1	-1
+5 Temple	wl	3	12	30	81	-1	-1	-1
+5 Temple	wr			9	80	-1	-1	-1
+5 Temple	wr		11	30	80	-1	-1	-1
+5 Temple	wr	3		9	80	-1	-1	-1
+5 Temple	wr	3	14	30	80	-1	-1	-1
+5 Temple	wtlr		-1	-1	84	-1	-1	-1
+5 Temple	wtll		-1	-1	84	-1	-1	-1
+5 Temple	wtlr	3	-1	-1	84	-1	-1	-1
+5 Temple	wtll	3	-1	-1	84	-1	-1	-1
+5 Temple	wbr		-1	-1	85	-1	-1	-1
+5 Temple	wtr		-1	-1	83	-1	-1	-1
+5 Temple	wbl		-1	-1	82	-1	-1	-1
+5 Temple	wl	1	-1	-1	81	-1	-1	-1
+5 Temple	wr	1	-1	-1	80	-1	-1	-1
+5 Temple	wtlr	1	-1	-1	84	-1	-1	-1
+5 Temple	wtll	1	-1	-1	84	-1	-1	-1
+5 Temple	wbr	1	-1	-1	85	-1	-1	-1
+5 Temple	co	2	4	6	85	-1	-1	-1
+5 Temple	co	2		3	1374	-1	-1	-1
+5 Temple	co	3	2	2	1374	-1	-1	-1
+5 Temple	wtr	1	-1	-1	83	-1	-1	-1
+5 Temple	wbl	1	-1	-1	82	-1	-1	-1
+5 Temple	wre				1371	-1	-1	-1
+5 Temple	wre		1	1	1372	-1	-1	-1
+5 Temple	fl	21	2	2	1373	-1	-1	-1
+5 Baal	wr	1			1380	-1	-1	-1
+5 Baal	wr	1	2	2	1380	-1	-1	-1
+5 Baal	wl	1	2	2	1381	-1	-1	-1
+5 Baal	wl	1			1381	-1	-1	-1
+5 Baal	wr	1	1	1	1382	-1	-1	-1
+5 Baal	wr	1	3	3	1382	-1	-1	-1
+5 Baal	wr	1	10	10	1382	-1	-1	-1
+5 Baal	wr	2	1	1	1382	-1	-1	-1
+5 Baal	wl	1	5	5	1383	-1	-1	-1
+5 Baal	wl	1	1	1	1383	-1	-1	-1
+5 Baal	wl	1	3	3	1383	-1	-1	-1
+5 Baal	wl	1	10	10	1383	-1	-1	-1
+5 Baal	wl	2	1	1	1383	-1	-1	-1
+5 Baal	wr	2	3	3	1385	-1	-1	-1
+5 Baal	wbr	1			1390	-1	-1	-1
+5 Baal	wl	2	3	3	1390	-1	-1	-1
+5 Baal	wtll	1			1384	-1	-1	-1
+5 Baal	wtll				1392	-1	-1	-1
+5 Baal	wtll	2			1411	-1	-1	-1
+5 Baal	wtll	2	1	1	1393	-1	-1	-1
+5 Baal	wtlr	2	1	1	1393	-1	-1	-1
+5 Baal	wtll	2	3	3	1395	-1	-1	-1
+5 Baal	wtlr	2	3	3	1395	-1	-1	-1
+5 Baal	wr	1	5	5	1394	-1	-1	-1
+5 Baal	wr		7	7	1394	-1	-1	-1
+5 Baal	wr			3	1396	-1	-1	-1
+5 Baal	wr	7	4	4	1396	-1	-1	-1
+5 Baal	wtll	6	4	5	1411	-1	-1	-1
+5 Baal	wtll	4	4	4	1396	-1	-1	-1
+5 Baal	wtll	4	10	10	1396	-1	-1	-1
+5 Baal	wl			3	1397	-1	-1	-1
+5 Baal	wl		9	9	1397	-1	-1	-1
+5 Baal	wtll	4	6	6	1397	-1	-1	-1
+5 Baal	wtll	4	8	8	1397	-1	-1	-1
+5 Baal	wle		1	1	1398	-1	-1	-1
+5 Baal	wle				1399	-1	-1	-1
+5 Baal	wle	1	1	1	1398	-1	-1	-1
+5 Baal	wle	1			1399	-1	-1	-1
+5 Baal	co		2	2	1376	-1	-1	-1
+5 Baal	co		-1	-1	1379	-1	-1	-1
+5 Baal	co	7	2	6	1444	-1	-1	-1
+5 Baal	co	7			1445	-1	-1	-1
+5 Baal	wl	3	1	1	1379	-1	-1	-1
+5 Baal	wl	3	4	4	1379	-1	-1	-1
+5 Baal	wl	3	12	12	1495	-1	-1	-1
+5 Baal	wl	3	16	16	1495	-1	-1	-1
+5 Baal	wr		9	9	1396	-1	-1	-1
+5 Baal	wr	5	7	7	1379	-1	-1	-1
+5 Baal	wr	5	11	11	1379	-1	-1	-1
+5 Baal	wr	5	13	13	1379	-1	-1	-1
+5 Baal	wr	5	17	17	1379	-1	-1	-1
+5 Baal	wl	5	11	11	1379	-1	-1	-1
+5 Baal	wl	5	4	4	1379	-1	-1	-1
+5 Baal	wre	1			1377	-1	-1	-1
+5 Baal	wre	1	1	1	1378	-1	-1	-1
+5 Baal	wre				1377	-1	-1	-1
+5 Baal	wre		1	1	1378	-1	-1	-1
+5 Baal	fl	4	37	42	1006	-1	-1	-1
+5 Baal	fl	4	25	30	999	-1	-1	-1
+5 Baal	fl	4			1019	-1	-1	-1
+5 Baal	fl	4	4	4	1019	-1	-1	-1
+5 Baal	fl	4	8	8	1019	-1	-1	-1
+5 Baal	fl	4	12	12	1019	-1	-1	-1
+5 Baal	fl	4	16	16	1019	-1	-1	-1
+5 Baal	fl	4	20	20	1019	-1	-1	-1
+5 Baal	fl	4	2	2	1004	-1	-1	-1
+5 Baal	fl	4	6	6	1004	-1	-1	-1
+5 Baal	fl	4	10	10	1004	-1	-1	-1
+5 Baal	fl	4	14	14	1004	-1	-1	-1
+5 Baal	fl	4	18	18	1004	-1	-1	-1
+5 Baal	fl	4	22	22	1004	-1	-1	-1
+5 Baal	fl	4	23	23	1486	1487	-1	-1
+5 Baal	fl	4	19	19	1486	1487	-1	-1
+5 Baal	fl	4	15	15	1486	1487	-1	-1
+5 Baal	fl	4	11	11	1486	1487	-1	-1
+5 Baal	fl	4	7	7	1486	1487	-1	-1
+5 Baal	fl	4	43	48	1486	1487	-1	-1
+5 Baal	fl	4	3	3	1486	1487	-1	-1
+5 Baal	fl	3	31	55	1486	1487	-1	-1
+5 Baal	wl	6		8	1381	-1	-1	-1
+5 Baal	wr	6	5	10	1380	-1	-1	-1
+5 Baal	fl	10	49	49	1019	-1	-1	-1
+5 Baal	fl	10	43	43	1019	-1	-1	-1
+5 Baal	fl	10	37	37	1019	-1	-1	-1
+5 Baal	fl	10	32	32	1019	-1	-1	-1
+5 Baal	fl	10	24	24	1019	-1	-1	-1
+5 Baal	fl	10	19	19	1019	-1	-1	-1
+5 Baal	fl	10	13	13	1018	-1	-1	-1
+5 Baal	fl	10	45	45	1004	-1	-1	-1
+5 Baal	fl	10	39	39	1004	-1	-1	-1
+5 Baal	fl	10	34	34	1004	-1	-1	-1
+5 Baal	fl	10	26	26	1004	-1	-1	-1
+5 Baal	fl	10	21	21	1004	-1	-1	-1
+5 Baal	fl	10	15	15	1012	-1	-1	-1
+5 Baal	fl	10	16	16	1010	-1	-1	-1
+5 Baal	fl	10	12	12	1010	-1	-1	-1
+5 Baal	fl	10	11	11	1011	-1	-1	-1
+5 Baal	fl	10	5	5	1011	-1	-1	-1
+5 Baal	fl	10			1496	-1	-1	-1
+5 Baal	fl	10	1	4	999	-1	-1	-1
+5 Baal	fl	10	6	6	1019	-1	-1	-1
+5 Baal	fl	7	26	26	1446	-1	-1	-1
+5 Baal	fl	7	23	23	1447	-1	-1	-1
+5 Baal	wr	5	2	2	1497	-1	-1	-1
+5 Baal	wr	5	4	4	1498	-1	-1	-1
+5 Lava	fl	36			1040	-1	-1	-1
+5 Lava	fl	36	1	1	1041	-1	-1	-1
+5 Lava	fl	36	6	6	1042	-1	-1	-1
+5 Lava	fl	36	10	10	1043	-1	-1	-1
+5 Lava	fl	36	14	14	1044	-1	-1	-1
+5 Lava	fl	36	12	12	1045	-1	-1	-1
+5 Lava	fl	36	13	13	1046	-1	-1	-1
+5 Lava	fl	36	16	16	1047	-1	-1	-1
+5 Lava	fl	36	19	19	1048	-1	-1	-1
+5 Lava	fl	36	22	22	1049	-1	-1	-1
+5 Lava	fl	36	25	25	1050	-1	-1	-1
+5 Lava	fl	36	26	26	1051	-1	-1	-1
+5 Lava	fl	36	27	27	1052	-1	-1	-1
+5 Lava	fl	39	21	21	1114	-1	-1	-1
+5 Lava	fl	39	22	22	1115	-1	-1	-1
+5 Lava	fl	39	23	23	1116	-1	-1	-1
+5 Lava	fl	37	14	14	1117	-1	-1	-1
+5 Lava	fl	37	15	15	1118	-1	-1	-1
+5 Lava	fl	39	16	16	1119	-1	-1	-1
+5 Lava	fl	39	17	17	1118	-1	-1	-1
+5 Lava	fl	39	18	18	1121	-1	-1	-1
+5 Lava	fl	39	19	19	1122	-1	-1	-1
+5 Lava	fl	39	20	20	1123	-1	-1	-1
+5 Lava	fl	37	4	4	1124	-1	-1	-1
+5 Lava	fl	37			1125	-1	-1	-1
+5 Lava	fl	39	40	40	1124	-1	-1	-1
+5 Lava	fl	39	41	41	1125	-1	-1	-1
+5 Lava	fl	39	24	24	1126	-1	-1	-1
+5 Lava	fl	39	25	25	1127	-1	-1	-1
+5 Lava	fl	37	12	12	1128	-1	-1	-1
+5 Lava	fl	37	5	5	1129	-1	-1	-1
+5 Lava	fl	37	1	1	1130	-1	-1	-1
+5 Lava	fl	37	10	10	1131	-1	-1	-1
+5 Lava	fl	37	2	2	1132	-1	-1	-1
+5 Lava	fl	37	17	17	1133	-1	-1	-1
+5 Lava	fl	37	18	18	1134	-1	-1	-1
+5 Lava	fl	37	21	21	1135	-1	-1	-1
+5 Lava	fl	37	22	22	1136	-1	-1	-1
+5 Lava	fl	37	23	23	1137	-1	-1	-1
+5 Lava	fl	37	24	24	1138	-1	-1	-1
+5 Lava	fl	39	26	26	1117	-1	-1	-1
+5 Lava	fl	39	27	27	1140	-1	-1	-1
+5 Lava	fl	39	30	30	1141	-1	-1	-1
+5 Lava	fl	39	31	31	1142	-1	-1	-1
+5 Lava	fl	39	32	32	1143	-1	-1	-1
+5 Lava	fl	39	33	33	1144	-1	-1	-1
+5 Lava	fl	39	42	42	1197	-1	-1	-1
+5 Lava	fl	39	43	43	1198	-1	-1	-1
+5 Lava	fl	39	45	45	1199	-1	-1	-1
+5 Lava	fl	39			1000	-1	-1	-1
+5 Lava	fl	39	1	1	1001	-1	-1	-1
+5 Lava	fl	39	2	2	1002	-1	-1	-1
+5 Lava	fl	39	3	3	1003	-1	-1	-1
+5 Lava	fl	39	4	4	1004	-1	-1	-1
+5 Lava	fl	39	5	5	1005	-1	-1	-1
+5 Lava	fl	39	6	6	1006	-1	-1	-1
+5 Lava	fl	39	7	7	1007	-1	-1	-1
+5 Lava	fl	39	8	8	1008	-1	-1	-1
+5 Lava	fl	39	9	9	1009	-1	-1	-1
+5 Lava	fl	39	10	10	1010	-1	-1	-1
+5 Lava	fl	39	11	11	1011	-1	-1	-1
+5 Lava	fl	39	12	12	1012	-1	-1	-1
+5 Lava	fl	39	13	13	1013	-1	-1	-1
+5 Lava	fl	39	14	14	1014	-1	-1	-1
+5 Lava	fl	39	15	15	1015	-1	-1	-1
+5 Lava	fl	41	4	4	1472	-1	-1	-1
+5 Lava	fl	41	9	9	1473	-1	-1	-1
+5 Lava	wl	40	7	7	1483	-1	-1	-1
+5 Lava	wl	40	9	9	1484	-1	-1	-1
+5 Lava	wl	40	11	11	1485	-1	-1	-1
+5 Lava	fl	38	48	49	1486	1487	-1	-1
+5 Lava	fl	38	52	53	1486	1487	-1	-1
+5 Lava	wl	40			1488	-1	-1	-1
+5 Lava	wl	40	1	1	1489	-1	-1	-1
+5 Lava	wl	40	3	3	1490	-1	-1	-1
+5 Lava	wl	40	5	5	1491	-1	-1	-1

@@ -1,0 +1,65 @@
+type	equiv1	equiv2	equiv3	strsing	strplur	*eol
+mt0	mt0	mt0	mt0			0
+mt1	mt0	mt0	mt0			0
+mt2	mt0	mt0	mt0			0
+mt3	mt0	mt0	mt0			0
+mt4	mt0	mt0	mt0			0
+mt5	mt0	mt0	mt0			0
+mt6	mt1	mt0	mt0			0
+mt7	mt1	mt0	mt0			0
+mt8	mt0	mt0	mt0			0
+mt9	mt6	mt0	mt0			0
+mt10	mt6	mt0	mt0			0
+mt11	mt0	mt0	mt0	TheZakarum	TheZakarum	0
+mt12	mt0	mt0	mt0			0
+mt13	mt0	mt0	mt0			0
+mt14	mt2	mt0	mt0	Afflicted	Afflicted	0
+mt15	mt0	mt0	mt0			0
+mt16	mt2	mt0	mt0	Fallen	Fallen	0
+mt17	mt0	mt0	mt0	Yeti	Yeti	0
+mt18	mt0	mt0	mt0			0
+mt19	mt1	mt0	mt0			0
+mt20	mt2	mt0	mt0			0
+mt21	mt0	mt0	mt0			0
+mt22	mt2	mt0	mt0			0
+mt23	mt0	mt0	mt0			0
+mt24	mt0	mt0	mt0			0
+mt25	mt2	mt0	mt0			0
+mt26	mt0	mt0	mt0			0
+mt27	mt0	mt0	mt0			0
+mt28	mt3	mt0	mt0	HellSwarm	HellSwarm	0
+mt29	mt3	mt0	mt0			0
+mt30	mt6	mt0	mt0			0
+mt31	mt7	mt0	mt0			0
+mt32	mt0	mt0	mt0			0
+mt33	mt3	mt0	mt0			0
+mt34	mt0	mt0	mt0			0
+mt35	mt3	mt0	mt0			0
+mt36	mt0	mt0	mt0			0
+mt37	mt7	mt0	mt0			0
+mt38	mt0	mt0	mt0			0
+mt39	mt2	mt0	mt0	Fetish	Fetish	0
+mt40	mt2	mt0	mt0			0
+mt41	mt6	mt2	mt0	Undead Fetish	Undead Fetish	0
+mt42	mt4	mt0	mt0			0
+mt43	mt0	mt0	mt0			0
+mt44	mt0	mt0	mt0			0
+mt45	mt6	mt0	mt0			0
+mt46	mt5	mt0	mt0			0
+mt47	mt2	mt0	mt0			0
+mt48	mt2	mt0	mt0			0
+mt49	mt6	mt0	mt0			0
+mt50	mt2	mt42	mt0			0
+mt51	mt2	mt0	mt0			0
+mt52	mt0	mt0	mt0			0
+mt53	mt0	mt0	mt0			0
+mt54	mt0	mt0	mt0	Yeti	Yeti	0
+mt55	mt0	mt0	mt0			0
+mt56	mt2	mt0	mt0			0
+mt57	mt2	mt0	mt0			0
+mt58	mt2	mt0	mt0			0
+mt59	mt0	mt0	mt0			0
+mt60	mt2	mt0	mt0			0
+mt61	mt0	mt0	mt0			0
+mt62	mt2	mt0	mt0			0
+mt63	mt5	mt0	mt0			0
