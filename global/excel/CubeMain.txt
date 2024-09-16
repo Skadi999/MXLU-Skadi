@@ -10745,20 +10745,6 @@ cm10742	1			100	16	219		dru	6	Caoi Dulra Fruit	!@1	!@2	!@3	!@4	!@5		useitem				p
 cm10743	1			100	16	219		nec	6	Soulstone Shard	!@1	!@2	!@3	!@4	!@5		useitem				pr469				1	1	pr69				1	1	pr191				20	20																																																																							0
 cm10744	1			100	16	219		pal	6	Orb of Divinity	!@1	!@2	!@3	!@4	!@5		useitem				pr469				1	1	pr68				1	1	pr191				20	20																																																																							0
 cm10745	1			100	16	219		sor	6	Nexus Crystal	!@1	!@2	!@3	!@4	!@5		useitem				pr469				1	1	pr70				1	1	pr191				20	20																																																																							0
-cm10746	1			100	18	313	1	ama	2	Sacred Sunstone	r15						useitem																																																																																												0
-cm10747	1			100	18	313	1	ass	2	Shadow Vortex	r15						useitem																																																																																												0
-cm10748	1			100	18	313	1	bar	2	Worldstone Orb	r15						useitem																																																																																												0
-cm10749	1			100	18	313	1	dru	2	Caoi Dulra Fruit	r15						useitem																																																																																												0
-cm10750	1			100	18	313	1	nec	2	Soulstone Shard	r15						useitem																																																																																												0
-cm10751	1			100	18	313	1	pal	2	Orb of Divinity	r15						useitem																																																																																												0
-cm10752	1			100	18	313	1	sor	2	Nexus Crystal	r15						useitem																																																																																												0
-cm10753	1			100	6	507	2240	ama	2	Sacred Sunstone	r15						useitem				pr438				1	1	pr280				1	1																																																																													0
-cm10754	1			100	6	507	2240	ass	2	Shadow Vortex	r15						useitem				pr438				1	1	pr280				1	1																																																																													0
-cm10755	1			100	6	507	2240	bar	2	Worldstone Orb	r15						useitem				pr438				1	1	pr280				1	1																																																																													0
-cm10756	1			100	6	507	2240	dru	2	Caoi Dulra Fruit	r15						useitem				pr438				1	1	pr280				1	1																																																																													0
-cm10757	1			100	6	507	2240	nec	2	Soulstone Shard	r15						useitem				pr438				1	1	pr280				1	1																																																																													0
-cm10758	1			100	6	507	2240	pal	2	Orb of Divinity	r15						useitem				pr438				1	1	pr280				1	1																																																																													0
-cm10759	1			100	6	507	2240	sor	2	Nexus Crystal	r15						useitem				pr438				1	1	pr280				1	1																																																																													0
 cm10760				100				ama	7	"!@6,qty=3"	!@7	!@8	!@9	!@A			!@B																																																																																												0
 cm10761				100				ass	7	"!@6,qty=3"	!@7	!@8	!@9	!@A			!@B																																																																																												0
 cm10762				100				bar	7	"!@6,qty=3"	!@7	!@8	!@9	!@A			!@B																																																																																												0
@@ -10794,20 +10780,6 @@ cm10791	1			100				dru	7	!@6	!@7	!@8	!@9	"!@A,qty=3"			!@B																						
 cm10792	1			100				nec	7	!@6	!@7	!@8	!@9	"!@A,qty=3"			!@B																																																																																												0
 cm10793	1			100				pal	7	!@6	!@7	!@8	!@9	"!@A,qty=3"			!@B																																																																																												0
 cm10794	1			100				sor	7	!@6	!@7	!@8	!@9	"!@A,qty=3"			!@B																																																																																												0
-cm10795	1			100	18	400	1	ama	2	Sacred Sunstone	r05						useitem																																																																																												0
-cm10796	1			100	18	400	1	ass	2	Shadow Vortex	r05						useitem																																																																																												0
-cm10797	1			100	18	400	1	bar	2	Worldstone Orb	r05						useitem																																																																																												0
-cm10798	1			100	18	400	1	dru	2	Caoi Dulra Fruit	r05						useitem																																																																																												0
-cm10799	1			100	18	400	1	nec	2	Soulstone Shard	r05						useitem																																																																																												0
-cm10800	1			100	18	400	1	pal	2	Orb of Divinity	r05						useitem																																																																																												0
-cm10801	1			100	18	400	1	sor	2	Nexus Crystal	r05						useitem																																																																																												0
-cm10802	1			100	6	507	2250	ama	2	Sacred Sunstone	r05						useitem				pr447				1	1	pr280				1	1																																																																													0
-cm10803	1			100	6	507	2250	ass	2	Shadow Vortex	r05						useitem				pr447				1	1	pr280				1	1																																																																													0
-cm10804	1			100	6	507	2250	bar	2	Worldstone Orb	r05						useitem				pr447				1	1	pr280				1	1																																																																													0
-cm10805	1			100	6	507	2250	dru	2	Caoi Dulra Fruit	r05						useitem				pr447				1	1	pr280				1	1																																																																													0
-cm10806	1			100	6	507	2250	nec	2	Soulstone Shard	r05						useitem				pr447				1	1	pr280				1	1																																																																													0
-cm10807	1			100	6	507	2250	pal	2	Orb of Divinity	r05						useitem				pr447				1	1	pr280				1	1																																																																													0
-cm10808	1			100	6	507	2250	sor	2	Nexus Crystal	r05						useitem				pr447				1	1	pr280				1	1																																																																													0
 cm10809	1			100	3	12	91	ama	2	Sacred Sunstone	gem4						useitem																																																																																												0
 cm10810	1			100	3	12	91	ass	2	Shadow Vortex	gem4						useitem																																																																																												0
 cm10811	1			100	3	12	91	bar	2	Worldstone Orb	gem4						useitem																																																																																												0
@@ -10829,34 +10801,6 @@ cm10826	1			100	6	507	2225	dru	2	Caoi Dulra Fruit	gem4						useitem				pr448			1
 cm10827	1			100	6	507	2225	nec	2	Soulstone Shard	gem4						useitem				pr448			1	1	1	pr471				1	1	pr269				10	10																																																																							0
 cm10828	1			100	6	507	2225	pal	2	Orb of Divinity	gem4						useitem				pr448			1	1	1	pr4				5	5	pr222				10	10																																																																							0
 cm10829	1			100	6	507	2225	sor	2	Nexus Crystal	gem4						useitem				pr448			1	1	1	pr294				15	15	pr207				5	5																																																																							0
-cm10830	1			100	18	403	1	ama	2	Sacred Sunstone	r10						useitem																																																																																												0
-cm10831	1			100	18	403	1	ass	2	Shadow Vortex	r10						useitem																																																																																												0
-cm10832	1			100	18	403	1	bar	2	Worldstone Orb	r10						useitem																																																																																												0
-cm10833	1			100	18	403	1	dru	2	Caoi Dulra Fruit	r10						useitem																																																																																												0
-cm10834	1			100	18	403	1	nec	2	Soulstone Shard	r10						useitem																																																																																												0
-cm10835	1			100	18	403	1	pal	2	Orb of Divinity	r10						useitem																																																																																												0
-cm10836	1			100	18	403	1	sor	2	Nexus Crystal	r10						useitem																																																																																												0
-cm10837	1			100	6	507	2502	ama	2	Sacred Sunstone	r10						useitem				pr449				1	1	pr280				1	1																																																																													0
-cm10838	1			100	6	507	2502	ass	2	Shadow Vortex	r10						useitem				pr449				1	1	pr280				1	1																																																																													0
-cm10839	1			100	6	507	2502	bar	2	Worldstone Orb	r10						useitem				pr449				1	1	pr280				1	1																																																																													0
-cm10840	1			100	6	507	2502	dru	2	Caoi Dulra Fruit	r10						useitem				pr449				1	1	pr280				1	1																																																																													0
-cm10841	1			100	6	507	2502	nec	2	Soulstone Shard	r10						useitem				pr449				1	1	pr280				1	1																																																																													0
-cm10842	1			100	6	507	2502	pal	2	Orb of Divinity	r10						useitem				pr449				1	1	pr280				1	1																																																																													0
-cm10843	1			100	6	507	2502	sor	2	Nexus Crystal	r10						useitem				pr449				1	1	pr280				1	1																																																																													0
-cm10844	1			100	18	314	1	ama	2	Sacred Sunstone	r20						useitem																																																																																												0
-cm10845	1			100	18	314	1	ass	2	Shadow Vortex	r20						useitem																																																																																												0
-cm10846	1			100	18	314	1	bar	2	Worldstone Orb	r20						useitem																																																																																												0
-cm10847	1			100	18	314	1	dru	2	Caoi Dulra Fruit	r20						useitem																																																																																												0
-cm10848	1			100	18	314	1	nec	2	Soulstone Shard	r20						useitem																																																																																												0
-cm10849	1			100	18	314	1	pal	2	Orb of Divinity	r20						useitem																																																																																												0
-cm10850	1			100	18	314	1	sor	2	Nexus Crystal	r20						useitem																																																																																												0
-cm10851	1			100	6	507	2233	ama	2	Sacred Sunstone	r20						useitem				pr439				1	1	pr280				1	1																																																																													0
-cm10852	1			100	6	507	2233	ass	2	Shadow Vortex	r20						useitem				pr439				1	1	pr280				1	1																																																																													0
-cm10853	1			100	6	507	2233	bar	2	Worldstone Orb	r20						useitem				pr439				1	1	pr280				1	1																																																																													0
-cm10854	1			100	6	507	2233	dru	2	Caoi Dulra Fruit	r20						useitem				pr439				1	1	pr280				1	1																																																																													0
-cm10855	1			100	6	507	2233	nec	2	Soulstone Shard	r20						useitem				pr439				1	1	pr280				1	1																																																																													0
-cm10856	1			100	6	507	2233	pal	2	Orb of Divinity	r20						useitem				pr439				1	1	pr280				1	1																																																																													0
-cm10857	1			100	6	507	2233	sor	2	Nexus Crystal	r20						useitem				pr439				1	1	pr280				1	1																																																																													0
 cm10858	1			100				ama	2	Sacred Sunstone	9oµ						useitem																																		9oµ																																																										0
 cm10859	1			100				ama	3	Sacred Sunstone	9oµ						useitem																																		9oµ																																																										0
 cm10860	1			100				ama	4	Sacred Sunstone	9oµ						useitem																																		9oµ																																																										0
