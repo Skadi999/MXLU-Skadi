@@ -103,7 +103,7 @@ lp100	100		1				1	1	24	24					1	Act1/Caves/CaveECrow.ds1	0	0	0	0	0	1	1
 lp101	101		1				1	1	24	24					1	Act1/Caves/CaveSCrow.ds1	0	0	0	0	0	1	1	
 lp102	102		1				1	1	24	24					1	Act1/Caves/CaveNCrow.ds1	0	0	0	0	0	1	1	
 lp103	103		1				1	1				1			1	Act1/Caves/CaveRoom1.ds1	0	0	0	0	0	1	1	
-lp104	104	13	1	1				1	119	119		1			2	expansion/MoreWork/epicwhiners.ds1	0	0	0	0	0	6066	1	
+lp104	104	13	1	1				1	119	119		1			1	expansion/MoreWork/epicwhiners.ds1	0	0	0	0	0	6066	1	
 lp105	105	14	1	1				1				1			1	Act1/Cathedrl/Inarius.ds1	0	0	0	0	0	511	1	
 lp106	106	15	1				1	1				1			1	Act1/Caves/CaveRoom4.ds1	0	0	0	0	0	1	1	
 lp107	107	16	1				1	1				1			1	Act1/Caves/CaveRoom5.ds1	0	0	0	0	0	1	1	
