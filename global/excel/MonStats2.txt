@@ -1414,4 +1414,4 @@ ms1410	3	2	96	2	2			bow 	3	ghm	lit	hvy	hvy	hvy		lbw		lit	lit							1	1	1	1	1		1	
 ms1411	1	2	96	2	2			hth 	3		lit		lit	lit				lit									1							1								2	1	1															1	1	1	8	8	8	8	8	8	8	8	8	1	8	8	8													1				1					1					1					1	1	1				255	255	255	xxx 	xxx 	1			NU		0
 ms1412	3	1	112	1	1		2	hth 	3		lit							red									1							1								2	1	1	1		1				1						1		8	8	8	8	8	8	8	8	8	8	8	8	8	8	8	8													1				1					1	1			1						1		1			3	255	190	100	xxx 	xxx 	1			NU		0
 ms1413	1	1	64	2	2			hth 	3		lit				"ssd,clb,axe"		"nil,sml,buc"	"lit,med"	lit						lit		1				1		1	1	1						1	6	1	1	1		1	1	1		1	1			1		1		8	8	8	8	8	8	8	8	8	8	8	8	8	8	8	8													1				1				1	1	1		1		1					1		1	1	1	2	64		255	xxx 	xxx 	1			S1		0
-ms1414	1	1	64	2	2			hth	3		lit				"ssd,clb,axe"		"nil,sml,buc"	"lit,med"	lit						lit		1				1		1	1	1						1	6	1	1	1		1	1	1		1	1			1		1		8	8	8	8	8	8	8	8	8	8	8	8	8	8	8	8													1				1				1	1	1		1		1					1		1	1	1	2	64		255	xxx	xxx	1			S1		0
+ms1414	1	1	64	2	2			hth	3		lit																1															1	1	1	1	1	1	1							1		1		8	8	8	8	8	8	8	8	8	8	8	8	8	8	8	8													1				1				1	1	1				1					1		1				255	255	255	xxx	xxx	1			NU		0
