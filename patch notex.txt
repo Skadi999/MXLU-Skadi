@@ -1,0 +1,25 @@
+Current Changes:
+
+--- General ---
+-Minigames have been removed. The following charms now have a +1 to max skill levels: Optical Detector, Idol of Vanity, Eternal Bone Pile
+-Den of Evil size on Terror and Destruction reduced to same size as Hatred
+
+--- Cube Recipes ---
+-Cow Portal Tome Recipe no longer requires a Tome of Town Portal
+-Affix Burn Recipe now returns a Superior quality item
+
+--- Items ---
+-Gemwords have been removed from the game as they're quite useless.
+-Testament of the Apes set has been enabled.
+-Blink on Pax Mystica changed to oskill
+
+--- Monsters ---
+-Added a new monster - Haunt. This monster replaces Necromorbs in Duncraig. Haunts are significantly tougher than Slain Souls and have an Area of Effect attack
+
+--- Uberquests ---
+-Ennead Necromancers no longer cast Miasma
+-Removed Lantern Archons from Khalimgrad
+
+--- Technical ---
+-All strings are now stored in expansionstring.tbl
+-Started cleaning up .txts and .tbls.
