@@ -75,8 +75,6 @@ RingOfMourning		1		1	1	120	100	rin 										5	5000					so0		so0	pr9		-100	-100	
 BlackHandSigil		1		1	1	120	100	rin 										5	5000					so0		so0	pr197	330	3	62	pr138	200	2048	2048	pr140		50	100	pr73		-5	-5																																	0
 AkaratsNails		1		1	1	120	100	rin 										5	5000					so0		so0	pr53		-250	-250	pr223		150	150	pr108		15	15	pr107		10	10	pr126	500	10	2																													0
 NewFuryHell		1		4	1	120	100	7@F 										5	5000	lred	lred			so0		so0	pr133		6	6	pr387		76	76	pr29		301	350	pr134		1500	2000	pr183		101	150	pr171		31	40	pr127	311	1	30	pr32		5	5	pr44		100	100	pr117	1592	2	2									0
-Diablo Clone Charm				1	1	1	120	#1^ 									1	5	5000					so0		so0	pr73		-3	-3	pr7		-5	5	pr8		-5	5	pr9		-5	5	pr10		-5	5	pr66		3	5	pr65		3	5	pr104			1																	0
-TokenRing				1	1	120	121	rin 										5	5000					so0		so0	pr117	1222	100	100	pr108		100	100	pr190		1000	1000	pr104		10	10																																	0
 Catechumen		1		10	1	12	7	w23 										5	5000	lgld	lgld			so0		so0	pr133		2	2	pr5		21	50	pr99		31	50	pr27		16	25	pr28		31	50	pr75		-11	-15	pr31		13	15	pr35		13	15	pr33		13	15	pr39		16	25	pr117	927	3	5	pr126	451	5	6	0
 Catechumen		1		10	1	27	16	w43 										5	5000	lgld	lgld			so0		so0	pr133		2	2	pr5		51	80	pr99		51	70	pr27		26	35	pr28		51	70	pr75		-16	-20	pr31		16	18	pr35		16	18	pr33		16	18	pr39		26	35	pr117	927	6	8	pr126	451	7	12	0
 Catechumen		1		10	1	41	25	w63 										5	5000	lgld	lgld			so0		so0	pr133		2	2	pr5		81	110	pr99		71	90	pr27		36	45	pr28		71	90	pr75		-21	-25	pr31		19	21	pr35		19	21	pr33		19	21	pr39		36	45	pr117	927	9	11	pr126	451	9	18	0
@@ -2128,356 +2126,6 @@ Torque Torc2		1		1	1	120	100	rin 					SECRET BONUS ITEM					5	5000					so0		so0	
 3RingSU3		1		1	1	120	100	rin 					REALM UNIQUE					5	5000					so0		so0	pr104		1	1	pr207		20	30	pr78		25	25	pr87		25	25	pr222		15	20	pr12		5	5																									0
 RipstarX		1		50	1	60	60	rin 					S2 BONUS ITEM					5	5000					so0		so0	pr133		1	1	pr145	32	32	32	pr107		31	50	pr356		11	20																																	0
 EarthRouserX		1		50	1	100	100	rin 					SECRET BONUS ITEM					5	5000					so0		so0	pr133		1	1	pr197	612	2	7	pr215		6	10	pr108		3	5	pr223		25	25																													0
-Cornerstone of the Roflworld				1	1	120	100	jew 					SECRET BONUS ITEM					5	5000					so0		so0	pr204	601	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 					REALM UNIQUE					5	5000					so0		so0	pr204	448	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 					SECRET BONUS ITEM					5	5000					so0		so0	pr204	609	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 					S2 BONUS ITEM					5	5000					so0		so0	pr204	348	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 					SECRET BONUS ITEM					5	5000					so0		so0	pr204	319	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 					REALM UNIQUE					5	5000					so0		so0	pr204	452	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 					REALM UNIQUE					5	5000					so0		so0	pr204	307	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 					SECRET BONUS ITEM					5	5000					so0		so0	pr204	370	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 					SECRET BONUS ITEM					5	5000					so0		so0	pr204	602	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 					SECRET BONUS ITEM					5	5000					so0		so0	pr204	618	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 					SECRET BONUS ITEM					5	5000					so0		so0	pr204	350	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 					REALM UNIQUE					5	5000					so0		so0	pr204	456	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 					S2 BONUS ITEM					5	5000					so0		so0	pr204	608	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 					SECRET BONUS ITEM					5	5000					so0		so0	pr204	369	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 					S2 BONUS ITEM					5	5000					so0		so0	pr204	617	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 					SECRET BONUS ITEM					5	5000					so0		so0	pr204	384	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 					REALM UNIQUE					5	5000					so0		so0	pr204	610	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 					REALM UNIQUE					5	5000					so0		so0	pr204	422	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 					SECRET BONUS ITEM					5	5000					so0		so0	pr204	412	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 					SECRET BONUS ITEM					5	5000					so0		so0	pr204	466	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 					REALM UNIQUE					5	5000					so0		so0	pr204	464	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 					REALM UNIQUE					5	5000					so0		so0	pr204	367	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 					REALM UNIQUE					5	5000					so0		so0	pr204	979	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 					S2 BONUS ITEM					5	5000					so0		so0	pr204	331	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 					SECRET BONUS ITEM					5	5000					so0		so0	pr204	620	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 					SECRET BONUS ITEM					5	5000					so0		so0	pr204	325	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 					SECRET BONUS ITEM	4				5	5000					so0		so0	pr204	897	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 					SECRET BONUS ITEM					5	5000					so0		so0	pr204	305	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 					S2 BONUS ITEM					5	5000					so0		so0	pr204	410	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 					S2 BONUS ITEM					5	5000					so0		so0	pr204	418	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 					REALM UNIQUE					5	5000					so0		so0	pr204	445	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 					REALM UNIQUE					5	5000					so0		so0	pr204	335	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 					REALM UNIQUE					5	5000					so0		so0	pr204	605	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 					S2 BONUS ITEM					5	5000					so0		so0	pr204	364	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 					SECRET BONUS ITEM					5	5000					so0		so0	pr204	621	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 					S2 BONUS ITEM					5	5000					so0		so0	pr204	323	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 					REALM UNIQUE					5	5000					so0		so0	pr204	315	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 					SECRET BONUS ITEM					5	5000					so0		so0	pr204	615	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 					S2 BONUS ITEM					5	5000					so0		so0	pr204	321	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 					S2 BONUS ITEM					5	5000					so0		so0	pr204	899	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 					REALM UNIQUE					5	5000					so0		so0	pr204	812	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 					REALM UNIQUE					5	5000					so0		so0	pr204	885	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 					SECRET BONUS ITEM					5	5000					so0		so0	pr204	76	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 					REALM UNIQUE					5	5000					so0		so0	pr204	603	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 					S2 BONUS ITEM					5	5000					so0		so0	pr204	1022	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 					REALM UNIQUE					5	5000					so0		so0	pr204	672	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 					SECRET BONUS ITEM					5	5000					so0		so0	pr204	30	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 					REALM UNIQUE					5	5000					so0		so0	pr204	1008	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 					SECRET BONUS ITEM					5	5000					so0		so0	pr204	701	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 					SECRET BONUS ITEM					5	5000					so0		so0	pr204	1011	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 					S2 BONUS ITEM					5	5000					so0		so0	pr204	698	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 					SECRET BONUS ITEM					5	5000					so0		so0	pr204	824	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 					REALM UNIQUE					5	5000					so0		so0	pr204	761	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 					S2 BONUS ITEM					5	5000					so0		so0	pr204	1016	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 					S2 BONUS ITEM					5	5000					so0		so0	pr204	870	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 					REALM UNIQUE					5	5000					so0		so0	pr204	977	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 					SECRET BONUS ITEM					5	5000					so0		so0	pr204	976	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 					SECRET BONUS ITEM					5	5000					so0		so0	pr204	905	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 					SECRET BONUS ITEM					5	5000					so0		so0	pr204	1005	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 					REALM UNIQUE					5	5000					so0		so0	pr204	798	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 					REALM UNIQUE					5	5000					so0		so0	pr204	693	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 					S2 BONUS ITEM					5	5000					so0		so0	pr204	892	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 					SECRET BONUS ITEM					5	5000					so0		so0	pr204	604	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 					REALM UNIQUE					5	5000					so0		so0	pr204	1004	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 					SECRET BONUS ITEM					5	5000					so0		so0	pr204	1002	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 					SECRET BONUS ITEM					5	5000					so0		so0	pr204	263	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 					S2 BONUS ITEM					5	5000					so0		so0	pr204	134	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 					REALM UNIQUE					5	5000					so0		so0	pr204	637	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 					S2 BONUS ITEM					5	5000					so0		so0	pr204	1000	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 					SECRET BONUS ITEM					5	5000					so0		so0	pr204	904	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 					S2 BONUS ITEM					5	5000					so0		so0	pr204	1018	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 					SECRET BONUS ITEM					5	5000					so0		so0	pr204	571	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 					REALM UNIQUE					5	5000					so0		so0	pr204	898	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 					REALM UNIQUE					5	5000					so0		so0	pr204	896	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 					REALM UNIQUE					5	5000					so0		so0	pr204	691	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 					REALM UNIQUE					5	5000					so0		so0	pr204	569	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 					S2 BONUS ITEM					5	5000					so0		so0	pr204	833	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 					REALM UNIQUE					5	5000					so0		so0	pr204	17	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 					SECRET BONUS ITEM					5	5000					so0		so0	pr204	687	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 					S2 BONUS ITEM					5	5000					so0		so0	pr204	614	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 					REALM UNIQUE					5	5000					so0		so0	pr204	886	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 					REALM UNIQUE					5	5000					so0		so0	pr204	694	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 					S2 BONUS ITEM					5	5000					so0		so0	pr204	83	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 					REALM UNIQUE					5	5000					so0		so0	pr204	789	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 					REALM UNIQUE					5	5000					so0		so0	pr204	8	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 					REALM UNIQUE					5	5000					so0		so0	pr204	972	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 					SECRET BONUS ITEM					5	5000					so0		so0	pr204	670	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 					REALM UNIQUE					5	5000					so0		so0	pr204	884	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 					S2 BONUS ITEM					5	5000					so0		so0	pr204	642	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 					SECRET BONUS ITEM					5	5000					so0		so0	pr204	797	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 					SECRET BONUS ITEM					5	5000					so0		so0	pr204	690	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 					REALM UNIQUE					5	5000					so0		so0	pr204	757	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 					REALM UNIQUE					5	5000					so0		so0	pr204	688	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 					REALM UNIQUE					5	5000					so0		so0	pr204	825	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 					S2 BONUS ITEM					5	5000					so0		so0	pr204	809	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 					S2 BONUS ITEM					5	5000					so0		so0	pr204	613	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 					SECRET BONUS ITEM					5	5000					so0		so0	pr204	154	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 					REALM UNIQUE					5	5000					so0		so0	pr204	565	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 					REALM UNIQUE					5	5000					so0		so0	pr204	20	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 					REALM UNIQUE					5	5000					so0		so0	pr204	566	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 					REALM UNIQUE					5	5000					so0		so0	pr204	680	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 					SECRET BONUS ITEM					5	5000					so0		so0	pr204	58	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 					REALM UNIQUE					5	5000					so0		so0	pr204	567	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 					SECRET BONUS ITEM					5	5000					so0		so0	pr204	568	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 		217			MODIFIED IN S3					5	5000					so0		so0	pr204	607	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 					S3 BONUS ITEM					5	5000					so0		so0	pr204	792	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 					REALM RESERVED ITEMS					5	5000					so0		so0	pr204	635	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 					S3 BONUS ITEM					5	5000					so0		so0	pr204	572	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 					S3 BONUS ITEM					5	5000					so0		so0	pr204	967	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 					S3 BONUS ITEM					5	5000					so0		so0	pr204	643	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 					REALM RESERVED ITEMS					5	5000					so0		so0	pr204	820	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 					REALM RESERVED ITEMS					5	5000					so0		so0	pr204	139	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 					REALM RESERVED ITEMS					5	5000					so0		so0	pr204	673	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 					REALM RESERVED ITEMS					5	5000					so0		so0	pr204	1001	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 					REALM RESERVED ITEMS					5	5000					so0		so0	pr204	882	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 					REALM RESERVED ITEMS					5	5000					so0		so0	pr204	481	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 					REALM RESERVED ITEMS					5	5000					so0		so0	pr204	889	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 					REALM RESERVED ITEMS					5	5000					so0		so0	pr204	983	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 					S3 BONUS ITEM					5	5000					so0		so0	pr204	616	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 					S3 BONUS ITEM					5	5000					so0		so0	pr204	624	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 					REALM RESERVED ITEMS					5	5000					so0		so0	pr204	21	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 					REALM RESERVED ITEMS					5	5000					so0		so0	pr204	634	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 					S4 BONUS ITEM					5	5000					so0		so0	pr204	906	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 					S4 BONUS ITEM					5	5000					so0		so0	pr204	903	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 			1770		ACTIVE					5	5000					so0		so0	pr204	829	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 			181	10000	ACTIVE		FIXED			5	5000					so0		so0	pr204	29	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 			186	10000	ACTIVE		FIXED			5	5000					so0		so0	pr204	901	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 			187	10000	ACTIVE		FIXED			5	5000					so0		so0	pr204	104	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 			1770		ACTIVE		FIXED			5	5000					so0		so0	pr204	890	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 					REALM UNIQUE					5	5000					so0		so0	pr204	1003	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 					S2 BONUS ITEM					5	5000					so0		so0	pr204	612	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 		Curare		10000	DONT		NEW AND IMPROVED			5	5000					so0		so0	pr204	793	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 		Paragon		10000	YOU		NEW AND IMPROVED			5	5000					so0		so0	pr204	871	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 		Spirit of Vengeance		10000	FUCKING		NEW AND IMPROVED			5	5000					so0		so0	pr204	746	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 		Beacon		10000	DARE		NEW AND IMPROVED			5	5000					so0		so0	pr204	777	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 		Way of the Gryphon		10000	HACKING		NEW AND IMPROVED			5	5000					so0		so0	pr204	839	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 		Phase Bomb		10000	THESE		NEW AND IMPROVED			5	5000					so0		so0	pr204	706	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 		Kraken Stance		10000	INTO		NEW AND IMPROVED			5	5000					so0		so0	pr204	888	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 		Runemaster		10000	BEING		NEW AND IMPROVED			5	5000					so0		so0	pr204	766	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 		Shamanic Trance		10000	YOU		NEW AND IMPROVED			5	5000					so0		so0	pr204	873	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 		Force of Nature		10000	FUCKING		NEW AND IMPROVED			5	5000					so0		so0	pr204	28	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 		Faerie Fire		10000	SHADOW		NEW AND IMPROVED			5	5000					so0		so0	pr204	669	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 		Tremor		10000	DIABLO		NEW AND IMPROVED			5	5000					so0		so0	pr204	999	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 		Summon Jinn		10000	ASSHOLES		NEW AND IMPROVED			5	5000					so0		so0	pr204	828	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 		Rathmas Chosen		10000	BUNCH		NEW AND IMPROVED			5	5000					so0		so0	pr204	695	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 		Death Ward		10000	OF		NEW AND IMPROVED			5	5000					so0		so0	pr204	563	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	666	666	jew 		WhiteZombie		10000	STUPID		NEW AND IMPROVED			5	5000					so0		so0	pr204	611	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 		Superbeast		10000	POWER		NEW AND IMPROVED			5	5000					so0		so0	pr204	997	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 		Plague		10000	TRIPPING		NEW AND IMPROVED			5	5000					so0		so0	pr204	562	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 		Slow		10000	NO		NEW AND IMPROVED			5	5000					so0		so0	pr204	883	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 		Witch Blood		10000	LIFE		NEW AND IMPROVED			5	5000					so0		so0	pr204	703	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 		Bane Hunter		10000	RETARDS		NEW AND IMPROVED			5	5000					so0		so0	pr204	24	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 		Electrobolt Spell	481		electrobolt		NEW AND IMPROVED			5	5000					so0		so0	pr204	153	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 		Other Avatar	562		other_avatar		NEW AND IMPROVED			5	5000					so0		so0	pr204	22	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 		Other Banish	563		other_banish		NEW AND IMPROVED			5	5000					so0		so0	pr204	697	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 		Other Blast Wave	564		other_blastwave		NEW AND IMPROVED			5	5000					so0		so0	pr204	887	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 		Other Demonic Speed	565		other_demonicspeed		NEW AND IMPROVED			5	5000					so0		so0	pr204	902	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 		Other Fire Cascade	566		other_firecascade		NEW AND IMPROVED			5	5000					so0		so0	pr204	1010	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 		Other Pandemonium	567		other_pandemonium		NEW AND IMPROVED			5	5000					so0		so0	pr204	705	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 		Other Possess	568		other_possess		NEW AND IMPROVED			5	5000					so0		so0	pr204	671	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 		Other Raven Flight	569		other_ravenflight		NEW AND IMPROVED			5	5000					so0		so0	pr204	822	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 		Other Raven Heart	570		other_ravenheart		NEW AND IMPROVED			5	5000					so0		so0	pr204	891	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 		Other Shackles of Ice	571		other_shacklesofice		NEW AND IMPROVED			5	5000					so0		so0	pr204	689	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 		Other Typhoon Sentry	572		other_typhoonsentry		NEW AND IMPROVED			5	5000					so0		so0	pr204	236	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 		Fire Star	632		firestar		NEW AND IMPROVED			5	5000					so0		so0	pr204	702	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 		Phalanx	634		phalanx		NEW AND IMPROVED			5	5000					so0		so0	pr204	1012	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 		Guided Chain	635		guidedchain		NEW AND IMPROVED			5	5000					so0		so0	pr204	119	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 		Silver Streak	636		silverstreak		NEW AND IMPROVED			5	5000					so0		so0	pr204	959	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 		Exorcism	637		exorcism		NEW AND IMPROVED			5	5000					so0		so0	pr204	120	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 		Scatter Shot	642		scattershot		NEW AND IMPROVED			5	5000					so0		so0	pr204	998	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 		Overpower	643		overpower		NEW AND IMPROVED			5	5000					so0		so0	pr204	872	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 		Golden Calf	652		goldencalf		NEW AND IMPROVED			5	5000					so0		so0	pr204	969	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 		Bloodspeakers Mark	666		bloodspeakers mark		NEW AND IMPROVED			5	5000					so0		so0	pr204	791	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 		Champions of the Sun	668		championsofthesun		NEW AND IMPROVED			5	5000					so0		so0	pr204	19	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 		Lightning Shield	669		lightningshield		NEW AND IMPROVED			5	5000					so0		so0	pr204	1021	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 		Summon Overlord	670		summonoverlord		NEW AND IMPROVED			5	5000					so0		so0	pr204	826	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 		Liche Totem	671		lichetotem		NEW AND IMPROVED			5	5000					so0		so0	pr204	823	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 		Bloody Mary	672		bloodymary		NEW AND IMPROVED			5	5000					so0		so0	pr204	666	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 		Pagan Heart	673		paganheart		NEW AND IMPROVED			5	5000					so0		so0	pr204	57	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 		Cherub Strike	676		cherubstrike		NEW AND IMPROVED			5	5000					so0		so0	pr204	807	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 		Supernova	680		supernova		NEW AND IMPROVED			5	5000					so0		so0	pr204	1013	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 		Dark Power	687		darkpower		NEW AND IMPROVED			5	5000					so0		so0	pr204	984	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 		Conquest	688		conquest		NEW AND IMPROVED			5	5000					so0		so0	pr204	900	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 		Hamstring	689		hamstring		NEW AND IMPROVED			5	5000					so0		so0	pr204	802	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 		Cautious Strike	690		cautiousstrike		NEW AND IMPROVED			5	5000					so0		so0	pr204	18	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 		Time Strike	691		timestrike		NEW AND IMPROVED			5	5000					so0		so0	pr204	895	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 		Sunspear	693		sunspear		NEW AND IMPROVED			5	5000					so0		so0	pr204	894	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 		Death Coil	694		deathcoil		NEW AND IMPROVED			5	5000					so0		so0	pr204	632	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 		Shadow Blade	695		shadowblade		NEW AND IMPROVED			5	5000					so0		so0	pr204	1014	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 		Nightmare	697		nightmare		NEW AND IMPROVED			5	5000					so0		so0	pr204	619	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 		Vanquish	698		vanquish		NEW AND IMPROVED			5	5000					so0		so0	pr204	800	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 		Cataclysm	699		cataclysm		NEW AND IMPROVED			5	5000					so0		so0	pr204	636	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 		Doom Serpents	701		doomserpents		NEW AND IMPROVED			5	5000					so0		so0	pr204	699	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 		Glacial Nova	702		glacialnova		NEW AND IMPROVED			5	5000					so0		so0	pr204	111	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 		Frozen Crown	703		frozencrown		NEW AND IMPROVED			5	5000					so0		so0	pr204	840	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 		Vortex	705		vortex		NEW AND IMPROVED			5	5000					so0		so0	pr204	668	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 		Mana Coil	706		manacoil		NEW AND IMPROVED			5	5000					so0		so0	pr204	142	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 		Blade Barrier	746		bladebarrier		NEW AND IMPROVED			5	5000					so0		so0	pr204	676	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 		Summon Thunder Bear	757		summonthunderbear		NEW AND IMPROVED			5	5000					so0		so0	pr204	564	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 		Summon Shock Beast	761		summonshockbeast		NEW AND IMPROVED			5	5000					so0		so0	pr204	570	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 		Pyroclastic Flow	766		pyroclasticflow		NEW AND IMPROVED			5	5000					so0		so0	pr204	652	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld		1		1	1	120	100	jew 		Blood Flash	777		bloodflash		NEW AND IMPROVED			5	5000					so0		so0	pr204	318	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld		1		1	1	120	100	jew 		Apocalypse	789		apocalypse		NEW AND IMPROVED			5	5000					so0		so0	pr204	361	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld		1		1	1	120	100	jew 		Summon Daystar	791		summondaystar		NEW AND IMPROVED			5	5000					so0		so0	pr204	338	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld		1		1	1	120	100	jew 		Summon Shredder	792		summonshredder		NEW AND IMPROVED			5	5000					so0		so0	pr204	388	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld		1		1	1	120	100	jew 		Summon Bane Monster	793		summonbanemonster		NEW AND IMPROVED			5	5000					so0		so0	pr204	320	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld		1		1	1	120	100	jew 		Dead Wall Totem	797		deadwalltotem		NEW AND IMPROVED			5	5000					so0		so0	pr204	316	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld		1		1	1	120	100	jew 		Ice Bolt Nova	798		iceboltnova		NEW AND IMPROVED			5	5000					so0		so0	pr204	408	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld		1		1	1	120	100	jew 		Mon Spike Ripple	800		spikeripple		NEW AND IMPROVED			5	5000					so0		so0	pr204	441	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 		Wyrd	802		wyrd		NEW AND IMPROVED			5	5000					so0		so0	pr204	428	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld		1		1	1	120	100	jew 		Flash	807		flash		NEW AND IMPROVED			5	5000					so0		so0	pr204	411	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld		1		1	1	120	100	jew 		Rune of Fire	809		runeoffire		NEW AND IMPROVED			5	5000					so0		so0	pr204	330	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld		1		1	1	120	100	jew 		Summon Fallen	812		summonfallen		NEW AND IMPROVED			5	5000					so0		so0	pr204	345	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld		1		1	1	120	100	jew 		Elemental Rain	820		elementalrain		NEW AND IMPROVED			5	5000					so0		so0	pr204	397	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld		1		1	1	120	100	jew 		Greater Charm	822		greatercharm		NEW AND IMPROVED			5	5000					so0		so0	pr204	439	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld		1		1	1	120	100	jew 		Flash Charm	823		flashcharm		NEW AND IMPROVED			5	5000					so0		so0	pr204	434	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld		1		1	1	120	100	jew 		Meteor Shower	824		meteorshower		NEW AND IMPROVED			5	5000					so0		so0	pr204	378	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld		1		1	1	120	100	jew 		Countdown	825		countdown		NEW AND IMPROVED			5	5000					so0		so0	pr204	416	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld		1		1	1	120	100	jew 		Ball Lightning	826		balllightning		NEW AND IMPROVED			5	5000					so0		so0	pr204	340	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld		1		1	1	120	100	jew 		Shadow Avatar	828		shadowavatar		NEW AND IMPROVED			5	5000					so0		so0	pr204	474	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld		1		1	1	120	100	jew 		Jitans Gate	829		jitansgate		NEW AND IMPROVED			5	5000					so0		so0	pr204	303	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld		1		1	1	120	100	jew 		Bloodstar	833		bloodstar		NEW AND IMPROVED			5	5000					so0		so0	pr204	313	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld		1		1	1	120	100	jew 		Blood Fury	839		bloodfury		NEW AND IMPROVED			5	5000					so0		so0	pr204	372	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld		1		1	1	120	100	jew 		Shock Flower	840		shockflower		NEW AND IMPROVED			5	5000					so0		so0	pr204	461	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld		1		1	1	120	100	jew 		Summon Sinner	870		summonsinner		NEW AND IMPROVED			5	5000					so0		so0	pr204	419	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld		1		1	1	120	100	jew 		Summon Avalanche	871		summonavalanche		NEW AND IMPROVED			5	5000					so0		so0	pr204	314	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld		1		1	1	120	100	jew 		Summon Glowing Fungus	872		summonglowingf		NEW AND IMPROVED			5	5000					so0		so0	pr204	355	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld		1		1	1	120	100	jew 		Rune of Mana	873		runeofmana		NEW AND IMPROVED			5	5000					so0		so0	pr204	451	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld		1		1	1	120	100	jew 		Player Dynamite	882		barreloffun		NEW AND IMPROVED			5	5000					so0		so0	pr204	396	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld		1		1	1	120	100	jew 		Cone of Cold	883		coneofcold		NEW AND IMPROVED			5	5000					so0		so0	pr204	398	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld		1		1	1	120	100	jew 		ATMG Sentry	884		atmgsentry		NEW AND IMPROVED			5	5000					so0		so0	pr204	458	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld		1		1	1	120	100	jew 		Patriot Sentry	885		patriotsentry		NEW AND IMPROVED			5	5000					so0		so0	pr204	399	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld		1		1	1	120	100	jew 		Ravage	886		ravage		NEW AND IMPROVED			5	5000					so0		so0	pr204	352	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld		1		1	1	120	100	jew 		Feral Strike	887		feralstrike		NEW AND IMPROVED			5	5000					so0		so0	pr204	360	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld		1		1	1	120	100	jew 		Thorn Field	888		thornfield		NEW AND IMPROVED			5	5000					so0		so0	pr204	317	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld		1		1	1	120	100	jew 		Player Chickens	889		chickenlickin		NEW AND IMPROVED			5	5000					so0		so0	pr204	310	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld		1		1	1	120	100	jew 		Tantrum	890		tantrum		NEW AND IMPROVED			5	5000					so0		so0	pr204	362	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld		1		1	1	120	100	jew 		Gorefest	891		gorefest		NEW AND IMPROVED			5	5000					so0		so0	pr204	341	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld		1		1	1	120	100	jew 		Ancients Hand	892		ancientshand		NEW AND IMPROVED			5	5000					so0		so0	pr204	389	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld		1		1	1	120	100	jew 		Call Henchman	894		callhenchman		NEW AND IMPROVED			5	5000					so0		so0	pr204	374	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld		1		1	1	120	100	jew 		Call Blood Golem	895		callbloodgolem		NEW AND IMPROVED			5	5000					so0		so0	pr204	465	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld		1		1	1	120	100	jew 		Call Necrobot	896		callnecrobot		NEW AND IMPROVED			5	5000					so0		so0	pr204	375	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 		Call Angel King Safe	897		callangelking		NEW AND IMPROVED			5	5000					so0		so0	pr204	681	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld		1		1	1	120	100	jew 		Typhoon	898		typhoon		NEW AND IMPROVED			5	5000					so0		so0	pr204	457	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld		1		1	1	120	100	jew 		Squall Gust	899		squallgust		NEW AND IMPROVED			5	5000					so0		so0	pr204	309	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld		1		1	1	120	100	jew 		Medusa	900		medusa		NEW AND IMPROVED			5	5000					so0		so0	pr204	337	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld		1		1	1	120	100	jew 		Lapidate	901		lapidate		NEW AND IMPROVED			5	5000					so0		so0	pr204	328	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld		1		1	1	120	100	jew 		Squall Wave	902		squallwave		NEW AND IMPROVED			5	5000					so0		so0	pr204	447	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld		1		1	1	120	100	jew 		Arrow Swarm	903		arrowswarm		NEW AND IMPROVED			5	5000					so0		so0	pr204	391	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld		1		1	1	120	100	jew 		Clobber	904		clobber		NEW AND IMPROVED			5	5000					so0		so0	pr204	393	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld		1		1	1	120	100	jew 		Summon Sirens	905		summonsirens		NEW AND IMPROVED			5	5000					so0		so0	pr204	379	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld		1		1	1	120	100	jew 		Static Ward	906		staticward		NEW AND IMPROVED			5	5000					so0		so0	pr204	339	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld		1		1	1	120	100	jew 		Summon Rats	959		summonrats		NEW AND IMPROVED			5	5000					so0		so0	pr204	332	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld		1		1	1	120	100	jew 		Devils Fang Totem	967		devilsfangtotem		NEW AND IMPROVED			5	5000					so0		so0	pr204	417	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld		1		1	1	120	100	jew 		Wraith Arrow	969		wraitharrow		NEW AND IMPROVED			5	5000					so0		so0	pr204	349	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld		1		1	1	120	100	jew 		Guard Tower	972		guardtower		NEW AND IMPROVED			5	5000					so0		so0	pr204	471	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 		BFG83K	976		bfg83k		NEW AND IMPROVED			5	5000					so0		so0	pr204	480	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld		1		1	1	120	100	jew 		SMG	977		smg		NEW AND IMPROVED			5	5000					so0		so0	pr204	354	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld		1		1	1	120	100	jew 		Amatoxin	979		amatoxin		NEW AND IMPROVED			5	5000					so0		so0	pr204	435	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld		1		1	1	120	100	jew 		Path of Flames	983		pathofflames		NEW AND IMPROVED			5	5000					so0		so0	pr204	311	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld		1		1	1	120	100	jew 		Body of the Savior	984		body of the savior		NEW AND IMPROVED			5	5000					so0		so0	pr204	347	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld		1		1	1	120	100	jew 		Cold Fear	997		coldfear		NEW AND IMPROVED			5	5000					so0		so0	pr204	423	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld		1		1	1	120	100	jew 		Frozen Soul	998		frozensoul		NEW AND IMPROVED			5	5000					so0		so0	pr204	382	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld		1		1	1	120	100	jew 		Lightning Wall	999		lightningwall		NEW AND IMPROVED			5	5000					so0		so0	pr204	407	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld		1		1	1	120	100	jew 		Searing Orb	1000		searingorb		NEW AND IMPROVED			5	5000					so0		so0	pr204	437	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld		1		1	1	120	100	jew 		DisinUber	1001		disinuber		NEW AND IMPROVED			5	5000					so0		so0	pr204	444	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld		1		1	1	120	100	jew 		Venomous Spirit	1002		venomousspirit		NEW AND IMPROVED			5	5000					so0		so0	pr204	344	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld		1		1	1	120	100	jew 		Inner Fire	1003		innerfire		NEW AND IMPROVED			5	5000					so0		so0	pr204	346	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld		1		1	1	120	100	jew 		Dinferno	1004		disco_inferno		NEW AND IMPROVED			5	5000					so0		so0	pr204	342	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld		1		1	1	120	100	jew 		Disintegrate	1005		disintegrate		NEW AND IMPROVED			5	5000					so0		so0	pr204	402	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld		1		1	1	120	100	jew 		Rune of Ice	1008		runeofice		NEW AND IMPROVED			5	5000					so0		so0	pr204	381	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld		1		1	1	120	100	jew 		Hawk Talons	1010		hawktalons		NEW AND IMPROVED			5	5000					so0		so0	pr204	365	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld		1		1	1	120	100	jew 		Whirlpool	1012		whirlpool		NEW AND IMPROVED			5	5000					so0		so0	pr204	425	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld		1		1	1	120	100	jew 		Mark of the Wild	1013		markofthewild		NEW AND IMPROVED			5	5000					so0		so0	pr204	383	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld		1		1	1	120	100	jew 		Call Leprechaun	1014		callleprechaun		NEW AND IMPROVED			5	5000					so0		so0	pr204	475	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld		1		1	1	120	100	jew 		Dominate	1016		dominate		NEW AND IMPROVED			5	5000					so0		so0	pr204	368	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld		1		1	1	120	100	jew 		Charm	1018		charm		NEW AND IMPROVED			5	5000					so0		so0	pr204	400	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld		1		1	1	120	100	jew 		Summon Darklings	1021		summondarklings		NEW AND IMPROVED			5	5000					so0		so0	pr204	467	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld		1		1	1	120	100	jew 		Exploding Totem	1022		explodingtotem		NEW AND IMPROVED			5	5000					so0		so0	pr204	390	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld		1		1	1	120	100	jew 		Titan Strike	8		titanstrike		NEW AND IMPROVED			5	5000					so0		so0	pr204	442	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld		1		1	1	120	100	jew 		Deathstrike	17		deathstrike		NEW AND IMPROVED			5	5000					so0		so0	pr204	322	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld		1		1	1	120	100	jew 		Soulshatter	18		soulshatter		NEW AND IMPROVED			5	5000					so0		so0	pr204	432	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld		1		1	1	120	100	jew 		Black Lotus Strike	19		blacklotusstrike		NEW AND IMPROVED			5	5000					so0		so0	pr204	420	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld		1		1	1	120	100	jew 		Death Blossom	20		deathblossom		NEW AND IMPROVED			5	5000					so0		so0	pr204	421	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld		1		1	1	120	100	jew 		Holy Trap	21		holytrap		NEW AND IMPROVED			5	5000					so0		so0	pr204	357	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld		1		1	1	120	100	jew 		Fear Bomb Totem	22		fearbombtotem		NEW AND IMPROVED			5	5000					so0		so0	pr204	324	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld		1		1	1	120	100	jew 		OHMAN	24		ohman		NEW AND IMPROVED			5	5000					so0		so0	pr204	429	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld		1		1	1	120	100	jew 		Rock Shock	28		rockshock		NEW AND IMPROVED			5	5000					so0		so0	pr204	394	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld		1		1	1	120	100	jew 		Unholy Armor	29		unholyarmor		NEW AND IMPROVED			5	5000					so0		so0	pr204	401	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld		1		1	1	120	100	jew 		Rain of Bombs	30		rainofbombs		NEW AND IMPROVED			5	5000					so0		so0	pr204	403	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld		1		1	1	120	100	jew 		Mana Tide Totem	57		manatidetotem		NEW AND IMPROVED			5	5000					so0		so0	pr204	409	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld		1		1	1	120	100	jew 		Elemental Totem	58		elementaltotem		NEW AND IMPROVED			5	5000					so0		so0	pr204	301	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld		1		1	1	120	100	jew 		Wrath	76		wrath		NEW AND IMPROVED			5	5000					so0		so0	pr204	453	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld		1		1	1	120	100	jew 		Totembound Guardian	83		totemboundguardian		NEW AND IMPROVED			5	5000					so0		so0	pr204	450	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld		1		1	1	120	100	jew 		Fire Fountain	111		firefountain		NEW AND IMPROVED			5	5000					so0		so0	pr204	472	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld		1		1	1	120	100	jew 		Hailstorm	119		hailstorm		NEW AND IMPROVED			5	5000					so0		so0	pr204	329	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld		1		1	1	120	100	jew 		Seal of Fire	134		sealoffire		NEW AND IMPROVED			5	5000					so0		so0	pr204	385	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld		1		1	1	120	100	jew 		Firebolt Nova	142		fireboltnova		NEW AND IMPROVED			5	5000					so0		so0	pr204	430	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld		1		1	1	120	100	jew 		Nova Bomb	153		novabomb		NEW AND IMPROVED			5	5000					so0		so0	pr204	358	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld		1		1	1	120	100	jew 		Immolation Bomb	154		immolationbomb		NEW AND IMPROVED			5	5000					so0		so0	pr204	468	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld		1		1	1	120	100	jew 		Lightning Arena	236		lightningarena		NEW AND IMPROVED			5	5000					so0		so0	pr204	443	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld		1		1	1	120	100	jew 		Punisher	263		punisher		NEW AND IMPROVED			5	5000					so0		so0	pr204	377	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld		1		1	1	120	100	jew 		Gamma Field	120		gammafield		NEW AND IMPROVED			5	5000					so0		so0	pr204	469	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld		1		1	1	120	100	jew 		Spiral Dance	1011		spiraldance		NEW AND IMPROVED			5	5000					so0		so0	pr204	414	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld		1		1	1	120	100	jew 		Ice Lance	104		icelance		NEW AND IMPROVED			5	5000					so0		so0	pr204	404	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld		1		1	1	120	100	jew 		Diseased Cattle	139		diseasedcattle		NEW AND IMPROVED			5	5000					so0		so0	pr204	373	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld		1		1	1	120	100	jew 					S5					5	5000					so0		so0	pr204	405	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld		1		1	1	120	100	jew 			223	2507	REALM UNIQUE					5	5000					so0		so0	pr204	306	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld		1		1	1	120	100	jew 			223	2507	REALM UNIQUE					5	5000					so0		so0	pr204	359	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld		1		1	1	120	100	jew 			223	2507	REALM UNIQUE					5	5000					so0		so0	pr204	371	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld		1		1	1	120	100	jew 			223	2507	REALM UNIQUE					5	5000					so0		so0	pr204	455	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld		1		1	1	120	100	jew 			223	2507	REALM UNIQUE					5	5000					so0		so0	pr204	433	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld		1		1	1	120	100	jew 			223	2507	REALM UNIQUE					5	5000					so0		so0	pr204	326	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld		1		1	1	120	100	jew 			223	2507	REALM UNIQUE					5	5000					so0		so0	pr204	470	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld		1		1	1	120	100	jew 			223	2507	REALM UNIQUE					5	5000					so0		so0	pr204	333	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld		1		1	1	120	100	jew 			200	10000	ACTIVE					5	5000					so0		so0	pr204	336	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld		1		1	1	120	100	jew 			223	2507	REALM UNIQUE					5	5000					so0		so0	pr204	302	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld		1		1	1	120	100	jew 			223	2507	REALM UNIQUE					5	5000					so0		so0	pr204	424	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld		1		1	1	120	100	jew 			1244	1862	ACTIVE					5	5000					so0		so0	pr204	406	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld		1		1	1	120	100	jew 					S5					5	5000					so0		so0	pr204	304	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld		1		1	1	120	100	jew 			383	1874	ACTIVE					5	5000					so0		so0	pr204	312	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld		1		1	1	120	100	jew 			425	1856	ACTIVE					5	5000					so0		so0	pr204	463	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld		1		1	1	120	100	jew 			489	273	ACTIVE					5	5000					so0		so0	pr204	356	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld		1		1	1	120	100	jew 			490	546	ACTIVE					5	5000					so0		so0	pr204	366	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld		1		1	1	120	100	jew 			491	819	ACTIVE					5	5000					so0		so0	pr204	380	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld		1		1	1	120	100	jew 			492	1092	ACTIVE					5	5000					so0		so0	pr204	413	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld		1		1	1	120	100	jew 			493	1365	ACTIVE					5	5000					so0		so0	pr204	327	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld		1		1	1	120	100	jew 			494	1638	ACTIVE					5	5000					so0		so0	pr204	446	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld		1		1	1	120	100	jew 			908	1805	ACTIVE					5	5000					so0		so0	pr204	353	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld		1		1	1	120	100	jew 			1364	264	ACTIVE					5	5000					so0		so0	pr204	462	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld		1		1	1	120	100	jew 			1365	537	ACTIVE					5	5000					so0		so0	pr204	473	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld		1		1	1	120	100	jew 			1366	810	ACTIVE					5	5000					so0		so0	pr204	308	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld		1		1	1	120	100	jew 			1367	1083	ACTIVE					5	5000					so0		so0	pr204	431	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld		1		1	1	120	100	jew 			1368	1356	ACTIVE					5	5000					so0		so0	pr204	426	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld		1		1	1	120	100	jew 			1369	1629	ACTIVE					5	5000					so0		so0	pr204	415	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld		1		1	1	120	100	jew 			1553	252	ACTIVE					5	5000					so0		so0	pr204	395	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld		1		1	1	120	100	jew 			1554	525	ACTIVE					5	5000					so0		so0	pr204	376	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld		1		1	1	120	100	jew 			1555	798	ACTIVE					5	5000					so0		so0	pr204	427	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld		1		1	1	120	100	jew 			1556	1071	ACTIVE					5	5000					so0		so0	pr204	343	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 			1557	1344	ACTIVE					5	5000					so0		so0	pr204	682	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld		1		1	1	120	100	jew 			1558	1617	ACTIVE					5	5000					so0		so0	pr204	459	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld		1		1	1	120	100	jew 			1566	1811	ACTIVE					5	5000					so0		so0	pr204	334	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld		1		1	1	120	100	jew 			223	2507	REALM UNIQUE					5	5000					so0		so0	pr204	351	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld		1		1	1	120	100	jew 					REALM UNIQUE					5	5000					so0		so0	pr204	460	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld		1		1	1	120	100	jew 					REALM UNIQUE					5	5000					so0		so0	pr204	363	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld		1		1	1	120	100	jew 					REALM UNIQUE					5	5000					so0		so0	pr204	454	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld		1		1	1	120	100	jew 					REALM UNIQUE					5	5000					so0		so0	pr204	386	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld		1		1	1	120	100	jew 					REALM UNIQUE					5	5000					so0		so0	pr204	392	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld		1		1	1	120	100	jew 			1770		ACTIVE					5	5000					so0		so0	pr204	387	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld		1		1	1	120	100	jew 					REALM UNIQUE					5	5000					so0		so0	pr204	449	1	1	pr202		10	10	pr469		10	10																																					0
 SuperBowSU		1		1	1	120	120	v#X 										10	100000					so0		so0	pr388	102	102	102	pr387	102	102	102	pr198	163	100	1	pr29		200	200	pr140		400	1000	pr197	587	15	15	pr204	1088	10	10	pr134		111	666	pr137		111	666	pr135		111	666	pr136		111	666	pr104		1	1	0
 TradersChest		1		1	1	666	666	`^` 									1	10	100000					so0		so0	pr73		1	1																																													0
 TrophyCarrier		1		1	1	666	666	`|# 									1	5	5000					so0		so0	pr390		1	1																																													0
@@ -2583,20 +2231,6 @@ CycleOfAggression01		1		1	1	120	60	cm1 										2	1000					so0		so0	pr221		1	2	
 CycleOfAggression11		1		1	1	120	70	cm2 										2	1000					so0		so0	pr221		1	5	pr96		25	50	pr140		3	8																																					0
 CycleOfAggression21		1		1	1	120	80	cm3 										2	1000					so0		so0	pr221		1	10	pr96		50	100	pr140		6	12																																					0
 Soulkeep2		1		1	1	120	120	lawl									1	5	5000					so0		so0	pr375		25	25	pr73		-5	-5	pr227		6	10	pr479	147	50	2																																	0
-Cornerstone of the Roflworld				1	1	120	100	jew 										5	5000					so0		so0	pr204	1024	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 										5	5000					so0		so0	pr204	1025	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 										5	5000					so0		so0	pr204	1026	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 										5	5000					so0		so0	pr204	1027	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 										5	5000					so0		so0	pr204	1028	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 										5	5000					so0		so0	pr204	1029	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 										5	5000					so0		so0	pr204	1030	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 										5	5000					so0		so0	pr204	1031	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 										5	5000					so0		so0	pr204	1032	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 										5	5000					so0		so0	pr204	1033	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 										5	5000					so0		so0	pr204	1037	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 										5	5000					so0		so0	pr204	1158	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld		1		1	1	120	100	jew 										5	5000					so0		so0	pr204	436	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld		1		1	1	120	100	jew 										5	5000					so0		so0	pr204	438	1	1	pr202		10	10	pr469		10	10																																					0
 UldyssianCharm2		1		1	1	666	666	##. 									1	5	5000					so0		so0	pr128	248	5	1	pr104			1	pr41		11	30	pr182	876	100	1																																	0
 BossSummonerRing		1		1	1	1		vor1										5	5000				invrinquest	so0		so0	pr390		1	1																																													0
 UpgradedBossSummonerRing		1		1	1	1	120	vor2										5	5000	blac	blac		invrinquest	so0		so0	pr204	1182	1	1	pr73		6	15	pr190		26	50	pr13		200	200	pr11		200	200																													0
@@ -2615,41 +2249,6 @@ Modders Blessing Dru				1	1	120	60	cm1 										5	10000				cuscross	so0		so0	pr
 Modders Blessing Nec				1	1	120	60	cm1 										5	10000				cuscross	so0		so0	pr269		40	40	pr88		33	33	pr272		1	1	pr273		1	1	pr471		1	1	pr269		10	10	pr292		15	15																					0
 Modders Blessing Pal				1	1	120	60	cm1 										5	10000				cuscross	so0		so0	pr222		20	20	pr88		33	33	pr272		1	1	pr273		1	1	pr4		5	5	pr222		10	10	pr266		5	5																					0
 Modders Blessing Sor				1	1	120	60	cm1 										5	10000				cuscross	so0		so0	pr207		25	25	pr88		33	33	pr272		1	1	pr273		1	1	pr294		15	15	pr207		5	5	pr291		50	50																					0
-Cornerstone of the Roflworld		1		1	1	120	100	jew 										5	5000					so0		so0	pr204	1247	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld		1		1	1	120	100	jew 										5	5000					so0		so0	pr204	1248	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld		1		1	1	120	100	jew 										5	5000					so0		so0	pr204	1249	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 										5	5000					so0		so0	pr204	1250	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld		1		1	1	120	100	jew 										5	5000					so0		so0	pr204	1251	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld		1		1	1	120	100	jew 										5	5000					so0		so0	pr204	1252	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld		1		1	1	120	100	jew 										5	5000					so0		so0	pr204	1253	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 										5	5000					so0		so0	pr204	1254	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld		1		1	1	120	100	jew 										5	5000					so0		so0	pr204	1255	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld		1		1	1	120	100	jew 										5	5000					so0		so0	pr204	1256	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 										5	5000					so0		so0	pr204	1257	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld		1		1	1	120	100	jew 										5	5000					so0		so0	pr204	1258	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld		1		1	1	120	100	jew 										5	5000					so0		so0	pr204	1259	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld		1		1	1	120	100	jew 										5	5000					so0		so0	pr204	1260	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 										5	5000					so0		so0	pr204	1261	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld		1		1	1	120	100	jew 										5	5000					so0		so0	pr204	1262	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld		1		1	1	120	100	jew 										5	5000					so0		so0	pr204	1263	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld		1		1	1	120	100	jew 										5	5000					so0		so0	pr204	1264	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 										5	5000					so0		so0	pr204	1265	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld		1		1	1	120	100	jew 										5	5000					so0		so0	pr204	1266	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld		1		1	1	120	100	jew 										5	5000					so0		so0	pr204	1267	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld		1		1	1	120	100	jew 										5	5000					so0		so0	pr204	1268	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 										5	5000					so0		so0	pr204	1269	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld		1		1	1	120	100	jew 										5	5000					so0		so0	pr204	1271	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld		1		1	1	120	100	jew 										5	5000					so0		so0	pr204	1272	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld				1	1	120	100	jew 										5	5000					so0		so0	pr204	1273	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld		1		1	1	120	100	jew 										5	5000					so0		so0	pr204	1274	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld		1		1	1	120	100	jew 										5	5000					so0		so0	pr204	1275	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld		1		1	1	120	100	jew 										5	5000					so0		so0	pr204	1276	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld		1		1	1	120	100	jew 										5	5000					so0		so0	pr204	1277	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld		1		1	1	120	100	jew 										5	5000					so0		so0	pr204	1278	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld		1		1	1	120	100	jew 										5	5000					so0		so0	pr204	1279	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld		1		1	1	120	100	jew 										5	5000					so0		so0	pr204	1280	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld		1		1	1	120	100	jew 										5	5000					so0		so0	pr204	250	1	1	pr202		10	10	pr469		10	10																																					0
-Cornerstone of the Roflworld		1		1	1	120	100	jew 										5	5000					so0		so0	pr204	62	1	1	pr202		10	10	pr469		10	10																																					0
 StormBlade2				1	1	120	121	!07 										10	5000	blac	blac			so0		so0	pr29		251	300	pr266		10	10	pr310		100	100	pr374	760	100	1	pr388	102	102	102	pr13		500	500	pr57		50	50	pr326		1	5	pr204	1157	3	9	pr73		-5	-5	pr197	78	5	13	pr59		41	50	0
 TheGrizzly2				1	1	120	121	!5! 										10	5000	blac	blac			so0		so0	pr204	431	26	35	pr204	432	26	35	pr204	433	26	35	pr204	434	26	35	pr358		75	75	pr388		76	76	pr29		301	350	pr140		500	1000	pr335		51	100	pr374	760	100	1	pr205	161	1	1	pr483		1	1	0
 GrandEmpyrean2				1	1	120	50	rin 										5	5000					so0		so0	pr133		1	1	pr227		15	15	pr219		6	10	pr197	340	2	13	pr58		101	200																													0
@@ -2659,3 +2258,404 @@ NoReturn				1	1	120	121	54@ 										5	10000	blac	blac	flphst	invhst	so0		so0	p
 FullHelmSU3_3		1		1	1	120	100	@19 										5	5000	cred	cred			so0		so0	pr133		4	4	pr5		251	300	pr104		1	1	pr197	145	5	21	pr171		10	25	pr183		25	40	pr32		5	5	pr134		666	666	pr78		-50	-50													0
 LeatherGlovesSU3_4		1		1	1	120	100	@33 										5	5000	whit	whit			so0		so0	pr133		4	4	pr117	1987	1	1	pr127	699	1	16	pr0		666	666	pr41		15	20	pr4		5	5	pr75		100	100	pr140		25	50	pr78		30	30													0
 FieldPlateSU3_2		1		1	1	120	100	@11 										5	5000	blac	blac			so0		so0	pr133		6	6	pr5		251	300	pr140		100	100	pr127	542	10	10	pr0		200	200	pr192		50	75	pr3		50	50	pr41		20	25	pr108		16	20	pr114		10	10									0
+Cornerstone of the Roflworld		1		1	1	120	100	jew		Blood Flash	777		bloodflash		NEW AND IMPROVED			5	5000					so0		so0	pr204	318	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld		1		1	1	120	100	jew		Apocalypse	789		apocalypse		NEW AND IMPROVED			5	5000					so0		so0	pr204	361	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld		1		1	1	120	100	jew		Summon Daystar	791		summondaystar		NEW AND IMPROVED			5	5000					so0		so0	pr204	338	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld		1		1	1	120	100	jew		Summon Shredder	792		summonshredder		NEW AND IMPROVED			5	5000					so0		so0	pr204	388	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld		1		1	1	120	100	jew		Summon Bane Monster	793		summonbanemonster		NEW AND IMPROVED			5	5000					so0		so0	pr204	320	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld		1		1	1	120	100	jew		Dead Wall Totem	797		deadwalltotem		NEW AND IMPROVED			5	5000					so0		so0	pr204	316	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld		1		1	1	120	100	jew		Ice Bolt Nova	798		iceboltnova		NEW AND IMPROVED			5	5000					so0		so0	pr204	408	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld		1		1	1	120	100	jew		Mon Spike Ripple	800		spikeripple		NEW AND IMPROVED			5	5000					so0		so0	pr204	441	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld		1		1	1	120	100	jew		Flash	807		flash		NEW AND IMPROVED			5	5000					so0		so0	pr204	411	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld		1		1	1	120	100	jew		Rune of Fire	809		runeoffire		NEW AND IMPROVED			5	5000					so0		so0	pr204	330	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld		1		1	1	120	100	jew		Summon Fallen	812		summonfallen		NEW AND IMPROVED			5	5000					so0		so0	pr204	345	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld		1		1	1	120	100	jew		Elemental Rain	820		elementalrain		NEW AND IMPROVED			5	5000					so0		so0	pr204	397	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld		1		1	1	120	100	jew		Greater Charm	822		greatercharm		NEW AND IMPROVED			5	5000					so0		so0	pr204	439	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld		1		1	1	120	100	jew		Flash Charm	823		flashcharm		NEW AND IMPROVED			5	5000					so0		so0	pr204	434	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld		1		1	1	120	100	jew		Meteor Shower	824		meteorshower		NEW AND IMPROVED			5	5000					so0		so0	pr204	378	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld		1		1	1	120	100	jew		Countdown	825		countdown		NEW AND IMPROVED			5	5000					so0		so0	pr204	416	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld		1		1	1	120	100	jew		Ball Lightning	826		balllightning		NEW AND IMPROVED			5	5000					so0		so0	pr204	340	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld		1		1	1	120	100	jew		Shadow Avatar	828		shadowavatar		NEW AND IMPROVED			5	5000					so0		so0	pr204	474	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld		1		1	1	120	100	jew		Jitans Gate	829		jitansgate		NEW AND IMPROVED			5	5000					so0		so0	pr204	303	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld		1		1	1	120	100	jew		Bloodstar	833		bloodstar		NEW AND IMPROVED			5	5000					so0		so0	pr204	313	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld		1		1	1	120	100	jew		Blood Fury	839		bloodfury		NEW AND IMPROVED			5	5000					so0		so0	pr204	372	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld		1		1	1	120	100	jew		Shock Flower	840		shockflower		NEW AND IMPROVED			5	5000					so0		so0	pr204	461	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld		1		1	1	120	100	jew		Summon Sinner	870		summonsinner		NEW AND IMPROVED			5	5000					so0		so0	pr204	419	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld		1		1	1	120	100	jew		Summon Avalanche	871		summonavalanche		NEW AND IMPROVED			5	5000					so0		so0	pr204	314	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld		1		1	1	120	100	jew		Summon Glowing Fungus	872		summonglowingf		NEW AND IMPROVED			5	5000					so0		so0	pr204	355	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld		1		1	1	120	100	jew		Rune of Mana	873		runeofmana		NEW AND IMPROVED			5	5000					so0		so0	pr204	451	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld		1		1	1	120	100	jew		Player Dynamite	882		barreloffun		NEW AND IMPROVED			5	5000					so0		so0	pr204	396	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld		1		1	1	120	100	jew		Cone of Cold	883		coneofcold		NEW AND IMPROVED			5	5000					so0		so0	pr204	398	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld		1		1	1	120	100	jew		ATMG Sentry	884		atmgsentry		NEW AND IMPROVED			5	5000					so0		so0	pr204	458	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld		1		1	1	120	100	jew		Patriot Sentry	885		patriotsentry		NEW AND IMPROVED			5	5000					so0		so0	pr204	399	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld		1		1	1	120	100	jew		Ravage	886		ravage		NEW AND IMPROVED			5	5000					so0		so0	pr204	352	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld		1		1	1	120	100	jew		Feral Strike	887		feralstrike		NEW AND IMPROVED			5	5000					so0		so0	pr204	360	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld		1		1	1	120	100	jew		Thorn Field	888		thornfield		NEW AND IMPROVED			5	5000					so0		so0	pr204	317	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld		1		1	1	120	100	jew		Player Chickens	889		chickenlickin		NEW AND IMPROVED			5	5000					so0		so0	pr204	310	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld		1		1	1	120	100	jew		Tantrum	890		tantrum		NEW AND IMPROVED			5	5000					so0		so0	pr204	362	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld		1		1	1	120	100	jew		Gorefest	891		gorefest		NEW AND IMPROVED			5	5000					so0		so0	pr204	341	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld		1		1	1	120	100	jew		Ancients Hand	892		ancientshand		NEW AND IMPROVED			5	5000					so0		so0	pr204	389	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld		1		1	1	120	100	jew		Call Henchman	894		callhenchman		NEW AND IMPROVED			5	5000					so0		so0	pr204	374	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld		1		1	1	120	100	jew		Call Blood Golem	895		callbloodgolem		NEW AND IMPROVED			5	5000					so0		so0	pr204	465	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld		1		1	1	120	100	jew		Call Necrobot	896		callnecrobot		NEW AND IMPROVED			5	5000					so0		so0	pr204	375	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld		1		1	1	120	100	jew		Typhoon	898		typhoon		NEW AND IMPROVED			5	5000					so0		so0	pr204	457	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld		1		1	1	120	100	jew		Squall Gust	899		squallgust		NEW AND IMPROVED			5	5000					so0		so0	pr204	309	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld		1		1	1	120	100	jew		Medusa	900		medusa		NEW AND IMPROVED			5	5000					so0		so0	pr204	337	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld		1		1	1	120	100	jew		Lapidate	901		lapidate		NEW AND IMPROVED			5	5000					so0		so0	pr204	328	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld		1		1	1	120	100	jew		Squall Wave	902		squallwave		NEW AND IMPROVED			5	5000					so0		so0	pr204	447	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld		1		1	1	120	100	jew		Arrow Swarm	903		arrowswarm		NEW AND IMPROVED			5	5000					so0		so0	pr204	391	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld		1		1	1	120	100	jew		Clobber	904		clobber		NEW AND IMPROVED			5	5000					so0		so0	pr204	393	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld		1		1	1	120	100	jew		Summon Sirens	905		summonsirens		NEW AND IMPROVED			5	5000					so0		so0	pr204	379	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld		1		1	1	120	100	jew		Static Ward	906		staticward		NEW AND IMPROVED			5	5000					so0		so0	pr204	339	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld		1		1	1	120	100	jew		Summon Rats	959		summonrats		NEW AND IMPROVED			5	5000					so0		so0	pr204	332	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld		1		1	1	120	100	jew		Devils Fang Totem	967		devilsfangtotem		NEW AND IMPROVED			5	5000					so0		so0	pr204	417	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld		1		1	1	120	100	jew		Wraith Arrow	969		wraitharrow		NEW AND IMPROVED			5	5000					so0		so0	pr204	349	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld		1		1	1	120	100	jew		Guard Tower	972		guardtower		NEW AND IMPROVED			5	5000					so0		so0	pr204	471	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld		1		1	1	120	100	jew		SMG	977		smg		NEW AND IMPROVED			5	5000					so0		so0	pr204	354	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld		1		1	1	120	100	jew		Amatoxin	979		amatoxin		NEW AND IMPROVED			5	5000					so0		so0	pr204	435	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld		1		1	1	120	100	jew		Path of Flames	983		pathofflames		NEW AND IMPROVED			5	5000					so0		so0	pr204	311	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld		1		1	1	120	100	jew		Body of the Savior	984		body of the savior		NEW AND IMPROVED			5	5000					so0		so0	pr204	347	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld		1		1	1	120	100	jew		Cold Fear	997		coldfear		NEW AND IMPROVED			5	5000					so0		so0	pr204	423	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld		1		1	1	120	100	jew		Frozen Soul	998		frozensoul		NEW AND IMPROVED			5	5000					so0		so0	pr204	382	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld		1		1	1	120	100	jew		Lightning Wall	999		lightningwall		NEW AND IMPROVED			5	5000					so0		so0	pr204	407	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld		1		1	1	120	100	jew		Searing Orb	1000		searingorb		NEW AND IMPROVED			5	5000					so0		so0	pr204	437	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld		1		1	1	120	100	jew		DisinUber	1001		disinuber		NEW AND IMPROVED			5	5000					so0		so0	pr204	444	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld		1		1	1	120	100	jew		Venomous Spirit	1002		venomousspirit		NEW AND IMPROVED			5	5000					so0		so0	pr204	344	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld		1		1	1	120	100	jew		Inner Fire	1003		innerfire		NEW AND IMPROVED			5	5000					so0		so0	pr204	346	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld		1		1	1	120	100	jew		Dinferno	1004		disco_inferno		NEW AND IMPROVED			5	5000					so0		so0	pr204	342	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld		1		1	1	120	100	jew		Disintegrate	1005		disintegrate		NEW AND IMPROVED			5	5000					so0		so0	pr204	402	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld		1		1	1	120	100	jew		Rune of Ice	1008		runeofice		NEW AND IMPROVED			5	5000					so0		so0	pr204	381	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld		1		1	1	120	100	jew		Hawk Talons	1010		hawktalons		NEW AND IMPROVED			5	5000					so0		so0	pr204	365	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld		1		1	1	120	100	jew		Whirlpool	1012		whirlpool		NEW AND IMPROVED			5	5000					so0		so0	pr204	425	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld		1		1	1	120	100	jew		Mark of the Wild	1013		markofthewild		NEW AND IMPROVED			5	5000					so0		so0	pr204	383	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld		1		1	1	120	100	jew		Call Leprechaun	1014		callleprechaun		NEW AND IMPROVED			5	5000					so0		so0	pr204	475	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld		1		1	1	120	100	jew		Dominate	1016		dominate		NEW AND IMPROVED			5	5000					so0		so0	pr204	368	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld		1		1	1	120	100	jew		Charm	1018		charm		NEW AND IMPROVED			5	5000					so0		so0	pr204	400	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld		1		1	1	120	100	jew		Summon Darklings	1021		summondarklings		NEW AND IMPROVED			5	5000					so0		so0	pr204	467	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld		1		1	1	120	100	jew		Exploding Totem	1022		explodingtotem		NEW AND IMPROVED			5	5000					so0		so0	pr204	390	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld		1		1	1	120	100	jew		Titan Strike	8		titanstrike		NEW AND IMPROVED			5	5000					so0		so0	pr204	442	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld		1		1	1	120	100	jew		Deathstrike	17		deathstrike		NEW AND IMPROVED			5	5000					so0		so0	pr204	322	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld		1		1	1	120	100	jew		Soulshatter	18		soulshatter		NEW AND IMPROVED			5	5000					so0		so0	pr204	432	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld		1		1	1	120	100	jew		Black Lotus Strike	19		blacklotusstrike		NEW AND IMPROVED			5	5000					so0		so0	pr204	420	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld		1		1	1	120	100	jew		Death Blossom	20		deathblossom		NEW AND IMPROVED			5	5000					so0		so0	pr204	421	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld		1		1	1	120	100	jew		Holy Trap	21		holytrap		NEW AND IMPROVED			5	5000					so0		so0	pr204	357	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld		1		1	1	120	100	jew		Fear Bomb Totem	22		fearbombtotem		NEW AND IMPROVED			5	5000					so0		so0	pr204	324	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld		1		1	1	120	100	jew		OHMAN	24		ohman		NEW AND IMPROVED			5	5000					so0		so0	pr204	429	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld		1		1	1	120	100	jew		Rock Shock	28		rockshock		NEW AND IMPROVED			5	5000					so0		so0	pr204	394	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld		1		1	1	120	100	jew		Unholy Armor	29		unholyarmor		NEW AND IMPROVED			5	5000					so0		so0	pr204	401	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld		1		1	1	120	100	jew		Rain of Bombs	30		rainofbombs		NEW AND IMPROVED			5	5000					so0		so0	pr204	403	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld		1		1	1	120	100	jew		Mana Tide Totem	57		manatidetotem		NEW AND IMPROVED			5	5000					so0		so0	pr204	409	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld		1		1	1	120	100	jew		Elemental Totem	58		elementaltotem		NEW AND IMPROVED			5	5000					so0		so0	pr204	301	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld		1		1	1	120	100	jew		Wrath	76		wrath		NEW AND IMPROVED			5	5000					so0		so0	pr204	453	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld		1		1	1	120	100	jew		Totembound Guardian	83		totemboundguardian		NEW AND IMPROVED			5	5000					so0		so0	pr204	450	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld		1		1	1	120	100	jew		Fire Fountain	111		firefountain		NEW AND IMPROVED			5	5000					so0		so0	pr204	472	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld		1		1	1	120	100	jew		Hailstorm	119		hailstorm		NEW AND IMPROVED			5	5000					so0		so0	pr204	329	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld		1		1	1	120	100	jew		Seal of Fire	134		sealoffire		NEW AND IMPROVED			5	5000					so0		so0	pr204	385	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld		1		1	1	120	100	jew		Firebolt Nova	142		fireboltnova		NEW AND IMPROVED			5	5000					so0		so0	pr204	430	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld		1		1	1	120	100	jew		Nova Bomb	153		novabomb		NEW AND IMPROVED			5	5000					so0		so0	pr204	358	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld		1		1	1	120	100	jew		Immolation Bomb	154		immolationbomb		NEW AND IMPROVED			5	5000					so0		so0	pr204	468	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld		1		1	1	120	100	jew		Lightning Arena	236		lightningarena		NEW AND IMPROVED			5	5000					so0		so0	pr204	443	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld		1		1	1	120	100	jew		Punisher	263		punisher		NEW AND IMPROVED			5	5000					so0		so0	pr204	377	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld		1		1	1	120	100	jew		Gamma Field	120		gammafield		NEW AND IMPROVED			5	5000					so0		so0	pr204	469	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld		1		1	1	120	100	jew		Spiral Dance	1011		spiraldance		NEW AND IMPROVED			5	5000					so0		so0	pr204	414	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld		1		1	1	120	100	jew		Ice Lance	104		icelance		NEW AND IMPROVED			5	5000					so0		so0	pr204	404	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld		1		1	1	120	100	jew		Diseased Cattle	139		diseasedcattle		NEW AND IMPROVED			5	5000					so0		so0	pr204	373	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld		1		1	1	120	100	jew					S5					5	5000					so0		so0	pr204	405	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld		1		1	1	120	100	jew			223	2507	REALM UNIQUE					5	5000					so0		so0	pr204	306	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld		1		1	1	120	100	jew			223	2507	REALM UNIQUE					5	5000					so0		so0	pr204	359	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld		1		1	1	120	100	jew			223	2507	REALM UNIQUE					5	5000					so0		so0	pr204	371	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld		1		1	1	120	100	jew			223	2507	REALM UNIQUE					5	5000					so0		so0	pr204	455	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld		1		1	1	120	100	jew			223	2507	REALM UNIQUE					5	5000					so0		so0	pr204	433	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld		1		1	1	120	100	jew			223	2507	REALM UNIQUE					5	5000					so0		so0	pr204	326	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld		1		1	1	120	100	jew			223	2507	REALM UNIQUE					5	5000					so0		so0	pr204	470	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld		1		1	1	120	100	jew			223	2507	REALM UNIQUE					5	5000					so0		so0	pr204	333	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld		1		1	1	120	100	jew			200	10000	ACTIVE					5	5000					so0		so0	pr204	336	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld		1		1	1	120	100	jew			223	2507	REALM UNIQUE					5	5000					so0		so0	pr204	302	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld		1		1	1	120	100	jew			223	2507	REALM UNIQUE					5	5000					so0		so0	pr204	424	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld		1		1	1	120	100	jew			1244	1862	ACTIVE					5	5000					so0		so0	pr204	406	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld		1		1	1	120	100	jew					S5					5	5000					so0		so0	pr204	304	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld		1		1	1	120	100	jew			383	1874	ACTIVE					5	5000					so0		so0	pr204	312	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld		1		1	1	120	100	jew			425	1856	ACTIVE					5	5000					so0		so0	pr204	463	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld		1		1	1	120	100	jew			489	273	ACTIVE					5	5000					so0		so0	pr204	356	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld		1		1	1	120	100	jew			490	546	ACTIVE					5	5000					so0		so0	pr204	366	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld		1		1	1	120	100	jew			491	819	ACTIVE					5	5000					so0		so0	pr204	380	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld		1		1	1	120	100	jew			492	1092	ACTIVE					5	5000					so0		so0	pr204	413	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld		1		1	1	120	100	jew			493	1365	ACTIVE					5	5000					so0		so0	pr204	327	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld		1		1	1	120	100	jew			494	1638	ACTIVE					5	5000					so0		so0	pr204	446	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld		1		1	1	120	100	jew			908	1805	ACTIVE					5	5000					so0		so0	pr204	353	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld		1		1	1	120	100	jew			1364	264	ACTIVE					5	5000					so0		so0	pr204	462	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld		1		1	1	120	100	jew			1365	537	ACTIVE					5	5000					so0		so0	pr204	473	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld		1		1	1	120	100	jew			1366	810	ACTIVE					5	5000					so0		so0	pr204	308	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld		1		1	1	120	100	jew			1367	1083	ACTIVE					5	5000					so0		so0	pr204	431	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld		1		1	1	120	100	jew			1368	1356	ACTIVE					5	5000					so0		so0	pr204	426	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld		1		1	1	120	100	jew			1369	1629	ACTIVE					5	5000					so0		so0	pr204	415	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld		1		1	1	120	100	jew			1553	252	ACTIVE					5	5000					so0		so0	pr204	395	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld		1		1	1	120	100	jew			1554	525	ACTIVE					5	5000					so0		so0	pr204	376	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld		1		1	1	120	100	jew			1555	798	ACTIVE					5	5000					so0		so0	pr204	427	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld		1		1	1	120	100	jew			1556	1071	ACTIVE					5	5000					so0		so0	pr204	343	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld		1		1	1	120	100	jew			1558	1617	ACTIVE					5	5000					so0		so0	pr204	459	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld		1		1	1	120	100	jew			1566	1811	ACTIVE					5	5000					so0		so0	pr204	334	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld		1		1	1	120	100	jew			223	2507	REALM UNIQUE					5	5000					so0		so0	pr204	351	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld		1		1	1	120	100	jew					REALM UNIQUE					5	5000					so0		so0	pr204	460	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld		1		1	1	120	100	jew					REALM UNIQUE					5	5000					so0		so0	pr204	363	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld		1		1	1	120	100	jew					REALM UNIQUE					5	5000					so0		so0	pr204	454	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld		1		1	1	120	100	jew					REALM UNIQUE					5	5000					so0		so0	pr204	386	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld		1		1	1	120	100	jew					REALM UNIQUE					5	5000					so0		so0	pr204	392	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld		1		1	1	120	100	jew			1770		ACTIVE					5	5000					so0		so0	pr204	387	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld		1		1	1	120	100	jew					REALM UNIQUE					5	5000					so0		so0	pr204	449	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld		1		1	1	120	100	jew										5	5000					so0		so0	pr204	436	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld		1		1	1	120	100	jew										5	5000					so0		so0	pr204	438	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld		1		1	1	120	100	jew										5	5000					so0		so0	pr204	1247	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld		1		1	1	120	100	jew										5	5000					so0		so0	pr204	1248	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld		1		1	1	120	100	jew										5	5000					so0		so0	pr204	1249	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld		1		1	1	120	100	jew										5	5000					so0		so0	pr204	1251	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld		1		1	1	120	100	jew										5	5000					so0		so0	pr204	1252	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld		1		1	1	120	100	jew										5	5000					so0		so0	pr204	1253	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld		1		1	1	120	100	jew										5	5000					so0		so0	pr204	1255	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld		1		1	1	120	100	jew										5	5000					so0		so0	pr204	1256	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld		1		1	1	120	100	jew										5	5000					so0		so0	pr204	1258	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld		1		1	1	120	100	jew										5	5000					so0		so0	pr204	1259	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld		1		1	1	120	100	jew										5	5000					so0		so0	pr204	1260	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld		1		1	1	120	100	jew										5	5000					so0		so0	pr204	1262	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld		1		1	1	120	100	jew										5	5000					so0		so0	pr204	1263	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld		1		1	1	120	100	jew										5	5000					so0		so0	pr204	1264	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld		1		1	1	120	100	jew										5	5000					so0		so0	pr204	1266	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld		1		1	1	120	100	jew										5	5000					so0		so0	pr204	1267	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld		1		1	1	120	100	jew										5	5000					so0		so0	pr204	1268	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld		1		1	1	120	100	jew										5	5000					so0		so0	pr204	1271	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld		1		1	1	120	100	jew										5	5000					so0		so0	pr204	1272	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld		1		1	1	120	100	jew										5	5000					so0		so0	pr204	1274	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld		1		1	1	120	100	jew										5	5000					so0		so0	pr204	1275	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld		1		1	1	120	100	jew										5	5000					so0		so0	pr204	1276	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld		1		1	1	120	100	jew										5	5000					so0		so0	pr204	1277	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld		1		1	1	120	100	jew										5	5000					so0		so0	pr204	1278	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld		1		1	1	120	100	jew										5	5000					so0		so0	pr204	1279	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld		1		1	1	120	100	jew										5	5000					so0		so0	pr204	1280	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld		1		1	1	120	100	jew										5	5000					so0		so0	pr204	250	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld		1		1	1	120	100	jew										5	5000					so0		so0	pr204	62	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew					SECRET BONUS ITEM					5	5000					so0		so0	pr204	601	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew					REALM UNIQUE					5	5000					so0		so0	pr204	448	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew					SECRET BONUS ITEM					5	5000					so0		so0	pr204	609	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew					S2 BONUS ITEM					5	5000					so0		so0	pr204	348	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew					SECRET BONUS ITEM					5	5000					so0		so0	pr204	319	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew					REALM UNIQUE					5	5000					so0		so0	pr204	452	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew					REALM UNIQUE					5	5000					so0		so0	pr204	307	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew					SECRET BONUS ITEM					5	5000					so0		so0	pr204	370	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew					SECRET BONUS ITEM					5	5000					so0		so0	pr204	602	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew					SECRET BONUS ITEM					5	5000					so0		so0	pr204	618	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew					SECRET BONUS ITEM					5	5000					so0		so0	pr204	350	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew					REALM UNIQUE					5	5000					so0		so0	pr204	456	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew					S2 BONUS ITEM					5	5000					so0		so0	pr204	608	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew					SECRET BONUS ITEM					5	5000					so0		so0	pr204	369	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew					S2 BONUS ITEM					5	5000					so0		so0	pr204	617	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew					SECRET BONUS ITEM					5	5000					so0		so0	pr204	384	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew					REALM UNIQUE					5	5000					so0		so0	pr204	610	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew					REALM UNIQUE					5	5000					so0		so0	pr204	422	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew					SECRET BONUS ITEM					5	5000					so0		so0	pr204	412	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew					SECRET BONUS ITEM					5	5000					so0		so0	pr204	466	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew					REALM UNIQUE					5	5000					so0		so0	pr204	464	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew					REALM UNIQUE					5	5000					so0		so0	pr204	367	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew					REALM UNIQUE					5	5000					so0		so0	pr204	979	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew					S2 BONUS ITEM					5	5000					so0		so0	pr204	331	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew					SECRET BONUS ITEM					5	5000					so0		so0	pr204	620	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew					SECRET BONUS ITEM					5	5000					so0		so0	pr204	325	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew					SECRET BONUS ITEM	4				5	5000					so0		so0	pr204	897	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew					SECRET BONUS ITEM					5	5000					so0		so0	pr204	305	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew					S2 BONUS ITEM					5	5000					so0		so0	pr204	410	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew					S2 BONUS ITEM					5	5000					so0		so0	pr204	418	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew					REALM UNIQUE					5	5000					so0		so0	pr204	445	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew					REALM UNIQUE					5	5000					so0		so0	pr204	335	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew					REALM UNIQUE					5	5000					so0		so0	pr204	605	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew					S2 BONUS ITEM					5	5000					so0		so0	pr204	364	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew					SECRET BONUS ITEM					5	5000					so0		so0	pr204	621	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew					S2 BONUS ITEM					5	5000					so0		so0	pr204	323	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew					REALM UNIQUE					5	5000					so0		so0	pr204	315	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew					SECRET BONUS ITEM					5	5000					so0		so0	pr204	615	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew					S2 BONUS ITEM					5	5000					so0		so0	pr204	321	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew					S2 BONUS ITEM					5	5000					so0		so0	pr204	899	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew					REALM UNIQUE					5	5000					so0		so0	pr204	812	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew					REALM UNIQUE					5	5000					so0		so0	pr204	885	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew					SECRET BONUS ITEM					5	5000					so0		so0	pr204	76	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew					REALM UNIQUE					5	5000					so0		so0	pr204	603	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew					S2 BONUS ITEM					5	5000					so0		so0	pr204	1022	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew					REALM UNIQUE					5	5000					so0		so0	pr204	672	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew					SECRET BONUS ITEM					5	5000					so0		so0	pr204	30	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew					REALM UNIQUE					5	5000					so0		so0	pr204	1008	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew					SECRET BONUS ITEM					5	5000					so0		so0	pr204	701	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew					SECRET BONUS ITEM					5	5000					so0		so0	pr204	1011	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew					S2 BONUS ITEM					5	5000					so0		so0	pr204	698	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew					SECRET BONUS ITEM					5	5000					so0		so0	pr204	824	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew					REALM UNIQUE					5	5000					so0		so0	pr204	761	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew					S2 BONUS ITEM					5	5000					so0		so0	pr204	1016	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew					S2 BONUS ITEM					5	5000					so0		so0	pr204	870	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew					REALM UNIQUE					5	5000					so0		so0	pr204	977	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew					SECRET BONUS ITEM					5	5000					so0		so0	pr204	976	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew					SECRET BONUS ITEM					5	5000					so0		so0	pr204	905	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew					SECRET BONUS ITEM					5	5000					so0		so0	pr204	1005	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew					REALM UNIQUE					5	5000					so0		so0	pr204	798	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew					REALM UNIQUE					5	5000					so0		so0	pr204	693	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew					S2 BONUS ITEM					5	5000					so0		so0	pr204	892	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew					SECRET BONUS ITEM					5	5000					so0		so0	pr204	604	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew					REALM UNIQUE					5	5000					so0		so0	pr204	1004	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew					SECRET BONUS ITEM					5	5000					so0		so0	pr204	1002	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew					SECRET BONUS ITEM					5	5000					so0		so0	pr204	263	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew					S2 BONUS ITEM					5	5000					so0		so0	pr204	134	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew					REALM UNIQUE					5	5000					so0		so0	pr204	637	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew					S2 BONUS ITEM					5	5000					so0		so0	pr204	1000	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew					SECRET BONUS ITEM					5	5000					so0		so0	pr204	904	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew					S2 BONUS ITEM					5	5000					so0		so0	pr204	1018	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew					SECRET BONUS ITEM					5	5000					so0		so0	pr204	571	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew					REALM UNIQUE					5	5000					so0		so0	pr204	898	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew					REALM UNIQUE					5	5000					so0		so0	pr204	896	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew					REALM UNIQUE					5	5000					so0		so0	pr204	691	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew					REALM UNIQUE					5	5000					so0		so0	pr204	569	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew					S2 BONUS ITEM					5	5000					so0		so0	pr204	833	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew					REALM UNIQUE					5	5000					so0		so0	pr204	17	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew					SECRET BONUS ITEM					5	5000					so0		so0	pr204	687	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew					S2 BONUS ITEM					5	5000					so0		so0	pr204	614	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew					REALM UNIQUE					5	5000					so0		so0	pr204	886	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew					REALM UNIQUE					5	5000					so0		so0	pr204	694	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew					S2 BONUS ITEM					5	5000					so0		so0	pr204	83	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew					REALM UNIQUE					5	5000					so0		so0	pr204	789	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew					REALM UNIQUE					5	5000					so0		so0	pr204	8	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew					REALM UNIQUE					5	5000					so0		so0	pr204	972	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew					SECRET BONUS ITEM					5	5000					so0		so0	pr204	670	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew					REALM UNIQUE					5	5000					so0		so0	pr204	884	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew					S2 BONUS ITEM					5	5000					so0		so0	pr204	642	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew					SECRET BONUS ITEM					5	5000					so0		so0	pr204	797	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew					SECRET BONUS ITEM					5	5000					so0		so0	pr204	690	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew					REALM UNIQUE					5	5000					so0		so0	pr204	757	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew					REALM UNIQUE					5	5000					so0		so0	pr204	688	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew					REALM UNIQUE					5	5000					so0		so0	pr204	825	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew					S2 BONUS ITEM					5	5000					so0		so0	pr204	809	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew					S2 BONUS ITEM					5	5000					so0		so0	pr204	613	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew					SECRET BONUS ITEM					5	5000					so0		so0	pr204	154	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew					REALM UNIQUE					5	5000					so0		so0	pr204	565	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew					REALM UNIQUE					5	5000					so0		so0	pr204	20	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew					REALM UNIQUE					5	5000					so0		so0	pr204	566	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew					REALM UNIQUE					5	5000					so0		so0	pr204	680	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew					SECRET BONUS ITEM					5	5000					so0		so0	pr204	58	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew					REALM UNIQUE					5	5000					so0		so0	pr204	567	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew					SECRET BONUS ITEM					5	5000					so0		so0	pr204	568	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew		217			MODIFIED IN S3					5	5000					so0		so0	pr204	607	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew					S3 BONUS ITEM					5	5000					so0		so0	pr204	792	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew					REALM RESERVED ITEMS					5	5000					so0		so0	pr204	635	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew					S3 BONUS ITEM					5	5000					so0		so0	pr204	572	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew					S3 BONUS ITEM					5	5000					so0		so0	pr204	967	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew					S3 BONUS ITEM					5	5000					so0		so0	pr204	643	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew					REALM RESERVED ITEMS					5	5000					so0		so0	pr204	820	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew					REALM RESERVED ITEMS					5	5000					so0		so0	pr204	139	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew					REALM RESERVED ITEMS					5	5000					so0		so0	pr204	673	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew					REALM RESERVED ITEMS					5	5000					so0		so0	pr204	1001	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew					REALM RESERVED ITEMS					5	5000					so0		so0	pr204	882	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew					REALM RESERVED ITEMS					5	5000					so0		so0	pr204	481	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew					REALM RESERVED ITEMS					5	5000					so0		so0	pr204	889	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew					REALM RESERVED ITEMS					5	5000					so0		so0	pr204	983	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew					S3 BONUS ITEM					5	5000					so0		so0	pr204	616	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew					S3 BONUS ITEM					5	5000					so0		so0	pr204	624	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew					REALM RESERVED ITEMS					5	5000					so0		so0	pr204	21	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew					REALM RESERVED ITEMS					5	5000					so0		so0	pr204	634	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew					S4 BONUS ITEM					5	5000					so0		so0	pr204	906	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew					S4 BONUS ITEM					5	5000					so0		so0	pr204	903	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew			1770		ACTIVE					5	5000					so0		so0	pr204	829	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew			181	10000	ACTIVE		FIXED			5	5000					so0		so0	pr204	29	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew			186	10000	ACTIVE		FIXED			5	5000					so0		so0	pr204	901	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew			187	10000	ACTIVE		FIXED			5	5000					so0		so0	pr204	104	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew			1770		ACTIVE		FIXED			5	5000					so0		so0	pr204	890	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew					REALM UNIQUE					5	5000					so0		so0	pr204	1003	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew					S2 BONUS ITEM					5	5000					so0		so0	pr204	612	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew		Curare		10000	DONT		NEW AND IMPROVED			5	5000					so0		so0	pr204	793	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew		Paragon		10000	YOU		NEW AND IMPROVED			5	5000					so0		so0	pr204	871	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew		Spirit of Vengeance		10000	FUCKING		NEW AND IMPROVED			5	5000					so0		so0	pr204	746	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew		Beacon		10000	DARE		NEW AND IMPROVED			5	5000					so0		so0	pr204	777	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew		Way of the Gryphon		10000	HACKING		NEW AND IMPROVED			5	5000					so0		so0	pr204	839	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew		Phase Bomb		10000	THESE		NEW AND IMPROVED			5	5000					so0		so0	pr204	706	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew		Kraken Stance		10000	INTO		NEW AND IMPROVED			5	5000					so0		so0	pr204	888	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew		Runemaster		10000	BEING		NEW AND IMPROVED			5	5000					so0		so0	pr204	766	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew		Shamanic Trance		10000	YOU		NEW AND IMPROVED			5	5000					so0		so0	pr204	873	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew		Force of Nature		10000	FUCKING		NEW AND IMPROVED			5	5000					so0		so0	pr204	28	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew		Faerie Fire		10000	SHADOW		NEW AND IMPROVED			5	5000					so0		so0	pr204	669	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew		Tremor		10000	DIABLO		NEW AND IMPROVED			5	5000					so0		so0	pr204	999	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew		Summon Jinn		10000	ASSHOLES		NEW AND IMPROVED			5	5000					so0		so0	pr204	828	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew		Rathmas Chosen		10000	BUNCH		NEW AND IMPROVED			5	5000					so0		so0	pr204	695	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew		Death Ward		10000	OF		NEW AND IMPROVED			5	5000					so0		so0	pr204	563	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	666	666	jew		WhiteZombie		10000	STUPID		NEW AND IMPROVED			5	5000					so0		so0	pr204	611	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew		Superbeast		10000	POWER		NEW AND IMPROVED			5	5000					so0		so0	pr204	997	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew		Plague		10000	TRIPPING		NEW AND IMPROVED			5	5000					so0		so0	pr204	562	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew		Slow		10000	NO		NEW AND IMPROVED			5	5000					so0		so0	pr204	883	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew		Witch Blood		10000	LIFE		NEW AND IMPROVED			5	5000					so0		so0	pr204	703	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew		Bane Hunter		10000	RETARDS		NEW AND IMPROVED			5	5000					so0		so0	pr204	24	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew		Electrobolt Spell	481		electrobolt		NEW AND IMPROVED			5	5000					so0		so0	pr204	153	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew		Other Avatar	562		other_avatar		NEW AND IMPROVED			5	5000					so0		so0	pr204	22	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew		Other Banish	563		other_banish		NEW AND IMPROVED			5	5000					so0		so0	pr204	697	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew		Other Blast Wave	564		other_blastwave		NEW AND IMPROVED			5	5000					so0		so0	pr204	887	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew		Other Demonic Speed	565		other_demonicspeed		NEW AND IMPROVED			5	5000					so0		so0	pr204	902	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew		Other Fire Cascade	566		other_firecascade		NEW AND IMPROVED			5	5000					so0		so0	pr204	1010	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew		Other Pandemonium	567		other_pandemonium		NEW AND IMPROVED			5	5000					so0		so0	pr204	705	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew		Other Possess	568		other_possess		NEW AND IMPROVED			5	5000					so0		so0	pr204	671	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew		Other Raven Flight	569		other_ravenflight		NEW AND IMPROVED			5	5000					so0		so0	pr204	822	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew		Other Raven Heart	570		other_ravenheart		NEW AND IMPROVED			5	5000					so0		so0	pr204	891	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew		Other Shackles of Ice	571		other_shacklesofice		NEW AND IMPROVED			5	5000					so0		so0	pr204	689	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew		Other Typhoon Sentry	572		other_typhoonsentry		NEW AND IMPROVED			5	5000					so0		so0	pr204	236	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew		Fire Star	632		firestar		NEW AND IMPROVED			5	5000					so0		so0	pr204	702	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew		Phalanx	634		phalanx		NEW AND IMPROVED			5	5000					so0		so0	pr204	1012	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew		Guided Chain	635		guidedchain		NEW AND IMPROVED			5	5000					so0		so0	pr204	119	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew		Silver Streak	636		silverstreak		NEW AND IMPROVED			5	5000					so0		so0	pr204	959	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew		Exorcism	637		exorcism		NEW AND IMPROVED			5	5000					so0		so0	pr204	120	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew		Scatter Shot	642		scattershot		NEW AND IMPROVED			5	5000					so0		so0	pr204	998	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew		Overpower	643		overpower		NEW AND IMPROVED			5	5000					so0		so0	pr204	872	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew		Golden Calf	652		goldencalf		NEW AND IMPROVED			5	5000					so0		so0	pr204	969	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew		Bloodspeakers Mark	666		bloodspeakers mark		NEW AND IMPROVED			5	5000					so0		so0	pr204	791	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew		Champions of the Sun	668		championsofthesun		NEW AND IMPROVED			5	5000					so0		so0	pr204	19	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew		Lightning Shield	669		lightningshield		NEW AND IMPROVED			5	5000					so0		so0	pr204	1021	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew		Summon Overlord	670		summonoverlord		NEW AND IMPROVED			5	5000					so0		so0	pr204	826	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew		Liche Totem	671		lichetotem		NEW AND IMPROVED			5	5000					so0		so0	pr204	823	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew		Bloody Mary	672		bloodymary		NEW AND IMPROVED			5	5000					so0		so0	pr204	666	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew		Pagan Heart	673		paganheart		NEW AND IMPROVED			5	5000					so0		so0	pr204	57	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew		Cherub Strike	676		cherubstrike		NEW AND IMPROVED			5	5000					so0		so0	pr204	807	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew		Supernova	680		supernova		NEW AND IMPROVED			5	5000					so0		so0	pr204	1013	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew		Dark Power	687		darkpower		NEW AND IMPROVED			5	5000					so0		so0	pr204	984	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew		Conquest	688		conquest		NEW AND IMPROVED			5	5000					so0		so0	pr204	900	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew		Hamstring	689		hamstring		NEW AND IMPROVED			5	5000					so0		so0	pr204	802	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew		Cautious Strike	690		cautiousstrike		NEW AND IMPROVED			5	5000					so0		so0	pr204	18	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew		Time Strike	691		timestrike		NEW AND IMPROVED			5	5000					so0		so0	pr204	895	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew		Sunspear	693		sunspear		NEW AND IMPROVED			5	5000					so0		so0	pr204	894	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew		Death Coil	694		deathcoil		NEW AND IMPROVED			5	5000					so0		so0	pr204	632	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew		Shadow Blade	695		shadowblade		NEW AND IMPROVED			5	5000					so0		so0	pr204	1014	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew		Nightmare	697		nightmare		NEW AND IMPROVED			5	5000					so0		so0	pr204	619	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew		Vanquish	698		vanquish		NEW AND IMPROVED			5	5000					so0		so0	pr204	800	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew		Cataclysm	699		cataclysm		NEW AND IMPROVED			5	5000					so0		so0	pr204	636	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew		Doom Serpents	701		doomserpents		NEW AND IMPROVED			5	5000					so0		so0	pr204	699	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew		Glacial Nova	702		glacialnova		NEW AND IMPROVED			5	5000					so0		so0	pr204	111	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew		Frozen Crown	703		frozencrown		NEW AND IMPROVED			5	5000					so0		so0	pr204	840	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew		Vortex	705		vortex		NEW AND IMPROVED			5	5000					so0		so0	pr204	668	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew		Mana Coil	706		manacoil		NEW AND IMPROVED			5	5000					so0		so0	pr204	142	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew		Blade Barrier	746		bladebarrier		NEW AND IMPROVED			5	5000					so0		so0	pr204	676	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew		Summon Thunder Bear	757		summonthunderbear		NEW AND IMPROVED			5	5000					so0		so0	pr204	564	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew		Summon Shock Beast	761		summonshockbeast		NEW AND IMPROVED			5	5000					so0		so0	pr204	570	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew		Pyroclastic Flow	766		pyroclasticflow		NEW AND IMPROVED			5	5000					so0		so0	pr204	652	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew		Wyrd	802		wyrd		NEW AND IMPROVED			5	5000					so0		so0	pr204	428	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew										5	5000					so0		so0	pr204	1024	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew										5	5000					so0		so0	pr204	1025	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew										5	5000					so0		so0	pr204	1026	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew										5	5000					so0		so0	pr204	1027	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew										5	5000					so0		so0	pr204	1028	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew										5	5000					so0		so0	pr204	1029	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew										5	5000					so0		so0	pr204	1030	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew										5	5000					so0		so0	pr204	1031	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew										5	5000					so0		so0	pr204	1032	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew										5	5000					so0		so0	pr204	1033	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew										5	5000					so0		so0	pr204	1037	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew										5	5000					so0		so0	pr204	1158	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew		BFG83K	976		bfg83k		NEW AND IMPROVED			5	5000					so0		so0	pr204	480	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew		Call Angel King Safe	897		callangelking		NEW AND IMPROVED			5	5000					so0		so0	pr204	681	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew			1557	1344	ACTIVE					5	5000					so0		so0	pr204	682	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew										5	5000					so0		so0	pr204	1250	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew										5	5000					so0		so0	pr204	1254	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew										5	5000					so0		so0	pr204	1257	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew										5	5000					so0		so0	pr204	1261	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew										5	5000					so0		so0	pr204	1265	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew										5	5000					so0		so0	pr204	1269	1	1	pr202		10	10	pr469		10	10																																					0
+Cornerstone of the Roflworld				1	1	120	100	jew										5	5000					so0		so0	pr204	1273	1	1	pr202		10	10	pr469		10	10																																					0
+Diablo Clone Charm				1	1	1	120	#1^									1	5	5000					so0		so0	pr73		-3	-3	pr7		-5	5	pr8		-5	5	pr9		-5	5	pr10		-5	5	pr66		3	5	pr65		3	5	pr104			1																	0
+TokenRing				1	1	120	121	rin										5	5000					so0		so0	pr117	1222	100	100	pr108		100	100	pr190		1000	1000	pr104		10	10																																	0
