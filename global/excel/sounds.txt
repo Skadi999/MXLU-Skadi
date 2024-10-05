@@ -4943,3 +4943,6 @@ so4940	4940
 so4941	4941																							
 so4942	4942																							
 so4943	4943																							
+so4944	4944	monster\haunt\haunt_att.wav	255	0	0	0	0	1	0	0	4	1	1	0	0	240	0	0	1	0	0	-1	-1	-1
+so4945	4945	monster\haunt\haunt_death.wav	255	0	0	0	0	1	0	0	4	1	1	0	0	240	0	0	1	0	0	-1	-1	-1
+so4946	4946	monster\haunt\haunt_walk.wav	255	0	0	0	0	1	0	0	4	1	1	0	0	240	0	0	1	0	0	-1	-1	-1
