@@ -23,3 +23,22 @@ Current Changes:
 --- Technical ---
 -All strings are now stored in expansionstring.tbl
 -Started cleaning up .txts and .tbls.
+
+
+TODO:
+- Change Zomghelp Recipe
+- Overhaul/remove crafting points
+- Overhaul Azmodan mobs and remove random stats from Azmodan and other bosses
+- Overhaul some TUs, SUs
+- Restore some item stats that were removed in 2012 like 5% max res on Imperius set boots
+- Restore some Omega era unique item names
+- Bring back old SUs like the SU Battle Axe from Omega 1, old Warwind with Hades Gate proc, old items like Aeterna, etc.
+- Completely deobfuscate everything, remove unused stuff, cleanup files
+- Changes to Mystic Orbs: Add a way to remove MOs, add an item that will allow re-using an MO
+- Make Shrine Blessings 100% chance of working
+- Revamp campaign monsters, some other mobs such as Summon Thunder Bear
+- Some changes to skills: Make Runemaster a buff? Change stances to buffs? Remove/reduce timers on some skills, increase duration on others.
+- Use some item/spell/minion icons from later versions
+- Create new monsters with D1/Infinitum/Sigma monster tokens
+- Reenable some disabled uniques and RWs in the files
+- Change Merc Equip to Basemod version, free up itemtypes, create the e;;q itemtype and use it for crafting recipes
