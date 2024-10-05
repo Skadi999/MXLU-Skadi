@@ -168,126 +168,126 @@ cm177	Black Road Challenge	1			100	18	424		sor	5	Nexus Crystal	"vic,qty=4"						
 cm178	Black Road Challenge	1			100	18	425		sor	5	Nexus Crystal	"vic,qty=4"						useitem																																																																																												0
 cm179	Black Road Challenge	1			100	18	419	1	sor	5	Nexus Crystal	"vic,qty=4"						useitem																																																																																												0
 cm180	Black Road Challenge	1			100				sor	5	Nexus Crystal	"vic,qty=4"						useitem				pr308				1	1	pr273				1	1	pr318				-1	-1	pr13				150	150	pr11				150	150																																																											0
-cm181		1								2	"gcv,qty=2"							gfv																																																																																												0
-cm182		1								2	"gfv,qty=2"							gsv																																																																																												0
-cm183		1								2	"gsv,qty=2"							gzv																																																																																												0
-cm184		1								2	"gzv,qty=2"							gpv																																																																																												0
-cm185		1								2	"gcr,qty=2"							gfr																																																																																												0
-cm186		1								2	"gfr,qty=2"							gsr																																																																																												0
-cm187		1								2	"gsr,qty=2"							glr																																																																																												0
-cm188		1								2	"glr,qty=2"							gpr																																																																																												0
-cm189		1								2	"gcb,qty=2"							gfb																																																																																												0
-cm190		1								2	"gfb,qty=2"							gsb																																																																																												0
-cm191		1								2	"gsb,qty=2"							glb																																																																																												0
-cm192		1								2	"glb,qty=2"							gpb																																																																																												0
-cm193		1								2	"gcy,qty=2"							gfy																																																																																												0
-cm194		1								2	"gfy,qty=2"							gsy																																																																																												0
-cm195		1								2	"gsy,qty=2"							gly																																																																																												0
-cm196		1								2	"gly,qty=2"							gpy																																																																																												0
-cm197		1								2	"gcg,qty=2"							gfg																																																																																												0
-cm198		1								2	"gfg,qty=2"							gsg																																																																																												0
-cm199		1								2	"gsg,qty=2"							glg																																																																																												0
-cm200		1								2	"glg,qty=2"							gpg																																																																																												0
-cm201		1								2	"gcw,qty=2"							gfw																																																																																												0
-cm202		1								2	"gfw,qty=2"							gsw																																																																																												0
-cm203		1								2	"gsw,qty=2"							glw																																																																																												0
-cm204		1								2	"glw,qty=2"							gpw																																																																																												0
-cm205		1								2	"skc,qty=2"							skf																																																																																												0
-cm206		1								2	"skf,qty=2"							sku																																																																																												0
-cm207		1								2	"sku,qty=2"							skl																																																																																												0
-cm208		1								2	"skl,qty=2"							skz																																																																																												0
-cm209		1								2	"yo1,qty=2"							yo2																																																																																												0
-cm210		1								2	"yo2,qty=2"							yo3																																																																																												0
-cm211		1								2	"yo3,qty=2"							yo4																																																																																												0
-cm212		1								2	"yo4,qty=2"							yo5																																																																																												0
-cm213		1								2	"g$a,qty=2"							g$b																																																																																												0
-cm214		1								2	"g$b,qty=2"							g$c																																																																																												0
-cm215		1								2	"g$c,qty=2"							g$d																																																																																												0
-cm216		1								2	"g$d,qty=2"							g$e																																																																																												0
-cm217		1								2	"9$a,qty=2"							9$b																																																																																												0
-cm218		1								2	"9$b,qty=2"							9$c																																																																																												0
-cm219		1								2	"9$c,qty=2"							9$d																																																																																												0
-cm220		1								2	"9$d,qty=2"							9$e																																																																																												0
-cm221		1								2	"7$a,qty=2"							7$b																																																																																												0
-cm222		1								2	"7$b,qty=2"							7$c																																																																																												0
-cm223		1								2	"7$c,qty=2"							7$d																																																																																												0
-cm224		1								2	"7$d,qty=2"							7$e																																																																																												0
-cm225		1								2	"5$a,qty=2"							5$b																																																																																												0
-cm226		1								2	"5$b,qty=2"							5$c																																																																																												0
-cm227		1								2	"5$c,qty=2"							5$d																																																																																												0
-cm228		1								2	"5$d,qty=2"							5$e																																																																																												0
-cm229		1								3	"gcv,qty=2"	gfv						gsv																																																																																												0
-cm230		1								4	"gcv,qty=4"							gsv																																																																																												0
-cm231		1								3	"gfv,qty=2"	gsv						gzv																																																																																												0
-cm232		1								4	"gfv,qty=4"							gzv																																																																																												0
-cm233		1								3	"gsv,qty=2"	gzv						gpv																																																																																												0
-cm234		1								4	"gsv,qty=4"							gpv																																																																																												0
-cm235		1								3	"gcr,qty=2"	gfr						gsr																																																																																												0
-cm236		1								4	"gcr,qty=4"							gsr																																																																																												0
-cm237		1								3	"gfr,qty=2"	gsr						glr																																																																																												0
-cm238		1								4	"gfr,qty=4"							glr																																																																																												0
-cm239		1								3	"gsr,qty=2"	glr						gpr																																																																																												0
-cm240		1								4	"gsr,qty=4"							gpr																																																																																												0
-cm241		1								3	"gcb,qty=2"	gfb						gsb																																																																																												0
-cm242		1								4	"gcb,qty=4"							gsb																																																																																												0
-cm243		1								3	"gfb,qty=2"	gsb						glb																																																																																												0
-cm244		1								4	"gfb,qty=4"							glb																																																																																												0
-cm245		1								3	"gsb,qty=2"	glb						gpb																																																																																												0
-cm246		1								4	"gsb,qty=4"							gpb																																																																																												0
-cm247		1								3	"gcy,qty=2"	gfy						gsy																																																																																												0
-cm248		1								4	"gcy,qty=4"							gsy																																																																																												0
-cm249		1								3	"gfy,qty=2"	gsy						gly																																																																																												0
-cm250		1								4	"gfy,qty=4"							gly																																																																																												0
-cm251		1								3	"gsy,qty=2"	gly						gpy																																																																																												0
-cm252		1								4	"gsy,qty=4"							gpy																																																																																												0
-cm253		1								3	"gcg,qty=2"	gfg						gsg																																																																																												0
-cm254		1								4	"gcg,qty=4"							gsg																																																																																												0
-cm255		1								3	"gfg,qty=2"	gsg						glg																																																																																												0
-cm256		1								4	"gfg,qty=4"							glg																																																																																												0
-cm257		1								3	"gsg,qty=2"	glg						gpg																																																																																												0
-cm258		1								4	"gsg,qty=4"							gpg																																																																																												0
-cm259		1								3	"gcw,qty=2"	gfw						gsw																																																																																												0
-cm260		1								4	"gcw,qty=4"							gsw																																																																																												0
-cm261		1								3	"gfw,qty=2"	gsw						glw																																																																																												0
-cm262		1								4	"gfw,qty=4"							glw																																																																																												0
-cm263		1								3	"gsw,qty=2"	glw						gpw																																																																																												0
-cm264		1								4	"gsw,qty=4"							gpw																																																																																												0
-cm265		1								3	"skc,qty=2"	skf						sku																																																																																												0
-cm266		1								4	"skc,qty=4"							sku																																																																																												0
-cm267		1								3	"skf,qty=2"	sku						skl																																																																																												0
-cm268		1								4	"skf,qty=4"							skl																																																																																												0
-cm269		1								3	"sku,qty=2"	skl						skz																																																																																												0
-cm270		1								4	"sku,qty=4"							skz																																																																																												0
-cm271		1								3	"yo1,qty=2"	yo2						yo3																																																																																												0
-cm272		1								4	"yo1,qty=4"							yo3																																																																																												0
-cm273		1								3	"yo2,qty=2"	yo3						yo4																																																																																												0
-cm274		1								4	"yo2,qty=4"							yo4																																																																																												0
-cm275		1								3	"yo3,qty=2"	yo4						yo5																																																																																												0
-cm276		1								4	"yo3,qty=4"							yo5																																																																																												0
-cm277		1								3	"g$a,qty=2"	g$b						g$c																																																																																												0
-cm278		1								4	"g$a,qty=4"							g$c																																																																																												0
-cm279		1								3	"g$b,qty=2"	g$c						g$d																																																																																												0
-cm280		1								4	"g$b,qty=4"							g$d																																																																																												0
-cm281		1								3	"g$c,qty=2"	g$d						g$e																																																																																												0
-cm282		1								4	"g$c,qty=4"							g$e																																																																																												0
-cm283		1								3	"9$a,qty=2"	9$b						9$c																																																																																												0
-cm284		1								4	"9$a,qty=4"							9$c																																																																																												0
-cm285		1								3	"9$b,qty=2"	9$c						9$d																																																																																												0
-cm286		1								4	"9$b,qty=4"							9$d																																																																																												0
-cm287		1								3	"9$c,qty=2"	9$d						9$e																																																																																												0
-cm288		1								4	"9$c,qty=4"							9$e																																																																																												0
-cm289		1								3	"7$a,qty=2"	7$b						7$c																																																																																												0
-cm290		1								4	"7$a,qty=4"							7$c																																																																																												0
-cm291		1								3	"7$b,qty=2"	7$c						7$d																																																																																												0
-cm292		1								4	"7$b,qty=4"							7$d																																																																																												0
-cm293		1								3	"7$c,qty=2"	7$d						7$e																																																																																												0
-cm294		1								4	"7$c,qty=4"							7$e																																																																																												0
-cm295		1								3	"5$a,qty=2"	5$b						5$c																																																																																												0
-cm296		1								4	"5$a,qty=4"							5$c																																																																																												0
-cm297		1								3	"5$b,qty=2"	5$c						5$d																																																																																												0
-cm298		1								4	"5$b,qty=4"							5$d																																																																																												0
-cm299		1								3	"5$c,qty=2"	5$d						5$e																																																																																												0
-cm300		1								4	"5$c,qty=4"							5$e																																																																																												0
+cm181	Gem Upgrade	1								2	"gcv,qty=2"							gfv																																																																																												0
+cm182	Gem Upgrade	1								2	"gfv,qty=2"							gsv																																																																																												0
+cm183	Gem Upgrade	1								2	"gsv,qty=2"							gzv																																																																																												0
+cm184	Gem Upgrade	1								2	"gzv,qty=2"							gpv																																																																																												0
+cm185	Gem Upgrade	1								2	"gcr,qty=2"							gfr																																																																																												0
+cm186	Gem Upgrade	1								2	"gfr,qty=2"							gsr																																																																																												0
+cm187	Gem Upgrade	1								2	"gsr,qty=2"							glr																																																																																												0
+cm188	Gem Upgrade	1								2	"glr,qty=2"							gpr																																																																																												0
+cm189	Gem Upgrade	1								2	"gcb,qty=2"							gfb																																																																																												0
+cm190	Gem Upgrade	1								2	"gfb,qty=2"							gsb																																																																																												0
+cm191	Gem Upgrade	1								2	"gsb,qty=2"							glb																																																																																												0
+cm192	Gem Upgrade	1								2	"glb,qty=2"							gpb																																																																																												0
+cm193	Gem Upgrade	1								2	"gcy,qty=2"							gfy																																																																																												0
+cm194	Gem Upgrade	1								2	"gfy,qty=2"							gsy																																																																																												0
+cm195	Gem Upgrade	1								2	"gsy,qty=2"							gly																																																																																												0
+cm196	Gem Upgrade	1								2	"gly,qty=2"							gpy																																																																																												0
+cm197	Gem Upgrade	1								2	"gcg,qty=2"							gfg																																																																																												0
+cm198	Gem Upgrade	1								2	"gfg,qty=2"							gsg																																																																																												0
+cm199	Gem Upgrade	1								2	"gsg,qty=2"							glg																																																																																												0
+cm200	Gem Upgrade	1								2	"glg,qty=2"							gpg																																																																																												0
+cm201	Gem Upgrade	1								2	"gcw,qty=2"							gfw																																																																																												0
+cm202	Gem Upgrade	1								2	"gfw,qty=2"							gsw																																																																																												0
+cm203	Gem Upgrade	1								2	"gsw,qty=2"							glw																																																																																												0
+cm204	Gem Upgrade	1								2	"glw,qty=2"							gpw																																																																																												0
+cm205	Gem Upgrade	1								2	"skc,qty=2"							skf																																																																																												0
+cm206	Gem Upgrade	1								2	"skf,qty=2"							sku																																																																																												0
+cm207	Gem Upgrade	1								2	"sku,qty=2"							skl																																																																																												0
+cm208	Gem Upgrade	1								2	"skl,qty=2"							skz																																																																																												0
+cm209	Gem Upgrade	1								2	"yo1,qty=2"							yo2																																																																																												0
+cm210	Gem Upgrade	1								2	"yo2,qty=2"							yo3																																																																																												0
+cm211	Gem Upgrade	1								2	"yo3,qty=2"							yo4																																																																																												0
+cm212	Gem Upgrade	1								2	"yo4,qty=2"							yo5																																																																																												0
+cm213	Gem Upgrade	1								2	"g$a,qty=2"							g$b																																																																																												0
+cm214	Gem Upgrade	1								2	"g$b,qty=2"							g$c																																																																																												0
+cm215	Gem Upgrade	1								2	"g$c,qty=2"							g$d																																																																																												0
+cm216	Gem Upgrade	1								2	"g$d,qty=2"							g$e																																																																																												0
+cm217	Gem Upgrade	1								2	"9$a,qty=2"							9$b																																																																																												0
+cm218	Gem Upgrade	1								2	"9$b,qty=2"							9$c																																																																																												0
+cm219	Gem Upgrade	1								2	"9$c,qty=2"							9$d																																																																																												0
+cm220	Gem Upgrade	1								2	"9$d,qty=2"							9$e																																																																																												0
+cm221	Gem Upgrade	1								2	"7$a,qty=2"							7$b																																																																																												0
+cm222	Gem Upgrade	1								2	"7$b,qty=2"							7$c																																																																																												0
+cm223	Gem Upgrade	1								2	"7$c,qty=2"							7$d																																																																																												0
+cm224	Gem Upgrade	1								2	"7$d,qty=2"							7$e																																																																																												0
+cm225	Gem Upgrade	1								2	"5$a,qty=2"							5$b																																																																																												0
+cm226	Gem Upgrade	1								2	"5$b,qty=2"							5$c																																																																																												0
+cm227	Gem Upgrade	1								2	"5$c,qty=2"							5$d																																																																																												0
+cm228	Gem Upgrade	1								2	"5$d,qty=2"							5$e																																																																																												0
+cm229	Gem Upgrade	1								3	"gcv,qty=2"	gfv						gsv																																																																																												0
+cm230	Gem Upgrade	1								4	"gcv,qty=4"							gsv																																																																																												0
+cm231	Gem Upgrade	1								3	"gfv,qty=2"	gsv						gzv																																																																																												0
+cm232	Gem Upgrade	1								4	"gfv,qty=4"							gzv																																																																																												0
+cm233	Gem Upgrade	1								3	"gsv,qty=2"	gzv						gpv																																																																																												0
+cm234	Gem Upgrade	1								4	"gsv,qty=4"							gpv																																																																																												0
+cm235	Gem Upgrade	1								3	"gcr,qty=2"	gfr						gsr																																																																																												0
+cm236	Gem Upgrade	1								4	"gcr,qty=4"							gsr																																																																																												0
+cm237	Gem Upgrade	1								3	"gfr,qty=2"	gsr						glr																																																																																												0
+cm238	Gem Upgrade	1								4	"gfr,qty=4"							glr																																																																																												0
+cm239	Gem Upgrade	1								3	"gsr,qty=2"	glr						gpr																																																																																												0
+cm240	Gem Upgrade	1								4	"gsr,qty=4"							gpr																																																																																												0
+cm241	Gem Upgrade	1								3	"gcb,qty=2"	gfb						gsb																																																																																												0
+cm242	Gem Upgrade	1								4	"gcb,qty=4"							gsb																																																																																												0
+cm243	Gem Upgrade	1								3	"gfb,qty=2"	gsb						glb																																																																																												0
+cm244	Gem Upgrade	1								4	"gfb,qty=4"							glb																																																																																												0
+cm245	Gem Upgrade	1								3	"gsb,qty=2"	glb						gpb																																																																																												0
+cm246	Gem Upgrade	1								4	"gsb,qty=4"							gpb																																																																																												0
+cm247	Gem Upgrade	1								3	"gcy,qty=2"	gfy						gsy																																																																																												0
+cm248	Gem Upgrade	1								4	"gcy,qty=4"							gsy																																																																																												0
+cm249	Gem Upgrade	1								3	"gfy,qty=2"	gsy						gly																																																																																												0
+cm250	Gem Upgrade	1								4	"gfy,qty=4"							gly																																																																																												0
+cm251	Gem Upgrade	1								3	"gsy,qty=2"	gly						gpy																																																																																												0
+cm252	Gem Upgrade	1								4	"gsy,qty=4"							gpy																																																																																												0
+cm253	Gem Upgrade	1								3	"gcg,qty=2"	gfg						gsg																																																																																												0
+cm254	Gem Upgrade	1								4	"gcg,qty=4"							gsg																																																																																												0
+cm255	Gem Upgrade	1								3	"gfg,qty=2"	gsg						glg																																																																																												0
+cm256	Gem Upgrade	1								4	"gfg,qty=4"							glg																																																																																												0
+cm257	Gem Upgrade	1								3	"gsg,qty=2"	glg						gpg																																																																																												0
+cm258	Gem Upgrade	1								4	"gsg,qty=4"							gpg																																																																																												0
+cm259	Gem Upgrade	1								3	"gcw,qty=2"	gfw						gsw																																																																																												0
+cm260	Gem Upgrade	1								4	"gcw,qty=4"							gsw																																																																																												0
+cm261	Gem Upgrade	1								3	"gfw,qty=2"	gsw						glw																																																																																												0
+cm262	Gem Upgrade	1								4	"gfw,qty=4"							glw																																																																																												0
+cm263	Gem Upgrade	1								3	"gsw,qty=2"	glw						gpw																																																																																												0
+cm264	Gem Upgrade	1								4	"gsw,qty=4"							gpw																																																																																												0
+cm265	Gem Upgrade	1								3	"skc,qty=2"	skf						sku																																																																																												0
+cm266	Gem Upgrade	1								4	"skc,qty=4"							sku																																																																																												0
+cm267	Gem Upgrade	1								3	"skf,qty=2"	sku						skl																																																																																												0
+cm268	Gem Upgrade	1								4	"skf,qty=4"							skl																																																																																												0
+cm269	Gem Upgrade	1								3	"sku,qty=2"	skl						skz																																																																																												0
+cm270	Gem Upgrade	1								4	"sku,qty=4"							skz																																																																																												0
+cm271	Gem Upgrade	1								3	"yo1,qty=2"	yo2						yo3																																																																																												0
+cm272	Gem Upgrade	1								4	"yo1,qty=4"							yo3																																																																																												0
+cm273	Gem Upgrade	1								3	"yo2,qty=2"	yo3						yo4																																																																																												0
+cm274	Gem Upgrade	1								4	"yo2,qty=4"							yo4																																																																																												0
+cm275	Gem Upgrade	1								3	"yo3,qty=2"	yo4						yo5																																																																																												0
+cm276	Gem Upgrade	1								4	"yo3,qty=4"							yo5																																																																																												0
+cm277	Gem Upgrade	1								3	"g$a,qty=2"	g$b						g$c																																																																																												0
+cm278	Gem Upgrade	1								4	"g$a,qty=4"							g$c																																																																																												0
+cm279	Gem Upgrade	1								3	"g$b,qty=2"	g$c						g$d																																																																																												0
+cm280	Gem Upgrade	1								4	"g$b,qty=4"							g$d																																																																																												0
+cm281	Gem Upgrade	1								3	"g$c,qty=2"	g$d						g$e																																																																																												0
+cm282	Gem Upgrade	1								4	"g$c,qty=4"							g$e																																																																																												0
+cm283	Gem Upgrade	1								3	"9$a,qty=2"	9$b						9$c																																																																																												0
+cm284	Gem Upgrade	1								4	"9$a,qty=4"							9$c																																																																																												0
+cm285	Gem Upgrade	1								3	"9$b,qty=2"	9$c						9$d																																																																																												0
+cm286	Gem Upgrade	1								4	"9$b,qty=4"							9$d																																																																																												0
+cm287	Gem Upgrade	1								3	"9$c,qty=2"	9$d						9$e																																																																																												0
+cm288	Gem Upgrade	1								4	"9$c,qty=4"							9$e																																																																																												0
+cm289	Gem Upgrade	1								3	"7$a,qty=2"	7$b						7$c																																																																																												0
+cm290	Gem Upgrade	1								4	"7$a,qty=4"							7$c																																																																																												0
+cm291	Gem Upgrade	1								3	"7$b,qty=2"	7$c						7$d																																																																																												0
+cm292	Gem Upgrade	1								4	"7$b,qty=4"							7$d																																																																																												0
+cm293	Gem Upgrade	1								3	"7$c,qty=2"	7$d						7$e																																																																																												0
+cm294	Gem Upgrade	1								4	"7$c,qty=4"							7$e																																																																																												0
+cm295	Gem Upgrade	1								3	"5$a,qty=2"	5$b						5$c																																																																																												0
+cm296	Gem Upgrade	1								4	"5$a,qty=4"							5$c																																																																																												0
+cm297	Gem Upgrade	1								3	"5$b,qty=2"	5$c						5$d																																																																																												0
+cm298	Gem Upgrade	1								4	"5$b,qty=4"							5$d																																																																																												0
+cm299	Gem Upgrade	1								3	"5$c,qty=2"	5$d						5$e																																																																																												0
+cm300	Gem Upgrade	1								4	"5$c,qty=4"							5$e																																																																																												0
 cm301	Rune Upgrade	1			100					2	"r01,qty=2"							r02																																																																																												0
 cm302	Rune Upgrade	1			100					2	"r02,qty=2"							r03																																																																																												0
 cm303	Rune Upgrade	1			100					2	"r03,qty=2"							r04																																																																																												0
@@ -482,63 +482,63 @@ cm491	Rune Downgrade	1			100					1	r47							r46																																
 cm492	Rune Downgrade	1			100					1	r48							r47																																																																																												0
 cm493	Rune Downgrade	1			100					1	r49							r48																																																																																												0
 cm494	Rune Downgrade	1			100					1	r50							r49																																																																																												0
-cm495		1			100	16	219	8		5	"weap,sock,low"	2oµ	"gem4,qty=3"					"useitem,rem"																																																																																												0
-cm496		1			100	16	219	8		5	"armo,sock,low"	2oµ	"gem4,qty=3"					"useitem,rem"																																																																																												0
-cm497		1			100	16	219	8		5	"weap,sock,nor"	2oµ	"gem4,qty=3"					"useitem,rem"																																																																																												0
-cm498		1			100	16	219	8		5	"armo,sock,nor"	2oµ	"gem4,qty=3"					"useitem,rem"																																																																																												0
-cm499		1			100	16	219	8		5	"weap,sock,hiq"	2oµ	"gem4,qty=3"					"useitem,rem"																																																																																												0
-cm500		1			100	16	219	8		5	"armo,sock,hiq"	2oµ	"gem4,qty=3"					"useitem,rem"																																																																																												0
-cm501		1			100	16	219	8		2	"weap,sock,mag"	2oµ						"useitem,rem"																																																																																												0
-cm502		1			100	16	219	8		2	"armo,sock,mag"	2oµ						"useitem,rem"																																																																																												0
-cm503		1			100	16	219	8		2	"amul,sock,mag"	2oµ						"useitem,rem"																																																																																												0
-cm504		1			100	16	219	8		2	"ring,sock,mag"	2oµ						"useitem,rem"																																																																																												0
-cm505		1			100	16	219	8		2	"misl,sock,mag"	2oµ						"useitem,rem"																																																																																												0
-cm506		1			100	16	219	8		2	"weap,sock,rar"	2oµ						"useitem,rem"																																																																																												0
-cm507		1			100	16	219	8		2	"armo,sock,rar"	2oµ						"useitem,rem"																																																																																												0
-cm508		1			100	16	219	8		2	"amul,sock,rar"	2oµ						"useitem,rem"																																																																																												0
-cm509		1			100	16	219	8		2	"ring,sock,rar"	2oµ						"useitem,rem"																																																																																												0
-cm510		1			100	16	219	8		2	"misl,sock,rar"	2oµ						"useitem,rem"																																																																																												0
-cm511		1			100	16	219	8		2	"weap,sock,crf"	2oµ						"useitem,rem"																																																																																												0
-cm512		1			100	16	219	8		2	"armo,sock,crf"	2oµ						"useitem,rem"																																																																																												0
-cm513		1			100	16	219	8		2	"amul,sock,crf"	2oµ						"useitem,rem"																																																																																												0
-cm514		1			100	16	219	8		2	"ring,sock,crf"	2oµ						"useitem,rem"																																																																																												0
-cm515		1			100	16	219	8		2	"misl,sock,crf"	2oµ						"useitem,rem"																																																																																												0
-cm516		1			100	16	219	8		2	"weap,sock,uni"	2oµ						"useitem,rem"																																																																																												0
-cm517		1			100	16	219	8		2	"armo,sock,uni"	2oµ						"useitem,rem"																																																																																												0
-cm518		1			100	16	219	8		2	"amul,sock,uni"	2oµ						"useitem,rem"																																																																																												0
-cm519		1			100	16	219	8		2	"ring,sock,uni"	2oµ						"useitem,rem"																																																																																												0
-cm520		1			100	16	219	8		2	"misl,sock,uni"	2oµ						"useitem,rem"																																																																																												0
-cm521		1			100	16	219	8		2	"weap,sock,set"	2oµ						"useitem,rem"																																																																																												0
-cm522		1			100	16	219	8		2	"armo,sock,set"	2oµ						"useitem,rem"																																																																																												0
-cm523		1			100	16	219	8		2	"amul,sock,set"	2oµ						"useitem,rem"																																																																																												0
-cm524		1			100	16	219	8		2	"ring,sock,set"	2oµ						"useitem,rem"																																																																																												0
-cm525		1			100	16	219	8		2	"misl,sock,set"	2oµ						"useitem,rem"																																																																																												0
-cm526		1			100	16	219	8		2	"weap,sock,tmp"	2oµ						"useitem,rem"																																																																																												0
-cm527		1			100	16	219	8		2	"armo,sock,tmp"	2oµ						"useitem,rem"																																																																																												0
-cm528		1			100	16	219	8		2	"amul,sock,tmp"	2oµ						"useitem,rem"																																																																																												0
-cm529		1			100	16	219	8		2	"ring,sock,tmp"	2oµ						"useitem,rem"																																																																																												0
-cm530		1			100	16	219	8		2	"misl,sock,tmp"	2oµ						"useitem,rem"																																																																																												0
-cm531		1			100					2	"weap,low"	4oµ						"usetype,nor"			100																																																																																									0
-cm532		1			100					2	"armo,low"	4oµ						"usetype,nor"			100																																																																																									0
-cm533		1			100					2	"weap,nor"	4oµ						"usetype,hiq"			100																																																																																									0
-cm534		1			100					2	"armo,nor"	4oµ						"usetype,hiq"			100																																																																																									0
-cm535		1			100					3	"weap,low"	4oµ	rune					"usetype,mag"			100																																																																																									0
-cm536		1			100					3	"armo,low"	4oµ	rune					"usetype,mag"			100																																																																																									0
-cm537		1			100					3	"weap,nor"	4oµ	rune					"usetype,mag"			100																																																																																									0
-cm538		1			100					3	"armo,nor"	4oµ	rune					"usetype,mag"			100																																																																																									0
-cm539		1			100					3	"aqv,nor"	4oµ	rune					"usetype,mag"			100																																																																																									0
-cm540		1			100					3	"cqv,nor"	4oµ	rune					"usetype,mag"			100																																																																																									0
-cm541		1			100					3	"weap,hiq"	4oµ	rune					"usetype,mag"			100																																																																																									0
-cm542		1			100					3	"armo,hiq"	4oµ	rune					"usetype,mag"			100																																																																																									0
-cm543		1			100					3	weap	jew	6oµ					usetype			99																																																																																									0
-cm544		1			100					3	armo	jew	6oµ					usetype			99																																																																																									0
-cm545		1			100					3	ring	jew	6oµ					usetype			99																																																																																									0
-cm546		1			100					3	amul	jew	6oµ					usetype			99																																																																																									0
-cm547		1			100					3	bowq	jew	6oµ					usetype			99																																																																																									0
-cm548		1			100					3	xboq	jew	6oµ					usetype			99																																																																																									0
-cm549		1			100					3	jew	jew	6oµ					usetype			99																																																																																									0
-cm550		1			100					3	weap	rune	9oµ					"usetype,low"			100																															9oµ																																																										0
-cm551		1			100					3	armo	rune	9oµ					"usetype,low"			100																															9oµ																																																										0
+cm495	Grey Item Unsocket - Oil of Disjunction	1			100	16	219	8		5	"weap,sock,low"	2oµ	"gem4,qty=3"					"useitem,rem"																																																																																												0
+cm496	Grey Item Unsocket - Oil of Disjunction	1			100	16	219	8		5	"armo,sock,low"	2oµ	"gem4,qty=3"					"useitem,rem"																																																																																												0
+cm497	Grey Item Unsocket - Oil of Disjunction	1			100	16	219	8		5	"weap,sock,nor"	2oµ	"gem4,qty=3"					"useitem,rem"																																																																																												0
+cm498	Grey Item Unsocket - Oil of Disjunction	1			100	16	219	8		5	"armo,sock,nor"	2oµ	"gem4,qty=3"					"useitem,rem"																																																																																												0
+cm499	Grey Item Unsocket - Oil of Disjunction	1			100	16	219	8		5	"weap,sock,hiq"	2oµ	"gem4,qty=3"					"useitem,rem"																																																																																												0
+cm500	Grey Item Unsocket - Oil of Disjunction	1			100	16	219	8		5	"armo,sock,hiq"	2oµ	"gem4,qty=3"					"useitem,rem"																																																																																												0
+cm501	Item Unsocket - Oil of Disjunction	1			100	16	219	8		2	"weap,sock,mag"	2oµ						"useitem,rem"																																																																																												0
+cm502	Item Unsocket - Oil of Disjunction	1			100	16	219	8		2	"armo,sock,mag"	2oµ						"useitem,rem"																																																																																												0
+cm503	Item Unsocket - Oil of Disjunction	1			100	16	219	8		2	"amul,sock,mag"	2oµ						"useitem,rem"																																																																																												0
+cm504	Item Unsocket - Oil of Disjunction	1			100	16	219	8		2	"ring,sock,mag"	2oµ						"useitem,rem"																																																																																												0
+cm505	Item Unsocket - Oil of Disjunction	1			100	16	219	8		2	"misl,sock,mag"	2oµ						"useitem,rem"																																																																																												0
+cm506	Item Unsocket - Oil of Disjunction	1			100	16	219	8		2	"weap,sock,rar"	2oµ						"useitem,rem"																																																																																												0
+cm507	Item Unsocket - Oil of Disjunction	1			100	16	219	8		2	"armo,sock,rar"	2oµ						"useitem,rem"																																																																																												0
+cm508	Item Unsocket - Oil of Disjunction	1			100	16	219	8		2	"amul,sock,rar"	2oµ						"useitem,rem"																																																																																												0
+cm509	Item Unsocket - Oil of Disjunction	1			100	16	219	8		2	"ring,sock,rar"	2oµ						"useitem,rem"																																																																																												0
+cm510	Item Unsocket - Oil of Disjunction	1			100	16	219	8		2	"misl,sock,rar"	2oµ						"useitem,rem"																																																																																												0
+cm511	Item Unsocket - Oil of Disjunction	1			100	16	219	8		2	"weap,sock,crf"	2oµ						"useitem,rem"																																																																																												0
+cm512	Item Unsocket - Oil of Disjunction	1			100	16	219	8		2	"armo,sock,crf"	2oµ						"useitem,rem"																																																																																												0
+cm513	Item Unsocket - Oil of Disjunction	1			100	16	219	8		2	"amul,sock,crf"	2oµ						"useitem,rem"																																																																																												0
+cm514	Item Unsocket - Oil of Disjunction	1			100	16	219	8		2	"ring,sock,crf"	2oµ						"useitem,rem"																																																																																												0
+cm515	Item Unsocket - Oil of Disjunction	1			100	16	219	8		2	"misl,sock,crf"	2oµ						"useitem,rem"																																																																																												0
+cm516	Item Unsocket - Oil of Disjunction	1			100	16	219	8		2	"weap,sock,uni"	2oµ						"useitem,rem"																																																																																												0
+cm517	Item Unsocket - Oil of Disjunction	1			100	16	219	8		2	"armo,sock,uni"	2oµ						"useitem,rem"																																																																																												0
+cm518	Item Unsocket - Oil of Disjunction	1			100	16	219	8		2	"amul,sock,uni"	2oµ						"useitem,rem"																																																																																												0
+cm519	Item Unsocket - Oil of Disjunction	1			100	16	219	8		2	"ring,sock,uni"	2oµ						"useitem,rem"																																																																																												0
+cm520	Item Unsocket - Oil of Disjunction	1			100	16	219	8		2	"misl,sock,uni"	2oµ						"useitem,rem"																																																																																												0
+cm521	Item Unsocket - Oil of Disjunction	1			100	16	219	8		2	"weap,sock,set"	2oµ						"useitem,rem"																																																																																												0
+cm522	Item Unsocket - Oil of Disjunction	1			100	16	219	8		2	"armo,sock,set"	2oµ						"useitem,rem"																																																																																												0
+cm523	Item Unsocket - Oil of Disjunction	1			100	16	219	8		2	"amul,sock,set"	2oµ						"useitem,rem"																																																																																												0
+cm524	Item Unsocket - Oil of Disjunction	1			100	16	219	8		2	"ring,sock,set"	2oµ						"useitem,rem"																																																																																												0
+cm525	Item Unsocket - Oil of Disjunction	1			100	16	219	8		2	"misl,sock,set"	2oµ						"useitem,rem"																																																																																												0
+cm526	Item Unsocket - Oil of Disjunction	1			100	16	219	8		2	"weap,sock,tmp"	2oµ						"useitem,rem"																																																																																												0
+cm527	Item Unsocket - Oil of Disjunction	1			100	16	219	8		2	"armo,sock,tmp"	2oµ						"useitem,rem"																																																																																												0
+cm528	Item Unsocket - Oil of Disjunction	1			100	16	219	8		2	"amul,sock,tmp"	2oµ						"useitem,rem"																																																																																												0
+cm529	Item Unsocket - Oil of Disjunction	1			100	16	219	8		2	"ring,sock,tmp"	2oµ						"useitem,rem"																																																																																												0
+cm530	Item Unsocket - Oil of Disjunction	1			100	16	219	8		2	"misl,sock,tmp"	2oµ						"useitem,rem"																																																																																												0
+cm531	Oil of Enhancement	1			100					2	"weap,low"	4oµ						"usetype,nor"			100																																																																																									0
+cm532	Oil of Enhancement	1			100					2	"armo,low"	4oµ						"usetype,nor"			100																																																																																									0
+cm533	Oil of Enhancement	1			100					2	"weap,nor"	4oµ						"usetype,hiq"			100																																																																																									0
+cm534	Oil of Enhancement	1			100					2	"armo,nor"	4oµ						"usetype,hiq"			100																																																																																									0
+cm535	Oil of Enhancement with rune	1			100					3	"weap,low"	4oµ	rune					"usetype,mag"			100																																																																																									0
+cm536	Oil of Enhancement with rune	1			100					3	"armo,low"	4oµ	rune					"usetype,mag"			100																																																																																									0
+cm537	Oil of Enhancement with rune	1			100					3	"weap,nor"	4oµ	rune					"usetype,mag"			100																																																																																									0
+cm538	Oil of Enhancement with rune	1			100					3	"armo,nor"	4oµ	rune					"usetype,mag"			100																																																																																									0
+cm539	Oil of Enhancement with rune	1			100					3	"aqv,nor"	4oµ	rune					"usetype,mag"			100																																																																																									0
+cm540	Oil of Enhancement with rune	1			100					3	"cqv,nor"	4oµ	rune					"usetype,mag"			100																																																																																									0
+cm541	Oil of Enhancement with rune	1			100					3	"weap,hiq"	4oµ	rune					"usetype,mag"			100																																																																																									0
+cm542	Oil of Enhancement with rune	1			100					3	"armo,hiq"	4oµ	rune					"usetype,mag"			100																																																																																									0
+cm543	Chaos Reroll	1			100					3	weap	jew	6oµ					usetype			99																																																																																									0
+cm544	Chaos Reroll	1			100					3	armo	jew	6oµ					usetype			99																																																																																									0
+cm545	Chaos Reroll	1			100					3	ring	jew	6oµ					usetype			99																																																																																									0
+cm546	Chaos Reroll	1			100					3	amul	jew	6oµ					usetype			99																																																																																									0
+cm547	Chaos Reroll	1			100					3	bowq	jew	6oµ					usetype			99																																																																																									0
+cm548	Chaos Reroll	1			100					3	xboq	jew	6oµ					usetype			99																																																																																									0
+cm549	Chaos Reroll	1			100					3	jew	jew	6oµ					usetype			99																																																																																									0
+cm550	Affix Burn Recipe	1			100					3	weap	rune	9oµ					"usetype,hiq"			100																															9oµ																																																										0
+cm551	Affix Burn Recipe	1			100					3	armo	rune	9oµ					"usetype,hiq"			100																															9oµ																																																										0
 cm552		1			100					2	"weap,low"	5oµ						"usetype,low"			100																																																																																									0
 cm553		1			100					2	"armo,low"	5oµ						"usetype,low"			100																																																																																									0
 cm554		1			100					2	"weap,nor"	5oµ						"usetype,nor"			100																																																																																									0
