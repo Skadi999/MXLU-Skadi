@@ -8,16 +8,6 @@ NDgold3				1						"gld,mul=2048"	20		Blank TC	80																													0
 NDgold4				1						"gld,mul=3072"	20		Blank TC	80																													0
 NDgold5				1						"gld,mul=4096"	20		Blank TC	80																													0
 Troll Gold				1						"gld,mul=4096"	1		"gld,mul=4096"	1		"gld,mul=4096"	1		"gld,mul=4096"	1																							0
-Clue Gem 1				1						01-	1		11-	1		21-	1		31-	1		41-	1																				0
-Clue Gem 2				1						02-	1		12-	1		22-	1		32-	1		42-	1		Clue Gem 1	5																	0
-Clue Gem 3				1						03-	1		13-	1		23-	1		33-	1		43-	1		Clue Gem 2	10																	0
-Clue Gem 4				1						04-	1		14-	1		24-	1		34-	1		44-	1		Clue Gem 3	15																	0
-Clue Gem 5				1						05-	1		15-	1		25-	1		35-	1		45-	1		Clue Gem 4	20																	0
-Clue Gem 6				1						06-	1		16-	1		26-	1		36-	1		46-	1		Clue Gem 5	25																	0
-Clue Gem 7				1						07-	1		17-	1		27-	1		37-	1		47-	1		Clue Gem 6	30																	0
-Clue Gem 8				1						08-	1		18-	1		28-	1		38-	1		48-	1		Clue Gem 7	35																	0
-Clue Gem 9				1						09-	1		19-	1		29-	1		39-	1		49-	1		Clue Gem 8	40																	0
-Clue Gem 10				1						10-	1		20-	1		30-	1		40-	1		50-	1		Clue Gem 9	45		98-	1														0
 Unique Crystal 00				1						&91	1		&92	1		&93	1		&94	1		&95	1																				0
 Unique Crystal 0				1						&86	1		&87	1		&88	1		&89	1		&90	1		Unique Crystal 00	5																	0
 Unique Crystal 1				1						&81	1		&82	1		&83	1		&84	1		&85	1		Unique Crystal 0	10																	0
@@ -284,7 +274,7 @@ Act 4 (H) Good		5	82	1						Jewelry C	60	31%	Chipped Gem	3	5%	Flawed Gem	14	7%	N
 Act 5 (H) Good		5	85	1						Jewelry C	60	31%	Chipped Gem	2	5%	Flawed Gem	14	7%	Normal Gem	18	9%	Flawless Gem	22	11%	Perfect Gem	26	13%	Runes 25	36	18%	Portable Shrines 4	12	3%						0				0
 Act 5 (H) Good Rune Bias				1						Jewelry C	60	31%	Chipped Gem	1	5%	Flawed Gem	14	7%	Normal Gem	18	9%	Flawless Gem	22	11%	Perfect Gem	26	13%	Runes Super	36	18%	Portable Shrines 4	12	3%						0				0
 Act 5 (H) Good Toraja Bias				1						Jewelry C	5	31%	Runes Toraja	36	18%	Portable Shrines 4	2	3%	NDTC	143	41%	Chipped Gem	1	5%	Flawed Gem	2	7%												0				0
-Act 1 Chest A		6		6					30	NDTC	65	41%	Act 1 Junk	3	12%	Act 1 Equip A	5	16%	Act 1 Good	5	4%	Clue Gem 10	1	0%																			0
+Act 1 Chest A		6		6					30	NDTC	65	41%	Act 1 Junk	3	12%	Act 1 Equip A	5	16%	Act 1 Good	5	4%																						0
 Act 1 Chest B		6	5	6					30	NDTC	65	41%	Act 1 Junk	3	12%	Act 1 Equip B	5	16%	Act 1 Good B	5	4%																						0
 Act 1 Chest C		6	9	6					30	NDTC	65	41%	Act 1 Junk	3	12%	Act 1 Equip C	5	16%	Act 1 Good C	5	4%																						0
 Act 2 Chest A		6	12	6					30	NDTC	65	41%	Act 2 Junk	3	12%	Act 2 Equip A	5	16%	Act 2 Good	5	4%																						0
@@ -329,7 +319,7 @@ Act 4 (H) Chest C		6	82	6					30	NDTC	65	41%	Act 4 (H) Junk	3	1%	Act 4 (H) Equip
 Act 5 (H) Chest A		6	83	6					30	NDTC	65	41%	Act 5 (H) Junk	3	0%	Act 5 (H) Equip A	5	16%	Act 5 (H) Good	5	4%																						0
 Act 5 (H) Chest B		6	84	6					30	NDTC	65	41%	Act 5 (H) Junk	3	0%	Act 5 (H) Equip B	5	16%	Act 5 (H) Good	5	4%																						0
 Act 5 (H) Chest C		6	85	6					30	NDTC	65	40%	Act 5 (H) Junk	3	0%	Act 5 (H) Equip B	5	16%	Act 5 (H) Good	5	4%																						0
-Act 1 H2H A		7		1					75	NDTC	71	12%	Act 1 Junk	3	7%	Act 1 Equip A	16	9%	Act 1 Good	4	2%	Clue Gem 10	1	0%																			0
+Act 1 H2H A		7		1					75	NDTC	71	12%	Act 1 Junk	3	7%	Act 1 Equip A	16	9%	Act 1 Good	4	2%																						0
 Act 1 H2H B		7	5	1					75	NDTC	71	12%	Act 1 Junk	3	7%	Act 1 Equip B	16	9%	Act 1 Good B	4	2%																						0
 Act 1 H2H C		7	9	1					75	NDTC	71	12%	Act 1 Junk	3	7%	Act 1 Equip C	16	9%	Act 1 Good C	4	2%																						0
 Act 2 H2H A		7	12	1					75	NDTC	71	12%	Act 2 Junk	3	7%	Act 2 Equip A	16	9%	Act 2 Good	4	2%																						0
@@ -371,7 +361,7 @@ Act 4 (H) H2H B		7	80	1					75	NDTC	71	12%	Act 1 (H) Junk	3	1%	Act 4 (H) Equip B
 Act 5 (H) H2H A		7	82	1					75	NDTC	71	12%	Act 1 (H) Junk	3	1%	Act 5 (H) Equip A	16	9%	Act 5 (H) Good	4	2%																						0
 Act 5 (H) H2H B		7	83	1					75	NDTC	71	12%	Act 1 (H) Junk	3	0%	Act 5 (H) Equip B	16	9%	Act 5 (H) Good	4	2%																						0
 Act 5 (H) H2H C		7	85	1					75	NDTC	71	12%	Act 1 (H) Junk	3	0%	Act 5 (H) Equip C	16	9%	Act 5 (H) Good	4	2%																						0
-Act 1 Cast A		8		1					75	NDTC	71	12%	Act 1 Junk	3	7%	Act 1 Equip A	16	9%	Act 1 Good	5	3%	Clue Gem 10	1	0%																			0
+Act 1 Cast A		8		1					75	NDTC	71	12%	Act 1 Junk	3	7%	Act 1 Equip A	16	9%	Act 1 Good	5	3%																						0
 Act 1 Cast B		8	5	1					75	NDTC	71	12%	Act 1 Junk	3	7%	Act 1 Equip B	16	9%	Act 1 Good B	5	3%																						0
 Act 1 Cast C		8	9	1					75	NDTC	71	12%	Act 1 Junk	3	7%	Act 1 Equip C	16	9%	Act 1 Good C	5	3%																						0
 Act 2 Cast A		8	12	1					75	NDTC	71	12%	Act 2 Junk	3	7%	Act 2 Equip A	16	9%	Act 2 Good	5	3%																						0
@@ -413,7 +403,7 @@ Act 4 (H) Cast B		8	80	1					75	NDTC	71	12%	Act 1 (H) Junk	3	1%	Act 4 (H) Equip 
 Act 5 (H) Cast A		8	81	1					75	NDTC	71	12%	Act 1 (H) Junk	3	1%	Act 5 (H) Equip A	16	9%	Act 5 (H) Good	5	3%																						0
 Act 5 (H) Cast B		8	83	1					75	NDTC	71	12%	Act 1 (H) Junk	3	0%	Act 5 (H) Equip B	16	9%	Act 5 (H) Good	5	3%																						0
 Act 5 (H) Cast C		8	85	1					75	NDTC	71	12%	Act 1 (H) Junk	3	0%	Act 5 (H) Equip C	16	9%	Act 5 (H) Good	5	3%																						0
-Act 1 Miss A		9		1					75	NDTC	71	12%	Act 1 Junk	3	7%	Act 1 Equip A	17	10%	Act 1 Good	4	2%	Clue Gem 10	1	0%																			0
+Act 1 Miss A		9		1					75	NDTC	71	12%	Act 1 Junk	3	7%	Act 1 Equip A	17	10%	Act 1 Good	4	2%																						0
 Act 1 Miss B		9	5	1					75	NDTC	71	12%	Act 1 Junk	3	7%	Act 1 Equip B	17	10%	Act 1 Good B	4	2%																						0
 Act 1 Miss C		9	9	1					75	NDTC	71	12%	Act 1 Junk	3	7%	Act 1 Equip C	17	10%	Act 1 Good C	4	2%																						0
 Act 2 Miss A		9	12	1					75	NDTC	71	12%	Act 2 Junk	3	7%	Act 2 Equip A	17	10%	Act 2 Good	4	2%																						0
@@ -455,7 +445,7 @@ Act 4 (H) Miss B		9	80	1					75	NDTC	71	12%	Act 1 (H) Junk	3	1%	Act 4 (H) Equip 
 Act 5 (H) Miss A		9	81	1					75	NDTC	71	12%	Act 1 (H) Junk	3	1%	Act 5 (H) Equip A	17	10%	Act 5 (H) Good	4	2%																						0
 Act 5 (H) Miss B		9	83	1					75	NDTC	71	12%	Act 1 (H) Junk	3	0%	Act 5 (H) Equip B	17	10%	Act 5 (H) Good	4	2%																						0
 Act 5 (H) Miss C		9	85	1					75	NDTC	71	12%	Act 1 (H) Junk	3	0%	Act 5 (H) Equip C	17	10%	Act 5 (H) Good	4	2%																						0
-Act 1 Citem A		11		1				1024		NDgold1	55	59%	Act 1 Equip A	35	34%	Act 1 Good	5	4%	Clue Gem 10	1	0%																						0
+Act 1 Citem A		11		1				1024		NDgold1	55	59%	Act 1 Equip A	35	34%	Act 1 Good	5	4%																									0
 Act 1 Citem B		11	5	1				1024		NDgold1	55	59%	Act 1 Equip B	35	34%	Act 1 Good B	5	4%																									0
 Act 1 Citem C		11	9	1				1024		NDgold1	55	59%	Act 1 Equip C	35	34%	Act 1 Good C	5	4%																									0
 Act 2 Citem A		11	12	1				1024		NDgold1	55	59%	Act 2 Equip A	35	34%	Act 2 Good	5	4%																									0
@@ -582,7 +572,7 @@ Act 4 (H) Champ B		13	80	-2						Act 4 (H) Citem B	1		Act 4 (H) Cpot B	1								
 Act 5 (H) Champ A		13	81	-2						Act 5 (H) Citem A	1		Act 5 (H) Cpot A	1																													0
 Act 5 (H) Champ B		13	83	-2						Act 5 (H) Citem B	1		Act 5 (H) Cpot B	1																													0
 Act 5 (H) Champ C		13	85	-2						Act 5 (H) Citem C	1		Act 5 (H) Cpot C	1																													0
-Act 1 Uitem A		14		3				1024	6	Act 1 Equip A	120	86%	Act 1 Good	14	5%	Clue Gem 10	1	0%																									0
+Act 1 Uitem A		14		3				1024	6	Act 1 Equip A	120	86%	Act 1 Good	14	5%																												0
 Act 1 Uitem B		14	5	3				1024	6	Act 1 Equip B	120	86%	Act 1 Good B	14	5%																												0
 Act 1 Uitem C		14	9	3				1024	6	Act 1 Equip C	120	86%	Act 1 Good C	14	5%																												0
 Act 2 Uitem A		14	12	3				1024	6	Act 2 Equip A	120	86%	Act 2 Good	14	5%																												0
@@ -824,10 +814,10 @@ Diabloq (D)				-2	1024					Diabloq Act	1		Runes 9	1																													
 Diabloq (N) (D)				-3	1024					Diabloq (N) Act	1		Runes 15	1		!@9	1																										0
 Diabloq (H) (D)				-3	1024					Diabloq (H) Act	1		Runes 21	1		!@9	1																										0
 Baal (D)				-2	1024					Baal Act	1		Runes 10	1																													0
-Baal (N) (D)				-4	1024					Baalq (N) Act	1		Runes 12	1		!@A	1		96-	1																							0
+Baal (N) (D)				-3	1024					Baalq (N) Act	1		Runes 12	1		!@A	1																										0
 Baal (H) (D)				-3	1024					Baal (H) Act	1		Runes 22	1		!@A	1																										0
 Baalq (D)				-2	1024					Baalq Act	1		Runes 10	1																													0
-Baalq (N) (D)				-4	1024					Baalq (N) Act	1		Runes 12	1		!@A	1		96-	1																							0
+Baalq (N) (D)				-3	1024					Baalq (N) Act	1		Runes 12	1		!@A	1																										0
 Baalq (H) (D)				-3	1024					Baalq (H) Act	1		Runes 22	1		!@A	1																										0
 Nihlathak Signet				-2						zkq	1		Signets Minor	1																													0
 Nihlathak (D)				-3	1024					Runes 15	1		Nihlathak	1																													0
@@ -923,7 +913,7 @@ Robot (H) Reward 2				6	980	980	871	1024		Act 5 (H) Equip C	120		Act 5 (H) Good	
 Robot (H) Reward 3				6	972	972	864	1024		Act 5 (H) Equip C	90		Act 5 (H) Good	20		Runes Super	90																										0
 Robot (H) Reward 4				6	964	964	856	1024		Act 5 (H) Equip C	60		Act 5 (H) Good	20		Runes Super	120																										0
 Robot (H) Reward 5				6	956	956	849	1024		Act 5 (H) Equip C	30		Act 5 (H) Good	20		Runes Super	150																										0
-Act 1 Unique Bias A		19		1	256				50	NDTC	70		Act 1 Junk	1	0%	Act 1 Equip A	45	24%	Act 1 Good	4	2%	Clue Gem 10	1	0%																			0
+Act 1 Unique Bias A		19		1	256				50	NDTC	70		Act 1 Junk	1	0%	Act 1 Equip A	45	24%	Act 1 Good	4	2%																						0
 Act 1 Unique Bias B		19	5	1	256				50	NDTC	70		Act 1 Junk	1	0%	Act 1 Equip B	45	24%	Act 1 Good B	4	2%																						0
 Act 1 Unique Bias C		19	9	1	256				50	NDTC	70		Act 1 Junk	1	0%	Act 1 Equip C	45	24%	Act 1 Good C	4	2%																						0
 Act 2 Unique Bias A		19	12	1	256				50	NDTC	70		Act 2 Junk	1	0%	Act 2 Equip A	45	24%	Act 2 Good	4	2%																						0
@@ -965,7 +955,7 @@ Act 4 (H) Unique Bias B		19	80	1	256				50	NDTC	70		Act 1 (H) Junk	1	0%	Act 4 (H
 Act 5 (H) Unique Bias A		19	81	1	256				50	NDTC	70		Act 1 (H) Junk	1	0%	Act 5 (H) Equip A	45	24%	Act 5 (H) Good	4	2%																						0
 Act 5 (H) Unique Bias B		19	83	1	256				50	NDTC	70		Act 1 (H) Junk	1	0%	Act 5 (H) Equip B	45	24%	Act 5 (H) Good	4	2%																						0
 Act 5 (H) Unique Bias C		19	85	1	450				50	NDTC	70		Act 1 (H) Junk	1	0%	Act 5 (H) Equip C	45	24%	Act 5 (H) Good	4	2%																						0
-Act 1 Set Bias A		20		1		500			30	NDTC	10		Act 1 Junk	1		Act 1 Equip A	20		Act 1 Good	15		Clue Gem 10	1	0%																			0
+Act 1 Set Bias A		20		1		500			30	NDTC	10		Act 1 Junk	1		Act 1 Equip A	20		Act 1 Good	15																							0
 Act 1 Set Bias B		20	5	1		500			30	NDTC	10		Act 1 Junk	1		Act 1 Equip B	20		Act 1 Good B	15																							0
 Act 1 Set Bias C		20	9	1		500			30	NDTC	10		Act 1 Junk	1		Act 1 Equip C	20		Act 1 Good C	15																							0
 Act 2 Set Bias A		20	12	1		500			30	NDTC	10		Act 2 Junk	1		Act 2 Equip A	20		Act 2 Good	15																							0
@@ -1095,7 +1085,7 @@ Act 4 (H) Minor Sacred Equip C		24	82	1						weap72	2		armo72	1		weap75	6		armo7
 Act 5 (H) Minor Sacred Equip A		24	83	1						weap75	2		armo75	1		weap78	6		armo78	3		weap81	14		armo81	7		weap84	2		armo84	1		Act 4 (H) Minor Sacred Equip B	121	308				36	1566	1	0
 Act 5 (H) Minor Sacred Equip B		24	84	1						weap78	2		armo78	1		weap81	6		armo81	3		weap84	14		armo84	7		weap87	2		armo87	1		Act 5 (H) Minor Sacred Equip A	120	316				36	1566	1	0
 Act 5 (H) Minor Sacred Equip C		24	85	1						weap81	4		armo81	1		weap84	6		armo84	3		weap87	14		armo87	7		weap90	6		armo90	3		Act 5 (H) Minor Sacred Equip B	119	324				35	1565	1	0
-Act 1 Rune Bias A		21		1					30	NDTC	40		Act 1 Junk	1		Act 1 Equip A	20		Act 1 Good	25		Clue Gem 10	1	0%																			0
+Act 1 Rune Bias A		21		1					30	NDTC	40		Act 1 Junk	1		Act 1 Equip A	20		Act 1 Good	25																							0
 Act 1 Rune Bias B		21	5	1					30	NDTC	40		Act 1 Junk	1		Act 1 Equip B	20		Act 1 Good B	25																							0
 Act 1 Rune Bias C		21	9	1					30	NDTC	40		Act 1 Junk	1		Act 1 Equip C	20		Act 1 Good C	25																							0
 Act 2 Rune Bias A		21	12	1					30	NDTC	40		Act 2 Junk	1		Act 2 Equip A	20		Act 2 Good	25																							0
@@ -1138,7 +1128,7 @@ Act 5 (H) Rune Bias A		21	81	1					30	NDTC	40		Act 1 (H) Junk	1		Act 5 (H) Equip
 Act 5 (H) Rune Bias B		21	83	1					30	NDTC	40		Act 1 (H) Junk	1		Act 5 (H) Equip B	20		Act 5 (H) Good	25																							0
 Act 5 (H) Rune Bias C		21	85	1					30	NDTC	40		Act 1 (H) Junk	1		Act 5 (H) Equip C	20		Act 5 (H) Good	25																							0
 Act 5 (H) Super Runes				1					30	NDTC	40		Act 1 (H) Junk	1		Act 5 (H) Equip C	20		Act 5 (H) Good Rune Bias	25																							0
-Act 1 Rare Bias A		22		1			512		30	NDTC	40		Act 1 Junk	1		Act 1 Equip A	20		Act 1 Good	4		Clue Gem 10	1	0%																			0
+Act 1 Rare Bias A		22		1			512		30	NDTC	40		Act 1 Junk	1		Act 1 Equip A	20		Act 1 Good	4																							0
 Act 1 Rare Bias B		22	5	1			512		30	NDTC	40		Act 1 Junk	1		Act 1 Equip B	20		Act 1 Good B	4																							0
 Act 1 Rare Bias C		22	9	1			512		30	NDTC	40		Act 1 Junk	1		Act 1 Equip C	20		Act 1 Good C	4																							0
 Act 2 Rare Bias A		22	12	1			512		30	NDTC	40		Act 2 Junk	1		Act 2 Equip A	20		Act 2 Good	4																							0
@@ -1180,7 +1170,7 @@ Act 4 (H) Rare Bias B		22	80	1			512		30	NDTC	40		Act 1 (H) Junk	1		Act 4 (H) Eq
 Act 5 (H) Rare Bias A		22	81	1			512		30	NDTC	40		Act 1 (H) Junk	1		Act 5 (H) Equip A	20		Act 5 (H) Good	4																							0
 Act 5 (H) Rare Bias B		22	83	1			512		30	NDTC	40		Act 1 (H) Junk	1		Act 5 (H) Equip B	20		Act 5 (H) Good	4																							0
 Act 5 (H) Rare Bias C		22	85	1			512		30	NDTC	40		Act 1 (H) Junk	1		Act 5 (H) Equip C	20		Act 5 (H) Good	4																							0
-Act 1 Elite A		23		2	90		768	1024	100	NDTC	42		Act 1 Equip A	49		Act 1 Good	4		Clue Gem 10	1	0%																						0
+Act 1 Elite A		23		2	90		768	1024	100	NDTC	42		Act 1 Equip A	49		Act 1 Good	4																										0
 Act 1 Elite B		23	5	2	90		768	1024	100	NDTC	42		Act 1 Equip B	49		Act 1 Good B	4																										0
 Act 1 Elite C		23	9	2	90		768	1024	100	NDTC	42		Act 1 Equip C	49		Act 1 Good C	4																										0
 Act 2 Elite A		23	12	2	90		768	1024	100	NDTC	42		Act 2 Equip A	49		Act 2 Good	4																										0
@@ -1226,7 +1216,7 @@ Act 5 (H) Torajian Runes				3			512		50	NDTC	34		Act 1 (H) Junk	1		Act 5 (H) Equ
 IotSS Gold Bias				2						NDTC	15		gld	25		Act 5 Cast C	10																										0
 IotSS Gold Bias (N)				2						NDTC	10		gld	30		Act 5 (N) Cast C	10																										0
 IotSS Gold Bias (H)				2						NDTC	5		gld	35		Act 5 (H) Cast C	10																										0
-Act 1 Everything Bias A		22		1	22	32	64		30	NDTC	45		Act 1 Junk	1		Act 1 Equip A	20		Act 1 Good	4		Clue Gem 10	1	0%																			0
+Act 1 Everything Bias A		22		1	22	32	64		30	NDTC	45		Act 1 Junk	1		Act 1 Equip A	20		Act 1 Good	4																							0
 Act 1 Everything Bias B		22	5	1	22	32	64		30	NDTC	45		Act 1 Junk	1		Act 1 Equip B	20		Act 1 Good B	4																							0
 Act 1 Everything Bias C		22	9	1	22	32	64		30	NDTC	45		Act 1 Junk	1		Act 1 Equip C	20		Act 1 Good C	4																							0
 Act 2 Everything Bias A		22	12	1	22	32	64		30	NDTC	45		Act 2 Junk	1		Act 2 Equip A	20		Act 2 Good	4																							0
@@ -1375,7 +1365,7 @@ Laz Surprise Reward				-3						Laz Surprise Reward Charm	1		Laz Surprise Trinket
 Robotic Bias				1						Blank TC	6		Act 5 Robot Bias C	1																													0
 Robotic (N) Bias				1						Blank TC	5		Act 5 (N) Robot Bias C	1																													0
 Robotic (H) Bias				1						Blank TC	3		Act 5 (H) Robot Bias C	1																													0
-Act 1 Heroic Bias A		19		1	200	256	1024	1024	50	NDTC	80		Act 1 Equip A	40	24%	Act 1 Good	5	2%	Clue Gem 10	1				0%																			0
+Act 1 Heroic Bias A		19		1	200	256	1024	1024	50	NDTC	80		Act 1 Equip A	40	24%	Act 1 Good	5	2%																									0
 Act 1 Heroic Bias B		19	5	1	200	256	1024	1024	50	NDTC	80		Act 1 Equip B	40	24%	Act 1 Good B	5	2%																									0
 Act 1 Heroic Bias C		19	9	1	200	256	1024	1024	50	NDTC	80		Act 1 Equip C	40	24%	Act 1 Good C	5	2%																									0
 Act 2 Heroic Bias A		19	12	1	200	256	1024	1024	50	NDTC	80		Act 2 Equip A	40	24%	Act 2 Good	5	2%																									0
@@ -1422,10 +1412,10 @@ TE Landmass				-1						!@2	1																																0
 TE Glowing				-1						!@3	1																																0
 TE Faewitch				-1						!@4	1																																0
 TE Panther				-1						!@5	1																																0
-Pre Baal				-2						!@c	1		Act 5 Champ C	1																													0
+Pre Baal				-1						Act 5 Champ C	1																																0
 Pre Baal (N)				-1						Act 5 (N) Champ C	1																																0
 Pre Baal (H)				-1						Act 5 (H) Champ C	1																																0
-Act 1 Vizjun A		27		3					100	NDTC	600		Act 1 Equip A	10		Act 1 Good	5		jew	2		Clue Gem 10	1	0%																			0
+Act 1 Vizjun A		27		3					100	NDTC	600		Act 1 Equip A	10		Act 1 Good	5		jew	2																							0
 Act 1 Vizjun B		27	5	3					100	NDTC	600		Act 1 Equip B	10		Act 1 Good B	5		jew	2																							0
 Act 1 Vizjun C		27	9	3					100	NDTC	600		Act 1 Equip C	10		Act 1 Good C	5		jew	2																							0
 Act 2 Vizjun A		27	12	3					100	NDTC	600		Act 2 Equip A	10		Act 2 Good	5		jew	2																							0

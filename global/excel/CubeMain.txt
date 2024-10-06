@@ -8282,58 +8282,6 @@ cm8291	Mystic Orbs	1			100					2	ring	&94						useitem				pr202				10	10	pr219		
 cm8292	Mystic Orbs	1			100					2	amul	&94						useitem				pr202				10	10	pr219					3	pr219				-1	-1																																																																							0
 cm8293	Mystic Orbs	1			100					2	ring	&95						useitem				pr202				10	10	pr32				1	1	pr36				1	1	pr34				1	1																																																																	0
 cm8294	Mystic Orbs	1			100					2	amul	&95						useitem				pr202				10	10	pr32				1	1	pr36				1	1	pr34				1	1																																																																	0
-cm8295	Pearl of Wisdom	1								1	01-							02-																																																																																												0
-cm8296	Pearl of Wisdom	1								1	02-							03-																																																																																												0
-cm8297	Pearl of Wisdom	1								1	03-							04-																																																																																												0
-cm8298	Pearl of Wisdom	1								1	04-							05-																																																																																												0
-cm8299	Pearl of Wisdom	1								1	05-							06-																																																																																												0
-cm8300	Pearl of Wisdom	1								1	06-							07-																																																																																												0
-cm8301	Pearl of Wisdom	1								1	07-							08-																																																																																												0
-cm8302	Pearl of Wisdom	1								1	08-							09-																																																																																												0
-cm8303	Pearl of Wisdom	1								1	09-							10-																																																																																												0
-cm8304	Pearl of Wisdom	1								1	10-							11-																																																																																												0
-cm8305	Pearl of Wisdom	1								1	11-							12-																																																																																												0
-cm8306	Pearl of Wisdom	1								1	12-							13-																																																																																												0
-cm8307	Pearl of Wisdom	1								1	13-							14-																																																																																												0
-cm8308	Pearl of Wisdom	1								1	14-							15-																																																																																												0
-cm8309	Pearl of Wisdom	1								1	15-							16-																																																																																												0
-cm8310	Pearl of Wisdom	1								1	16-							17-																																																																																												0
-cm8311	Pearl of Wisdom	1								1	17-							18-																																																																																												0
-cm8312	Pearl of Wisdom	1								1	18-							19-																																																																																												0
-cm8313	Pearl of Wisdom	1								1	19-							20-																																																																																												0
-cm8314	Pearl of Wisdom	1								1	20-							21-																																																																																												0
-cm8315	Pearl of Wisdom	1								1	21-							22-																																																																																												0
-cm8316	Pearl of Wisdom	1								1	22-							23-																																																																																												0
-cm8317	Pearl of Wisdom	1								1	23-							24-																																																																																												0
-cm8318	Pearl of Wisdom	1								1	24-							25-																																																																																												0
-cm8319	Pearl of Wisdom	1								1	25-							26-																																																																																												0
-cm8320	Pearl of Wisdom	1								1	26-							27-																																																																																												0
-cm8321	Pearl of Wisdom	1								1	27-							28-																																																																																												0
-cm8322	Pearl of Wisdom	1								1	28-							29-																																																																																												0
-cm8323	Pearl of Wisdom	1								1	29-							30-																																																																																												0
-cm8324	Pearl of Wisdom	1								1	30-							31-																																																																																												0
-cm8325	Pearl of Wisdom	1								1	31-							32-																																																																																												0
-cm8326	Pearl of Wisdom	1								1	32-							33-																																																																																												0
-cm8327	Pearl of Wisdom	1								1	33-							34-																																																																																												0
-cm8328	Pearl of Wisdom	1								1	34-							35-																																																																																												0
-cm8329	Pearl of Wisdom	1								1	35-							36-																																																																																												0
-cm8330	Pearl of Wisdom	1								1	36-							37-																																																																																												0
-cm8331	Pearl of Wisdom	1								1	37-							38-																																																																																												0
-cm8332	Pearl of Wisdom	1								1	38-							39-																																																																																												0
-cm8333	Pearl of Wisdom	1								1	39-							41-																																																																																												0
-cm8334	Pearl of Wisdom	1								1	41-							40-																																																																																												0
-cm8335	Pearl of Wisdom	1								1	40-							98-																																																																																												0
-cm8336	Pearl of Wisdom	1								1	98-							42-																																																																																												0
-cm8337	Pearl of Wisdom	1								1	42-							43-																																																																																												0
-cm8338	Pearl of Wisdom	1								1	43-							44-																																																																																												0
-cm8339	Pearl of Wisdom	1								1	44-							45-																																																																																												0
-cm8340	Pearl of Wisdom	1								1	45-							46-																																																																																												0
-cm8341	Pearl of Wisdom	1								1	46-							47-																																																																																												0
-cm8342	Pearl of Wisdom	1								1	47-							48-																																																																																												0
-cm8343	Pearl of Wisdom	1								1	48-							49-																																																																																												0
-cm8344	Pearl of Wisdom	1								1	49-							50-																																																																																												0
-cm8345	Pearl of Wisdom	1								1	50-							99-																																																																																												0
-cm8346	Pearl of Wisdom?????	1								1	99-							01-																																																																																												0
 cm8347	Mystic Orbs	1			100	15	462	15		2	amul	&a1						useitem																																		&a1																																																										0
 cm8348	Mystic Orbs	1			100	15	462	15		2	ring	&a1						useitem																																		&a1																																																										0
 cm8349	Mystic Orbs	1			100	15	296	1		2	amul	&a1						useitem				pr238				2	2	pr202				2	2	pr455				1	1																																																																							0
