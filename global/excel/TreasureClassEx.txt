@@ -1557,8 +1557,7 @@ Rare Cycles				1						Cycles of Wisdom	20		Cycles of Gold	1																					
 Cycles (H)				1						Common Cycles	170		Uncommon Cycles	29		Rare Cycles	1		Blank TC	200																							0
 Act 1 (H) Triune		25	85	1	140			1024	250	NDTC	300		Act 1 (H) Junk	10		Act 5 (H) Sacred Equip C	200		Act 5 (H) Good	5		Cycles (H)	7																				0
 Vaca Loca Reward				-3						Vaca Loca Charm	1		Baal (H)	1		Cycles (H)	1																										0
-SpecialBoxYAY				1						#X91	1		Blank TC	1																													0
-GriswoldTCex (N)				-2						SpecialBoxYAY	1		Act 1 (N) Super B	1																													0
+GriswoldTCex (N)				-1						Act 1 (N) Super B	1																																0
 GriswoldTCex (H)				1	200	400	400	1024		Act 5 (H) Super C	1																																0
 Mendeln (H)				-2	1024					Baalq Act	1		Runes 10	1																													0
 Mendeln (T)				-2	1024					Baalq (N) Act	1		Runes 12	1																													0
