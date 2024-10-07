@@ -11,12 +11,14 @@ Current Changes:
 -Affix Burn Recipe now returns a Superior quality item
 -Removed Dogmas dropped by Act Bosses. Signets of Skill are now created using a Terror Fauztinville Brain + Arcane Crystal
 -Trader's Chest upgrade will no longer destroy the items if conditions aren't met
+-Unique uptier recipe no longer requires a rune. The regular uptier recipe that only upgrades the tier of the item and not its stats has been removed.
+-Affix Burn Recipe is now Weapon/Armor + Oil of Absolution.
 
 --- Items ---
 -Gemwords have been removed from the game as they're quite useless.
 -Testament of the Apes set has been enabled.
 -Blink on Pax Mystica changed to oskill
--Goodberries and Symbols of Esu are now sold by Ormus and Jamella, respectively
+-Goodberries and Symbols of Esu are now sold by Ormus and Jamella, respectively. The recipe for creating Goodberries has been removed.
 -Oil of Blessed Luck, previously obtained from the Special Box, is now obtained via Oil of Luck + Arcane Crystal
 
 --- Monsters ---
