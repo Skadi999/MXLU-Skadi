@@ -2568,7 +2568,6 @@ Cornerstone of the Roflworld				1	1	120	100	jew					DISABLED			5	5000					so0		s
 Cornerstone of the Roflworld				1	1	120	100	jew					DISABLED			5	5000					so0		so0	pr204	1265	1	1	pr202		10	10	pr469		10	10																																					0
 Cornerstone of the Roflworld				1	1	120	100	jew					DISABLED			5	5000					so0		so0	pr204	1269	1	1	pr202		10	10	pr469		10	10																																					0
 Cornerstone of the Roflworld				1	1	120	100	jew					DISABLED			5	5000					so0		so0	pr204	1273	1	1	pr202		10	10	pr469		10	10																																					0
-Diablo Clone Charm				1	1	1	120	#1^					DISABLED		1	5	5000					so0		so0	pr73		-3	-3	pr7		-5	5	pr8		-5	5	pr9		-5	5	pr10		-5	5	pr66		3	5	pr65		3	5	pr104			1																	0
 TokenRing				1	1	120	121	rin	Ring				DISABLED			5	5000					so0		so0	pr117	1222	100	100	pr108		100	100	pr190		1000	1000	pr104		10	10																																	0
 StormBlade2				1	1	120	121	!07	Naginata							10	5000	blac	blac			so0		so0	pr29		251	300	pr266		10	10	pr310		100	100	pr374	760	100	1	pr388	102	102	102	pr13		500	500	pr57		50	50	pr326		1	5	pr204	1157	3	9	pr73		-5	-5	pr197	78	5	13	pr59		41	50	0
 TheGrizzly2				1	1	120	121	!5!	Warp Blade							10	5000	blac	blac			so0		so0	pr204	431	26	35	pr204	432	26	35	pr204	433	26	35	pr204	434	26	35	pr358		75	75	pr388		76	76	pr29		301	350	pr140		500	1000	pr335		51	100	pr374	760	100	1	pr205	161	1	1	pr483		1	1	0
@@ -2582,12 +2581,9 @@ FakeSunstoneOfIce		1		1	1	1	666	x2x							1							so0		so0	pr73		1	1												
 FakeSunstoneOfThunder		1		1	1	1	666	x3x							1							so0		so0	pr73		1	1																																													0
 SunlessCrystalBird		1		1	1	1	666	yq1							1	5	5000					so0		so0	pr171		6	15	pr172		6	15	pr173		6	15	pr73		-5	-5	pr108		5	5	pr174		6	15																									0
 SixAngelBag		1		1	1	1	666	yq2							1	5	5000					so0		so0	pr31		21	25	pr35		21	25	pr33		21	25	pr20		101	150	pr21		151	250	pr17		101	150	pr18		151	250	pr22		101	150	pr23		151	250	pr19		25	25									0
-NewStartingCharm		1		1	1	1	666	>.<							1	5	5000					so0		so0	pr317	1	1	1	pr125	1134	1	1																																									0
-MyOwnCharm		1		1	1	1	666	#Y^							1	5	5000					so4778		so4778	pr481	62	1	20	pr369	54	1	5	pr104			1	pr171			10	pr78		25	25	pr172			10	pr174			10	pr173			10																	0
 KabraxisSoul		1		1	1	200	666	bxa							1	5	5000					so4908		so4908	pr104			1	pr36			5	pr117	1824		1	pr117	1825		1	pr117	1826		1	pr117	1827		1	pr117	1828		1	pr32			5	pr34			5	pr40			5									0
 UldyssianCharm		1		1	1	666	666	##.							1	5	5000					so0		so0	pr128	248	5	1	pr104		1	1	pr41		10	30	pr182	876	100	1	pr117	1928	1	1																													0
 Soulkeep		1		1	1	666	666	lawl							1	5	5000					so0		so0	pr375		25	25	pr73		-5	-5	pr227		6	10	pr479	147	50	2																																	0
-NewStartingCharm2		1		1	1	666	666	>.<							1	5	5000					so0		so0	pr278	-1	-1	-1	pr125	1134	1	1																																									0
 LucionsSoulstone		1		1	1	1	666	\\8							1	5	5000					so0		so0	pr239		50	50	pr114		10	10	pr68		2	5	pr471		1	1	pr28		50	50	pr193		50	50																									0
 BookOfTriune		1		1	1	1	666	\\7							1	5	5000					so0		so0	pr13		13	13	pr31		3	3	pr7		-4	-4	pr0		-7	-7	pr204	763	2	2																													0
 CycleOfPower				1	1	120	666	cm1	DISABLED	DISABLED	DISABLED	DISABLED	DISABLED	DISABLED		2	3000					so0		so0	pr7		1	20																																													0

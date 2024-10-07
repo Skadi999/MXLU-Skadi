@@ -701,7 +701,6 @@ Act 4 (H) Super C		18	87	-4						Act 4 (H) Uitem B	2		Act 4 (H) Cpot B	2								
 Act 5 (H) Super A		18	90	-4						Act 5 (H) Uitem A	2		Act 5 (H) Cpot A	2																													0
 Act 5 (H) Super B		18	93	-4						Act 5 (H) Uitem B	2		Act 5 (H) Cpot B	2																													0
 Act 5 (H) Super C		18	95	-4						Act 5 (H) Uitem C	2		Act 5 (H) Cpot C	2																													0
-Albrecht				-6						NewStartingCharm2	4		Act 1 Equip A	2																													0
 Countess Rune				3					15	Runes 5	10																																0
 Countess Rune (N)				3					15	Runes 10	10																																0
 Countess Rune (H)				3					15	Runes 15	10																																0
@@ -790,35 +789,35 @@ Baalq Act				2	512	1024	996	1024		Act 1 (N) Equip A	150																									
 Baalq (N) Act				3	512	1024	996	1024		Act 1 (H) Equip A	150																																0
 Baalq (H) Act				4	512	1024	996	1024		Act 5 (H) Equip B	150																																0
 Andariel (D)				-2	1024					Andariel Act	1		Runes 6	1																													0
-Andariel (N) (D)				-3	1024					Andariel (N) Act	1		Runes 12	1		!@6	1																										0
-Andariel (H) (D)				-3	1024					Andariel (H) Act	1		Runes 18	1		!@6	1																										0
+Andariel (N) (D)				-2	1024					Andariel (N) Act	1		Runes 12	1																													0
+Andariel (H) (D)				-2	1024					Andariel (H) Act	1		Runes 18	1																													0
 Andarielq (D)				-2	1024					Andarielq Act	1		Runes 6	1																													0
-Andarielq (N) (D)				-3	1024					Andarielq (N) Act	1		Runes 12	1		!@6	1																										0
-Andarielq (H) (D)				-3	1024					Andarielq (H) Act	1		Runes 18	1		!@6	1																										0
+Andarielq (N) (D)				-2	1024					Andarielq (N) Act	1		Runes 12	1																													0
+Andarielq (H) (D)				-2	1024					Andarielq (H) Act	1		Runes 18	1																													0
 Duriel (D)				-2	1024					Duriel Act	1		Runes 7	1																													0
-Duriel (N) (D)				-3	1024					Duriel (N) Act	1		Runes 13	1		!@7	1																										0
-Duriel (H) (D)				-3	1024					Duriel (H) Act	1		Runes 19	1		!@7	1																										0
+Duriel (N) (D)				-2	1024					Duriel (N) Act	1		Runes 13	1																													0
+Duriel (H) (D)				-2	1024					Duriel (H) Act	1		Runes 19	1																													0
 Durielq (D)				-2	1024					Durielq Act	1		Runes 7	1																													0
-Durielq (N) (D)				-3	1024					Durielq (N) Act	1		Runes 13	1		!@7	1																										0
-Durielq (H) (D)				-3	1024					Durielq (H) Act	1		Runes 19	1		!@7	1																										0
+Durielq (N) (D)				-2	1024					Durielq (N) Act	1		Runes 13	1																													0
+Durielq (H) (D)				-2	1024					Durielq (H) Act	1		Runes 19	1																													0
 Mephisto (D)				-2	1024					Mephisto Act	1		Runes 8	1																													0
-Mephisto (N) (D)				-3	1024					Mephisto (N) Act	1		Runes 14	1		!@8	1																										0
-Mephisto (H) (D)				-3	1024					Mephisto (H) Act	1		Runes 20	1		!@8	1																										0
+Mephisto (N) (D)				-2	1024					Mephisto (N) Act	1		Runes 14	1																													0
+Mephisto (H) (D)				-2	1024					Mephisto (H) Act	1		Runes 20	1																													0
 Mephistoq (D)				-2	1024					Mephistoq Act	1		Runes 8	1																													0
-Mephistoq (N) (D)				-3	1024					Mephistoq (N) Act	1		Runes 14	1		!@8	1																										0
-Mephistoq (H) (D)				-3	1024					Mephistoq (H) Act	1		Runes 20	1		!@8	1																										0
+Mephistoq (N) (D)				-2	1024					Mephistoq (N) Act	1		Runes 14	1																													0
+Mephistoq (H) (D)				-2	1024					Mephistoq (H) Act	1		Runes 20	1																													0
 Diablo (D)				-2	1024					Diablo Act	1		Runes 9	1																													0
-Diablo (N) (D)				-3	1024					Diablo (N) Act	1		Runes 15	1		!@9	1																										0
-Diablo (H) (D)				-3	1024					Diablo (H) Act	1		Runes 21	1		!@9	1																										0
+Diablo (N) (D)				-2	1024					Diablo (N) Act	1		Runes 15	1																													0
+Diablo (H) (D)				-2	1024					Diablo (H) Act	1		Runes 21	1																													0
 Diabloq (D)				-2	1024					Diabloq Act	1		Runes 9	1																													0
-Diabloq (N) (D)				-3	1024					Diabloq (N) Act	1		Runes 15	1		!@9	1																										0
-Diabloq (H) (D)				-3	1024					Diabloq (H) Act	1		Runes 21	1		!@9	1																										0
+Diabloq (N) (D)				-2	1024					Diabloq (N) Act	1		Runes 15	1																													0
+Diabloq (H) (D)				-2	1024					Diabloq (H) Act	1		Runes 21	1																													0
 Baal (D)				-2	1024					Baal Act	1		Runes 10	1																													0
-Baal (N) (D)				-3	1024					Baalq (N) Act	1		Runes 12	1		!@A	1																										0
-Baal (H) (D)				-3	1024					Baal (H) Act	1		Runes 22	1		!@A	1																										0
+Baal (N) (D)				-2	1024					Baalq (N) Act	1		Runes 12	1																													0
+Baal (H) (D)				-2	1024					Baal (H) Act	1		Runes 22	1																													0
 Baalq (D)				-2	1024					Baalq Act	1		Runes 10	1																													0
-Baalq (N) (D)				-3	1024					Baalq (N) Act	1		Runes 12	1		!@A	1																										0
-Baalq (H) (D)				-3	1024					Baalq (H) Act	1		Runes 22	1		!@A	1																										0
+Baalq (N) (D)				-2	1024					Baalq (N) Act	1		Runes 12	1																													0
+Baalq (H) (D)				-2	1024					Baalq (H) Act	1		Runes 22	1																													0
 Nihlathak Signet				-2						zkq	1		Signets Minor	1																													0
 Nihlathak (D)				-3	1024					Runes 15	1		Nihlathak	1																													0
 Nihlathak (N) (D)				-3	1024					Runes 20	1		zkq	1		Nihlathak (N)	1																										0
@@ -1486,13 +1485,8 @@ zvxmvknkmnmnxvjn6				1	1024					mlmxvzmvnjnajnjnjcznjn	1																								
 sagkaskfmalsfmalksfm				-6						zvxmvknkmnmnxvjn1	1		zvxmvknkmnmnxvjn2	1		zvxmvknkmnmnxvjn3	1		zvxmvknkmnmnxvjn4	1		zvxmvknkmnmnxvjn5	1		zvxmvknkmnmnxvjn6	1																	0
 GiftBoxYAY				1						#X9	1																																0
 GriswoldTCex				-2						GiftBoxYAY	1		Act 1 Super B	1																													0
-Diablo Charm0				1	1024					Diablo Clone Charm	1																																0
-Diablo Giftboxeh				1						#2^	1																																0
 Diablo Dropz		20	85	3		1024				Act 5 (H) Heroic Bias C	1		Act 5 (H) Heroic Bias C	1		Act 5 (H) Heroic Bias C	1																										0
-Uber Diablo Drops				-2						Diablo Dropz	1		Diablo Charm0	1																													0
 I Am Rich Gem				1	1024					NewSuperGem	25		Blank TC	25																													0
-My Own Charm				1	1024					MyOwnCharm	25		Blank TC	25																													0
-MarcoNecroX Secret Boss				-2						Uldyssian Equip Drop	1		My Own Charm	1																													0
 Staff for quest				1	1024					msf	1																																0
 Staff for quest YES!				-1						Staff for quest	1																																0
 BRING FLAIL NAIO				1	1024					qf2	1																																0
@@ -1565,7 +1559,6 @@ Act 1 (H) Triune		25	85	1	140			1024	250	NDTC	300		Act 1 (H) Junk	10		Act 5 (H) 
 Vaca Loca Reward				-3						Vaca Loca Charm	1		Baal (H)	1		Cycles (H)	1																										0
 SpecialBoxYAY				1						#X91	1		Blank TC	1																													0
 GriswoldTCex (N)				-2						SpecialBoxYAY	1		Act 1 (N) Super B	1																													0
-PandorasBoxYAY				1						#2^	1																																0
 GriswoldTCex (H)				1	200	400	400	1024		Act 5 (H) Super C	1																																0
 Mendeln (H)				-2	1024					Baalq Act	1		Runes 10	1																													0
 Mendeln (T)				-2	1024					Baalq (N) Act	1		Runes 12	1																													0

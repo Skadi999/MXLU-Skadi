@@ -43,3 +43,4 @@ TODO:
 - Reenable some disabled uniques and RWs in the files
 - Change Merc Equip to Basemod version, free up itemtypes, create the e;;q itemtype and use it for crafting recipes
 - Goodberry and Moon Cookies sold by vendors
+- Animdata for Haunt

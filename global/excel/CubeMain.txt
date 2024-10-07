@@ -10185,27 +10185,11 @@ cm10742	Veteran Tokens	1			100	16	219		dru	6	Caoi Dulra Fruit	!@1	!@2	!@3	!@4	!@
 cm10743	Veteran Tokens	1			100	16	219		nec	6	Soulstone Shard	!@1	!@2	!@3	!@4	!@5		useitem				pr469				1	1	pr69				1	1	pr191				20	20																																																																							0
 cm10744	Veteran Tokens	1			100	16	219		pal	6	Orb of Divinity	!@1	!@2	!@3	!@4	!@5		useitem				pr469				1	1	pr68				1	1	pr191				20	20																																																																							0
 cm10745	Veteran Tokens	1			100	16	219		sor	6	Nexus Crystal	!@1	!@2	!@3	!@4	!@5		useitem				pr469				1	1	pr70				1	1	pr191				20	20																																																																							0
-cm10774	Create Skill Signets	1			100				ama	7	!@6	!@7	"!@8,qty=3"	!@9	!@A			!@B																																																																																												0
-cm10775	Create Skill Signets	1			100				ass	7	!@6	!@7	"!@8,qty=3"	!@9	!@A			!@B																																																																																												0
-cm10776	Create Skill Signets	1			100				bar	7	!@6	!@7	"!@8,qty=3"	!@9	!@A			!@B																																																																																												0
-cm10777	Create Skill Signets	1			100				dru	7	!@6	!@7	"!@8,qty=3"	!@9	!@A			!@B																																																																																												0
-cm10778	Create Skill Signets	1			100				nec	7	!@6	!@7	"!@8,qty=3"	!@9	!@A			!@B																																																																																												0
-cm10779	Create Skill Signets	1			100				pal	7	!@6	!@7	"!@8,qty=3"	!@9	!@A			!@B																																																																																												0
-cm10780	Create Skill Signets	1			100				sor	7	!@6	!@7	"!@8,qty=3"	!@9	!@A			!@B																																																																																												0
-cm10781	Create Skill Signets	1			100				ama	7	!@6	!@7	!@8	"!@9,qty=3"	!@A			!@B																																																																																												0
-cm10782	Create Skill Signets	1			100				ass	7	!@6	!@7	!@8	"!@9,qty=3"	!@A			!@B																																																																																												0
-cm10783	Create Skill Signets	1			100				bar	7	!@6	!@7	!@8	"!@9,qty=3"	!@A			!@B																																																																																												0
-cm10784	Create Skill Signets	1			100				dru	7	!@6	!@7	!@8	"!@9,qty=3"	!@A			!@B																																																																																												0
-cm10785	Create Skill Signets	1			100				nec	7	!@6	!@7	!@8	"!@9,qty=3"	!@A			!@B																																																																																												0
-cm10786	Create Skill Signets	1			100				pal	7	!@6	!@7	!@8	"!@9,qty=3"	!@A			!@B																																																																																												0
-cm10787	Create Skill Signets	1			100				sor	7	!@6	!@7	!@8	"!@9,qty=3"	!@A			!@B																																																																																												0
-cm10788	Create Skill Signets	1			100				ama	7	!@6	!@7	!@8	!@9	"!@A,qty=3"			!@B																																																																																												0
-cm10789	Create Skill Signets	1			100				ass	7	!@6	!@7	!@8	!@9	"!@A,qty=3"			!@B																																																																																												0
-cm10790	Create Skill Signets	1			100				bar	7	!@6	!@7	!@8	!@9	"!@A,qty=3"			!@B																																																																																												0
-cm10791	Create Skill Signets	1			100				dru	7	!@6	!@7	!@8	!@9	"!@A,qty=3"			!@B																																																																																												0
-cm10792	Create Skill Signets	1			100				nec	7	!@6	!@7	!@8	!@9	"!@A,qty=3"			!@B																																																																																												0
-cm10793	Create Skill Signets	1			100				pal	7	!@6	!@7	!@8	!@9	"!@A,qty=3"			!@B																																																																																												0
-cm10794	Create Skill Signets	1			100				sor	7	!@6	!@7	!@8	!@9	"!@A,qty=3"			!@B																																																																																												0
+cm10774	Create Skill Signets	1			100					2	2x5	qum						!@B																																																																																												0
+cm10775	Create Skill Signets	1			100					7	2x6	qum						!@B																																																																																												0
+cm10776	Create Skill Signets	1			100					7	2x7	qum						!@B																																																																																												0
+cm10777	Create Skill Signets	1			100					7	2x8	qum						!@B																																																																																												0
+cm10778	Create Skill Signets	1			100					7	2x9	qum						!@B																																																																																												0
 cm10809	LC2 Decoy	1			100	3	12	91	ama	2	Sacred Sunstone	gem4						useitem																																																																																												0
 cm10810	LC2 Decoy	1			100	3	12	91	ass	2	Shadow Vortex	gem4						useitem																																																																																												0
 cm10811	LC2 Decoy	1			100	3	12	91	bar	2	Worldstone Orb	gem4						useitem																																																																																												0
@@ -10393,7 +10377,6 @@ cm11657	Disenchant (Catalyst of Disenchanting)	1			100	18	276			9	"dcht,set,qty=
 cm11658	Disenchant (Catalyst of Disenchanting)	1			100	18	276			10	"dcht,set,qty=9"	3oµ						qum																																		#5^																													3oµ																													0
 cm11659	Disenchant (Catalyst of Disenchanting)	1			100	18	276			11	"dcht,set,qty=10"	3oµ						qum																																		qum																													3oµ																													0
 cm11660	Trader's Chest	1			100					2	"`^`,uni"	gemz						"`^`,uni"	120		120	pr469				1	1																									skc																																																										0
-cm11661	Trader's Chest	1			100	18	443	1		2	"`^`,uni"							µ99																																		aqv																													cqv				pr13			-100	-100																					0
 cm11662	Trader's Chest	1			100	15	466	49		2	"`^`,uni"	gemd						useitem				pr316				1	1																									gcw																													skc																													0
 cm11663	Trader's Chest	1			100	15	466	49		2	"`^`,uni"	gema						useitem				pr316				1	1																									gcv																													skc																													0
 cm11664	Trader's Chest	1			100	15	466	49		2	"`^`,uni"	gemr						useitem				pr316				1	1																									gcr																													skc																													0
@@ -10430,9 +10413,9 @@ cm11694	The Sleep	1			100	16	219			2	"`|#,uni"	µ14						useitem				pr469				1	1	
 cm11695	The Sleep	1			100	16	219			2	"`|#,uni"	bxt						useitem				pr469				1	1	pr171				1	15	pr172				1	15	pr173				1	15	pr174				1	15																																																											0
 cm11696	The Sleep	1			100	16	219			2	"`|#,uni"	##/						useitem				pr469				1	1	pr134				200	300	pr135				200	300	pr137				200	300	pr117			774		1																																																											0
 cm11697	Unknown Skull convert?	1			100					2	r97	r99						`^#	120		120																																																																																									0
-cm11698	Trader's Chest Upgrade	1			100	18	426			2	"`^`,uni"	`^#						µ99																																																																																												0
-cm11699	Trader's Chest Upgrade	1			100	17	219			2	"`^`,uni"	`^#						µ99																																																																																												0
-cm11700	Trader's Chest Upgrade	1			100	18	443			2	"`^`,uni"	`^#						useitem				pr265				1	1	pr73				-1	-1	pr104					2	pr190				1	25	pr316				-1	-1																																																											0
+cm11698	Trader's Chest + Unknown Skull 2 Decoy	1			100	18	426			2	"`^`,uni"	`^#						useitem																																		`^#																																																										0
+cm11699	Trader's Chest + Unknown Skull 2 Decoy	1			100	17	219			2	"`^`,uni"	`^#						useitem																																		`^#																																																										0
+cm11700	Trader's Chest + Unknown Skull 2 Success	1			100	18	443			2	"`^`,uni"	`^#						useitem				pr265				1	1	pr73				-1	-1	pr104					2	pr190				1	25	pr316				-1	-1																																																											0
 cm11701	Cursed Crystal	1			100					2	||_	r99						||.	120																																																																																											0
 cm11702	Cursed Crystal	1			100					2	||_	thng						||`	120																																																																																											0
 cm11703	Cursed Crystal	1			100					2	||`	jew						qum																																																																																												0
@@ -11425,7 +11408,7 @@ cm12689	Shrine Vessel	1								40	N0+S	"N0+,qty=39"						useitem				pr491				39	
 cm12690	Shrine Vessel	1								40	O0+S	"O0+,qty=39"						useitem				pr491				39	39																																																																																			0
 cm12691	Shrine Vessel	1								40	Q0+S	"Q0+,qty=39"						useitem				pr491				39	39																																																																																			0
 cm12692	Shrine Vessel	1								40	R0+S	"R0+,qty=39"						useitem				pr491				39	39																																																																																			0
-cm3	DEV RECIPE				100					1	hpot							MRHadriel's Presence	120		120																															MRHadriel's Wings	120		120																										MRHadriel's Avenger	120		120																										0
+cm3	DEV RECIPE	1			100					1	hpot							TradersChest2	120		120																															`^#	120		120																										9$a	120		120																										0
 cm4	DEV RECIPE				100					2	"hpot,qty=2"							MRHadriel's Courage	120		120																															MRHadriel's Pure Heart	120		120																											120		120																										0
 cm5	DEV RECIPE				100					1	rin							useitem				pr125			1156	1	1																									MSApehand	120		120																											120		120																										0
 cm6	DEV RECIPE				100					1	armo							"useitem,rem"																																																																																												0
