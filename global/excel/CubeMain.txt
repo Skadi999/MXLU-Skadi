@@ -9064,7 +9064,6 @@ cm11624	Learning (Catalyst of Learning)	1			100					23	"ssgl,set,qty=22"	0oµ				
 cm11625	Learning (Catalyst of Learning)	1			100					24	"ssgl,set,qty=23"	0oµ						23^																																		0oµ																																																										0
 cm11626	Learning (Catalyst of Learning)	1			100					25	"ssgl,set,qty=24"	0oµ						24^																																		0oµ																																																										0
 cm11627	Learning (Catalyst of Learning)	1			100					26	"ssgl,set,qty=25"	0oµ						zky																																		0oµ																																																										0
-cm11628	Pandora's Box (unused??)	1			100					2	#2^	dog						"dcht,uni"	105		105																															"dcht,uni"	95		95																										"dcht,uni"	120		120																										0
 cm11629	prolly used to be UMO reroll recipe. Remove this?	1			100					3	"asa#,qty=3"							asa#																																																																																												0
 cm11630	Mix Arcane Shards	1			100					2	"qul,qty=2"							#3^																																																																																												0
 cm11631	Mix Arcane Shards	1			100					3	"qul,qty=3"							#4^																																																																																												0

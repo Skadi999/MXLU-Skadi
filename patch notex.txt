@@ -4,6 +4,7 @@ Current Changes:
 -Minigames have been removed. The following charms now have a +1 to max skill levels: Optical Detector, Idol of Vanity, Eternal Bone Pile
 -Den of Evil size on Terror and Destruction reduced to same size as Hatred
 -Special Box has been removed.
+-Mercenary full equip feature implementation now requires having Basemod installed. This also means that Mercenaries may now equip one ring in addition to everything else.
 
 --- Cube Recipes ---
 -Cow Portal Tome Recipe no longer requires a Tome of Town Portal
@@ -47,5 +48,5 @@ TODO:
 - Use some item/spell/minion icons from later versions
 - Create new monsters with D1/Infinitum/Sigma monster tokens
 - Reenable some disabled uniques and RWs in the files
-- Create the e;;q itemtype and use it for crafting recipes
 - Animdata for Haunt
+- Change Dragon Rerolls - make the Dragon drop an item that gives you an X amount of rerolls/chaos rerolls with the same ilvl as it works now. Maybe make the dragons only spawn in Destruction since they're pretty much useless in other difficulties
