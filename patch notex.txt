@@ -47,5 +47,5 @@ TODO:
 - Use some item/spell/minion icons from later versions
 - Create new monsters with D1/Infinitum/Sigma monster tokens
 - Reenable some disabled uniques and RWs in the files
-- Change Merc Equip to Basemod version, free up itemtypes, create the e;;q itemtype and use it for crafting recipes
+- Create the e;;q itemtype and use it for crafting recipes
 - Animdata for Haunt
