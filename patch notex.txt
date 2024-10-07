@@ -29,6 +29,7 @@ TODO:
 - Change Zomghelp Recipe
 - Overhaul/remove crafting points
 - Overhaul Azmodan mobs and remove random stats from Azmodan and other bosses
+- Change TUs to 3 tiers
 - Overhaul some TUs, SUs
 - Restore some item stats that were removed in 2012 like 5% max res on Imperius set boots
 - Restore some Omega era unique item names
@@ -42,5 +43,4 @@ TODO:
 - Create new monsters with D1/Infinitum/Sigma monster tokens
 - Reenable some disabled uniques and RWs in the files
 - Change Merc Equip to Basemod version, free up itemtypes, create the e;;q itemtype and use it for crafting recipes
-- Goodberry and Moon Cookies sold by vendors
 - Animdata for Haunt
