@@ -1,132 +1,5 @@
 index	set	item	*item	rarity	lvl	* Laz / comments	* Laz / positioning	lvl req	chrtransform	invtransform	invfile	flippyfile	* Laz / str	* Laz / dex	dropsound	dropsfxframe	usesound	cost mult	cost add	add func	prop1	par1	min1	max1	prop2	par2	min2	max2	prop3	par3	min3	max3	prop4	par4	min4	max4	prop5	par5	min5	max5	prop6	par6	min6	max6	prop7	par7	min7	max7	prop8	par8	min8	max8	prop9	par9	min9	max9	aprop1a	apar1a	amin1a	amax1a	aprop1b	apar1b	amin1b	amax1b	aprop2a	apar2a	amin2a	amax2a	aprop2b	apar2b	amin2b	amax2b	aprop3a	apar3a	amin3a	amax3a	aprop3b	apar3b	amin3b	amax3b	aprop4a	apar4a	amin4a	amax4a	aprop4b	apar4b	amin4b	amax4b	aprop5a	apar5a	amin5a	amax5a	aprop5b	apar5b	amin5b	amax5b	*eol
-Civerb's Ward	se0	lrg 	lrg 	7	126	old LoD	1	9	lyel	lyel					so0		so0	5	2500	1																																																																													0
-Civerb's Icon	se0	amu 	amu 	7	126	old LoD	2	9	lyel	lyel					so0		so0	5	2500	2																																																																													0
-Civerb's Cudgel	se0	gsc 	gsc 	7	126	old LoD	3	9	lyel	lyel					so0		so0	5	2500																																																																														0
-Hsarus' Iron Heel	se1	mbt 	mbt 	7	126	old LoD	4	3	dred	dred					so0		so0	5	2500	2																																																																													0
-Hsarus' Iron Fist	se1	buc 	buc 	7	126	old LoD	5	3	dred	dred					so0		so0	5	2500	2																																																																													0
-Hsarus' Iron Stay	se1	mbl 	mbl 	7	126	old LoD	6	3	dred	dred					so0		so0	5	2500	2																																																																													0
-Cleglaw's Tooth	se2	lsd 	lsd 	7	126	old LoD	7	4	lred	lred					so0		so0	5	2500	2																																																																													0
-Cleglaw's Claw	se2	sml 	sml 	7	126	old LoD	8	4	lred	lred					so0		so0	5	2500	2																																																																													0
-Cleglaw's Pincers	se2	mgl 	mgl 	7	126	old LoD	9	4	lred	lred					so0		so0	5	2500	2																																																																													0
-Iratha's Collar	se3	amu 	amu 	7	126	old LoD	10	15	lgry	lgry					so0		so0	5	2500	2																																																																													0
-Iratha's Cuff	se3	tgl 	tgl 	7	126	old LoD	11	15	lgry	lgry					so0		so0	5	2500	2																																																																													0
-Iratha's Coil	se3	crn 	crn 	7	126	old LoD	12	15	lgry	lgry					so0		so0	5	2500	2																																																																													0
-Iratha's Cord	se3	tbl 	tbl 	7	126	old LoD	13	15	lgry	lgry					so0		so0	5	2500	2																																																																													0
-Isenhart's Lightbrand	se4	bsd 	bsd 	7	126	old LoD	14	8	lgld	lgld					so0		so0	5	2500	2																																																																													0
-Isenhart's Parry	se4	gts 	gts 	7	126	old LoD	15	8	lgld	lgld					so0		so0	5	2500	2																																																																													0
-Isenhart's Case	se4	brs 	brs 	7	126	old LoD	16	8	lgld	lgld					so0		so0	5	2500	2																																																																													0
-Isenhart's Horns	se4	fhl 	fhl 	7	126	old LoD	17	8	lgld	lgld					so0		so0	5	2500	2																																																																													0
-Vidala's Barb	se5	lbb 	lbb 	7	126	old LoD	18	14	blac	blac					so0		so0	5	2500	2																																																																													0
-Vidala's Fetlock	se5	tbt 	tbt 	7	126	old LoD	19	14	blac	blac					so0		so0	5	2500	2																																																																													0
-Vidala's Ambush	se5	lea 	lea 	7	126	old LoD	20	14	blac	blac					so0		so0	5	2500	2																																																																													0
-Vidala's Snare	se5	amu 	amu 	7	126	old LoD	21	14	blac	blac					so0		so0	5	2500	2																																																																													0
-Milabrega's Orb	se6	kit 	kit 	7	126	old LoD	22	17	dblu	dblu					so0		so0	5	2500	2																																																																													0
-Milabrega's Rod	se6	wsp 	wsp 	7	126	old LoD	23	17	dblu	dblu					so0		so0	5	2500																																																																														0
-Milabrega's Diadem	se6	crn 	crn 	7	126	old LoD	24	17	dblu	dblu					so0		so0	5	2500	2																																																																													0
-Milabrega's Robe	se6	aar 	aar 	7	126	old LoD	25	17	dblu	dblu					so0		so0	5	2500	2																																																																													0
-Cathan's Rule	se7	bst 	bst 	7	126	old LoD	26	11	dgrn	dgrn					so0		so0	5	2500	2																																																																													0
-Cathan's Mesh	se7	chn 	chn 	7	126	old LoD	27	11	dgrn	dgrn					so0		so0	5	2500	2																																																																													0
-Cathan's Visage	se7	msk 	msk 	7	126	old LoD	28	11	dgrn	dgrn					so0		so0	5	2500	2																																																																													0
-Cathan's Sigil	se7	amu 	amu 	7	126	old LoD	29	11	dgrn	dgrn					so0		so0	5	2500	2																																																																													0
-Cathan's Seal	se7	rin 	rin 	7	126	old LoD	30	11	dgrn	dgrn					so0		so0	5	2500	2																																																																													0
-Tancred's Crowbill	se8	mpi 	mpi 	7	126	old LoD	31	20	dgld	dgld					so0		so0	5	2500	2																																																																													0
-Tancred's Spine	se8	ful 	ful 	7	126	old LoD	32	20	dgld	dgld					so0		so0	5	2500	2																																																																													0
-Tancred's Hobnails	se8	lbt 	lbt 	7	126	old LoD	33	20	dgld	dgld					so0		so0	5	2500	2																																																																													0
-Tancred's Weird	se8	amu 	amu 	7	126	old LoD	34	20	dgld	dgld					so0		so0	5	2500	2																																																																													0
-Tancred's Skull	se8	bhm 	bhm 	7	126	old LoD	35	20	dgld	dgld					so0		so0	5	2500	2																																																																													0
-Sigon's Gage	se9	hgl 	hgl 	7	126	old LoD	36	6	whit	whit					so0		so0	5	2500	2																																																																													0
-Sigon's Visor	se9	ghm 	ghm 	7	126	old LoD	37	6	whit	whit					so0		so0	5	2500	2																																																																													0
-Sigon's Shelter	se9	gth 	gth 	7	126	old LoD	38	6	whit	whit					so0		so0	5	2500	2																																																																													0
-Sigon's Sabot	se9	hbt 	hbt 	7	126	old LoD	39	6	whit	whit					so0		so0	5	2500	2																																																																													0
-Sigon's Wrap	se9	hbl 	hbl 	7	126	old LoD	40	6	whit	whit					so0		so0	5	2500	2																																																																													0
-Sigon's Guard	se9	tow 	tow 	7	126	old LoD	41	6	whit	whit					so0		so0	5	2500	2																																																																													0
-Infernal Cranium	se10	cap 	cap 	7	126	old LoD	42	5	lyel	lyel					so0		so0	5	2500	2																																																																													0
-Infernal Torch	se10	gwn 	gwn 	7	126	old LoD	43	5	lyel	lyel					so0		so0	5	2500	2																																																																													0
-Infernal Sign	se10	tbl 	tbl 	7	126	old LoD	44	5	lyel	lyel					so0		so0	5	2500	2																																																																													0
-Berserker's Headgear	se11	hlm 	hlm 	7	126	old LoD	45	3	dred	dred					so0		so0	5	2500	2																																																																													0
-Berserker's Hauberk	se11	spl 	spl 	7	126	old LoD	46	3	dred	dred					so0		so0	5	2500	2																																																																													0
-Berserker's Hatchet	se11	2ax 	2ax 	7	126	old LoD	47	3	dred	dred					so0		so0	5	2500	2																																																																													0
-Death's Hand	se12	lgl 	lgl 	7	126	old LoD	48	6	lred	lred					so0		so0	5	2500	2																																																																													0
-Death's Guard	se12	lbl 	lbl 	7	126	old LoD	49	6	lred	lred					so0		so0	5	2500	2																																																																													0
-Death's Touch	se12	wsd 	wsd 	7	126	old LoD	50	6	lred	lred					so0		so0	5	2500	2																																																																													0
-Angelic Sickle	se13	sbr 	sbr 	7	126	old LoD	51	12	lgry	lgry					so0		so0	5	2500	2																																																																													0
-Angelic Mantle	se13	rng 	rng 	7	126	old LoD	52	12	lgry	lgry					so0		so0	5	2500	2																																																																													0
-Angelic Halo	se13	rin 	rin 	3	126	old LoD	53	12	lgry	lgry					so0		so0	5	2500	2																																																																													0
-Angelic Wings	se13	amu 	amu 	7	126	old LoD	54	12	lgry	lgry					so0		so0	5	2500	2																																																																													0
-Arctic Horn	se14	swb 	swb 	7	126	old LoD	55	2	lgld	lgld					so0		so0	5	2500	2																																																																													0
-Arctic Furs	se14	qui 	qui 	7	126	old LoD	56	2	lgld	lgld					so0		so0	5	2500	2																																																																													0
-Arctic Binding	se14	vbl 	vbl 	7	126	old LoD	57	2	lgld	lgld					so0		so0	5	2500	2																																																																													0
-Arctic Mitts	se14	tgl 	tgl 	7	126	old LoD	58	2	lgld	lgld					so0		so0	5	2500	2																																																																													0
-Arcanna's Sign	se15	amu 	amu 	1	126	old LoD	59	15	blac	blac					so0		so0	5	2500	2																																																																													0
-Arcanna's Deathwand	se15	wst 	wst 	7	126	old LoD	60	15	blac	blac					so0		so0	5	2500	2																																																																													0
-Arcanna's Head	se15	skp 	skp 	7	126	old LoD	61	15	blac	blac					so0		so0	5	2500	2																																																																													0
-Arcanna's Flesh	se15	ltp 	ltp 	7	126	old LoD	62	15	blac	blac					so0		so0	5	2500	2																																																																													0
 Expansion							63																																																																																										0
-Natalya's Totem	se16	xh9 	xh9 	7	126	old LoD	64	59	dgry	dgry					so0		so0	5	5000																																																																														0
-Natalya's Mark	se16	7qr 	7qr 	7	126	old LoD	65	79	dgry	dgry					so0		so0	5	5000																																																																														0
-Natalya's Shadow	se16	ucl 	ucl 	7	126	old LoD	66	73	dgry	dgry					so0		so0	5	5000																																																																														0
-Natalya's Soul	se16	xmb 	xmb 	7	126	old LoD	67	25	dgry	dgry					so0		so0	5	5000																																																																														0
-Aldur's Stony Gaze	se17	dr8 	dr8 	7	126	old LoD	68	36	oran	oran					so0		so0	5	5000	2																																																																													0
-Aldur's Deception	se17	uul 	uul 	7	126	old LoD	69	76	oran	oran					so0		so0	5	5000	2																																																																													0
-Aldur's Gauntlet	se17	9mt 	9mt 	7	126	old LoD	70	42	oran	oran					so0		so0	5	5000	2																																																																													0
-Aldur's Advance	se17	xtb 	xtb 	7	126	old LoD	71	45	oran	oran					so0		so0	5	5000	2																																																																													0
-Immortal King's Will	se18	ba5 	ba5 	7	126	old LoD	72	47	lgry	lgry					so0		so0	5	5000																																																																														0
-Immortal King's Soul Cage 	se18	uar 	uar 	7	126	old LoD	73	76	lgry	lgry					so0		so0	5	5000	2																																																																													0
-Immortal King's Detail	se18	zhb 	zhb 	7	126	old LoD	74	29	lgry	lgry					so0		so0	5	5000	2																																																																													0
-Immortal King's Forge	se18	xhg 	xhg 	7	126	old LoD	75	30	lgry	lgry					so0		so0	5	5000	2																																																																													0
-Immortal King's Pillar	se18	xhb 	xhb 	7	126	old LoD	76	31	lgry	lgry					so0		so0	5	5000	2																																																																													0
-Immortal King's Stone Crusher	se18	7m7 	7m7 	7	126	old LoD	77	76	lgry	lgry					so0		so0	5	5000	2																																																																													0
-Tal Rasha's Fire-Spun Cloth	se19	zmb 	zmb 	7	126	old LoD	78	53	dpur	dpur					so0		so0	5	5000	2																																																																													0
-Tal Rasha's Adjudication	se19	amu 	amu 	1	126	old LoD	79	67	dpur	dpur					so0		so0	5	5000	2																																																																													0
-Tal Rasha's Lidless Eye	se19	oba 	oba 	7	126	old LoD	80	65	dpur	dpur					so0		so0	5	5000	2																																																																													0
-Tal Rasha's Howling Wind	se19	uth 	uth 	7	126	old LoD	81	71	dpur	dpur					so0		so0	5	5000	2																																																																													0
-Tal Rasha's Horadric Crest	se19	xsk 	xsk 	7	126	old LoD	82	66	dpur	dpur					so0		so0	5	5000																																																																														0
-Griswold's Valor	se20	urn 	urn 	7	126	old LoD	83	69	dgld	dgld					so0		so0	5	5000	2																																																																													0
-Griswold's Heart	se20	xar 	xar 	7	126	old LoD	84	45	dgld	dgld					so0		so0	5	5000																																																																														0
-Griswolds's Redemption	se20	7ws 	7ws 	7	126	old LoD	85	53	dgld	dgld					so0		so0	5	5000	2																																																																													0
-Griswold's Honor	se20	paf 	paf 	7	126	old LoD	86	68	dgld	dgld					so0		so0	5	5000																																																																														0
-Trang-Oul's Guise	se21	uh9 	uh9 	7	126	old LoD	87	65	dgld	dgld					so0		so0	5	5000																																																																														0
-Trang-Oul's Scales	se21	xul 	xul 	7	126	old LoD	88	49	dyel	dyel					so0		so0	5	5000	2																																																																													0
-Trang-Oul's Wing	se21	ne9 	ne9 	7	126	old LoD	89	54	dyel	dyel					so0		so0	5	5000	2																																																																													0
-Trang-Oul's Claws	se21	xmg 	xmg 	7	126	old LoD	90	45	dyel	dyel					so0		so0	5	5000																																																																														0
-Trang-Oul's Girth	se21	utc 	utc 	7	126	old LoD	91	47	dyel	dyel					so0		so0	5	5000	2																																																																													0
-M'avina's True Sight	se22	ci3 	ci3 	7	126	old LoD	92	59	whit	whit					so0		so0	5	5000	2																																																																													0
-M'avina's Embrace	se22	uld 	uld 	7	126	old LoD	93	70	whit	whit					so0		so0	5	5000	2																																																																													0
-M'avina's Icy Clutch	se22	xtg 	xtg 	7	126	old LoD	94	32	whit	whit					so0		so0	5	5000	2																																																																													0
-M'avina's Tenet	se22	zvb 	zvb 	7	126	old LoD	95	45	whit	whit					so0		so0	5	5000	2																																																																													0
-M'avina's Caster	se22	amc 	amc 	7	126	old LoD	96	70	whit	whit					so0		so0	5	5000	2																																																																													0
-Telling of Beads	se23	amu 	amu 	1	126	old LoD	97	30	lblu	lblu					so0		so0	5	5000																																																																														0
-Laying of Hands	se23	ulg 	ulg 	7	126	old LoD	98	63	lblu	lblu					so0		so0	5	5000																																																																														0
-Rite of Passage	se23	xlb 	xlb 	7	126	old LoD	99	29	lblu	lblu					so0		so0	5	5000																																																																														0
-Spiritual Custodian	se23	uui 	uui 	7	126	old LoD	100	43	lblu	lblu					so0		so0	5	5000																																																																														0
-Credendum	se23	umc 	umc 	7	126	old LoD	101	65	lblu	lblu					so0		so0	5	5000																																																																														0
-Dangoon's Teaching	se24	7ma 	7ma 	7	126	old LoD	102	68							so0		so0	5	5000																																																																														0
-Heaven's Taebaek	se24	uts 	uts 	7	126	old LoD	103	81							so0		so0	5	5000																																																																														0
-Haemosu's Adament	se24	xrs 	xrs 	7	126	old LoD	104	44							so0		so0	5	5000																																																																														0
-Ondal's Almighty	se24	uhm 	uhm 	7	126	old LoD	105	69							so0		so0	5	5000																																																																														0
-Guillaume's Face	se25	xhm 	xhm 	7	126	old LoD	106	34	lgry	lgry					so0		so0	5	5000																																																																														0
-Wilhelm's Pride	se25	ztb 	ztb 	7	126	old LoD	107	42	lgry	lgry					so0		so0	5	5000																																																																														0
-Magnus' Skin	se25	xvg 	xvg 	7	126	old LoD	108	37	lgry	lgry					so0		so0	5	5000																																																																														0
-Wihtstan's Guard	se25	xml 	xml 	7	126	old LoD	109	29	lgry	lgry					so0		so0	5	5000																																																																														0
-Hwanin's Splendor	se26	xrn 	xrn 	7	126	old LoD	110	45							so0		so0	5	5000																																																																														0
-Hwanin's Refuge	se26	xcl 	xcl 	7	126	old LoD	111	30							so0		so0	5	5000																																																																														0
-Hwanin's Seal	se26	mbl 	mbl 	7	126	old LoD	112	35							so0		so0	5	5000																																																																														0
-Hwanin's Justice	se26	9vo 	9vo 	7	126	old LoD	113	28							so0		so0	5	5000																																																																														0
-Sazabi's Cobalt Redeemer	se27	7ls 	7ls 	7	126	old LoD	114	73	dblu	dblu					so0		so0	5	5000																																																																														0
-Sazabi's Ghost Liberator	se27	upl 	upl 	7	126	old LoD	115	67	dblu	dblu					so0		so0	5	5000																																																																														0
-Sazabi's Mental Sheath	se27	xhl 	xhl 	7	126	old LoD	116	43	dblu	dblu					so0		so0	5	5000																																																																														0
-Bul-Kathos' Sacred Charge	se28	7gd 	7gd 	7	126	old LoD	117	61	dgrn	dgrn					so0		so0	5	5000																																																																														0
-Bul-Kathos' Tribal Guardian	se28	7wd 	7wd 	7	126	old LoD	118	54	dgrn	dgrn					so0		so0	5	5000																																																																														0
-Cow King's Horns	se29	xap 	xap 	7	126	old LoD	119	25							so0		so0	5	5000																																																																														0
-Cow King's Hide	se29	stu 	stu 	7	126	old LoD	120	18							so0		so0	5	5000																																																																														0
-Cow King's Hoofs	se29	vbt 	vbt 	7	126	old LoD	121	13							so0		so0	5	5000																																																																														0
-Naj's Puzzler	se30	6cs 	6cs 	7	126	old LoD	122	78							so0		so0	5	5000																																																																														0
-Naj's Light Plate	se30	ult 	ult 	7	126	old LoD	123	71							so0		so0	5	5000																																																																														0
-Naj's Circlet	se30	ci0 	ci0 	7	126	old LoD	124	28							so0		so0	5	5000																																																																														0
-McAuley's Paragon	se31	cap 	cap 	3	126	old LoD	125	25	lpur	lpur					so0		so0	5	5000																																																																														0
-McAuley's Riprap	se31	vbt 	vbt 	7	126	old LoD	126	20	lpur	lpur					so0		so0	5	5000																																																																														0
-McAuley's Taboo	se31	vgl 	vgl 	7	126	old LoD	127	28	lpur	lpur					so0		so0	5	5000																																																																														0
-McAuley's Superstition	se31	bwn 	bwn 	7	126	old LoD	128	25	lpur	lpur					so0		so0	5	5000																																																																														0
 MRFrost	se32	@38 	@38 	10	115		129	100	dgry	cblu			688		so0		so0	5	5000		pr133	0	4	4	pr5	0	201	250	pr75	0	-33	-33	pr35	0	31	50	pr216	0	11	15	pr81	0	30	30	pr215	0	11	15	pr59	0	21	25																																													0
 MRWater	se32	@33 	@33 	30	115		130	100	dgry	lblu			682		so0		so0	5	5000		pr133	0	4	4	pr5	0	201	250	pr75	0	-33	-33	pr39	0	31	50	pr216	0	11	15	pr221	0	11	15	pr215	0	11	15	pr58	0	101	150																																													0
 MRHeaven	se32	4@L 	4@L 	30	115		131	100	dgry	dgry			775		so0		so0	5	5000		pr133	0	4	4	pr5	0	201	250	pr75	0	-33	-33	pr33	0	31	50	pr216	0	16	20	pr222	0	20	20	pr13	0	151	200	pr11	0	151	200																																													0
@@ -192,31 +65,16 @@ MRNature's Embrace	se44	@29 	@29 	15	115		190	100	dgrn	dgrn			736		so0		so0	5	50
 MRNature's Vigil	se44	@49 	@49 	30	115		191	100	dgrn	dgrn			675		so0		so0	5	5000		pr133	0	4	4	pr5	0	201	250	pr121	0	2	3	pr66	0	11	14	pr215	0	21	25	pr218	0	21	25	pr31	0	31	50	pr39	0	31	50																																													0
 MRNature's Will	se44	@12 	@12 	15	115		192	100	dgrn	dgrn			903		so0		so0	5	5000		pr133	0	6	6	pr5	0	201	250	pr140	0	50	75	pr57	0	25	25	pr121	0	1	1	pr81	0	25	25	pr108	0	5	5	pr78	0	25	25																																													0
 MRNature's Wrath	se44	8@4 	8@4 	30	115		193	100	dgrn	dgrn				948	so0		so0	5	5000		pr133	0	6	6	pr387	76	76	76	pr29	0	251	300	pr28	0	601	800	pr57	0	50	50	pr134	0	1000	2000	pr137	50	1000	2000	pr375	32	32	32	pr7	0	31	50																																									0
-MREmerald Growth2	se45	@35 	@35 	30	200		194	100	cgrn	cgrn			772		so0		so0	5	5000		pr133	0	4	4	pr5	0	201	250	pr84	0	20	20	pr53	0	81	100	pr39	0	21	30	pr88	0	11	15	pr9	0	21	25	pr8	0	21	25																																													0
-MREmerald Sky2	se45	@48 	@48 	30	200		195	100	cgrn	cgrn			668		so0		so0	5	5000		pr133	0	4	4	pr5	0	201	250	pr204	800	9	9	pr266	0	5	5	pr33	0	31	40	pr7	0	31	50	pr121	0	3	4	pr222	0	11	15																																													0
-MREmerald Cloud2	se45	@06 	@06 	30	200		196	100	cgrn	cgrn			788		so0		so0	5	5000		pr133	0	6	6	pr5	0	201	250	pr81	0	25	25	pr35	0	31	50	pr10	0	31	40	pr121	0	1	2	pr78	0	25	25	pr53	0	81	100																																													0
-MREmerald Earth2	se45	@43 	@43 	30	200		197	100	cgrn	cgrn				791	so0		so0	5	5000		pr133	0	6	6	pr5	0	201	250	pr87	0	20	20	pr31	0	31	40	pr16	0	1	1	pr121	0	1	1	pr295	0	11	15	pr222	0	11	15	pr75	0	-40	-40																																									0
-MREmerald Flower2	se45	25@ 	25@ 	30	200		198	100	cgrn	cgrn			565		so0		so0	5	5000		pr133	0	3	3	pr387	51	51	51	pr121	0	2	2	pr186	0	31	40	pr87	0	40	40	pr7	0	41	50	pr8	0	41	50	pr10	0	41	50																																													0
 MRLone Wolf's Track	se46	@41 	@41 	30	115		199	100	oran	oran			842		so0		so0	5	5000		pr133	0	4	4	pr5	0	201	250	pr75	0	-20	-20	pr87	0	20	20	pr9	0	21	40	pr31	0	31	50	pr35	0	31	50	pr358	0	6	10																																													0
 MRLone Wolf's Claws	se46	@34 	@34 	30	115		200	100	oran	oran			727		so0		so0	5	5000		pr133	0	4	4	pr5	0	201	250	pr81	0	20	20	pr217	0	11	15	pr31	0	21	25	pr35	0	21	25	pr335	0	11	20	pr75	0	-20	-20																																													0
 MRLone Wolf's Gaze	se46	@51 	@51 	30	115		201	100	oran	oran			688		so0		so0	5	5000		pr133	0	4	4	pr5	0	201	250	pr218	0	11	15	pr35	0	31	40	pr31	0	31	40	pr358	0	11	20	pr291	0	21	40	pr87	0	20	20																																													0
 MRLone Wolf's Fur	se46	@13 	@13 	30	115		202	100	oran	oran			922		so0		so0	5	5000		pr133	0	6	6	pr5	0	201	250	pr75	0	-40	-40	pr7	0	31	50	pr81	0	20	20	pr9	0	31	50	pr335	0	21	25	pr226	0	150	150																																													0
 MRLone Wolf's Maul	se46	!62 	!62 	30	115		203	100	oran	oran			722		so0		so0	5	5000		pr133	0	4	4	pr387	25	25	25	pr291	0	101	150	pr121	0	8	10	pr335	0	31	50	pr87	0	50	50	pr10	0	66	66	pr3	0	51	60																																													0
-MRScosglen's Legends2	se47	@36 	@36 	30	200		204	100	lblu	lblu			816		so0		so0	5	5000		pr133	0	4	4	pr5	0	201	250	pr7	0	31	40	pr10	0	31	40	pr8	0	31	40	pr87	0	20	20	pr57	0	20	20	pr75	0	-20	-20																																													0
-MRScosglen's History2	se47	@28 	@28 	30	200		205	100	lblu	lblu			679		so0		so0	5	5000		pr133	0	2	2	pr5	0	201	250	pr121	0	1	1	pr269	0	21	25	pr186	0	11	15	pr8	0	21	30	pr9	0	21	30	pr7	0	21	30																																													0
-MRScosglen's Tales2	se47	@50 	@50 	30	200		206	100	lblu	lblu			681		so0		so0	5	5000		pr133	0	4	4	pr5	0	201	250	pr7	0	21	40	pr8	0	21	40	pr81	0	50	50	pr267	0	31	50	pr121	0	1	1	pr9	0	21	40																																													0
-MRScosglen's Fables2	se47	@10 	@10 	30	200		207	100	lblu	lblu			864		so0		so0	5	5000		pr133	0	6	6	pr5	0	201	250	pr75	0	-20	-20	pr140	0	50	150	pr186	0	31	40	pr292	0	11	15	pr138	128	512	1024	pr121	0	2	2	pr75	0	-20	-20																																									0
-MRScosglen's Myths2	se47	3@3 	3@3 	30	200		208	100	lblu	lblu				872	so0		so0	5	5000		pr133	0	6	6	pr387	76	76	76	pr29	0	201	250	pr75	0	-40	-40	pr140	0	200	400	pr96	0	101	150	pr127	492	20	4	pr108	0	5	5																																													0
 MRRathma's Chase	se48	@40 	@40 	30	115		209	100	blac	blac			791		so0		so0	5	5000		pr133	0	4	4	pr5	0	201	250	pr78	0	30	30	pr63	0	151	200	pr108	0	5	5	pr222	0	11	15	pr182	346	10	1	pr35	0	31	50																																													0
 MRRathma's Trap	se48	@31 	@31 	30	115		210	100	blac	blac			852		so0		so0	5	5000		pr133	0	2	2	pr5	0	201	250	pr66	0	3	5	pr65	0	3	5	pr190	0	21	25	pr212	0	150	150	pr31	0	31	50																																																	0
 MRRathma's Death Gaze	se48	@16 	@16 	30	115		211	100	blac	blac			685		so0		so0	5	5000		pr133	0	4	4	pr0	0	500	500	pr7	0	31	50	pr69	0	1	2	pr28	0	31	50	pr81	0	20	20	pr41	0	11	15																																																	0
 MRRathma's Skeleton	se48	@15 	@15 	30	115		212	100	blac	blac			961		so0		so0	5	5000		pr133	0	6	6	pr5	0	201	250	pr75	0	-20	-20	pr69	0	1	2	pr81	0	40	40	pr78	0	20	20	pr4	0	5	5	pr33	0	31	50																																													0
 MRRathma's Tyranny	se48	!21 	!21 	30	115		213	100	blac	blac			768		so0		so0	5	5000		pr133	0	6	6	pr387	102	102	102	pr29	0	251	300	pr140	0	250	350	pr57	0	40	40	pr197	817	50	9	pr114	0	21	25	pr7	0	51	70	pr478	146	25	1																																									0
-MRTowerlord's Bombards	se49	@35 	@35 	30	200		214	100	dgry	lgry			772		so0		so0	5	5000		pr133	0	4	4	pr7	0	21	40	pr69	0	1	1	pr57	0	20	20	pr87	0	20	20	pr31	0	31	40	pr183	0	21	25	pr75	0	-33	-33																																													0
-MRTowerlord's Gargoyle	se49	@45 	@45 	30	200		215	100	dgry	lgry			810		so0		so0	5	5000		pr133	0	4	4	pr5	0	201	250	pr8	0	21	40	pr207	0	21	25	pr87	0	20	20	pr33	0	31	40	pr66	0	9	12	pr75	0	-33	-33																																													0
-MRTowerlord's Spire	se49	@09 	@09 	30	200		216	100	dgry	lgry			845		so0		so0	5	5000		pr133	0	6	6	pr5	0	201	250	pr8	0	31	60	pr69	0	1	2	pr207	0	21	25	pr87	0	40	40	pr35	0	31	40	pr75	0	-33	-33																																													0
-MRTowerlord's Bell	se49	@66 	@66 	30	200		217	100	dgry	lgry			668		so0		so0	5	5000		pr133	0	4	4	pr5	0	201	250	pr8	0	31	60	pr7	0	31	60	pr69	0	2	4	pr207	0	21	25	pr39	0	31	40	pr75	0	-33	-33																																													0
-MRTowerlord's Weathercock	se49	!83 	!83 	30	200		218	100	dgry	lgry				806	so0		so0	5	5000		pr133	0	3	3	pr388	76	76	76	pr29	0	251	300	pr140	0	200	300	pr75	0	-33	-33	pr57	0	60	60	pr87	0	30	30	pr207	0	21	40																																													0
 MRAchilios' Stealth	se50	@39 	@39 	30	115		219	100	dgrn	dgrn			739		so0		so0	5	5000		pr133	0	4	4	pr5	0	201	250	pr78	0	20	20	pr223	0	11	15	pr28	0	41	50	pr209	0	5	5	pr75	0	-20	-20	pr7	0	31	40																																													0
 MRAchilios' Knuckledusters	se50	@33 	@33 	30	115		220	100	dgrn	dgrn			682		so0		so0	5	5000		pr133	0	4	4	pr5	0	201	250	pr108	0	5	5	pr28	0	41	50	pr69	0	1	1	pr75	0	-25	-25	pr117	798	10	10	pr7	0	31	40																																													0
 MRAchilios' Eagle Eye	se50	@18 	@18 	30	115		221	100	dgrn	dgrn			775		so0		so0	5	5000		pr133	0	4	4	pr5	0	201	250	pr75	0	-20	-20	pr57	0	20	20	pr218	0	21	40	pr81	0	10	10	pr3	0	11	20	pr117	917	10	10																																													0
@@ -247,11 +105,6 @@ MRImperius' Crusade	se55	@68 	@68 	30	115		245	100	dpur	dpur					so0		so0	5	5000
 MRImperius' Aura	se55	@08 	@08 	30	115		246	100	dpur	dpur			826		so0		so0	5	5000		pr133	0	6	6	pr41	0	31	50	pr68	0	1	2	pr184	0	21	25	pr186	0	21	25	pr87	0	25	25	pr75	0	-40	-40	pr33	0	21	30																																													0
 MRImperius' Radiance	se55	@57 	@57 	30	115		247	100	dpur	dpur			656		so0		so0	5	5000		pr133	0	4	4	pr87	0	30	30	pr184	0	21	30	pr186	0	21	30	pr16	0	1	1	pr84	0	15	15	pr219	0	16	20	pr75	0	-40	-40																																													0
 MRImperius' Sky Hammer	se55	32@ 	32@ 	30	115		248	100	dpur	dpur				741	so0		so0	5	5000		pr133	0	6	6	pr388	51	51	51	pr291	0	41	50	pr68	0	3	5	pr184	0	31	40	pr206	0	31	40	pr186	0	31	40	pr75	0	-50	-50	pr117	805	5	5																																									0
-MRWarmage's Wake2	se56	@42 	@42 	30	200		249	100	lred	lred			893		so0		so0	5	5000		pr133	0	4	4	pr5	0	201	250	pr75	0	-20	-20	pr78	0	40	40	pr190	0	21	30	pr108	0	5	5	pr221	0	31	40	pr73	0	2	2																																													0
-MRWarmage's Conjuration2	se56	@34 	@34 	30	200		250	100	lred	lred			727		so0		so0	5	5000		pr133	0	4	4	pr5	0	201	250	pr87	0	20	20	pr57	0	20	20	pr70	0	1	2	pr10	0	31	40	pr8	0	31	40	pr96	0	101	150	pr7	0	31	40																																									0
-MRWarmage's Breath2	se56	@19 	@19 	30	200		251	100	lred	lred			820		so0		so0	5	5000		pr133	0	4	4	pr5	0	201	250	pr182	406	20	5	pr183	0	21	25	pr70	0	1	2	pr7	0	31	50	pr8	0	31	50	pr73	0	2	2	pr117	1592	10	10																																									0
-MRWarmage's Flameshroud2	se56	1@J 	1@J 	30	200		252	100	dgld	lred			941		so0		so0	5	5000		pr133	0	6	6	pr5	0	201	250	pr140	0	150	200	pr183	0	31	50	pr70	0	2	3	pr31	0	100	100	pr258	0	25	25	pr75	0	-40	-40	pr8	0	51	60																																									0
-MRWarmage's Fireblade2	se56	!5! 	!5! 	30	200		253	100	lred	lred				497	so0		so0	5	5000		pr133	0	6	6	pr388	76	76	76	pr374	760	100	1	pr29	0	251	300	pr140	0	200	400	pr57	0	50	50	pr126	518	33	19	pr126	134	50	35	pr75	0	-33	-33																																									0
 MRZann Esu's Rune Loop	se57	@30 	@30 	30	115		254	100	lblu	lblu			794		so0		so0	5	5000		pr133	0	2	2	pr5	0	201	250	pr75	0	-50	-50	pr216	0	11	15	pr292	0	6	10	pr70	0	1	2	pr0	0	300	300	pr328	0	150	150																																													0
 MRZann Esu's Mysteries	se57	@70 	@70 	30	115		255	100	lblu	lblu					so0		so0	5	5000		pr133	0	4	4	pr5	0	201	250	pr7	0	31	40	pr10	0	31	40	pr173	0	11	15	pr267	0	31	40	pr209	0	11	15	pr302	0	51	100																																													0
 MRZann Esu's Robes	se57	5@H 	5@H 	30	115		256	100	dgrn	lblu				749	so0		so0	5	5000		pr133	0	6	6	pr5	0	201	250	pr210	0	2	2	pr70	0	2	2	pr250	24	24	24	pr49	0	10	10	pr269	0	51	70	pr3	0	41	50	pr87	0	50	50																																									0
@@ -292,30 +145,22 @@ MRSacredCircle	se64	@68 	@68 	30	115		250	100	dgld	dpur					so0		so0	5	5000		pr1
 MRPentacle	se64	7@G 	7@G 	30	115		251	100	dgld	dpur					so0		so0	5	5000		pr133	0	4	4	pr5	0	251	300	pr190	0	31	50	pr70	0	3	3	pr140	0	100	200	pr108	0	10	10	pr222	0	21	25	pr4	0	10	10																																													0
 MRCauldron	se64	@24 	@24 	30	115		252	100	dgld	dpur					so0		so0	5	5000		pr133	0	6	6	pr5	0	201	250	pr75	0	-20	-20	pr84	0	35	35	pr16	0	1	1	pr70	0	1	1	pr370	779	10	25	pr363	0	101	150																																													0
 MRWitchblade	se64	!5! 	!5! 	30	115		253	100	dgld	dpur					so0		so0	5	5000		pr133	0	6	6	pr388	76	76	76	pr29	0	301	350	pr140	0	200	400	pr53	0	1000	1000	pr126	450	1	25	pr374	760	100	1	pr220	0	50	50	pr356	0	51	100																																									0
-MSLazarus' Summoning Ring	se65	rin 	rin 	10	200		253	100							so0		so0	5	5000																																																																														0
-MSLazarus' Lamen	se65	amu 	amu 	10	200		253	100							so0		so0	5	5000																																																																														0
-MSApeshoot	se66	79@ 	79@ 	15	115	Secret Set	255	100	dred	dred					so0		so0	5	5000		pr133	0	6	6	pr387	51	51	51	pr29	0	301	350	pr192	0	151	200	pr127	492	25	9	pr117	1321	5	5	pr117	1297	5	5	pr75	0	-25	-25	pr57	0	30	30																																									0
-MSApeskin	se66	@02 	@02 	15	115	Secret Set	255	100	dgld	dgld					so0		so0	5	5000		pr133	0	6	6	pr107	0	33	33	pr41	0	21	25	pr57	0	20	20	pr75	0	-25	-25	pr5	0	251	300	pr78	0	30	30	pr296	0	201	250																																													0
-MSApeskull	se66	@46 	@46 	15	115	Secret Set	255	100	dgld	dgld					so0		so0	5	5000		pr133	0	4	4	pr5	0	251	300	pr104	0	1	1	pr75	0	-25	-25	pr309	0	21	25	pr137	75	201	250	pr134	0	201	250	pr135	0	201	250																																													0
-MSApehand	se66	@33 	@33 	15	115	Secret Set	255	100	dgld	dgld					so0		so0	5	5000		pr133	0	4	4	pr5	0	201	250	pr75	0	-25	-25	pr31	0	41	50	pr39	0	41	50	pr197	882	2	37	pr3	0	41	50	pr214	0	101	150																																													0
-MSApefoot	se66	@38 	@38 	15	115	Secret Set	255	100	dgld	dgld					so0		so0	5	5000		pr133	0	4	4	pr5	0	201	250	pr75	0	-25	-25	pr35	0	41	50	pr33	0	41	50	pr81	0	30	30	pr4	0	5	5	pr197	999	2	37																																													0
+MSApeshoot	se66	79@ 	79@ 	15	115		255	100	dred	dred					so0		so0	5	5000		pr133	0	6	6	pr387	51	51	51	pr29	0	301	350	pr192	0	151	200	pr127	492	25	9	pr117	1321	5	5	pr117	1297	5	5	pr75	0	-25	-25	pr57	0	30	30																																									0
+MSApeskin	se66	@02 	@02 	15	115		255	100	dgld	dgld					so0		so0	5	5000		pr133	0	6	6	pr107	0	33	33	pr41	0	21	25	pr57	0	20	20	pr75	0	-25	-25	pr5	0	251	300	pr78	0	30	30	pr296	0	201	250																																													0
+MSApeskull	se66	@46 	@46 	15	115		255	100	dgld	dgld					so0		so0	5	5000		pr133	0	4	4	pr5	0	251	300	pr104	0	1	1	pr75	0	-25	-25	pr309	0	21	25	pr137	75	201	250	pr134	0	201	250	pr135	0	201	250																																													0
+MSApehand	se66	@33 	@33 	15	115		255	100	dgld	dgld					so0		so0	5	5000		pr133	0	4	4	pr5	0	201	250	pr75	0	-25	-25	pr31	0	41	50	pr39	0	41	50	pr197	882	2	37	pr3	0	41	50	pr214	0	101	150																																													0
+MSApefoot	se66	@38 	@38 	15	115		255	100	dgld	dgld					so0		so0	5	5000		pr133	0	4	4	pr5	0	201	250	pr75	0	-25	-25	pr35	0	41	50	pr33	0	41	50	pr81	0	30	30	pr4	0	5	5	pr197	999	2	37																																													0
 Set_Lazbro1	se68	@12 	@12 	15	120			100	dgld	dgld					so0		so0	5	5000		pr133	0	6	6	pr5	0	350	350	pr42	0	5	5	pr4	0	5	5	pr0	0	666	666	pr267	0	100	150	pr269	0	100	150	pr292	0	25	25	pr69	0	1	2																																									0
 Set_Lazbro2	se68	@16 	@16 	15	120			100	dgld	dgld					so0		so0	5	5000		pr133	0	4	4	pr5	0	350	350	pr69	0	1	2	pr267	0	50	50	pr269	0	75	75	pr78	0	25	25	pr41	0	35	35																																																	0
 Set_Lazbro3	se68	71@ 	71@ 	15	120			100	dgld	dgld					so0		so0	5	5000		pr133	0	2	2	pr388	25	25	25	pr69	0	3	4	pr471	0	1	1	pr320	0	33	33	pr81	0	50	50	pr217	0	15	15	pr16	0	1	1	pr222	0	50	60																																									0
-NoLazSET3	se78	amu 	amu 	10	200			666	dgld	dgld					so0		so0	5	5000		pr69	0	2	3	pr207	0	20	30	pr66	0	15	20	pr222	0	50	50	pr267	0	50	50	pr78	0	25	25																																																					0
 Set_xaru1	se69	@14 	@14 	15	120			100	dred	dred					so0		so0	5	5000		pr133	0	6	6	pr5	0	350	350	pr0	0	1000	1000	pr4	0	10	10	pr78	0	50	50	pr57	0	50	50	pr87	0	50	50	pr81	0	50	50	pr84	0	50	50																																									0
-NoSegoSET2	se78	@21 	@21 	10	200			666	dred	dred					so0		so0	5	5000		pr133	0	4	4	pr5	0	350	350	pr192	0	100	100	pr104	0	1	2	pr31	0	50	50	pr75	0	100	100	pr182	885	20	5	pr14	0	10	10	pr204	27	3	3																																									0
 Set_xaru3	se69	@31 	@31 	15	120			100	dred	dred					so0		so0	5	5000		pr133	0	2	2	pr5	0	350	350	pr128	697	3	12	pr204	480	10	15	pr78	0	10	10	pr183	0	50	50	pr32	0	5	5	pr57	0	10	10	pr217	0	10	10																																									0
-NoSegoSET7	se78	@36 	@36 	15	200			666	dred	dred					so0		so0	5	5000		pr133	0	4	4	pr5	0	350	350	pr204	454	23	31	pr171	0	25	25	pr104	0	1	1	pr4	0	10	10	pr44	0	5	5	pr369	111	3	37																																													0
-NoSegoSET4	se78	amu 	amu 	10	200			666	dred	dred					so0		so0	5	5000		pr197	645	2	13	pr104	0	2	2	pr41	0	20	30	pr140	0	25	75	pr96	0	100	100	pr57	0	25	25	pr192	0	50	50	pr204	366	18	18																																													0
 Set_PewPew1	se67	@13 	@13 	1	120			100	blac	blac	set_pewpew1				so0		so0	5	5000		pr133	0	6	6	pr5	0	350	350	pr357	0	1	1	pr75	0	-50	-50	pr84	0	50	50	pr78	0	50	50	pr57	0	50	50	pr87	0	50	50	pr81	0	50	50									pr4	0	10	10					pr266	0	5	5					pr0	0	1500	1500													0
 Set_PewPew2	se67	@21 	@21 	1	120			100	blac	blac	set_pewpew2				so0		so0	5	5000		pr133	0	4	4	pr5	0	350	350	pr357	0	1	1	pr75	0	-50	-50	pr7	0	40	40	pr215	0	15	15	pr171	0	25	25	pr183	0	50	50	pr32	0	5	5									pr31	0	30	30					pr134	0	333	666					pr44	0	5	5													0
 Set_PewPew3	se67	@32 	@32 	1	120			100	blac	blac	set_pewpew3				so0		so0	5	5000		pr133	0	2	2	pr5	0	350	350	pr357	0	1	1	pr75	0	-50	-50	pr9	0	40	40	pr218	0	15	15	pr172	0	25	25	pr184	0	50	50	pr34	0	5	5									pr33	0	30	30					pr135	0	333	666					pr46	0	5	5													0
 Set_PewPew4	se67	@37 	@37 	1	120			100	blac	blac	set_pewpew4				so0		so0	5	5000		pr133	0	4	4	pr5	0	350	350	pr357	0	1	1	pr75	0	-50	-50	pr8	0	40	40	pr216	0	15	15	pr173	0	25	25	pr185	0	50	50	pr36	0	5	5									pr35	0	30	30					pr137	0	333	666					pr50	0	5	5													0
 Set_PewPew5	se67	@42 	@42 	1	120			100	blac	blac	set_pewpew5				so0		so0	5	5000		pr133	0	4	4	pr5	0	350	350	pr357	0	1	1	pr75	0	-50	-50	pr10	0	40	40	pr217	0	15	15	pr174	0	25	25	pr186	0	50	50	pr40	0	5	5									pr39	0	30	30					pr136	0	333	666					pr48	0	5	5													0
-NoSegoSET5	se78	@30 	@30 	10	200			666	dred	dred					so0		so0	5	5000		pr197	645	2	13	pr104	0	2	2	pr41	0	20	30	pr140	0	25	75	pr96	0	100	100	pr57	0	25	25	pr192	0	50	50	pr204	366	18	18																																													0
 Set_Lazbro4	se68	@28 	@28 	15	120			100	dgld	dgld					so0		so0	5	5000		pr69	0	2	3	pr207	0	20	30	pr66	0	15	20	pr222	0	50	50	pr267	0	50	50	pr78	0	25	25	pr133	0	2	2																																																	0
-NoSegoSET6	se78	@21 	@21 	10	200			666	dred	dred					so0		so0	5	5000		pr197	645	2	13	pr104	0	2	2	pr41	0	20	30	pr140	0	25	75																																																													0
 Set_xaru5	se69	@41 	@41 	15	120			100	dred	dred					so0		so0	5	5000		pr197	645	2	13	pr104	0	1	1	pr41	0	20	30	pr140	0	10	20	pr96	0	50	50	pr57	0	25	25	pr192	0	20	20	pr204	366	18	18	pr133	0	4	4																																									0
 Set_xaru2	se69	@21 	@21 	15	120			100	dred	dred					so0		so0	5	5000		pr133	0	4	4	pr5	0	350	350	pr192	0	100	100	pr104	0		2	pr31	0	50	50	pr75	0	100	100	pr182	885	20	5	pr14	0	10	10																																													0
 set_lab1	se70	Ysh4	Ysh4		121			120	dgld	dgld	lab_armor				so0		so0	5	5000		pr75	0	-100	-100																																																																									0
