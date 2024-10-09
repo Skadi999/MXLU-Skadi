@@ -20,13 +20,6 @@ Python	Python	1		35		xbow									Io	r16						pr216		16	20	pr215		21	25	pr29		10
 Cyclops	Cyclops	1		61		xbow									Sur	r29						pr239		75	75	pr29		151	200	pr28		201	300	pr127	sk443	5	48	pr184		31	40	pr57		50	50	pr114		25	25	0
 Tartarus	Tartarus	1		106		xbow									Yul	r44						pr29		301	350	pr197	sk340	10	21	pr145	sk128	128	128	pr337		-10	-10	pr259		100	100	pr192		101	150	pr215		41	50	0
 Araboth	Araboth	1		120		xbow									Thai	r45						pr29		301	350	pr28		301	400	pr204	sk636	1	9	pr99		101	150	pr190		31	50	pr73		2	2	pr53		41	50	0
-Cheetah	Cheetah			11		thro									Eld	r02						pr96		75	75	pr29		31	60	pr78		30	30	pr269		11	20	pr296		6	10	pr302		21	50	pr197	sk513	5	9	0
-Chrysopelea	Chrysopelea			23		thro									Thul	r10						pr185		-5	-5	pr29		51	100	pr27		31	40	pr197	sk469	15	29	pr174		11	20	pr262		21	40	pr154	sk16	16	16	0
-Dajjal	Dajjal			43		thro									Lem	r20						pr191		8	8	pr197	sk564	3	8	pr29		151	200	pr145	sk48	48	48	pr326		3	5	pr57		40	40	pr81		40	40	0
-Manitou	Manitou			63		thro									Ber	r30						pr29		201	250	pr197	sk386	50	52	pr183		21	25	pr28		101	200	pr190		50	50	pr71		2	2	pr141	sk320	320	320	0
-Myriad	Myriad			90		thro									Ath	r40						pr29		201	250	pr321	sk16	16	16	pr197	sk779	10	12	pr27		101	150	pr57		50	50	pr181		1	1	pr108		11	15	0
-Naiad	Naiad			115		thro									Lai	r49						pr29		301	350	pr197	sk702	25	8	pr114		25	25	pr221		50	50	pr198	sk828	100	47	pr96		200	200					0
-Burlesque	Burlesque			120		thro									Taha	r51						pr291		41	50	pr29		301	350	pr28		311	360	pr197	sk314	25	58	pr206		21	25	pr53		21	25	pr325		100	100	0
 Kingsblood2	Kingsblood2	1		45		knif						tkni			Vex	r26						pr191		10	10	pr29		201	250	pr27		50	50	pr190		31	40	pr104		1	1	pr73		2	2	pr66		6	12	0
 Endor	Endor	1		65		scyh									Jah	r31						pr29		126	175	pr28		101	200	pr126	sk387	50	17	pr126	sk330	5	19	pr185		31	40	pr186		31	40	pr204	sk673	1	4	0
 Urada	Urada	1		110		swor									Rha	r46						pr0		811	811	pr29		251	300	pr117	sk1092	25	25	pr135		1	1101	pr190		1	11	pr57		30	30	pr108		11	11	0
@@ -255,13 +248,6 @@ Python	Python	1		35		xbow									Io	jew	r16					pr216		16	20	pr215		21	25	pr29	
 Cyclops	Cyclops	1		61		xbow									Sur	jew	r29					pr239		75	75	pr29		151	200	pr28		201	300	pr127	sk443	5	48	pr184		31	40	pr57		50	50	pr114		25	25	0
 Tartarus	Tartarus	1		106		xbow									Yul	jew	r44					pr29		301	350	pr197	sk340	10	21	pr145	sk128	128	128	pr337		-10	-10	pr259		100	100	pr192		101	150	pr215		41	50	0
 Araboth	Araboth	1		120		xbow									Thai	jew	r45					pr29		301	350	pr28		301	400	pr204	sk636	1	9	pr99		101	150	pr190		31	50	pr73		2	2	pr53		41	50	0
-Cheetah	Cheetah			11		thro									Eld	jew	r02					pr96		75	75	pr29		31	60	pr78		30	30	pr269		11	20	pr296		6	10	pr302		21	50	pr197	sk513	5	9	0
-Chrysopelea	Chrysopelea			23		thro									Thul	jew	r10					pr185		-5	-5	pr29		51	100	pr27		31	40	pr197	sk469	15	29	pr174		11	20	pr262		21	40	pr154	sk16	16	16	0
-Dajjal	Dajjal			43		thro									Lem	jew	r20					pr191		8	8	pr197	sk564	3	8	pr29		151	200	pr145	sk48	48	48	pr326		3	5	pr57		40	40	pr81		40	40	0
-Manitou	Manitou			63		thro									Ber	jew	r30					pr29		201	250	pr197	sk386	50	52	pr183		21	25	pr28		101	200	pr190		50	50	pr71		2	2	pr141	sk320	320	320	0
-Myriad	Myriad			90		thro									Ath	jew	r40					pr29		201	250	pr321	sk16	16	16	pr197	sk779	10	12	pr27		101	150	pr57		50	50	pr181		1	1	pr108		11	15	0
-Naiad	Naiad			115		thro									Lai	jew	r49					pr29		301	350	pr197	sk702	25	8	pr114		25	25	pr221		50	50	pr198	sk828	100	47	pr96		200	200					0
-Burlesque	Burlesque			120		thro									Taha	jew	r51					pr291		41	50	pr29		301	350	pr28		311	360	pr197	sk314	25	58	pr206		21	25	pr53		21	25	pr325		100	100	0
 Kingsblood2	Kingsblood2	1		45		knif						tkni			Vex	jew	r26					pr191		10	10	pr29		201	250	pr27		50	50	pr190		31	40	pr104		1	1	pr73		2	2	pr66		6	12	0
 Endor	Endor	1		65		scyh									Jah	jew	r31					pr29		126	175	pr28		101	200	pr126	sk387	50	17	pr126	sk330	5	19	pr185		31	40	pr186		31	40	pr204	sk673	1	4	0
 Urada	Urada	1		110		swor									Rha	jew	r46					pr0		811	811	pr29		251	300	pr117	sk1092	25	25	pr135		1	1101	pr190		1	11	pr57		30	30	pr108		11	11	0
@@ -490,13 +476,6 @@ Python	Python	1		35		xbow									Io	jew	jew	r16				pr216		16	20	pr215		21	25	pr
 Cyclops	Cyclops	1		61		xbow									Sur	jew	jew	r29				pr239		75	75	pr29		151	200	pr28		201	300	pr127	sk443	5	48	pr184		31	40	pr57		50	50	pr114		25	25	0
 Tartarus	Tartarus	1		106		xbow									Yul	jew	jew	r44				pr29		301	350	pr197	sk340	10	21	pr145	sk128	128	128	pr337		-10	-10	pr259		100	100	pr192		101	150	pr215		41	50	0
 Araboth	Araboth	1		120		xbow									Thai	jew	jew	r45				pr29		301	350	pr28		301	400	pr204	sk636	1	9	pr99		101	150	pr190		31	50	pr73		2	2	pr53		41	50	0
-Cheetah	Cheetah			11		thro									Eld	jew	jew	r02				pr96		75	75	pr29		31	60	pr78		30	30	pr269		11	20	pr296		6	10	pr302		21	50	pr197	sk513	5	9	0
-Chrysopelea	Chrysopelea			23		thro									Thul	jew	jew	r10				pr185		-5	-5	pr29		51	100	pr27		31	40	pr197	sk469	15	29	pr174		11	20	pr262		21	40	pr154	sk16	16	16	0
-Dajjal	Dajjal			43		thro									Lem	jew	jew	r20				pr191		8	8	pr197	sk564	3	8	pr29		151	200	pr145	sk48	48	48	pr326		3	5	pr57		40	40	pr81		40	40	0
-Manitou	Manitou			63		thro									Ber	jew	jew	r30				pr29		201	250	pr197	sk386	50	52	pr183		21	25	pr28		101	200	pr190		50	50	pr71		2	2	pr141	sk320	320	320	0
-Myriad	Myriad			90		thro									Ath	jew	jew	r40				pr29		201	250	pr321	sk16	16	16	pr197	sk779	10	12	pr27		101	150	pr57		50	50	pr181		1	1	pr108		11	15	0
-Naiad	Naiad			115		thro									Lai	jew	jew	r49				pr29		301	350	pr197	sk702	25	8	pr114		25	25	pr221		50	50	pr198	sk828	100	47	pr96		200	200					0
-Burlesque	Burlesque			120		thro									Taha	jew	jew	r51				pr291		41	50	pr29		301	350	pr28		311	360	pr197	sk314	25	58	pr206		21	25	pr53		21	25	pr325		100	100	0
 Kingsblood2	Kingsblood2	1		45		knif						tkni			Vex	jew	jew	r26				pr191		10	10	pr29		201	250	pr27		50	50	pr190		31	40	pr104		1	1	pr73		2	2	pr66		6	12	0
 Endor	Endor	1		65		scyh									Jah	jew	jew	r31				pr29		126	175	pr28		101	200	pr126	sk387	50	17	pr126	sk330	5	19	pr185		31	40	pr186		31	40	pr204	sk673	1	4	0
 Urada	Urada	1		110		swor									Rha	jew	jew	r46				pr0		811	811	pr29		251	300	pr117	sk1092	25	25	pr135		1	1101	pr190		1	11	pr57		30	30	pr108		11	11	0
@@ -638,13 +617,6 @@ Aiwass	Aiwass	1		69		glov									Zod	jew	jew	r33				pr208		-5	-5	pr354		1	1	pr6
 Skald	Skald	1		94		glov									Kra	jew	jew	r41				pr292		11	15	pr182	sk96	33	3	pr182	sk570	33	3	pr5		201	250	pr87		20	20	pr65		14	18	pr126	sk998	40	6	0
 Icarus	Icarus	1		115		glov									Lai	jew	jew	r49				pr78		80	80	pr5		251	300	pr9		75	75	pr10		75	75	pr31		-20	-20	pr198	sk824	100	62	pr239		101	200	0
 Drekavac	Drekavac	1		120		glov									Taha	jew	jew	r51				pr28		71	90	pr280		1	1	pr137		100	200	pr225	sk75	101	150	pr59		21	40	pr104		1	1	pr258		45	45	0
-Rainbow	Rainbow	1		15		belt									Eth	jew	jew	r05				pr41		11	15	pr207		5	5	pr59		11	15	pr73		2	2													0
-Prodigy	Prodigy	1		33		belt									Hel	jew	jew	r15				pr206		-5	-5	pr183		11	15	pr184		11	15	pr110		21	30	pr62		21	40	pr87		20	20	pr96		100	100	0
-Fuse	Fuse	1		49		belt									Mal	jew	jew	r23				pr39		-30	-30	pr5		101	150	pr128	sk154	25	14	pr31		31	50	pr248	sk8	8	8	pr182	sk564	20	5	pr134		19	93	0
-Pulsa Dinura	Pulsa Dinura	1		72		belt									Sha	jew	jew	r34				pr68		1	1	pr5		151	200	pr126	sk563	2	6	pr192		31	50	pr134		50	150	pr236		21	40	pr258		15	15	0
-Truce	Truce	1		98		belt									Vith	jew	jew	r42				pr53		-5	-5	pr5		301	350	pr4		10	10	pr258		-5	-5	pr208		5	5	pr220		25	25					0
-Dyaus Pita	Dyaus Pita	1		115		belt									On	jew	jew	r50				pr198	sk501	100	19	pr5		201	250	pr215		11	15	pr217		11	15	pr218		11	15									0
-Ahriman	Ahriman	1		120		belt									Ghal	jew	jew	r52				pr291		-5	-5	pr5		301	350	pr187	sk25	200	600	pr41		31	40	pr190		31	50	pr104		1	1	pr75		10	10	0
 Epicenter	Epicenter	1		15		boot									Ith	jew	jew	r06				pr5		6	25	pr153	sk4	4	4	pr198	sk612	100	21	pr14		11	15													0
 Outlaw	Outlaw	1		31		boot									Dol	jew	jew	r14				pr5		51	100	pr237		2	2	pr10		11	15	pr0		-1	-1	pr209		5	5									0
 Ginfaxi	Ginfaxi	1		47		boot									Um	jew	jew	r22				pr217		-5	-5	pr204	sk689	1	4	pr5		51	100	pr208		5	5	pr7		16	20	pr222		11	15					0
@@ -725,13 +697,6 @@ Python	Python	1		35		xbow									Io	jew	jew	jew	r16			pr216		16	20	pr215		21	25
 Cyclops	Cyclops	1		61		xbow									Sur	jew	jew	jew	r29			pr239		75	75	pr29		151	200	pr28		201	300	pr127	sk443	5	48	pr184		31	40	pr57		50	50	pr114		25	25	0
 Tartarus	Tartarus	1		106		xbow									Yul	jew	jew	jew	r44			pr29		301	350	pr197	sk340	10	21	pr145	sk128	128	128	pr337		-10	-10	pr259		100	100	pr192		101	150	pr215		41	50	0
 Araboth	Araboth	1		120		xbow									Thai	jew	jew	jew	r45			pr29		301	350	pr28		301	400	pr204	sk636	1	9	pr99		101	150	pr190		31	50	pr73		2	2	pr53		41	50	0
-Cheetah	Cheetah			11		thro									Eld	jew	jew	jew	r02			pr96		75	75	pr29		31	60	pr78		30	30	pr269		11	20	pr296		6	10	pr302		21	50	pr197	sk513	5	9	0
-Chrysopelea	Chrysopelea			23		thro									Thul	jew	jew	jew	r10			pr185		-5	-5	pr29		51	100	pr27		31	40	pr197	sk469	15	29	pr174		11	20	pr262		21	40	pr154	sk16	16	16	0
-Dajjal	Dajjal			43		thro									Lem	jew	jew	jew	r20			pr191		8	8	pr197	sk564	3	8	pr29		151	200	pr145	sk48	48	48	pr326		3	5	pr57		40	40	pr81		40	40	0
-Manitou	Manitou			63		thro									Ber	jew	jew	jew	r30			pr29		201	250	pr197	sk386	50	52	pr183		21	25	pr28		101	200	pr190		50	50	pr71		2	2	pr141	sk320	320	320	0
-Myriad	Myriad			90		thro									Ath	jew	jew	jew	r40			pr29		201	250	pr321	sk16	16	16	pr197	sk779	10	12	pr27		101	150	pr57		50	50	pr181		1	1	pr108		11	15	0
-Naiad	Naiad			115		thro									Lai	jew	jew	jew	r49			pr29		301	350	pr197	sk702	25	8	pr114		25	25	pr221		50	50	pr198	sk828	100	47	pr96		200	200					0
-Burlesque	Burlesque			120		thro									Taha	jew	jew	jew	r51			pr291		41	50	pr29		301	350	pr28		311	360	pr197	sk314	25	58	pr206		21	25	pr53		21	25	pr325		100	100	0
 Kingsblood2	Kingsblood2	1		45		knif						tkni			Vex	jew	jew	jew	r26			pr191		10	10	pr29		201	250	pr27		50	50	pr190		31	40	pr104		1	1	pr73		2	2	pr66		6	12	0
 Endor	Endor	1		65		scyh									Jah	jew	jew	jew	r31			pr29		126	175	pr28		101	200	pr126	sk387	50	17	pr126	sk330	5	19	pr185		31	40	pr186		31	40	pr204	sk673	1	4	0
 Urada	Urada	1		110		swor									Rha	jew	jew	jew	r46			pr0		811	811	pr29		251	300	pr117	sk1092	25	25	pr135		1	1101	pr190		1	11	pr57		30	30	pr108		11	11	0
@@ -873,13 +838,6 @@ Aiwass	Aiwass	1		69		glov									Zod	jew	jew	jew	r33			pr208		-5	-5	pr354		1	1	
 Skald	Skald	1		94		glov									Kra	jew	jew	jew	r41			pr292		11	15	pr182	sk96	33	3	pr182	sk570	33	3	pr5		201	250	pr87		20	20	pr65		14	18	pr126	sk998	40	6	0
 Icarus	Icarus	1		115		glov									Lai	jew	jew	jew	r49			pr78		80	80	pr5		251	300	pr9		75	75	pr10		75	75	pr31		-20	-20	pr198	sk824	100	62	pr239		101	200	0
 Drekavac	Drekavac	1		120		glov									Taha	jew	jew	jew	r51			pr28		71	90	pr280		1	1	pr137		100	200	pr225	sk75	101	150	pr59		21	40	pr104		1	1	pr258		45	45	0
-Rainbow	Rainbow	1		15		belt									Eth	jew	jew	jew	r05			pr41		11	15	pr207		5	5	pr59		11	15	pr73		2	2													0
-Prodigy	Prodigy	1		33		belt									Hel	jew	jew	jew	r15			pr206		-5	-5	pr183		11	15	pr184		11	15	pr110		21	30	pr62		21	40	pr87		20	20	pr96		100	100	0
-Fuse	Fuse	1		49		belt									Mal	jew	jew	jew	r23			pr39		-30	-30	pr5		101	150	pr128	sk154	25	14	pr31		31	50	pr248	sk8	8	8	pr182	sk564	20	5	pr134		19	93	0
-Pulsa Dinura	Pulsa Dinura	1		72		belt									Sha	jew	jew	jew	r34			pr68		1	1	pr5		151	200	pr126	sk563	2	6	pr192		31	50	pr134		50	150	pr236		21	40	pr258		15	15	0
-Truce	Truce	1		98		belt									Vith	jew	jew	jew	r42			pr53		-5	-5	pr5		301	350	pr4		10	10	pr258		-5	-5	pr208		5	5	pr220		25	25					0
-Dyaus Pita	Dyaus Pita	1		115		belt									On	jew	jew	jew	r50			pr198	sk501	100	19	pr5		201	250	pr215		11	15	pr217		11	15	pr218		11	15									0
-Ahriman	Ahriman	1		120		belt									Ghal	jew	jew	jew	r52			pr291		-5	-5	pr5		301	350	pr187	sk25	200	600	pr41		31	40	pr190		31	50	pr104		1	1	pr75		10	10	0
 Epicenter	Epicenter	1		15		boot									Ith	jew	jew	jew	r06			pr5		6	25	pr153	sk4	4	4	pr198	sk612	100	21	pr14		11	15													0
 Outlaw	Outlaw	1		31		boot									Dol	jew	jew	jew	r14			pr5		51	100	pr237		2	2	pr10		11	15	pr0		-1	-1	pr209		5	5									0
 Ginfaxi	Ginfaxi	1		47		boot									Um	jew	jew	jew	r22			pr217		-5	-5	pr204	sk689	1	4	pr5		51	100	pr208		5	5	pr7		16	20	pr222		11	15					0
@@ -960,14 +918,6 @@ Python	Python	1		35		xbow									Io	jew	jew	jew	jew	r16		pr216		16	20	pr215		21
 Cyclops	Cyclops	1		61		xbow									Sur	jew	jew	jew	jew	r29		pr239		75	75	pr29		151	200	pr28		201	300	pr127	sk443	5	48	pr184		31	40	pr57		50	50	pr114		25	25	0
 Tartarus	Tartarus	1		106		xbow									Yul	jew	jew	jew	jew	r44		pr29		301	350	pr197	sk340	10	21	pr145	sk128	128	128	pr337		-10	-10	pr259		100	100	pr192		101	150	pr215		41	50	0
 Araboth	Araboth	1		120		xbow									Thai	jew	jew	jew	jew	r45		pr29		301	350	pr28		301	400	pr204	sk636	1	9	pr99		101	150	pr190		31	50	pr73		2	2	pr53		41	50	0
-Cheetah	Cheetah			11		thro									Eld	jew	jew	jew	jew	r02		pr96		75	75	pr29		31	60	pr78		30	30	pr269		11	20	pr296		6	10	pr302		21	50	pr197	sk513	5	9	0
-Chrysopelea	Chrysopelea			23		thro									Thul	jew	jew	jew	jew	r10		pr185		-5	-5	pr29		51	100	pr27		31	40	pr197	sk469	15	29	pr174		11	20	pr262		21	40	pr154	sk16	16	16	0
-Dajjal	Dajjal			43		thro									Lem	jew	jew	jew	jew	r20		pr191		8	8	pr197	sk564	3	8	pr29		151	200	pr145	sk48	48	48	pr326		3	5	pr57		40	40	pr81		40	40	0
-Manitou	Manitou			63		thro									Ber	jew	jew	jew	jew	r30		pr29		201	250	pr197	sk386	50	52	pr183		21	25	pr28		101	200	pr190		50	50	pr71		2	2	pr141	sk320	320	320	0
-Myriad	Myriad			90		thro									Ath	jew	jew	jew	jew	r40		pr29		201	250	pr321	sk16	16	16	pr197	sk779	10	12	pr27		101	150	pr57		50	50	pr181		1	1	pr108		11	15	0
-Naiad	Naiad			115		thro									Lai	jew	jew	jew	jew	r49		pr29		301	350	pr197	sk702	25	8	pr114		25	25	pr221		50	50	pr198	sk828	100	47	pr96		200	200					0
-Burlesque	Burlesque			120		thro									Taha	jew	jew	jew	jew	r51		pr291		41	50	pr29		301	350	pr28		311	360	pr197	sk314	25	58	pr206		21	25	pr53		21	25	pr325		100	100	0
-Kingsblood2	Kingsblood2	1		45		knif						tkni			Vex	jew	jew	jew	jew	r26		pr191		10	10	pr29		201	250	pr27		50	50	pr190		31	40	pr104		1	1	pr73		2	2	pr66		6	12	0
 Endor	Endor	1		65		scyh									Jah	jew	jew	jew	jew	r31		pr29		126	175	pr28		101	200	pr126	sk387	50	17	pr126	sk330	5	19	pr185		31	40	pr186		31	40	pr204	sk673	1	4	0
 Urada	Urada	1		110		swor									Rha	jew	jew	jew	jew	r46		pr0		811	811	pr29		251	300	pr117	sk1092	25	25	pr135		1	1101	pr190		1	11	pr57		30	30	pr108		11	11	0
 Sabertooth	Sabertooth	1		115		axe									Nih	jew	jew	jew	jew	r48		pr29		251	300	pr204	sk689	1	9	pr7		75	75	pr66		9	17	pr221		15	20	pr296		100	100	pr321	sk64	64	64	0
@@ -1001,13 +951,6 @@ Corsair	Corsair	1		33		abow									Hel	jew	jew	jew	jew	r15		pr206		-5	-5	pr204	
 IceBreaker2	IceBreaker2	1		61		abow									Sur	jew	jew	jew	jew	r29		pr239		175	175	pr29		151	200	pr108		11	20	pr28		101	150	pr115		1	1	pr197	sk453	50	23	pr35		51	70	0
 Colliding Worlds	Colliding Worlds	1		102		abow									No	jew	jew	jew	jew	r43		pr84		-15	-15	pr204	sk384	1	6	pr29		201	250	pr28		151	200	pr7		41	50	pr8		41	50	pr182	sk397	10	5	0
 Manta	Manta	1		120		abow									Taha	jew	jew	jew	jew	r51		pr28		361	460	pr255		1	1	pr29		301	350	pr117	sk799	21	25	pr66		16	21	pr57		60	60	pr197	sk999	5	18	0
-Shedim	Shedim	1		11		h2h									Eld	jew	jew	jew	jew	r02		pr96		25	25	pr29		41	80	pr174		11	15	pr138	sk250	256	512	pr88		11	20	pr110		11	15	pr99		50	50	0
-Fiend	Fiend	1		37		h2h									Lum	jew	jew	jew	jew	r17		pr126	sk699	25	5	pr29		101	150	pr134		200	250	pr57		25	25	pr59		21	40	pr204	sk833	1	7	pr204	sk824	1	7	0
-Frequency	Frequency	1		59		h2h									Ohm	jew	jew	jew	jew	r27		pr216		5	5	pr29		151	200	pr126	sk579	10	17	pr33		31	60	pr127	sk540	25	7	pr220		125	125	pr135		1	1000	0
-Choronzon	Choronzon	1		72		h2h									Sha	jew	jew	jew	jew	r34		pr29		201	250	pr126	sk459	20	24	pr173		31	50	pr204	sk460	1	7	pr269		21	40	pr58		333	333	pr214		333	333	0
-Anarchy	Anarchy	1		110		h2h									Rha	jew	jew	jew	jew	r46		pr0		-200	-200	pr87		40	40	pr183		31	50	pr184		31	50	pr122		2	4	pr110		51	60	pr227		25	25	0
-Hail	Hail	1		115		h2h									Nih	jew	jew	jew	jew	r48		pr29		251	300	pr197	sk595	50	29	pr28		301	400	pr57		40	40	pr137	sk25	500	1500	pr122		2	2					0
-Nahemah	Nahemah	1		120		h2h									Ghal	jew	jew	jew	jew	r52		pr291		-15	-15	pr117	sk750	50	50	pr29		301	350	pr204	sk569	16	19	pr204	sk469	16	19	pr28		401	500	pr137	sk50	1000	2000	0
 Khattak	Khattak	1		19		nagi									Ral	jew	jew	jew	jew	r08		pr184		5	5	pr29		61	80	pr57		20	20	pr78		40	40	pr266		10	10	pr81		40	40	pr221		11	20	0
 Hieros Gamos	Hieros Gamos	1		57		nagi									Rha	jew	jew	jew	jew	r46		pr216		21	25	pr204	sk323	1	6	pr218		21	25	pr29		251	300	pr57		40	40	pr204	sk76	1	9	pr197	sk450	2	11	0
 Lataif-as-Sitta	Lataif-as-Sitta	1		120		nagi									Ghal	jew	jew	jew	jew	r52		pr29		301	350	pr28		401	600	pr337		50	50	pr122		6	6	pr204	sk447	11	16	pr98		200	200	pr204	sk455	11	16	0
@@ -1045,11 +988,6 @@ Ladon	Ladon	1		53		nstf									Gul	jew	jew	jew	jew	r25		pr35		-40	-40	pr31		31	
 Hali	Hali	1		84		nstf									Thur	jew	jew	jew	jew	r38		pr302		1	50	pr204	sk1022	1	14	pr269		31	50	pr69		4	6	pr41		31	50	pr13		-100	-100	pr209		11	20	0
 Dagda	Dagda	1		115		nstf									Lai	jew	jew	jew	jew	r49		pr69		5	7	pr204	sk363	4	19	pr204	sk364	4	19	pr190		21	40	pr87		15	15	pr227		15	15	pr58		150	150	0
 Santa Compana	Santa Compana	1		120		nstf									Ghal	jew	jew	jew	jew	r52		pr339		50	50	pr204	sk445	1	3	pr204	sk1002	22	24	pr285		11	20	pr222		41	50	pr267		51	60	pr69		8	10	0
-Koan	Koan	1		21		wand									Ort	jew	jew	jew	jew	r09		pr184		-5	-5	pr62		31	40	pr58		-20	-20	pr69		1	1	pr266		10	10									0
-Ghoul	Ghoul	1		43		wand									Lem	jew	jew	jew	jew	r20		pr191		3	3	pr237		3	4	pr185		21	25	pr69		1	2	pr204	sk567	1	5									0
-Dead Ringer	Dead Ringer	1		87		wand									Nas	jew	jew	jew	jew	r39		pr267		1	10	pr205	sk157	1	1	pr274		1	1	pr204	sk396	9	12	pr204	sk120	4	6	pr104		1	2	pr14		11	20	0
-Ngozi	Ngozi	1		110		wand									Kra	jew	jew	jew	jew	r41		pr292		-5	-5	pr204	sk22	17	26	pr204	sk118	8	9	pr207		31	40	pr87		10	10	pr204	sk388	17	26	pr209		11	15	0
-Semhazai	Semhazai	1		120		wand									Taha	jew	jew	jew	jew	r51		pr291		26	45	pr285		5	5	pr267		-25	-25	pr69		2	4	pr204	sk459	6	19	pr87		15	15	pr204	sk562	8	22	0
 Genie	Genie	1		19		nxbw									Ral	jew	jew	jew	jew	r08		pr183		-5	-5	pr204	sk301	1	1	pr29		51	100	pr114		11	15	pr127	sk1002	5	7	pr69		1	1	pr117	sk915	11	15	0
 Atlantis	Atlantis	1		41		nxbw									Fal	jew	jew	jew	jew	r19		pr8		30	30	pr197	sk473	25	6	pr7		20	20	pr29		101	150	pr12		21	25	pr223		11	15	pr58		101	150	0
 Aether	Aether	1		65		nxbw									Jah	jew	jew	jew	jew	r31		pr29		126	175	pr65		11	14	pr266		10	10	pr92		1	1	pr215		21	25	pr197	sk563	25	17					0
@@ -1065,11 +1003,6 @@ Nehushtan	Nehushtan	1		57		pspe									Ohm	jew	jew	jew	jew	r27		pr218		-15	-15	
 Taqiyya	Taqiyya	1		90		pspe									Ath	jew	jew	jew	jew	r40		pr81		60	60	pr29		251	300	pr140		150	350	pr221		50	50	pr258		50	50	pr126	sk153	50	21	pr126	sk154	50	21	0
 Orisha	Orisha	1		115		pspe									Nih	jew	jew	jew	jew	r48		pr204	sk58	3	15	pr183		41	60	pr185		41	60	pr68		3	5	pr57		60	60	pr291		31	50	pr12		50	50	0
 Rex Deus	Rex Deus	1		120		pspe									Ghal	jew	jew	jew	jew	r52		pr29		301	350	pr295		51	100	pr28		301	400	pr98		500	500	pr192		101	150	pr190		50	50					0
-Circe	Circe	1		25		orb									Amn	jew	jew	jew	jew	r11		pr212		-25	-25	pr217		11	15	pr204	sk96	1	1	pr261		1	1	pr186		11	15	pr184		11	15					0
-Ker	Ker	1		75		orb									Lem	jew	jew	jew	jew	r20		pr191		3	3	pr204	sk403	1	4	pr204	sk57	1	4	pr198	sk828	100	43	pr185		21	25	pr186		21	25	pr12		21	30	0
-Kabbalah	Kabbalah	1		98		orb									Kur	jew	jew	jew	jew	r36		pr78		-15	-15	pr217		20	20	pr70		3	3	pr204	sk593	6	16	pr183		31	40	pr16		1	1	pr191		6	10	0
-Hestia	Hestia	1		115		orb									On	jew	jew	jew	jew	r50		pr204	sk388	1	3	pr70		3	4	pr248	sk24	24	24	pr31		100	100	pr59		21	40	pr43		20	20	pr115		1	1	0
-Kallisti	Kallisti	1		120		orb									Taha	jew	jew	jew	jew	r51		pr209		11	15	pr204	sk397	1	6	pr186		41	50	pr70		4	5	pr87		40	40	pr340	sk75	500	500	pr174		11	15	0
 Inanna	Inanna	1		27		scrd									Sol	jew	jew	jew	jew	r12		pr186		-5	-5	pr29		41	80	pr41		21	25	pr114		25	25	pr221		11	20	pr356		41	50					0
 Grace	Grace	1		78		scrd									Kur	jew	jew	jew	jew	r36		pr29		201	250	pr84		30	30	pr57		45	45	pr266		10	10	pr27		51	100	pr70		1	2	pr243		21	40	0
 Khany	Khany	1		115		scrd									On	jew	jew	jew	jew	r50		pr29		201	250	pr145	sk64	64	64	pr126	sk347	5	29	pr207		31	40	pr204	sk353	8	17	pr70		1	2	pr258		50	50	0
@@ -1083,17 +1016,6 @@ Mirage	Mirage	1		69		tors									Zod	jew	jew	jew	jew	r33		pr208		11	15	pr3		31	
 Dragonheart	Dragonheart	1		94		tors									Kra	jew	jew	jew	jew	r41		pr292		-5	-5	pr104		2	2	pr57		50	50	pr142	sk112	112	112	pr13		500	500	pr182	sk777	20	15					0
 Erawan	Erawan	1		115		tors									Nih	jew	jew	jew	jew	r48		pr5		251	300	pr4		11	15	pr78		-10	-10	pr222		11	20	pr108		10	10	pr215		25	25	pr218		25	25	0
 Unity	Unity	1		120		tors									Ghal	jew	jew	jew	jew	r52		pr291		20	20	pr243		75	75	pr244		50	50	pr8		-25	-25	pr104		1	1	pr41		51	60	pr5		251	300	0
-Summit	Summit	1		11		helm									El	jew	jew	jew	jew	r01		pr73		-1	-1	pr58		151	200	pr75		-15	-15	pr193		6	10													0
-Cannonball	Cannonball	1		19		helm									Ral	jew	jew	jew	jew	r08		pr183		1	5	pr78		40	40	pr63		101	150	pr108		5	5	pr126	sk496	1	6	pr182	sk564	5	5					0
-Ra	Ra	1		37		helm									Lum	jew	jew	jew	jew	r17		pr104		1	1	pr78		-10	-10	pr58		51	100	pr209		11	15	pr171		11	20	pr174		11	20	pr87		25	25	0
-Alchemy	Alchemy	1		55		helm									Vex	jew	jew	jew	jew	r26		pr53		21	25	pr204	sk672	1	4	pr53		21	25	pr5		101	150	pr84		25	25	pr57		25	25	pr267		21	30	0
-Dreadlord	Dreadlord	1		75		helm									Lah	jew	jew	jew	jew	r35		pr302		41	50	pr269		41	50	pr204	sk694	1	6	pr285		2	4	pr108		5	5	pr5		201	250	pr126	sk443	25	22	0
-Cauldron	Cauldron	1		106		helm									Yul	jew	jew	jew	jew	r44		pr269		-10	-10	pr126	sk468	20	11	pr104		1	1	pr138	sk125	1221	3663	pr5		201	250									0
-Eidolon	Eidolon	1		120		helm									Taha	jew	jew	jew	jew	r51		pr28		80	80	pr5		251	300	pr104		1	2	pr222		21	30	pr73		4	4	pr41		31	40	pr219		20	20	0
-Sphinx	Sphinx	1		25		circ									Amn	jew	jew	jew	jew	r11		pr212		25	25	pr0		101	150	pr190		11	15	pr67		1	1	pr73		4	4	pr58		101	125					0
-Lily	Lily	1		65		circ									Jah	jew	jew	jew	jew	r31		pr5		6	25	pr53		21	30	pr192		11	20	pr182	sk397	20	5	pr218		11	15	pr104		1	2	pr326		1	1	0
-Eulenspiegel	Eulenspiegel	1		84		circ									Thur	jew	jew	jew	jew	r38		pr302		-50	-50	pr347		20	20	pr128	sk54	15	1	pr291		31	50	pr104		2	2	pr217		21	25	pr216		21	25	0
-Wintermute	Wintermute	1		120		circ									Qor	jew	jew	jew	jew	r53		pr75		-28	-28	pr222		21	30	pr104		2	2	pr207		31	40	pr11		750	750	pr204	sk706	1	9	pr41		31	40	0
 Geas	Geas	1		13		shld									Nef	jew	jew	jew	jew	r04		pr262		41	50	pr221		11	15	pr5		21	40	pr41		15	15	pr39		-90	-90									0
 Pharaoh	Pharaoh	1		27		shld									Sol	jew	jew	jew	jew	r12		pr186		6	10	pr104		1	1	pr7		11	15	pr9		11	15	pr75		-10	-10									0
 Nomad	Nomad	1		43		shld									Lem	jew	jew	jew	jew	r20		pr191		4	8	pr116		40	40	pr5		101	150	pr0		163	163	pr126	sk469	5	44	pr84		40	40	pr58		101	150	0
@@ -1101,32 +1023,6 @@ Goddess	Goddess	1		63		shld									Ber	jew	jew	jew	jew	r30		pr221		45	45	pr115	
 Kodo	Kodo	1		90		shld									Ath	jew	jew	jew	jew	r40		pr81		-25	-25	pr197	sk600	5	8	pr230		11	15	pr215		11	20	pr5		201	250	pr218		11	20	pr108		10	10	0
 WallOfFire	WallOfFire	1		115		shld									On	jew	jew	jew	jew	r50		pr222		11	20	pr5		251	300	pr218		31	40	pr84		40	40	pr226		500	500	pr215		31	40	pr104		1	1	0
 Avatar	Avatar	1		120		shld									Qor	jew	jew	jew	jew	r53		pr75		45	45	pr5		301	350	pr198	sk680	100	61	pr339		45	45	pr59		31	50	pr104		1	1	pr320		41	50	0
-Iblis	Iblis	1		13		glov									Nef	jew	jew	jew	jew	r04		pr262		1	5	pr43		5	5	pr183		16	20	pr217		10	10	pr73		5	5									0
-Mercy	Mercy	1		29		glov									Shael	jew	jew	jew	jew	r13		pr7		1	10	pr126	sk263	5	14	pr218		11	15	pr0		26	26	pr28		21	30									0
-Kali	Kali	1		45		glov									Pul	jew	jew	jew	jew	r21		pr31		1	1	pr197	sk518	33	6	pr104		2	2	pr0		-214	-214	pr32		10	10	pr182	sk568	124	2					0
-Aiwass	Aiwass	1		69		glov									Zod	jew	jew	jew	jew	r33		pr208		-5	-5	pr354		1	1	pr69		2	2	pr0		93	93	pr182	sk873	78	4	pr215		11	20	pr269		21	25	0
-Skald	Skald	1		94		glov									Kra	jew	jew	jew	jew	r41		pr292		11	15	pr182	sk96	33	3	pr182	sk570	33	3	pr5		201	250	pr87		20	20	pr65		14	18	pr126	sk998	40	6	0
-Icarus	Icarus	1		115		glov									Lai	jew	jew	jew	jew	r49		pr78		80	80	pr5		251	300	pr9		75	75	pr10		75	75	pr31		-20	-20	pr198	sk824	100	62	pr239		101	200	0
-Drekavac	Drekavac	1		120		glov									Taha	jew	jew	jew	jew	r51		pr28		71	90	pr280		1	1	pr137		100	200	pr225	sk75	101	150	pr59		21	40	pr104		1	1	pr258		45	45	0
-Rainbow	Rainbow	1		15		belt									Eth	jew	jew	jew	jew	r05		pr41		11	15	pr207		5	5	pr59		11	15	pr73		2	2													0
-Prodigy	Prodigy	1		33		belt									Hel	jew	jew	jew	jew	r15		pr206		-5	-5	pr183		11	15	pr184		11	15	pr110		21	30	pr62		21	40	pr87		20	20	pr96		100	100	0
-Fuse	Fuse	1		49		belt									Mal	jew	jew	jew	jew	r23		pr39		-30	-30	pr5		101	150	pr128	sk154	25	14	pr31		31	50	pr248	sk8	8	8	pr182	sk564	20	5	pr134		19	93	0
-Pulsa Dinura	Pulsa Dinura	1		72		belt									Sha	jew	jew	jew	jew	r34		pr68		1	1	pr5		151	200	pr126	sk563	2	6	pr192		31	50	pr134		50	150	pr236		21	40	pr258		15	15	0
-Truce	Truce	1		98		belt									Vith	jew	jew	jew	jew	r42		pr53		-5	-5	pr5		301	350	pr4		10	10	pr258		-5	-5	pr208		5	5	pr220		25	25					0
-Dyaus Pita	Dyaus Pita	1		115		belt									On	jew	jew	jew	jew	r50		pr198	sk501	100	19	pr5		201	250	pr215		11	15	pr217		11	15	pr218		11	15									0
-Ahriman	Ahriman	1		120		belt									Ghal	jew	jew	jew	jew	r52		pr291		-5	-5	pr5		301	350	pr187	sk25	200	600	pr41		31	40	pr190		31	50	pr104		1	1	pr75		10	10	0
-Epicenter	Epicenter	1		15		boot									Ith	jew	jew	jew	jew	r06		pr5		6	25	pr153	sk4	4	4	pr198	sk612	100	21	pr14		11	15													0
-Outlaw	Outlaw	1		31		boot									Dol	jew	jew	jew	jew	r14		pr5		51	100	pr237		2	2	pr10		11	15	pr0		-1	-1	pr209		5	5									0
-Ginfaxi	Ginfaxi	1		47		boot									Um	jew	jew	jew	jew	r22		pr217		-5	-5	pr204	sk689	1	4	pr5		51	100	pr208		5	5	pr7		16	20	pr222		11	15					0
-Craton	Craton	1		67		boot									Cham	jew	jew	jew	jew	r32		pr9		-10	-10	pr222		31	40	pr221		11	20	pr126	sk595	5	7	pr108		5	5	pr190		21	25	pr3		16	20	0
-Megalith	Megalith	1		90		boot									Ath	jew	jew	jew	jew	r40		pr5		201	250	pr62		50	50	pr87		25	25	pr7		41	50	pr4		5	5	pr104		1	1	pr182	sk57	15	8	0
-Nephilim	Nephilim	1		115		boot									Nih	jew	jew	jew	jew	r48		pr5		251	300	pr215		21	25	pr218		21	25	pr0		150	150	pr198	sk518	100	51	pr353		50	50					0
-Hibagon	Hibagon	1		120		boot									Qor	jew	jew	jew	jew	r53		pr75		-3	-3	pr5		301	350	pr117	sk823	5	5	pr117	sk824	5	5	pr117	sk825	5	5	pr41		31	40	pr104		1	1	0
-StataMater	StataMater	1		35		azhm									Io	jew	jew	jew	jew	r16		pr216		6	10	pr204	sk566	1	7	pr217		11	15	pr31		100	100	pr171		10	10	pr3		11	15	pr58		101	150	0
-Amaterasu	Amaterasu	1		51		azhm									Ist	jew	jew	jew	jew	r24		pr10		40	40	pr204	sk632	1	9	pr183		21	25	pr67		1	2	pr73		5	5	pr58		201	250	pr43		2	5	0
-Siegfried	Siegfried	1		65		azhm									Jah	jew	jew	jew	jew	r31		pr5		126	175	pr8		50	50	pr41		21	25	pr187	sk250	333	1000	pr57		40	40	pr204	sk698	1	8	pr108		10	10	0
-Lohengrin	Lohengrin	1		98		azhm									Vith	jew	jew	jew	jew	r42		pr117	1849	1	2	pr117	1850	1	2	pr117	1851	1	2	pr349		40	40	pr28		101	150	pr205	sk126	1	1	pr343		1	1	0
-Unicorn	Unicorn	1		120		azhm									Ghal	jew	jew	jew	jew	r52		pr291		16	20	pr67		3	5	pr87		40	40	pr263		6	8	pr306		10	10	pr294		15	20	pr294		15	20	0
 Edda	Edda	1		33		azsd									Hel	jew	jew	jew	jew	r15		pr206		6	10	pr87		15	15	pr12		11	20	pr67		1	1	pr75		-15	-15	pr183		11	15					0
 Lion	Lion	1		75		azsd									Lah	jew	jew	jew	jew	r35		pr219		18	27	pr57		20	20	pr16		1	1	pr73		2	2	pr223		21	30	pr5		151	200	pr81		40	40	0
 Eloi	Eloi	1		98		azsd									Vith	jew	jew	jew	jew	r42		pr53		20	20	pr204	sk668	11	27	pr5		201	250	pr269		11	15	pr4		10	10	pr10		-25	-25	pr193		5	5	0
@@ -1137,26 +1033,11 @@ Rahab	Rahab	1		41		ishd									Fal	jew	jew	jew	jew	r19		pr8		5	5	pr204	sk353	1	
 Ligeia	Ligeia	1		59		ishd									Lo	jew	jew	jew	jew	r28		pr35		30	30	pr197	sk62	25	13	pr198	sk569	100	34	pr204	sk695	11	14	pr41		40	40	pr39		-90	-90	pr204	sk691	11	14	0
 Dar-Al-Harb	Dar-Al-Harb	1		81		ishd									Ix	jew	jew	jew	jew	r37		pr87		15	15	pr248	sk16	16	16	pr249	sk16	16	16	pr325		25	25	pr122		3	4	pr204	sk401	19	22	pr204	sk1021	16	19	0
 Scorched Earth	Scorched Earth	1		120		ishd									Taha	jew	jew	jew	jew	r51		pr28		31	80	pr126	sk632	33	59	pr134		250	500	pr183		41	50	pr220		75	75	pr5		301	350	pr190		31	50	0
-Algiz	Algiz	1		21		phlm									Ort	jew	jew	jew	jew	r09		pr135		1	40	pr222		11	15	pr126	sk540	10	4	pr108		5	5	pr215		10	10	pr218		10	10					0
-Nasrudin	Nasrudin	1		41		phlm									Fal	jew	jew	jew	jew	r19		pr8		31	40	pr5		101	150	pr257		50	50	pr87		-20	-20	pr84		-20	-20	pr58		101	150	pr204	sk690	3	9	0
-Sagarmatha	Sagarmatha	1		78		phlm									Kur	jew	jew	jew	jew	r36		pr5		101	150	pr108		10	10	pr137	sk50	150	400	pr35		51	70	pr126	sk571	35	9	pr182	sk828	50	12					0
-Morthwyrtha	Morthwyrtha	1		102		phlm									No	jew	jew	jew	jew	r43		pr84		-20	-20	pr71		3	4	pr204	sk563	1	3	pr289		2	2	pr269		31	40	pr302		41	50	pr204	sk416	31	34	0
-Wodziwob	Wodziwob	1		120		phlm									Qor	jew	jew	jew	jew	r53		pr75		-3	-3	pr126	sk708	100	23	pr185		31	50	pr99		100	100	pr110		250	250	pr12		21	25	pr266		5	5	0
 Enmerkar	Enmerkar	1		37		basd									Lum	jew	jew	jew	jew	r17		pr5		101	150	pr219		11	20	pr350		51	70	pr71		1	1	pr182	sk449	10	6									0
 Warpath	Warpath	1		57		basd									Ohm	jew	jew	jew	jew	r27		pr5		151	200	pr218		10	10	pr126	sk542	10	4	pr140		50	150	pr108		10	10	pr84		20	20					0
 Gauntlet	Gauntlet	1		87		basd									Nas	jew	jew	jew	jew	r39		pr267		-10	-10	pr126	sk500	33	3	pr212		201	250	pr192		51	100	pr16		-10	-10	pr5		151	200	pr107		100	100	0
 Huracan	Huracan	1		106		basd									Yul	jew	jew	jew	jew	r44		pr5		251	300	pr126	sk498	15	7	pr41		50	50	pr187		1	1000	pr57		40	40	pr39		-50	-50	pr204	sk58	22	26	0
 E-Engur-A	E-Engur-A	1		120		basd									Ghal	jew	jew	jew	jew	r52		pr5		301	350	pr291		-5	-5	pr190		50	50	pr211		2	5	pr59		51	100	pr341		100	100	pr71		3	3	0
-Nezha	Nezha	1		39		pelt									Ko	jew	jew	jew	jew	r18		pr5		101	150	pr216		10	10	pr57		20	20	pr12		11	20	pr59		21	40	pr121		1	1	pr266		5	5	0
-Natha	Natha	1		59		pelt									Lo	jew	jew	jew	jew	r28		pr33		-30	-30	pr5		101	150	pr127	sk492	10	2	pr96		31	50	pr57		20	20	pr81		50	50	pr4		10	10	0
-Norma	Norma	1		84		pelt									Thur	jew	jew	jew	jew	r38		pr302		-50	-50	pr294		21	25	pr234		21	30	pr5		201	250	pr121		2	2	pr87		15	15	pr204	sk997	4	8	0
-Grove	Grove	1		110		pelt									Thai	jew	jew	jew	jew	r45		pr41		16	25	pr233		21	30	pr108		10	10	pr215		20	20	pr216		20	20	pr117	sk803	11	20	pr204	sk634	1	5	0
-Slyph	Slyph	1		120		pelt									Ghal	jew	jew	jew	jew	r52		pr5		301	350	pr4		5	5	pr186		31	50	pr121		2	2	pr269		31	40	pr267		41	60	pr329		3	5	0
-Cube	Cube	1		35		head									Io	jew	jew	jew	jew	r16		pr216		-5	-5	pr244		20	20	pr245		10	10	pr5		101	150	pr69		1	1	pr58		31	50					0
-Warlock	Warlock	1		53		head									Gul	jew	jew	jew	jew	r25		pr35		-45	-45	pr5		101	150	pr126	sk451	50	12	pr204	sk324	3	8	pr31		30	30	pr66		9	13	pr108		21	25	0
-Nahual	Nahual	1		78		head									Kur	jew	jew	jew	jew	r36		pr5		201	250	pr204	sk362	4	14	pr204	sk364	2	12	pr227		21	40	pr104		2	2	pr190		31	40	pr128	sk513	10	4	0
-Quimbanda	Quimbanda	1		110		head									Xar	jew	jew	jew	jew	r47		pr227		-2	-2	pr275		31	50	pr69		2	2	pr87		40	40	pr204	sk683	1	4	pr267		21	25	pr204	sk22	1	4	0
-Wyrm2	Wyrm2	1		120		head									Taha	jew	jew	jew	jew	r51		pr5		301	350	pr28		31	80	pr108		21	25	pr138	sk250	5120	10240	pr204	sk965	21	25	pr215		31	40	pr216		31	40	0
 Ilmatar	Ilmatar	1		23		pzhm									Thul	jew	jew	jew	jew	r10		pr184		5	5	pr126	sk999	25	7	pr68		1	1	pr53		11	15	pr7		21	25	pr8		21	25	pr10		21	25	0
 Hierodule	Hierodule	1		53		pzhm									Gul	jew	jew	jew	jew	r25		pr35		-30	-30	pr205	sk97	1	1	pr298		1	1	pr68		1	1	pr87		20	20	pr184		11	15	pr206		11	15	0
 Crusade	Crusade	1		81		pzhm									Ix	jew	jew	jew	jew	r37		pr87		-15	-15	pr126	sk712	5	3	pr204	sk360	6	12	pr204	sk357	6	12	pr221		45	45	pr5		101	150	pr7		21	30	0
@@ -1195,14 +1076,6 @@ Python	Python	1		35		xbow									Io	jew	jew	jew	jew	jew	r16	pr216		16	20	pr215	
 Cyclops	Cyclops	1		61		xbow									Sur	jew	jew	jew	jew	jew	r29	pr239		75	75	pr29		151	200	pr28		201	300	pr127	sk443	5	48	pr184		31	40	pr57		50	50	pr114		25	25	0
 Tartarus	Tartarus	1		106		xbow									Yul	jew	jew	jew	jew	jew	r44	pr29		301	350	pr197	sk340	10	21	pr145	sk128	128	128	pr337		-10	-10	pr259		100	100	pr192		101	150	pr215		41	50	0
 Araboth	Araboth	1		120		xbow									Thai	jew	jew	jew	jew	jew	r45	pr29		301	350	pr28		301	400	pr204	sk636	1	9	pr99		101	150	pr190		31	50	pr73		2	2	pr53		41	50	0
-Cheetah	Cheetah			11		thro									Eld	jew	jew	jew	jew	jew	r02	pr96		75	75	pr29		31	60	pr78		30	30	pr269		11	20	pr296		6	10	pr302		21	50	pr197	sk513	5	9	0
-Chrysopelea	Chrysopelea			23		thro									Thul	jew	jew	jew	jew	jew	r10	pr185		-5	-5	pr29		51	100	pr27		31	40	pr197	sk469	15	29	pr174		11	20	pr262		21	40	pr154	sk16	16	16	0
-Dajjal	Dajjal			43		thro									Lem	jew	jew	jew	jew	jew	r20	pr191		8	8	pr197	sk564	3	8	pr29		151	200	pr145	sk48	48	48	pr326		3	5	pr57		40	40	pr81		40	40	0
-Manitou	Manitou			63		thro									Ber	jew	jew	jew	jew	jew	r30	pr29		201	250	pr197	sk386	50	52	pr183		21	25	pr28		101	200	pr190		50	50	pr71		2	2	pr141	sk320	320	320	0
-Myriad	Myriad			90		thro									Ath	jew	jew	jew	jew	jew	r40	pr29		201	250	pr321	sk16	16	16	pr197	sk779	10	12	pr27		101	150	pr57		50	50	pr181		1	1	pr108		11	15	0
-Naiad	Naiad			115		thro									Lai	jew	jew	jew	jew	jew	r49	pr29		301	350	pr197	sk702	25	8	pr114		25	25	pr221		50	50	pr198	sk828	100	47	pr96		200	200					0
-Burlesque	Burlesque			120		thro									Taha	jew	jew	jew	jew	jew	r51	pr291		41	50	pr29		301	350	pr28		311	360	pr197	sk314	25	58	pr206		21	25	pr53		21	25	pr325		100	100	0
-Kingsblood2	Kingsblood2	1		45		knif						tkni			Vex	jew	jew	jew	jew	jew	r26	pr191		10	10	pr29		201	250	pr27		50	50	pr190		31	40	pr104		1	1	pr73		2	2	pr66		6	12	0
 Endor	Endor	1		65		scyh									Jah	jew	jew	jew	jew	jew	r31	pr29		126	175	pr28		101	200	pr126	sk387	50	17	pr126	sk330	5	19	pr185		31	40	pr186		31	40	pr204	sk673	1	4	0
 Urada	Urada	1		110		swor									Rha	jew	jew	jew	jew	jew	r46	pr0		811	811	pr29		251	300	pr117	sk1092	25	25	pr135		1	1101	pr190		1	11	pr57		30	30	pr108		11	11	0
 Sabertooth	Sabertooth	1		115		axe									Nih	jew	jew	jew	jew	jew	r48	pr29		251	300	pr204	sk689	1	9	pr7		75	75	pr66		9	17	pr221		15	20	pr296		100	100	pr321	sk64	64	64	0
@@ -1228,21 +1101,10 @@ Aegina	Aegina	1		25		aspe									Amn	jew	jew	jew	jew	jew	r11	pr212		-25	-25	pr2
 Sankara	Sankara	1		72		aspe									Sha	jew	jew	jew	jew	jew	r34	pr57		30	30	pr29		151	200	pr28		101	200	pr222		31	50	pr192		101	150	pr197	sk814	5	9	pr126	sk330	5	58	0
 Rusalka	Rusalka	1		110		aspe									Rha	jew	jew	jew	jew	jew	r46	pr29		301	350	pr27		301	500	pr126	sk1002	50	16	pr204	sk405	1	12	pr197	sk387	50	57	pr344		61	80	pr190		51	100	0
 Evanescence	Evanescence	1		120		aspe									Taha	jew	jew	jew	jew	jew	r51	pr67		2	4	pr29		251	300	pr28		361	560	pr337		100	100	pr204	sk464	2	23	pr4		21	25	pr356		250	250	0
-Scar	Scar	1		35		ajav									Io	jew	jew	jew	jew	jew	r16	pr29		101	150	pr197	sk313	100	16	pr108		11	15	pr134		50	150	pr123	sk324	3	4	pr107		21	40	pr8		15	15	0
-Dragonfly	Dragonfly	1		57		ajav									Vex	jew	jew	jew	jew	jew	r26	pr29		151	200	pr204	sk693	1	6	pr66		9	12	pr114		11	15	pr57		20	20	pr134		150	250	pr78		40	40	0
-Trishula	Trishula	1		72		ajav									Sha	jew	jew	jew	jew	jew	r34	pr29		151	200	pr187	sk125	500	1000	pr243		21	40	pr204	sk357	6	12	pr204	sk358	6	12	pr78		15	15	pr320		31	50	0
-Stalactite	Stalactite	1		120		ajav									Ghal	jew	jew	jew	jew	jew	r52	pr246		100	100	pr29		251	300	pr137	sk50	500	1000	pr197	sk708	50	44	pr117	sk1077	25	25	pr49		11	15	pr173		41	50	0
 Corsair	Corsair	1		33		abow									Hel	jew	jew	jew	jew	jew	r15	pr206		-5	-5	pr204	sk635	1	4	pr29		51	100	pr58		101	200	pr59		31	40	pr57		20	20	pr216		11	15	0
 IceBreaker2	IceBreaker2	1		61		abow									Sur	jew	jew	jew	jew	jew	r29	pr239		175	175	pr29		151	200	pr108		11	20	pr28		101	150	pr115		1	1	pr197	sk453	50	23	pr35		51	70	0
 Colliding Worlds	Colliding Worlds	1		102		abow									No	jew	jew	jew	jew	jew	r43	pr84		-15	-15	pr204	sk384	1	6	pr29		201	250	pr28		151	200	pr7		41	50	pr8		41	50	pr182	sk397	10	5	0
 Manta	Manta	1		120		abow									Taha	jew	jew	jew	jew	jew	r51	pr28		361	460	pr255		1	1	pr29		301	350	pr117	sk799	21	25	pr66		16	21	pr57		60	60	pr197	sk999	5	18	0
-Shedim	Shedim	1		11		h2h									Eld	jew	jew	jew	jew	jew	r02	pr96		25	25	pr29		41	80	pr174		11	15	pr138	sk250	256	512	pr88		11	20	pr110		11	15	pr99		50	50	0
-Fiend	Fiend	1		37		h2h									Lum	jew	jew	jew	jew	jew	r17	pr126	sk699	25	5	pr29		101	150	pr134		200	250	pr57		25	25	pr59		21	40	pr204	sk833	1	7	pr204	sk824	1	7	0
-Frequency	Frequency	1		59		h2h									Ohm	jew	jew	jew	jew	jew	r27	pr216		5	5	pr29		151	200	pr126	sk579	10	17	pr33		31	60	pr127	sk540	25	7	pr220		125	125	pr135		1	1000	0
-Choronzon	Choronzon	1		72		h2h									Sha	jew	jew	jew	jew	jew	r34	pr29		201	250	pr126	sk459	20	24	pr173		31	50	pr204	sk460	1	7	pr269		21	40	pr58		333	333	pr214		333	333	0
-Anarchy	Anarchy	1		110		h2h									Rha	jew	jew	jew	jew	jew	r46	pr0		-200	-200	pr87		40	40	pr183		31	50	pr184		31	50	pr122		2	4	pr110		51	60	pr227		25	25	0
-Hail	Hail	1		115		h2h									Nih	jew	jew	jew	jew	jew	r48	pr29		251	300	pr197	sk595	50	29	pr28		301	400	pr57		40	40	pr137	sk25	500	1500	pr122		2	2					0
-Nahemah	Nahemah	1		120		h2h									Ghal	jew	jew	jew	jew	jew	r52	pr291		-15	-15	pr117	sk750	50	50	pr29		301	350	pr204	sk569	16	19	pr204	sk469	16	19	pr28		401	500	pr137	sk50	1000	2000	0
 Khattak	Khattak	1		19		nagi									Ral	jew	jew	jew	jew	jew	r08	pr184		5	5	pr29		61	80	pr57		20	20	pr78		40	40	pr266		10	10	pr81		40	40	pr221		11	20	0
 Hieros Gamos	Hieros Gamos	1		57		nagi									Rha	jew	jew	jew	jew	jew	r46	pr216		21	25	pr204	sk323	1	6	pr218		21	25	pr29		251	300	pr57		40	40	pr204	sk76	1	9	pr197	sk450	2	11	0
 Lataif-as-Sitta	Lataif-as-Sitta	1		120		nagi									Ghal	jew	jew	jew	jew	jew	r52	pr29		301	350	pr28		401	600	pr337		50	50	pr122		6	6	pr204	sk447	11	16	pr98		200	200	pr204	sk455	11	16	0
@@ -1280,11 +1142,6 @@ Ladon	Ladon	1		53		nstf									Gul	jew	jew	jew	jew	jew	r25	pr35		-40	-40	pr31		
 Hali	Hali	1		84		nstf									Thur	jew	jew	jew	jew	jew	r38	pr302		1	50	pr204	sk1022	1	14	pr269		31	50	pr69		4	6	pr41		31	50	pr13		-100	-100	pr209		11	20	0
 Dagda	Dagda	1		115		nstf									Lai	jew	jew	jew	jew	jew	r49	pr69		5	7	pr204	sk363	4	19	pr204	sk364	4	19	pr190		21	40	pr87		15	15	pr227		15	15	pr58		150	150	0
 Santa Compana	Santa Compana	1		120		nstf									Ghal	jew	jew	jew	jew	jew	r52	pr339		50	50	pr204	sk445	1	3	pr204	sk1002	22	24	pr285		11	20	pr222		41	50	pr267		51	60	pr69		8	10	0
-Koan	Koan	1		21		wand									Ort	jew	jew	jew	jew	jew	r09	pr184		-5	-5	pr62		31	40	pr58		-20	-20	pr69		1	1	pr266		10	10									0
-Ghoul	Ghoul	1		43		wand									Lem	jew	jew	jew	jew	jew	r20	pr191		3	3	pr237		3	4	pr185		21	25	pr69		1	2	pr204	sk567	1	5									0
-Dead Ringer	Dead Ringer	1		87		wand									Nas	jew	jew	jew	jew	jew	r39	pr267		1	10	pr205	sk157	1	1	pr274		1	1	pr204	sk396	9	12	pr204	sk120	4	6	pr104		1	2	pr14		11	20	0
-Ngozi	Ngozi	1		110		wand									Kra	jew	jew	jew	jew	jew	r41	pr292		-5	-5	pr204	sk22	17	26	pr204	sk118	8	9	pr207		31	40	pr87		10	10	pr204	sk388	17	26	pr209		11	15	0
-Semhazai	Semhazai	1		120		wand									Taha	jew	jew	jew	jew	jew	r51	pr291		26	45	pr285		5	5	pr267		-25	-25	pr69		2	4	pr204	sk459	6	19	pr87		15	15	pr204	sk562	8	22	0
 Genie	Genie	1		19		nxbw									Ral	jew	jew	jew	jew	jew	r08	pr183		-5	-5	pr204	sk301	1	1	pr29		51	100	pr114		11	15	pr127	sk1002	5	7	pr69		1	1	pr117	sk915	11	15	0
 Atlantis	Atlantis	1		41		nxbw									Fal	jew	jew	jew	jew	jew	r19	pr8		30	30	pr197	sk473	25	6	pr7		20	20	pr29		101	150	pr12		21	25	pr223		11	15	pr58		101	150	0
 Aether	Aether	1		65		nxbw									Jah	jew	jew	jew	jew	jew	r31	pr29		126	175	pr65		11	14	pr266		10	10	pr92		1	1	pr215		21	25	pr197	sk563	25	17					0
@@ -1300,11 +1157,6 @@ Nehushtan	Nehushtan	1		57		pspe									Ohm	jew	jew	jew	jew	jew	r27	pr218		-15	-
 Taqiyya	Taqiyya	1		90		pspe									Ath	jew	jew	jew	jew	jew	r40	pr81		60	60	pr29		251	300	pr140		150	350	pr221		50	50	pr258		50	50	pr126	sk153	50	21	pr126	sk154	50	21	0
 Orisha	Orisha	1		115		pspe									Nih	jew	jew	jew	jew	jew	r48	pr204	sk58	3	15	pr183		41	60	pr185		41	60	pr68		3	5	pr57		60	60	pr291		31	50	pr12		50	50	0
 Rex Deus	Rex Deus	1		120		pspe									Ghal	jew	jew	jew	jew	jew	r52	pr29		301	350	pr295		51	100	pr28		301	400	pr98		500	500	pr192		101	150	pr190		50	50					0
-Circe	Circe	1		25		orb									Amn	jew	jew	jew	jew	jew	r11	pr212		-25	-25	pr217		11	15	pr204	sk96	1	1	pr261		1	1	pr186		11	15	pr184		11	15					0
-Ker	Ker	1		75		orb									Lem	jew	jew	jew	jew	jew	r20	pr191		3	3	pr204	sk403	1	4	pr204	sk57	1	4	pr198	sk828	100	43	pr185		21	25	pr186		21	25	pr12		21	30	0
-Kabbalah	Kabbalah	1		98		orb									Kur	jew	jew	jew	jew	jew	r36	pr78		-15	-15	pr217		20	20	pr70		3	3	pr204	sk593	6	16	pr183		31	40	pr16		1	1	pr191		6	10	0
-Hestia	Hestia	1		115		orb									On	jew	jew	jew	jew	jew	r50	pr204	sk388	1	3	pr70		3	4	pr248	sk24	24	24	pr31		100	100	pr59		21	40	pr43		20	20	pr115		1	1	0
-Kallisti	Kallisti	1		120		orb									Taha	jew	jew	jew	jew	jew	r51	pr209		11	15	pr204	sk397	1	6	pr186		41	50	pr70		4	5	pr87		40	40	pr340	sk75	500	500	pr174		11	15	0
 Inanna	Inanna	1		27		scrd									Sol	jew	jew	jew	jew	jew	r12	pr186		-5	-5	pr29		41	80	pr41		21	25	pr114		25	25	pr221		11	20	pr356		41	50					0
 Grace	Grace	1		78		scrd									Kur	jew	jew	jew	jew	jew	r36	pr29		201	250	pr84		30	30	pr57		45	45	pr266		10	10	pr27		51	100	pr70		1	2	pr243		21	40	0
 Khany	Khany	1		115		scrd									On	jew	jew	jew	jew	jew	r50	pr29		201	250	pr145	sk64	64	64	pr126	sk347	5	29	pr207		31	40	pr204	sk353	8	17	pr70		1	2	pr258		50	50	0
@@ -1318,17 +1170,6 @@ Mirage	Mirage	1		69		tors									Zod	jew	jew	jew	jew	jew	r33	pr208		11	15	pr3		
 Dragonheart	Dragonheart	1		94		tors									Kra	jew	jew	jew	jew	jew	r41	pr292		-5	-5	pr104		2	2	pr57		50	50	pr142	sk112	112	112	pr13		500	500	pr182	sk777	20	15					0
 Erawan	Erawan	1		115		tors									Nih	jew	jew	jew	jew	jew	r48	pr5		251	300	pr4		11	15	pr78		-10	-10	pr222		11	20	pr108		10	10	pr215		25	25	pr218		25	25	0
 Unity	Unity	1		120		tors									Ghal	jew	jew	jew	jew	jew	r52	pr291		20	20	pr243		75	75	pr244		50	50	pr8		-25	-25	pr104		1	1	pr41		51	60	pr5		251	300	0
-Summit	Summit	1		11		helm									El	jew	jew	jew	jew	jew	r01	pr73		-1	-1	pr58		151	200	pr75		-15	-15	pr193		6	10													0
-Cannonball	Cannonball	1		19		helm									Ral	jew	jew	jew	jew	jew	r08	pr183		1	5	pr78		40	40	pr63		101	150	pr108		5	5	pr126	sk496	1	6	pr182	sk564	5	5					0
-Ra	Ra	1		37		helm									Lum	jew	jew	jew	jew	jew	r17	pr104		1	1	pr78		-10	-10	pr58		51	100	pr209		11	15	pr171		11	20	pr174		11	20	pr87		25	25	0
-Alchemy	Alchemy	1		55		helm									Vex	jew	jew	jew	jew	jew	r26	pr53		21	25	pr204	sk672	1	4	pr53		21	25	pr5		101	150	pr84		25	25	pr57		25	25	pr267		21	30	0
-Dreadlord	Dreadlord	1		75		helm									Lah	jew	jew	jew	jew	jew	r35	pr302		41	50	pr269		41	50	pr204	sk694	1	6	pr285		2	4	pr108		5	5	pr5		201	250	pr126	sk443	25	22	0
-Cauldron	Cauldron	1		106		helm									Yul	jew	jew	jew	jew	jew	r44	pr269		-10	-10	pr126	sk468	20	11	pr104		1	1	pr138	sk125	1221	3663	pr5		201	250									0
-Eidolon	Eidolon	1		120		helm									Taha	jew	jew	jew	jew	jew	r51	pr28		80	80	pr5		251	300	pr104		1	2	pr222		21	30	pr73		4	4	pr41		31	40	pr219		20	20	0
-Sphinx	Sphinx	1		25		circ									Amn	jew	jew	jew	jew	jew	r11	pr212		25	25	pr0		101	150	pr190		11	15	pr67		1	1	pr73		4	4	pr58		101	125					0
-Lily	Lily	1		65		circ									Jah	jew	jew	jew	jew	jew	r31	pr5		6	25	pr53		21	30	pr192		11	20	pr182	sk397	20	5	pr218		11	15	pr104		1	2	pr326		1	1	0
-Eulenspiegel	Eulenspiegel	1		84		circ									Thur	jew	jew	jew	jew	jew	r38	pr302		-50	-50	pr347		20	20	pr128	sk54	15	1	pr291		31	50	pr104		2	2	pr217		21	25	pr216		21	25	0
-Wintermute	Wintermute	1		120		circ									Qor	jew	jew	jew	jew	jew	r53	pr75		-28	-28	pr222		21	30	pr104		2	2	pr207		31	40	pr11		750	750	pr204	sk706	1	9	pr41		31	40	0
 Geas	Geas	1		13		shld									Nef	jew	jew	jew	jew	jew	r04	pr262		41	50	pr221		11	15	pr5		21	40	pr41		15	15	pr39		-90	-90									0
 Pharaoh	Pharaoh	1		27		shld									Sol	jew	jew	jew	jew	jew	r12	pr186		6	10	pr104		1	1	pr7		11	15	pr9		11	15	pr75		-10	-10									0
 Nomad	Nomad	1		43		shld									Lem	jew	jew	jew	jew	jew	r20	pr191		4	8	pr116		40	40	pr5		101	150	pr0		163	163	pr126	sk469	5	44	pr84		40	40	pr58		101	150	0
@@ -1336,32 +1177,6 @@ Goddess	Goddess	1		63		shld									Ber	jew	jew	jew	jew	jew	r30	pr221		45	45	pr1
 Kodo	Kodo	1		90		shld									Ath	jew	jew	jew	jew	jew	r40	pr81		-25	-25	pr197	sk600	5	8	pr230		11	15	pr215		11	20	pr5		201	250	pr218		11	20	pr108		10	10	0
 WallOfFire	WallOfFire	1		115		shld									On	jew	jew	jew	jew	jew	r50	pr222		11	20	pr5		251	300	pr218		31	40	pr84		40	40	pr226		500	500	pr215		31	40	pr104		1	1	0
 Avatar	Avatar	1		120		shld									Qor	jew	jew	jew	jew	jew	r53	pr75		45	45	pr5		301	350	pr198	sk680	100	61	pr339		45	45	pr59		31	50	pr104		1	1	pr320		41	50	0
-Iblis	Iblis	1		13		glov									Nef	jew	jew	jew	jew	jew	r04	pr262		1	5	pr43		5	5	pr183		16	20	pr217		10	10	pr73		5	5									0
-Mercy	Mercy	1		29		glov									Shael	jew	jew	jew	jew	jew	r13	pr7		1	10	pr126	sk263	5	14	pr218		11	15	pr0		26	26	pr28		21	30									0
-Kali	Kali	1		45		glov									Pul	jew	jew	jew	jew	jew	r21	pr31		1	1	pr197	sk518	33	6	pr104		2	2	pr0		-214	-214	pr32		10	10	pr182	sk568	124	2					0
-Aiwass	Aiwass	1		69		glov									Zod	jew	jew	jew	jew	jew	r33	pr208		-5	-5	pr354		1	1	pr69		2	2	pr0		93	93	pr182	sk873	78	4	pr215		11	20	pr269		21	25	0
-Skald	Skald	1		94		glov									Kra	jew	jew	jew	jew	jew	r41	pr292		11	15	pr182	sk96	33	3	pr182	sk570	33	3	pr5		201	250	pr87		20	20	pr65		14	18	pr126	sk998	40	6	0
-Icarus	Icarus	1		115		glov									Lai	jew	jew	jew	jew	jew	r49	pr78		80	80	pr5		251	300	pr9		75	75	pr10		75	75	pr31		-20	-20	pr198	sk824	100	62	pr239		101	200	0
-Drekavac	Drekavac	1		120		glov									Taha	jew	jew	jew	jew	jew	r51	pr28		71	90	pr280		1	1	pr137		100	200	pr225	sk75	101	150	pr59		21	40	pr104		1	1	pr258		45	45	0
-Rainbow	Rainbow	1		15		belt									Eth	jew	jew	jew	jew	jew	r05	pr41		11	15	pr207		5	5	pr59		11	15	pr73		2	2													0
-Prodigy	Prodigy	1		33		belt									Hel	jew	jew	jew	jew	jew	r15	pr206		-5	-5	pr183		11	15	pr184		11	15	pr110		21	30	pr62		21	40	pr87		20	20	pr96		100	100	0
-Fuse	Fuse	1		49		belt									Mal	jew	jew	jew	jew	jew	r23	pr39		-30	-30	pr5		101	150	pr128	sk154	25	14	pr31		31	50	pr248	sk8	8	8	pr182	sk564	20	5	pr134		19	93	0
-Pulsa Dinura	Pulsa Dinura	1		72		belt									Sha	jew	jew	jew	jew	jew	r34	pr68		1	1	pr5		151	200	pr126	sk563	2	6	pr192		31	50	pr134		50	150	pr236		21	40	pr258		15	15	0
-Truce	Truce	1		98		belt									Vith	jew	jew	jew	jew	jew	r42	pr53		-5	-5	pr5		301	350	pr4		10	10	pr258		-5	-5	pr208		5	5	pr220		25	25					0
-Dyaus Pita	Dyaus Pita	1		115		belt									On	jew	jew	jew	jew	jew	r50	pr198	sk501	100	19	pr5		201	250	pr215		11	15	pr217		11	15	pr218		11	15									0
-Ahriman	Ahriman	1		120		belt									Ghal	jew	jew	jew	jew	jew	r52	pr291		-5	-5	pr5		301	350	pr187	sk25	200	600	pr41		31	40	pr190		31	50	pr104		1	1	pr75		10	10	0
-Epicenter	Epicenter	1		15		boot									Ith	jew	jew	jew	jew	jew	r06	pr5		6	25	pr153	sk4	4	4	pr198	sk612	100	21	pr14		11	15													0
-Outlaw	Outlaw	1		31		boot									Dol	jew	jew	jew	jew	jew	r14	pr5		51	100	pr237		2	2	pr10		11	15	pr0		-1	-1	pr209		5	5									0
-Ginfaxi	Ginfaxi	1		47		boot									Um	jew	jew	jew	jew	jew	r22	pr217		-5	-5	pr204	sk689	1	4	pr5		51	100	pr208		5	5	pr7		16	20	pr222		11	15					0
-Craton	Craton	1		67		boot									Cham	jew	jew	jew	jew	jew	r32	pr9		-10	-10	pr222		31	40	pr221		11	20	pr126	sk595	5	7	pr108		5	5	pr190		21	25	pr3		16	20	0
-Megalith	Megalith	1		90		boot									Ath	jew	jew	jew	jew	jew	r40	pr5		201	250	pr62		50	50	pr87		25	25	pr7		41	50	pr4		5	5	pr104		1	1	pr182	sk57	15	8	0
-Nephilim	Nephilim	1		115		boot									Nih	jew	jew	jew	jew	jew	r48	pr5		251	300	pr215		21	25	pr218		21	25	pr0		150	150	pr198	sk518	100	51	pr353		50	50					0
-Hibagon	Hibagon	1		120		boot									Qor	jew	jew	jew	jew	jew	r53	pr75		-3	-3	pr5		301	350	pr117	sk823	5	5	pr117	sk824	5	5	pr117	sk825	5	5	pr41		31	40	pr104		1	1	0
-StataMater	StataMater	1		35		azhm									Io	jew	jew	jew	jew	jew	r16	pr216		6	10	pr204	sk566	1	7	pr217		11	15	pr31		100	100	pr171		10	10	pr3		11	15	pr58		101	150	0
-Amaterasu	Amaterasu	1		51		azhm									Ist	jew	jew	jew	jew	jew	r24	pr10		40	40	pr204	sk632	1	9	pr183		21	25	pr67		1	2	pr73		5	5	pr58		201	250	pr43		2	5	0
-Siegfried	Siegfried	1		65		azhm									Jah	jew	jew	jew	jew	jew	r31	pr5		126	175	pr8		50	50	pr41		21	25	pr187	sk250	333	1000	pr57		40	40	pr204	sk698	1	8	pr108		10	10	0
-Lohengrin	Lohengrin	1		98		azhm									Vith	jew	jew	jew	jew	jew	r42	pr117	1849	1	2	pr117	1850	1	2	pr117	1851	1	2	pr349		40	40	pr28		101	150	pr205	sk126	1	1	pr343		1	1	0
-Unicorn	Unicorn	1		120		azhm									Ghal	jew	jew	jew	jew	jew	r52	pr291		16	20	pr67		3	5	pr87		40	40	pr263		6	8	pr306		10	10	pr294		15	20	pr294		15	20	0
 Edda	Edda	1		33		azsd									Hel	jew	jew	jew	jew	jew	r15	pr206		6	10	pr87		15	15	pr12		11	20	pr67		1	1	pr75		-15	-15	pr183		11	15					0
 Lion	Lion	1		75		azsd									Lah	jew	jew	jew	jew	jew	r35	pr219		18	27	pr57		20	20	pr16		1	1	pr73		2	2	pr223		21	30	pr5		151	200	pr81		40	40	0
 Eloi	Eloi	1		98		azsd									Vith	jew	jew	jew	jew	jew	r42	pr53		20	20	pr204	sk668	11	27	pr5		201	250	pr269		11	15	pr4		10	10	pr10		-25	-25	pr193		5	5	0
@@ -1372,21 +1187,11 @@ Rahab	Rahab	1		41		ishd									Fal	jew	jew	jew	jew	jew	r19	pr8		5	5	pr204	sk353
 Ligeia	Ligeia	1		59		ishd									Lo	jew	jew	jew	jew	jew	r28	pr35		30	30	pr197	sk62	25	13	pr198	sk569	100	34	pr204	sk695	11	14	pr41		40	40	pr39		-90	-90	pr204	sk691	11	14	0
 Dar-Al-Harb	Dar-Al-Harb	1		81		ishd									Ix	jew	jew	jew	jew	jew	r37	pr87		15	15	pr248	sk16	16	16	pr249	sk16	16	16	pr325		25	25	pr122		3	4	pr204	sk401	19	22	pr204	sk1021	16	19	0
 Scorched Earth	Scorched Earth	1		120		ishd									Taha	jew	jew	jew	jew	jew	r51	pr28		31	80	pr126	sk632	33	59	pr134		250	500	pr183		41	50	pr220		75	75	pr5		301	350	pr190		31	50	0
-Algiz	Algiz	1		21		phlm									Ort	jew	jew	jew	jew	jew	r09	pr135		1	40	pr222		11	15	pr126	sk540	10	4	pr108		5	5	pr215		10	10	pr218		10	10					0
-Nasrudin	Nasrudin	1		41		phlm									Fal	jew	jew	jew	jew	jew	r19	pr8		31	40	pr5		101	150	pr257		50	50	pr87		-20	-20	pr84		-20	-20	pr58		101	150	pr204	sk690	3	9	0
-Sagarmatha	Sagarmatha	1		78		phlm									Kur	jew	jew	jew	jew	jew	r36	pr5		101	150	pr108		10	10	pr137	sk50	150	400	pr35		51	70	pr126	sk571	35	9	pr182	sk828	50	12					0
-Morthwyrtha	Morthwyrtha	1		102		phlm									No	jew	jew	jew	jew	jew	r43	pr84		-20	-20	pr71		3	4	pr204	sk563	1	3	pr289		2	2	pr269		31	40	pr302		41	50	pr204	sk416	31	34	0
-Wodziwob	Wodziwob	1		120		phlm									Qor	jew	jew	jew	jew	jew	r53	pr75		-3	-3	pr126	sk708	100	23	pr185		31	50	pr99		100	100	pr110		250	250	pr12		21	25	pr266		5	5	0
 Enmerkar	Enmerkar	1		37		basd									Lum	jew	jew	jew	jew	jew	r17	pr5		101	150	pr219		11	20	pr350		51	70	pr71		1	1	pr182	sk449	10	6									0
 Warpath	Warpath	1		57		basd									Ohm	jew	jew	jew	jew	jew	r27	pr5		151	200	pr218		10	10	pr126	sk542	10	4	pr140		50	150	pr108		10	10	pr84		20	20					0
 Gauntlet	Gauntlet	1		87		basd									Nas	jew	jew	jew	jew	jew	r39	pr267		-10	-10	pr126	sk500	33	3	pr212		201	250	pr192		51	100	pr16		-10	-10	pr5		151	200	pr107		100	100	0
 Huracan	Huracan	1		106		basd									Yul	jew	jew	jew	jew	jew	r44	pr5		251	300	pr126	sk498	15	7	pr41		50	50	pr187		1	1000	pr57		40	40	pr39		-50	-50	pr204	sk58	22	26	0
 E-Engur-A	E-Engur-A	1		120		basd									Ghal	jew	jew	jew	jew	jew	r52	pr5		301	350	pr291		-5	-5	pr190		50	50	pr211		2	5	pr59		51	100	pr341		100	100	pr71		3	3	0
-Nezha	Nezha	1		39		pelt									Ko	jew	jew	jew	jew	jew	r18	pr5		101	150	pr216		10	10	pr57		20	20	pr12		11	20	pr59		21	40	pr121		1	1	pr266		5	5	0
-Natha	Natha	1		59		pelt									Lo	jew	jew	jew	jew	jew	r28	pr33		-30	-30	pr5		101	150	pr127	sk492	10	2	pr96		31	50	pr57		20	20	pr81		50	50	pr4		10	10	0
-Norma	Norma	1		84		pelt									Thur	jew	jew	jew	jew	jew	r38	pr302		-50	-50	pr294		21	25	pr234		21	30	pr5		201	250	pr121		2	2	pr87		15	15	pr204	sk997	4	8	0
-Grove	Grove	1		110		pelt									Thai	jew	jew	jew	jew	jew	r45	pr41		16	25	pr233		21	30	pr108		10	10	pr215		20	20	pr216		20	20	pr117	sk803	11	20	pr204	sk634	1	5	0
-Slyph	Slyph	1		120		pelt									Ghal	jew	jew	jew	jew	jew	r52	pr5		301	350	pr4		5	5	pr186		31	50	pr121		2	2	pr269		31	40	pr267		41	60	pr329		3	5	0
 Cube	Cube	1		35		head									Io	jew	jew	jew	jew	jew	r16	pr216		-5	-5	pr244		20	20	pr245		10	10	pr5		101	150	pr69		1	1	pr58		31	50					0
 Warlock	Warlock	1		53		head									Gul	jew	jew	jew	jew	jew	r25	pr35		-45	-45	pr5		101	150	pr126	sk451	50	12	pr204	sk324	3	8	pr31		30	30	pr66		9	13	pr108		21	25	0
 Nahual	Nahual	1		78		head									Kur	jew	jew	jew	jew	jew	r36	pr5		201	250	pr204	sk362	4	14	pr204	sk364	2	12	pr227		21	40	pr104		2	2	pr190		31	40	pr128	sk513	10	4	0
@@ -1409,12 +1214,12 @@ Oracle	Oracle	1		90		stor									Ath	jew	jew	jew	jew	jew	r40	pr5		201	250	pr70	
 Vanity	Vanity	1		110		stor									Xar	jew	jew	jew	jew	jew	r47	pr5		251	300	pr58		301	400	pr59		31	50	pr70		3	5	pr8		51	100	pr10		51	100	pr227		-2	-2	0
 Comaetho	Comaetho	1		115		stor									On	jew	jew	jew	jew	jew	r50	pr5		251	300	pr266		5	5	pr70		2	2	pr309		31	50	pr352		50	50	pr208		10	10					0
 Venefica	Venefica	1		120		stor									Qor	jew	jew	jew	jew	jew	r53	pr75		-8	-8	pr5		301	350	pr251	sk32	32	32	pr70		4	5	pr280		1	1	pr209		21	25	pr262		201	250	0
-09This		1				weap	armo									jew						pr190		5	5	pr41		5	5																					0
-09Is		1				weap	armo									jew	jew					pr190		10	10	pr41		10	10																					0
-09Just		1				weap	armo									jew	jew	jew				pr190		15	15	pr41		15	15																					0
-09So		1				weap	armo									jew	jew	jew	jew			pr190		20	20	pr41		20	20																					0
-09Freaking		1				weap	armo									jew	jew	jew	jew	jew		pr190		25	25	pr41		25	25																					0
-09Frustrating		1				weap	armo									jew	jew	jew	jew	jew	jew	pr190		30	30	pr41		30	30																					0
+09This		1	Secret Jewel Bonus			weap	armo									jew						pr190		5	5	pr41		5	5																					0
+09Is		1	Secret Jewel Bonus			weap	armo									jew	jew					pr190		10	10	pr41		10	10																					0
+09Just		1	Secret Jewel Bonus			weap	armo									jew	jew	jew				pr190		15	15	pr41		15	15																					0
+09So		1	Secret Jewel Bonus			weap	armo									jew	jew	jew	jew			pr190		20	20	pr41		20	20																					0
+09Freaking		1	Secret Jewel Bonus			weap	armo									jew	jew	jew	jew	jew		pr190		25	25	pr41		25	25																					0
+09Frustrating		1	Secret Jewel Bonus			weap	armo									jew	jew	jew	jew	jew	jew	pr190		30	30	pr41		30	30																					0
 Shamo	Shamo	1		35		nagi									Io	r16						pr204	sk884	1	5	pr126	sk889	15	10	pr29		101	150	pr28		100	100	pr57		30	30	pr107		50	50	pr246		40	40	0
 Shamo	Shamo	1		35		nagi									Io	jew	r16					pr204	sk884	1	5	pr126	sk889	15	10	pr29		101	150	pr28		100	100	pr57		30	30	pr107		50	50	pr246		40	40	0
 Shamo	Shamo	1		35		nagi									Io	jew	jew	r16				pr204	sk884	1	5	pr126	sk889	15	10	pr29		101	150	pr28		100	100	pr57		30	30	pr107		50	50	pr246		40	40	0
@@ -1883,13 +1688,9 @@ Archangel	Archangel	1		1		weap									QorQor	jew	r53	r53				pr29		201	250	pr140
 Archangel	Archangel	1		1		weap									QorQor	jew	jew	r53	r53			pr29		201	250	pr140		50	200	pr204	sk698	4	12	pr117	1561	11	15	pr137	sk75	500	2000	pr98		201	250	pr136		500	2000	0
 Archangel	Archangel	1		1		weap									QorQor	jew	jew	jew	r53	r53		pr29		201	250	pr140		50	200	pr204	sk698	4	12	pr117	1561	11	15	pr137	sk75	500	2000	pr98		201	250	pr136		500	2000	0
 Archangel	Archangel	1		1		weap									QorQor	jew	jew	jew	jew	r53	r53	pr29		201	250	pr140		50	200	pr204	sk698	4	12	pr117	1561	11	15	pr137	sk75	500	2000	pr98		201	250	pr136		500	2000	0
-Knave	Knave					glov	boot								Krys	r54						pr5		201	250	pr58		250	250	pr216		11	15	pr96		101	150	pr57		25	25	pr125	sk295	1	1	pr380		1	1	0
 Knave	Knave	1		1		glov	boot								KrysKrys	r54	r54					pr5		201	250	pr58		250	250	pr216		11	15	pr96		101	150	pr57		25	25	pr125	sk295	1	1	pr380		1	1	0
 Knave	Knave	1		1		glov	boot								KrysKrys	jew	r54	r54				pr5		201	250	pr58		250	250	pr216		11	15	pr96		101	150	pr57		25	25	pr125	sk295	1	1	pr380		1	1	0
 Knave	Knave	1		1		glov	boot								KrysKrys	jew	jew	r54	r54			pr5		201	250	pr58		250	250	pr216		11	15	pr96		101	150	pr57		25	25	pr125	sk295	1	1	pr380		1	1	0
-Knave	Knave	1		1		glov	boot								KrysKrys	jew	jew	jew	r54	r54		pr5		201	250	pr58		250	250	pr216		11	15	pr96		101	150	pr57		25	25	pr125	sk295	1	1	pr380		1	1	0
-Knave	Knave	1		1		glov	boot								KrysKrys	jew	jew	jew	jew	r54	r54	pr5		201	250	pr58		250	250	pr216		11	15	pr96		101	150	pr57		25	25	pr125	sk295	1	1	pr380		1	1	0
-Checkmate	Checkmate					helm	shld								Auhe	r55						pr5		301	350	pr16		-1	-1	pr220		50	50	pr140		25	75	pr7		31	40	pr197	sk687	2	20	pr197	sk600	2	20	0
 Checkmate	Checkmate	1		1		helm	shld								AuheAuhe	r55	r55					pr5		301	350	pr16		-1	-1	pr220		50	50	pr140		25	75	pr7		31	40	pr197	sk687	2	20	pr197	sk600	2	20	0
 Checkmate	Checkmate	1		1		helm	shld								AuheAuhe	jew	r55	r55				pr5		301	350	pr16		-1	-1	pr220		50	50	pr140		25	75	pr7		31	40	pr197	sk687	2	20	pr197	sk600	2	20	0
 Checkmate	Checkmate	1		1		helm	shld								AuheAuhe	jew	jew	r55	r55			pr5		301	350	pr16		-1	-1	pr220		50	50	pr140		25	75	pr7		31	40	pr197	sk687	2	20	pr197	sk600	2	20	0

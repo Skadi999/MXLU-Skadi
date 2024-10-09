@@ -41,7 +41,6 @@ TODO:
 - Change Zomghelp Recipe
 - Overhaul/remove crafting points
 - Overhaul Azmodan mobs and remove random stats from Azmodan and other bosses
-- Change TUs to 3 tiers
 - Overhaul some TUs, SUs
 - Restore some item stats that were removed in 2012 like 5% max res on Imperius set boots
 - Restore some Omega era unique item names
@@ -55,4 +54,5 @@ TODO:
 - Create new monsters with D1/Infinitum/Sigma monster tokens
 - Reenable some disabled uniques and RWs in the files
 - Animdata for Haunt
+- 50 charges Oil of Renewal
 - Change Dragon Rerolls - make the Dragon drop an item that gives you an X amount of rerolls/chaos rerolls with the same ilvl as it works now. Maybe make the dragons only spawn in Destruction since they're pretty much useless in other difficulties

@@ -58,7 +58,7 @@ pr55	1				8	is93																													none	0
 pr56	1				8	is93																													none	0
 pr57	1				8	is93																													none	0
 pr58	1				1	is79																													none	0
-pr59	1				1	is80																													none	0
+pr59	1	Magic Find			1	is80																													none	0
 pr60	1				1	is81																													none	0
 pr61	1				1	is28																													none	0
 pr62	1				1	is27																													none	0
@@ -202,7 +202,7 @@ pr198	1				11	is197																									Absorb Fire / time inc.	center perio
 pr199	1				11	is199																									Absorb Lightning / time inc.	center period	min	max	max at center period, min at opposite period, linear progression	0
 pr200	1				12	is107																									Absorb Poison / time inc.	center period	min	max	max at center period, min at opposite period, linear progression	0
 pr201	1				17	is181																									Find Gold Amt % / time inc.	center period	min	max	max at center period, min at opposite period, linear progression	0
-pr202	1				1	is92																									Find Magic % / time inc.	center period	min	max	max at center period, min at opposite period, linear progression	0
+pr202	1	Required Level			1	is92																									Find Magic % / time inc.	center period	min	max	max at center period, min at opposite period, linear progression	0
 pr203	1				23																										% / time inc.	center period	min	max	max at center period, min at opposite period, linear progression	0
 pr204	1				22	is97																									Stamina / time inc.	center period	min	max	max at center period, min at opposite period, linear progression	0
 pr205	1				24	is98																									Damage to Demons % / time inc.	center period	min	max	max at center period, min at opposite period, linear progression	0

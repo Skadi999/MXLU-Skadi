@@ -593,6 +593,7 @@ Dubhdroiacht		1		10	1	79	50	493 		(Tier 6)						5	5000	lgrn	lgrn			so0		so0	pr13
 Aerin Nexus		1		10	1	120	100	54@ 		(Sacred) SU						5	5000	dpur	dpur			so0		so0	pr133		4	4	pr388	25	25	25	pr70		4	6	pr207		51	60	pr41		51	60	pr4		15	15	pr30		25	25	pr87		40	40	pr78		20	20	pr53		-25	-25	pr117	819	11	20	pr291		101	150	0
 NewAzgarsNemeton		1		4	1	120	100	54@ 		(Sacred) SSU						5	5000	dgrn	dgrn			so0		so0	pr133		4	4	pr388	25	25	25	pr121		10	12	pr4		25	25	pr234		81	100	pr235		150	150	pr87		20	20	pr0		2000	2000	pr78		10	10	pr209		21	25	pr75		-50	-50	pr461		100	100	0
 GnarledStaffSU3		1		1	1	120	100	54@ 		(Sacred) SSSU						5	5000	lgrn	lgrn			so0		so0	pr133		4	4	pr388		25	25	pr29		300	350	pr140		400	800	pr326		2	3	pr197	535	20	13	pr57		40	60	pr70		4	8	pr59		100	100	pr58		250	250	pr204	475	13	15	pr216		15	25	0
+NoReturn		1		1	1	120	121	54@	Gnarled Staff	Secret						5	10000	blac	blac	flphst	invhst	so0		so0	pr481	340	3	33	pr104		13	13	pr206		202	202	pr291		404	404	pr192		50	150	pr495		1	1	pr388	25	25	25	pr87		-50	-50	pr12		-70	-70	pr41		-100	-100	pr75		100	100	pr99		-50	-50	0
 Dies Metus		1		10	1	9	6	6@9 		(Tier 1)						5	5000	dgld	lblu			so0		so0	pr133		1	1	pr387	76	76	76	pr29		31	70	pr57		5	5	pr28		11	25	pr108		3	5	pr126	805	5	1	pr114		3	5	pr220		21	25													0
 Dies Metus		1		10	1	53	34	9@9 		(Tier 4)						5	5000	dgld	lblu			so0		so0	pr133		2	2	pr387	76	76	76	pr29		151	190	pr57		20	20	pr28		56	70	pr108		12	14	pr126	805	8	7	pr114		12	14	pr220		36	40													0
 Dies Metus		1		10	1	82	52	2@A 		(Tier 6)						5	5000	dgld	lblu			so0		so0	pr133		3	3	pr387	76	76	76	pr29		231	270	pr57		30	30	pr28		86	100	pr108		18	20	pr126	805	10	11	pr114		18	20	pr220		46	50													0
@@ -976,12 +977,13 @@ Magnet Rock2		1		10	1	84	53	467 		(Tier 6)						5	5000	lgry	lgry			so0		so0	pr13
 Lychnus Lyaei		1		10	1	120	100	28@ 		(Sacred) SU						5	5000	cred	cred			so0		so0	pr133		3	3	pr387	51	51	51	pr29		201	250	pr140		100	150	pr7		41	50	pr9		41	50	pr197	564	5	21	pr192		101	150	pr73		5	5	pr218		11	20	pr2		301	400	pr171		50	50	0
 NewEosphoros		1		4	1	120	100	28@ 		(Sacred) SSU						5	5000	lyel	lyel			so0		so0	pr133		3	3	pr387	51	51	51	pr29		251	300	pr73		15	15	pr211		2	2	pr140		100	200	pr68		2	2	pr71		2	2	pr220		100	100	pr75		-100	-100									0
 MorningStarSU3		1		1	1	120	100	28@ 		(Sacred) SSSU						5	5000	cgrn	cgrn			so0		so0	pr133		3	3	pr387		51	51	pr29		201	250	pr206		50	75	pr117	2029	3	5	pr197	564	5	13	pr136		999	1000	pr14		11	15	pr12		11	15	pr104		1	2	pr87		25	25	pr75		-50	-50	0
-Na-Krul's Spine		1		10	1	9	6	!01 		(Tier 1)						5	5000	blac	lred			so0		so0	pr133		2	2	pr388	102	102	102	pr374	760	100	1	pr29		61	100	pr27		31	40	pr28		51	80	pr4		3	5	pr57		15	15	pr126	96	5	2	pr230		41	50	pr41		21	25	pr126	451	20	4	0
-Na-Krul's Spine		1		10	1	58	36	!04 		(Tier 4)						5	5000	blac	lred			so0		so0	pr133		4	4	pr388	102	102	102	pr374	760	100	1	pr29		181	220	pr27		61	70	pr28		141	170	pr4		12	14	pr57		30	30	pr126	96	8	11	pr230		71	80	pr41		36	40	pr126	451	35	16	0
-Na-Krul's Spine		1		10	1	90	57	!06 		(Tier 6)						5	5000	blac	lred			so0		so0	pr133		6	6	pr388	102	102	102	pr374	760	100	1	pr29		261	300	pr27		81	90	pr28		201	230	pr4		18	20	pr57		40	40	pr126	96	10	17	pr230		91	100	pr41		46	50	pr126	451	45	24	0
-Frysturgard		1		10	1	120	100	!07 		(Sacred) SU						5	5000	cblu	cblu			so0		so0	pr133		6	6	pr388	102	102	102	pr374	760	100	1	pr29		301	350	pr140		600	800	pr197	834	25	18	pr126	804	15	12	pr216		21	25	pr215		21	25	pr122		6	8	pr108		21	25	pr223		250	250	0
-NewZularKhansTempest		1		4	1	120	100	!07 		(Sacred) SSU						5	5000	blac	blac			so0		so0	pr133		6	6	pr388	102	102	102	pr374	760	100	1	pr29		301	350	pr57		60	60	pr266		10	10	pr140		400	800	pr126	34	1	20	pr309		60	60	pr216		50	50	pr53		-500	-500	pr215		50	50	0
-NaginataSU3		1		1	1	120	100	!07 		(Sacred) SSSU						5	5000	dgrn	dgrn		naginagi	so0		so0	pr133		6	6	pr388	102	102	102	pr204	15	10	20	pr483		1	1	pr29		301	350	pr27		250	500	pr28		500	750	pr320		10	30	pr205	161	1	1					pr114		10	30	pr374	760	100	1	0
+Na-Krul's Spine		1		10	1	9	6	!01 	Naginata	(Tier 1)						5	5000	blac	lred			so0		so0	pr133		2	2	pr388	102	102	102	pr374	760	100	1	pr29		61	100	pr27		31	40	pr28		51	80	pr4		3	5	pr57		15	15	pr126	96	5	2	pr230		41	50	pr41		21	25	pr126	451	20	4	0
+Na-Krul's Spine		1		10	1	58	36	!04 	Naginata	(Tier 4)						5	5000	blac	lred			so0		so0	pr133		4	4	pr388	102	102	102	pr374	760	100	1	pr29		181	220	pr27		61	70	pr28		141	170	pr4		12	14	pr57		30	30	pr126	96	8	11	pr230		71	80	pr41		36	40	pr126	451	35	16	0
+Na-Krul's Spine		1		10	1	90	57	!06 	Naginata	(Tier 6)						5	5000	blac	lred			so0		so0	pr133		6	6	pr388	102	102	102	pr374	760	100	1	pr29		261	300	pr27		81	90	pr28		201	230	pr4		18	20	pr57		40	40	pr126	96	10	17	pr230		91	100	pr41		46	50	pr126	451	45	24	0
+Frysturgard		1		10	1	120	100	!07 	Naginata	(Sacred) SU						5	5000	cblu	cblu			so0		so0	pr133		6	6	pr388	102	102	102	pr374	760	100	1	pr29		301	350	pr140		600	800	pr197	834	25	18	pr126	804	15	12	pr216		21	25	pr215		21	25	pr122		6	8	pr108		21	25	pr223		250	250	0
+NewZularKhansTempest		1		4	1	120	100	!07 	Naginata	(Sacred) SSU						5	5000	blac	blac			so0		so0	pr133		6	6	pr388	102	102	102	pr374	760	100	1	pr29		301	350	pr57		60	60	pr266		10	10	pr140		400	800	pr126	34	1	20	pr309		60	60	pr216		50	50	pr53		-500	-500	pr215		50	50	0
+NaginataSU3		1		1	1	120	100	!07 	Naginata	(Sacred) SSSU						5	5000	dgrn	dgrn		naginagi	so0		so0	pr133		6	6	pr388	102	102	102	pr204	15	10	20	pr483		1	1	pr29		301	350	pr27		250	500	pr28		500	750	pr320		10	30	pr205	161	1	1					pr114		10	30	pr374	760	100	1	0
+StormBlade2		1		1	1	120	121	!07	Naginata							10	5000	blac	blac			so0		so0	pr29		251	300	pr266		10	10	pr310		100	100	pr374	760	100	1	pr388	102	102	102	pr13		500	500	pr57		50	50	pr326		1	5	pr204	1157	3	9	pr73		-5	-5	pr197	78	5	13	pr59		41	50	0
 Deathwind		1		10	1	6	4	7@C 		(Tier 1)						5	5000	dgry	dgry			so0		so0	pr133		2	2	pr387		76	76	pr29		21	50	pr99		101	150	pr127	542	3	2	pr7		7	10	pr138	64	32	64	pr127	467	3	6																	0
 Deathwind		1		10	1	50	32	1@D 		(Tier 4)						5	5000	dgry	dgry			so0		so0	pr133		4	4	pr387		76	76	pr29		111	140	pr99		251	300	pr127	542	9	5	pr7		19	22	pr138	160	256	512	pr127	467	3	24																	0
 Deathwind		1		10	1	79	51	3@D 		(Tier 6)						5	5000	dgry	dgry			so0		so0	pr133		6	6	pr387		76	76	pr29		171	200	pr99		351	400	pr127	542	13	7	pr7		27	30	pr138	224	1024	2048	pr127	467	3	36																	0
@@ -1379,6 +1381,7 @@ The Warped Blade		1		10	1	90	62	!4! 		(Tier 6)						5	5000	dpur	lpur			so0		so0	
 Starhawk		1		10	1	120	100	!5! 		(Sacred) SU						5	5000	dblu	dblu			so0		so0	pr133		6	6	pr388	76	76	76	pr374	760	100	1	pr134		2500	4000	pr137	50	2500	4000	pr135		2500	4000	pr136		2500	4000	pr309		31	50	pr70		3	5	pr57		50	50	pr266		10	10	pr126	314	25	29	0
 New3DryhtenEaldor		1		4	1	120	100	!5! 		(Sacred) SSU						5	5000	blac	blac			so0		so0	pr133		6	6	pr388	76	76	76	pr374	760	100	1	pr29		301	350	pr140		200	400	pr57		50	50	pr126	330	5	59	pr126	500	25	44	pr136		1000	2500	pr70		3	5	pr114		15	15					0
 WarpBladeSU3		1		1	1	120	100	!5! 		(Sacred) SSSU						5	5000	blac	blac		warpbbl	so0		so0	pr133		6	6	pr388	76	76	76	pr374	760	100	1	pr266		5	5	pr29		300	350	pr140		50	150	pr66		15	20	pr57		25	25	pr127	884	1	1	pr96		75	100	pr70		1	2					0
+TheGrizzly2		1		1	1	120	121	!5!	Warp Blade	Secret						10	5000	blac	blac			so0		so0	pr204	431	26	35	pr204	432	26	35	pr204	433	26	35	pr204	434	26	35	pr358		75	75	pr388		76	76	pr29		301	350	pr140		500	1000	pr335		51	100	pr374	760	100	1	pr205	161	1	1	pr483		1	1	0
 Dreamswayer		1		10	1	12	7	131 		(Tier 1)						5	5000	dgrn	dgrn			so0		so0	pr133		2	2	pr388	51	51	51	pr29		31	50	pr171		11	15	pr173		11	15	pr68		1	1	pr57		15	15	pr291		31	50	pr126	712	1	3	pr126	697	3	2	pr62		21	25					0
 Dreamswayer		1		10	1	55	35	335 		(Tier 4)						5	5000	dgrn	dgrn			so0		so0	pr133		4	4	pr388	51	51	51	pr29		91	110	pr171		26	30	pr173		26	30	pr68		1	2	pr57		30	30	pr291		91	110	pr126	712	1	11	pr126	697	11	8	pr62		36	40					0
 Dreamswayer		1		10	1	85	54	471 		(Tier 6)						5	5000	dgrn	dgrn			so0		so0	pr133		6	6	pr388	51	51	51	pr29		131	150	pr171		36	40	pr173		36	40	pr68		2	3	pr57		40	40	pr291		131	150	pr126	712	1	15	pr126	697	15	12	pr62		46	50					0
@@ -1464,6 +1467,8 @@ EarthRouserX		1		50	1	100	100	rin	Ring							5	5000					so0		so0	pr133		1	1	pr19
 RingOfMourning		1		1	1	120	100	rin	Ring							5	5000					so0		so0	pr9		-100	-100	pr8		200	200	pr62		11	15	pr81		25	25																																	0
 BlackHandSigil		1		1	1	120	100	rin	Ring							5	5000					so0		so0	pr197	330	3	62	pr138	200	2048	2048	pr140		50	100	pr73		-5	-5																																	0
 AkaratsNails		1		1	1	120	100	rin	Ring							5	5000					so0		so0	pr53		-250	-250	pr223		150	150	pr108		15	15	pr107		10	10	pr126	500	10	2																													0
+TokenRing				1	1	120	121	rin	Ring	op stats, dont enable			DISABLED			5	5000					so0		so0	pr117	1222	100	100	pr108		100	100	pr190		1000	1000	pr104		10	10																																	0
+GrandEmpyrean2		1		1	1	120	50	rin	Ring							5	5000					so0		so0	pr133		1	1	pr227		15	15	pr219		6	10	pr197	340	2	13	pr58		101	200																													0
 TheTesseract		1		1	1	120	100	amu	Amulet							5	5000					so0		so0	pr183		1	50	pr185		1	50	pr184		1	50	pr186		1	50	pr171		1	40	pr173		1	40	pr172		1	40	pr174		1	40	pr104		2	2	pr87		25	25									0
 KhanduranRoyalPendant		1		1	1	120	100	amu	Amulet							5	5000					so0		so0	pr280		1	1	pr182	616	25	5	pr16		1	1																																					0
 LocketOfDreams		1		1	1	120	100	amu	Amulet							5	5000					so0		so0	pr104		2	2	pr301		41	50	pr9		100	100	pr58		450	450	pr73		2	2	pr295		151	200																									0
@@ -1490,6 +1495,8 @@ Klaatu Barada Nikto		1		20	1	120	120	amu	Amulet							5	5000	dgrn	dgrn			so0		so
 Black Dwarf		1		25	1	120	120	amu	Amulet							5	5000					so0		so0	pr185		31	40	pr81		15	15	pr204	680	21	29	pr184		31	40	pr173		21	30	pr172		21	30	pr222		21	25	pr104		2	2	pr73		-5	-5	pr87		20	20									0
 New3Gallowlaugh		1		2	1	120	120	amu	Amulet							5	5000	blac	blac			so0		so0	pr204	407	1	1	pr262		100	100	pr140		25	50	pr104		1	1	pr88		50	50																													0
 1AmmySU32		1		1	1	120	120	amu	Amulet							5	5000				superammy	so0		so0	pr309		35	35																																													0
+BeadsOfTheSK22		1		1	1	120	121	amu	Amulet							5	5000					so0		so0	pr7		51	75	pr8		51	75	pr28		99	99	pr326		1	1	pr222		101	130	pr108		6	10	pr197	564	1	15																					0
+SealOfTathamet				1		10	50	amu	Amulet						1	5	5000					so0		so0	pr204	1159	1	1	pr13		100	100	pr7		11	15	pr8		11	15																																	0
 Farsight Globe		1		2000	1	80	80	jew	Jewel							5	5000					so0		so0	pr171		1	3	pr173		1	3	pr172		1	3	pr174		1	3	pr87		5	5	pr128	54	2	7																									0
 ToaTHRing2		1		500	1	120	100	jew	Jewel							5	5000					so0		so0	pr57		15	15	pr87		15	15	pr63		150	150	pr125	296	5	5	pr379		1	1																													0
 3JewelSU3		1		150	1	120	100	jew	Jewel							5	5000					so0		so0	pr127	542	1	13	pr140		5	10	pr78		10	10	pr57		10	10	pr66		1	1	pr476		1	1																									0
@@ -1509,6 +1516,7 @@ Dragon's Egg		1		750	1	120	100	jew	Jewel							5	5000					so0		so0	pr269		3	6	pr
 Heavenstone		1		500	1	120	100	jew	Jewel							5	5000					so0		so0	pr0		101	150	pr7		3	15	pr8		3	15	pr10		3	15	pr9		3	15																													0
 New5Wishmaster		1		50	1	1		jew	Jewel							5	5000					so0		so0	pr59		20	20	pr126	116	2	1																																									0
 Atomus		1		1	1	120		jew	Jewel						1	5	5000					so0		so0	pr104		1	1	pr190		50	50	pr126	762	1	23	pr191		50	50	pr239		250	250																													0
+LuckyJewel2		1		1	1	120	121	jew	Jewel	Jewel	Jewel of Luck					5	5000					so0		so0	pr59		100	100	pr202		10	10																																									0
 Cornerstone of the Roflworld		1		1	1	120	100	jew	Jewel	Blood Flash	bloodflash		NEW AND IMPROVED			5	5000					so0		so0	pr204	318	1	1	pr202		10	10	pr469		10	10																																					0
 Cornerstone of the Roflworld		1		1	1	120	100	jew	Jewel	Apocalypse	apocalypse		NEW AND IMPROVED			5	5000					so0		so0	pr204	361	1	1	pr202		10	10	pr469		10	10																																					0
 Cornerstone of the Roflworld		1		1	1	120	100	jew	Jewel	Summon Daystar	summondaystar		NEW AND IMPROVED			5	5000					so0		so0	pr204	338	1	1	pr202		10	10	pr469		10	10																																					0
@@ -1908,89 +1916,3 @@ Cornerstone of the Roflworld				1	1	120	100	jew					DISABLED			5	5000					so0		s
 Cornerstone of the Roflworld				1	1	120	100	jew					DISABLED			5	5000					so0		so0	pr204	1265	1	1	pr202		10	10	pr469		10	10																																					0
 Cornerstone of the Roflworld				1	1	120	100	jew					DISABLED			5	5000					so0		so0	pr204	1269	1	1	pr202		10	10	pr469		10	10																																					0
 Cornerstone of the Roflworld				1	1	120	100	jew					DISABLED			5	5000					so0		so0	pr204	1273	1	1	pr202		10	10	pr469		10	10																																					0
-TokenRing				1	1	120	121	rin	Ring				DISABLED			5	5000					so0		so0	pr117	1222	100	100	pr108		100	100	pr190		1000	1000	pr104		10	10																																	0
-StormBlade2				1	1	120	121	!07	Naginata							10	5000	blac	blac			so0		so0	pr29		251	300	pr266		10	10	pr310		100	100	pr374	760	100	1	pr388	102	102	102	pr13		500	500	pr57		50	50	pr326		1	5	pr204	1157	3	9	pr73		-5	-5	pr197	78	5	13	pr59		41	50	0
-TheGrizzly2				1	1	120	121	!5!	Warp Blade							10	5000	blac	blac			so0		so0	pr204	431	26	35	pr204	432	26	35	pr204	433	26	35	pr204	434	26	35	pr358		75	75	pr388		76	76	pr29		301	350	pr140		500	1000	pr335		51	100	pr374	760	100	1	pr205	161	1	1	pr483		1	1	0
-NoReturn				1	1	120	121	54@	Gnarled Staff							5	10000	blac	blac	flphst	invhst	so0		so0	pr481	340	3	33	pr104		13	13	pr206		202	202	pr291		404	404	pr192		50	150	pr495		1	1	pr388	25	25	25	pr87		-50	-50	pr12		-70	-70	pr41		-100	-100	pr75		100	100	pr99		-50	-50	0
-GrandEmpyrean2				1	1	120	50	rin	Ring							5	5000					so0		so0	pr133		1	1	pr227		15	15	pr219		6	10	pr197	340	2	13	pr58		101	200																													0
-BeadsOfTheSK22				1	1	120	121	amu	Amulet							5	5000					so0		so0	pr7		51	75	pr8		51	75	pr28		99	99	pr326		1	1	pr222		101	130	pr108		6	10	pr197	564	1	15																					0
-LuckyJewel2				1	1	120	121	jew	Jewel							5	5000					so0		so0	pr59		100	100	pr202		10	10																																									0
-SealOfTathamet				1		10	50	amu	Amulet						1	5	5000					so0		so0	pr204	1159	1	1	pr13		100	100	pr7		11	15	pr8		11	15																																	0
-FakeSunstoneOfFire		1		1	1	1	666	x1x							1							so0		so0	pr73		1	1																																													0
-FakeSunstoneOfIce		1		1	1	1	666	x2x							1							so0		so0	pr73		1	1																																													0
-FakeSunstoneOfThunder		1		1	1	1	666	x3x							1							so0		so0	pr73		1	1																																													0
-SunlessCrystalBird		1		1	1	1	666	yq1							1	5	5000					so0		so0	pr171		6	15	pr172		6	15	pr173		6	15	pr73		-5	-5	pr108		5	5	pr174		6	15																									0
-SixAngelBag		1		1	1	1	666	yq2							1	5	5000					so0		so0	pr31		21	25	pr35		21	25	pr33		21	25	pr20		101	150	pr21		151	250	pr17		101	150	pr18		151	250	pr22		101	150	pr23		151	250	pr19		25	25									0
-KabraxisSoul		1		1	1	200	666	bxa							1	5	5000					so4908		so4908	pr104			1	pr36			5	pr117	1824		1	pr117	1825		1	pr117	1826		1	pr117	1827		1	pr117	1828		1	pr32			5	pr34			5	pr40			5									0
-UldyssianCharm		1		1	1	666	666	##.							1	5	5000					so0		so0	pr128	248	5	1	pr104		1	1	pr41		10	30	pr182	876	100	1	pr117	1928	1	1																													0
-Soulkeep		1		1	1	666	666	lawl							1	5	5000					so0		so0	pr375		25	25	pr73		-5	-5	pr227		6	10	pr479	147	50	2																																	0
-LucionsSoulstone		1		1	1	1	666	\\8							1	5	5000					so0		so0	pr239		50	50	pr114		10	10	pr68		2	5	pr471		1	1	pr28		50	50	pr193		50	50																									0
-BookOfTriune		1		1	1	1	666	\\7							1	5	5000					so0		so0	pr13		13	13	pr31		3	3	pr7		-4	-4	pr0		-7	-7	pr204	763	2	2																													0
-CycleOfPower				1	1	120	666	cm1	DISABLED	DISABLED	DISABLED	DISABLED	DISABLED	DISABLED		2	3000					so0		so0	pr7		1	20																																													0
-CycleOfPower				1	1	120	666	cm1	DISABLED	DISABLED	DISABLED	DISABLED	DISABLED	DISABLED		2	3000					so0		so0	pr8		1	20																																													0
-CycleOfPower				1	1	120	666	cm1	DISABLED	DISABLED	DISABLED	DISABLED	DISABLED	DISABLED		2	3000					so0		so0	pr9		1	20																																													0
-CycleOfPower				1	1	120	666	cm1	DISABLED	DISABLED	DISABLED	DISABLED	DISABLED	DISABLED		2	3000					so0		so0	pr10		1	20																																													0
-CycleOfPower				1	1	120	666	cm2	DISABLED	DISABLED	DISABLED	DISABLED	DISABLED	DISABLED		3	4000					so0		so0	pr7		5	35	pr215		1	5																																									0
-CycleOfPower				1	1	120	666	cm2	DISABLED	DISABLED	DISABLED	DISABLED	DISABLED	DISABLED		3	4000					so0		so0	pr8		5	35	pr216		1	5																																									0
-CycleOfPower				1	1	120	666	cm2	DISABLED	DISABLED	DISABLED	DISABLED	DISABLED	DISABLED		3	4000					so0		so0	pr9		5	35	pr218		1	5																																									0
-CycleOfPower				1	1	120	666	cm2	DISABLED	DISABLED	DISABLED	DISABLED	DISABLED	DISABLED		3	4000					so0		so0	pr10		5	35	pr217		1	5																																									0
-CycleOfPower				1	1	120	666	cm3	DISABLED	DISABLED	DISABLED	DISABLED	DISABLED	DISABLED		4	5000					so0		so0	pr7		15	40	pr215		1	10																																									0
-CycleOfPower				1	1	120	666	cm3	DISABLED	DISABLED	DISABLED	DISABLED	DISABLED	DISABLED		4	5000					so0		so0	pr8		15	40	pr216		1	10																																									0
-CycleOfPower				1	1	120	666	cm3	DISABLED	DISABLED	DISABLED	DISABLED	DISABLED	DISABLED		4	5000					so0		so0	pr9		15	40	pr218		1	10																																									0
-CycleOfPower				1	1	120	666	cm3	DISABLED	DISABLED	DISABLED	DISABLED	DISABLED	DISABLED		4	5000					so0		so0	pr10		15	40	pr217		1	10																																									0
-CycleOfGreed				1	1	120	666	cm1	DISABLED	DISABLED	DISABLED	DISABLED	DISABLED	DISABLED		1	5					so0		so0	pr58		-50	150																																													0
-CycleOfGreed				1	1	120	666	cm2	DISABLED	DISABLED	DISABLED	DISABLED	DISABLED	DISABLED		1	5					so0		so0	pr58		-100	250																																													0
-CycleOfGreed				1	1	120	666	cm3	DISABLED	DISABLED	DISABLED	DISABLED	DISABLED	DISABLED		1	5					so0		so0	pr58		-200	500																																													0
-CycleOfLuck				1	1	120	666	cm1	DISABLED	DISABLED	DISABLED	DISABLED	DISABLED	DISABLED		5	10000					so0		so0	pr59		-15	35																																													0
-CycleOfLuck				1	1	120	666	cm2	DISABLED	DISABLED	DISABLED	DISABLED	DISABLED	DISABLED		5	10000					so0		so0	pr59		-30	65																																													0
-CycleOfLuck				1	1	120	666	cm3	DISABLED	DISABLED	DISABLED	DISABLED	DISABLED	DISABLED		5	10000					so0		so0	pr59		-50	100																																													0
-CycleOfSpeed				1	1	120	666	cm1	DISABLED	DISABLED	DISABLED	DISABLED	DISABLED	DISABLED		2	3000					so0		so0	pr257		1	8																																													0
-CycleOfSpeed				1	1	120	666	cm2	DISABLED	DISABLED	DISABLED	DISABLED	DISABLED	DISABLED		2	3000					so0		so0	pr257		9	17																																													0
-CycleOfSpeed				1	1	120	666	cm3	DISABLED	DISABLED	DISABLED	DISABLED	DISABLED	DISABLED		2	3000					so0		so0	pr257		18	30																																													0
-CycleOfMiracles				1	1	120	666	cm1	DISABLED	DISABLED	DISABLED	DISABLED	DISABLED	DISABLED		5	15					so0		so0	pr183		1	15	pr185		1	15	pr186		1	15	pr184		1	15																																	0
-CycleOfMiracles				1	1	120	666	cm2	DISABLED	DISABLED	DISABLED	DISABLED	DISABLED	DISABLED		5	15					so0		so0	pr171		1	10	pr173		1	10	pr174		1	10	pr172		1	10																																	0
-CycleOfMiracles				1	1	120	666	cm3	DISABLED	DISABLED	DISABLED	DISABLED	DISABLED	DISABLED		5	15					so0		so0	pr31		11	20	pr32			1	pr35		11	20	pr36			1	pr33		11	20	pr34			1	pr39		11	20	pr40			1																	0
-CycleOfWisdom				1	1	120	666	cm2	DISABLED	DISABLED	DISABLED	DISABLED	DISABLED	DISABLED		10	10000					so0		so0	pr67		1	1	pr190		-5																																										0
-CycleOfWisdom				1	1	120	666	cm2	DISABLED	DISABLED	DISABLED	DISABLED	DISABLED	DISABLED		10	10000					so0		so0	pr122		1	1	pr190		-5																																										0
-CycleOfWisdom				1	1	120	666	cm2	DISABLED	DISABLED	DISABLED	DISABLED	DISABLED	DISABLED		10	10000					so0		so0	pr71		1	1	pr190		-5																																										0
-CycleOfWisdom				1	1	120	666	cm2	DISABLED	DISABLED	DISABLED	DISABLED	DISABLED	DISABLED		10	10000					so0		so0	pr121		1	1	pr190		-5																																										0
-CycleOfWisdom				1	1	120	666	cm2	DISABLED	DISABLED	DISABLED	DISABLED	DISABLED	DISABLED		10	10000					so0		so0	pr69		1	1	pr190		-5																																										0
-CycleOfWisdom				1	1	120	666	cm2	DISABLED	DISABLED	DISABLED	DISABLED	DISABLED	DISABLED		10	10000					so0		so0	pr70		1	1	pr190		-5																																										0
-CycleOfWisdom				1	1	120	666	cm2	DISABLED	DISABLED	DISABLED	DISABLED	DISABLED	DISABLED		10	10000					so0		so0	pr68		1	1	pr190		-5																																										0
-CycleOfLust				1	1	120	666	cm3	DISABLED	DISABLED	DISABLED	DISABLED	DISABLED	DISABLED			1					so0		so0	pr73		-5	-5																																													0
-CycleOfAggression0		1		1	1	120	666	cm1								2	1000					so0		so0	pr221		1	5	pr96		25	50	pr140		1	5																																					0
-CycleOfAggression1		1		1	1	120	666	cm2								2	1000					so0		so0	pr221		1	12	pr96		51	150	pr140		6	12																																					0
-CycleOfAggression2		1		1	1	120	666	cm3								2	1000					so0		so0	pr221		1	20	pr96		151	250	pr140		5	20																																					0
-UldyssianCharm2		1		1	1	666	666	##.							1	5	5000					so0		so0	pr128	248	5	1	pr104			1	pr41		11	30	pr182	876	100	1																																	0
-RathmasSupremacy		1		1	1	666	666	voXX							1	5	5000	blac	blac			so0		so0	pr73		5	10																																													0
-TradersChest		1		1	1	666	666	`^`	Trader's Chest						1	10	100000					so0		so0	pr73		1	1																																													0
-TrophyCarrier		1		1	1	666	666	`|#	The Sleep						1	5	5000					so0		so0	pr390		1	1																																													0
-HEYTHISISLC0CHARM		1		1	1	1	666	#X0	Harkon Crystal						1	1	1					so0		so0	pr390		1	1																																													0
-New2BlackRoseCrown		1		4	1	120	555	@70	Diadem	(Sacred) SSU						5	5000	dpur	dpur			so4713		so4713	pr133		4	4	pr0		-500	-500	pr291		-25	-25	pr122		1	3	pr69		1	3	pr238		30	30	pr200	2	401	425	pr200	2	326	350	pr81		40	40	pr192		41	50	pr267		41	50					0
-Modders Blessing1				1	1	120	60	cm1	DISABLED	DISABLED	DISABLED	DISABLED	DISABLED	DISABLED		5	10000				cuscross	so0		so0	pr104		12	12	pr221		10	10	pr115		1	1	pr96		300	300	pr13		800	800	pr11		800	800	pr42		10	10	pr66		9	9	pr65		9	9	pr280		11	11	pr41		155	155	pr190		405	405	0
-Modders Blessing2				1	1	120	60	cm1	DISABLED	DISABLED	DISABLED	DISABLED	DISABLED	DISABLED		5	10000				cuscross	so0		so0	pr104		11	11	pr13		500	500	pr41		35	35	pr309		30	30	pr187		345	345	pr257		50	50	pr84		5	5	pr78		20	20	pr81		5	5	pr14		50	50	pr12		50	50	pr0		260	260	0
-Modders Blessing3				1	1	120	60	cm1	DISABLED	DISABLED	DISABLED	DISABLED	DISABLED	DISABLED		5	10000				cuscross	so0		so0	pr128	580	1	20	pr207		65	65	pr68		5	5	pr127	691	5	10	pr198	820	100	49	pr128	248	5	1	pr198	564	100	59	pr223		25	25	pr107		50	50	pr113		5	5	pr4		5	5	pr88		50	50	0
-Modders Blessing Ama				1	1	120	60	cm1	DISABLED	DISABLED	DISABLED	DISABLED	DISABLED	DISABLED		5	10000				cuscross	so0		so0	pr14		15	15	pr88		33	33	pr272		1	1	pr273		1	1	pr53		25	25	pr14		5	5	pr13		500	500																					0
-Modders Blessing Ass				1	1	120	60	cm1	DISABLED	DISABLED	DISABLED	DISABLED	DISABLED	DISABLED		5	10000				cuscross	so0		so0	pr213		50	50	pr88		33	33	pr272		1	1	pr273		1	1	pr266		5	5	pr213		25	25	pr11		500	500																					0
-Modders Blessing Bar				1	1	120	60	cm1	DISABLED	DISABLED	DISABLED	DISABLED	DISABLED	DISABLED		5	10000				cuscross	so0		so0	pr267		20	20	pr88		33	33	pr272		1	1	pr273		1	1	pr282		1	1	pr267		5	5	pr223		50	50																					0
-Modders Blessing Dru				1	1	120	60	cm1	DISABLED	DISABLED	DISABLED	DISABLED	DISABLED	DISABLED		5	10000				cuscross	so0		so0	pr41		25	25	pr88		33	33	pr272		1	1	pr273		1	1	pr222		25	25	pr41		5	5	pr0		1000	1000																					0
-Modders Blessing Nec				1	1	120	60	cm1	DISABLED	DISABLED	DISABLED	DISABLED	DISABLED	DISABLED		5	10000				cuscross	so0		so0	pr269		40	40	pr88		33	33	pr272		1	1	pr273		1	1	pr471		1	1	pr269		10	10	pr292		15	15																					0
-Modders Blessing Pal				1	1	120	60	cm1	DISABLED	DISABLED	DISABLED	DISABLED	DISABLED	DISABLED		5	10000				cuscross	so0		so0	pr222		20	20	pr88		33	33	pr272		1	1	pr273		1	1	pr4		5	5	pr222		10	10	pr266		5	5																					0
-Modders Blessing Sor				1	1	120	60	cm1	DISABLED	DISABLED	DISABLED	DISABLED	DISABLED	DISABLED		5	10000				cuscross	so0		so0	pr207		25	25	pr88		33	33	pr272		1	1	pr273		1	1	pr294		15	15	pr207		5	5	pr291		50	50																					0
-StormBlade		1		1	1	666	1337	!07	Naginata							10	5000	blac	blac			so0		so0	pr29		251	300	pr266		10	10	pr310		100	100	pr374	760	100	1	pr388	102	102	102	pr13		500	500	pr57		50	50	pr326		1	5	pr204	1157	3	9	pr73		-5	-5	pr197	78	5	13	pr59		41	50	0
-TheGrizzly		1		1	1	666	1337	!5!	Warp Blade							10	5000	blac	blac			so0		so0	pr204	431	21	30	pr204	432	21	30	pr204	433	21	30	pr204	434	21	30	pr358		50	50	pr388		76	76	pr29		301	350	pr140		1	1000	pr335		51	100	pr374	760	100	1	pr205	161	1	1	pr483		1	1	0
-FullHelmSU3_2		1		1	1	666	666	@19								5	5000	cred	cred			so0		so0	pr133		4	4	pr5		251	300	pr104		1	1	pr197	145	5	21	pr171		10	25	pr183		25	40	pr32		5	5	pr134		666	666	pr78		-50	-50	pr204	983	16	32									0
-LeatherGlovesSU3_2		1			1	500	666	@33								5	5000	whit	whit			so0		so0	pr133		4	4	pr117	1863	1	1	pr127	699		16	pr0		666	666	pr41		15	20	pr4		10	10	pr75		-50	-50	pr140		25	50	pr78		30	30													0
-KabraxisSoul2		1		1	1	666	666	bxa							1	5	5000					so4908		so4908	pr104		1	1																																													0
-LeatherGlovesSU3_3		1		1	1	666	666	@33								5	5000	whit	whit			so0		so0	pr133		4	4	pr117	1863	1	1	pr127	699	1	16	pr0		666	666	pr41		15	20	pr4		5	5	pr75		100	100	pr140		25	50	pr78		30	30													0
-GrandEmpyrean		1		1	1	666	1337	rin	Ring							5	5000					so0		so0	pr133		1	1	pr227		15	15	pr219		6	10	pr197	340	2	13	pr58		101	200																													0
-BeadsOfTheSK2		1		1	1	666	1337	amu	Amulet							5	5000					so0		so0	pr7		51	75	pr8		51	75	pr28		99	99	pr326		1	1	pr222		101	130	pr108		6	10	pr197	564	1	15																					0
-LuckyJewel		1		1	1	666	1337	jew	Jewel							5	5000					so0		so0	pr59		100	100	pr202		10	10																																									0
-FLSG		1		1	1	566	666	az!							1	5	5000					so0		so0	pr58		-75	-75	pr222		11	15	pr330	3	1256	1553	pr7		31	50	pr8		31	50	pr10		31	50	pr9		31	50	pr7		-12	-41	pr8		-12	-41	pr10		-12	-41	pr9		-12	-41	pr59		31	40	0
-SpiritOfDamnation		1		1	1	1	666	a67							1	5	5000					so0		so0	pr128	580	1	20																																													0
-New2Breathstealer		1		4	1	200	666	@68		(Sacred) SSU						5	5000	blac	blac			so0		so0	pr133		4	4	pr0		401	500	pr7		-50	-50	pr10		100	100	pr75		-50	-50	pr192		151	200	pr104		1	1	pr207		31	40	pr87		25	25	pr204	694	12	16	pr9		50	50	pr127	895	5	20	0
-LightPlatedBootsSU3		1		1	1	666	666	@41		(Sacred) SSSU						5	5000	dgld	dgld			so0		so0	pr133		4	4	pr5		251	300	pr198	486	100	23	pr197	950	3	13	pr28		100	150	pr66		10	10	pr65		10	10	pr219		10	10	pr75		-20	-20	pr78		30	30									0
-KiteShieldSU3		1		1	1	555	666	@25	Kite Shield	(Sacred) SSSU						5	5000	dgld	dgld			so0		so0	pr133		4	4	pr5		251	300	pr117	1855	1	1	pr84		25	25	pr140		25	50	pr222		25	50	pr42			2	pr193		10	10	pr57		25	25	pr73		-1	-5	pr3		100	100					0
-FullHelmSU3		1		1	1	666	666	@19	Full Helm	(Sacred) SSSU						5	5000	cred	cred			so0		so0	pr133		4	4	pr5		251	300	pr104		2	2	pr197	145	10	21	pr171		10	25	pr183		25	40	pr32		5	5	pr134		666	666	pr78		50	50	pr204	983	16	32									0
-LeatherGlovesSU3		1		1	1	666	666	@33	Leather Gloves	(Sacred) SSSU						5	5000	whit	whit			so0		so0	pr133		4	4	pr117	1863	1	1	pr127	699	1	16	pr0		666	666	pr41		15	20	pr4		10	10	pr75		-50	-50	pr140		25	50	pr78		30	30													0
-FieldPlateSU3		1		1	1	666	666	@11	Field Plate	(Sacred) SSSU						5	5000	blac	blac			so0		so0	pr133		6	6	pr5		251	300	pr140		200	200	pr127	542	10	10	pr0		200	200	pr192		50	75	pr3		50	50	pr41		20	25	pr108		21	25	pr114		10	10									0
