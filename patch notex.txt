@@ -23,6 +23,7 @@ Current Changes:
 -Goodberries and Symbols of Esu are now sold by Ormus and Jamella, respectively. The recipe for creating Goodberries has been removed.
 -Oil of Blessed Luck, previously obtained from the Special Box, is now obtained via Oil of Luck + Arcane Crystal
 -Catalyst of Destruction removed
+-Removed item tiers 2,3,5
 
 --- Monsters ---
 -Added a new monster - Haunt. This monster replaces Necromorbs in Duncraig. Haunts are significantly tougher than Slain Souls and have an Area of Effect attack
