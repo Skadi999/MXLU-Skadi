@@ -843,12 +843,12 @@ Koth Reward Charm				-1	1024		1024	1024		SacredWorldstoneKey2	1																	
 Inarius Reward Charm				-1	1024		1024	1024		IdolOfVanity	1																																0
 Overlord Reward Charm				-1	1024		1024	1024		NewSpiritOfDamnation	1																																0
 Fleshdoom Reward Charm				-1	1024		1024	1024		CursedShadowfang	1																																0
-Ennead Reward Charm				1	1024		1024	1024	11	HotTJ	1																																0
+Ennead Reward Charm				1	1024		1024	1024	5	HotTJ	1																																0
 Malic Reward Charm				-1	1024		1024	1024		NewSixAngelBag	1																																0
 Lucion Reward Charm				-1	1024		1024	1024		kZ8	1																																0
-Zakarum Reward Charm				1	1024		1024	1024	11	ZakarumsEar	1																																0
-Rathma Primus Reward Charm				1	1024		1024	1024	5	HerbalQuintessence	1																																0
-Aldric Reward Charm				1	1024		1024	1024	5	TomeOfTheSpider	1																																0
+Zakarum Reward Charm				1	1024		1024	1024	5	ZakarumsEar	1																																0
+Rathma Primus Reward Charm				1	1024		1024	1024		HerbalQuintessence	1																																0
+Aldric Reward Charm				1	1024		1024	1024		TomeOfTheSpider	1																																0
 Juris Khan Reward Charm				1	1024		1024	1024		EternalBonePile	1																																0
 Hidden Reward Charm				1	1024		1024	1024		LegOfBlood	1																																0
 Skovos Reward Charm				1	1024		1024	1024		SunstoneOfIce	1																																0
