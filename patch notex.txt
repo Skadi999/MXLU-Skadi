@@ -38,6 +38,8 @@ Current Changes:
 
 
 TODO:
+- IMPORTANT: Fix ilvl gap due to removing tiers, it's casuing some areas and act bosses not to drop any items
+- Reduce mob stun length
 - Change Zomghelp Recipe
 - Overhaul/remove crafting points
 - Overhaul Azmodan mobs and remove random stats from Azmodan and other bosses

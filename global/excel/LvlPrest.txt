@@ -1092,7 +1092,7 @@ lp1088	1088	121	1				1	1				1	1	-4	1	Expansion/wildtemple/tempEnter.ds1	0	0	0	0	
 lp1089	1089	120	1				1	1				1			1	Expansion/mountaintop/MtnTop.ds1	0	0	0	0	0	29360148	0	1
 lp1090	1090	136	1		1			1				1			1	Act1/Tristram/Tri_Town4.ds1	0	0	0	0	0	63	0	
 lp1091	1091	65	1				1	1	47	47		1			1	Act2/Arcane/belial.ds1	0	0	0	0	0	1	0	
-lp1092	1092	84	1	1	1			1			1	1	4	-4	2	Act3/Kurast/excelsior3.ds1	0	0	0	0	0	4095	0	
+lp1092	1092	84	1	1	1			1			1	1	4	-4	1	Act3/Kurast/excelsior3.ds1	0	0	0	0	0	4095	0	
 lp1093	1093	116	1				1	1	64	64		1			1	expansion/icecave/rockisdead.ds1	0	0	0	0	0	1	0	1
 lp1094	1094	127	1	1	1	1		1	95	95		1		-4	1	expansion/zakarum/charismatic.ds1	0	0	0	0	0	61440	0	1
 lp1095	1095	98	1	1				1				1			1	expansion/redsquare/moskvich.ds1	0	0	0	0	0	134217727	0	
