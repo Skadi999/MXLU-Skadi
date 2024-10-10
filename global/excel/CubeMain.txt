@@ -876,7 +876,7 @@ cm8407	Create Honorific	1			100					3	"weap,mag"	vic	mec					"usetype,tmp"			100
 cm8408	Create Honorific	1			100					3	"armo,mag"	vic	mec					"usetype,tmp"			100	pr357				1	1	pr133			6	6	6																																																																													0
 cm11514	Six Angel Bag + Sunless Crystal Bird	1			100	18	443			2	NewSixAngelBag	kZ8						useitem				pr265				1	1	pr309				6	15							pr108				5	5	pr73				-5	5																																																											0
 cm11629	UMO Reroll Recipe 3 UMOs -> 1 Random UMO	1			100					3	"asa#,qty=3"							asa#																																																																																												0
-cm11642	Disenchant (Catalyst of Disenchanting)	1			100	18	276			2	"dcht,uni"	3oµ						#3^																																		3oµ																																																										0
+cm11642	Disenchant (Catalyst of Disenchanting)	1			100	18	276			2	"dcht,uni"	3oµ						qul																																		3oµ																																																										0
 cm11642	Disenchant (Catalyst of Disenchanting)	1			100	18	276			3	"dcht,uni,qty=2"	3oµ						#3^																																		3oµ																																																										0
 cm11643	Disenchant (Catalyst of Disenchanting)	1			100	18	276			4	"dcht,uni,qty=3"	3oµ						#4^																																		3oµ																																																										0
 cm11644	Disenchant (Catalyst of Disenchanting)	1			100	18	276			5	"dcht,uni,qty=4"	3oµ						#5^																																		3oµ																																																										0
@@ -886,7 +886,7 @@ cm11647	Disenchant (Catalyst of Disenchanting)	1			100	18	276			8	"dcht,uni,qty=
 cm11648	Disenchant (Catalyst of Disenchanting)	1			100	18	276			9	"dcht,uni,qty=8"	3oµ						qum																																		#4^																													3oµ																													0
 cm11649	Disenchant (Catalyst of Disenchanting)	1			100	18	276			10	"dcht,uni,qty=9"	3oµ						qum																																		#5^																													3oµ																													0
 cm11650	Disenchant (Catalyst of Disenchanting)	1			100	18	276			11	"dcht,uni,qty=10"	3oµ						qum																																		qum																													3oµ																													0
-cm11651	Disenchant (Catalyst of Disenchanting)	1			100	18	276			2	"dcht,set"	3oµ						#3^																																		3oµ																																																										0
+cm11651	Disenchant (Catalyst of Disenchanting)	1			100	18	276			2	"dcht,set"	3oµ						qul																																		3oµ																																																										0
 cm11651	Disenchant (Catalyst of Disenchanting)	1			100	18	276			3	"dcht,set,qty=2"	3oµ						#3^																																		3oµ																																																										0
 cm11652	Disenchant (Catalyst of Disenchanting)	1			100	18	276			4	"dcht,set,qty=3"	3oµ						#4^																																		3oµ																																																										0
 cm11653	Disenchant (Catalyst of Disenchanting)	1			100	18	276			5	"dcht,set,qty=4"	3oµ						#5^																																		3oµ																																																										0
@@ -896,7 +896,7 @@ cm11656	Disenchant (Catalyst of Disenchanting)	1			100	18	276			8	"dcht,set,qty=
 cm11657	Disenchant (Catalyst of Disenchanting)	1			100	18	276			9	"dcht,set,qty=8"	3oµ						qum																																		#4^																													3oµ																													0
 cm11658	Disenchant (Catalyst of Disenchanting)	1			100	18	276			10	"dcht,set,qty=9"	3oµ						qum																																		#5^																													3oµ																													0
 cm11659	Disenchant (Catalyst of Disenchanting)	1			100	18	276			11	"dcht,set,qty=10"	3oµ						qum																																		qum																													3oµ																													0
-cm11580	Learning (Catalyst of Learning)	1			100					2	"dcht,uni"	0oµ						02^																																		0oµ																																																										0
+cm11580	Learning (Catalyst of Learning)	1			100					2	"dcht,uni"	0oµ						zkq																																		0oµ																																																										0
 cm11580	Learning (Catalyst of Learning)	1			100					3	"ssgl,uni,qty=2"	0oµ						02^																																		0oµ																																																										0
 cm11581	Learning (Catalyst of Learning)	1			100					4	"ssgl,uni,qty=3"	0oµ						03^																																		0oµ																																																										0
 cm11582	Learning (Catalyst of Learning)	1			100					5	"ssgl,uni,qty=4"	0oµ						04^																																		0oµ																																																										0
@@ -921,7 +921,7 @@ cm11600	Learning (Catalyst of Learning)	1			100					23	"ssgl,uni,qty=22"	0oµ				
 cm11601	Learning (Catalyst of Learning)	1			100					24	"ssgl,uni,qty=23"	0oµ						23^																																		0oµ																																																										0
 cm11602	Learning (Catalyst of Learning)	1			100					25	"ssgl,uni,qty=24"	0oµ						24^																																		0oµ																																																										0
 cm11603	Learning (Catalyst of Learning)	1			100					26	"ssgl,uni,qty=25"	0oµ						zky																																		0oµ																																																										0
-cm11604	Learning (Catalyst of Learning)	1			100					2	"dcht,set"	0oµ						02^																																		0oµ																																																										0
+cm11604	Learning (Catalyst of Learning)	1			100					2	"dcht,set"	0oµ						zkq																																		0oµ																																																										0
 cm11604	Learning (Catalyst of Learning)	1			100					3	"ssgl,set,qty=2"	0oµ						02^																																		0oµ																																																										0
 cm11605	Learning (Catalyst of Learning)	1			100					4	"ssgl,set,qty=3"	0oµ						03^																																		0oµ																																																										0
 cm11606	Learning (Catalyst of Learning)	1			100					5	"ssgl,set,qty=4"	0oµ						04^																																		0oµ																																																										0
