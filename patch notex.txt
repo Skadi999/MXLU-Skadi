@@ -38,7 +38,7 @@ Current Changes:
 
 
 TODO:
--  fix haunts
+- fix haunts
 - IMPORTANT: Fix ilvl gap due to removing tiers, it's casuing some areas and act bosses not to drop any items
 - Reduce mob stun length
 - Change Zomghelp Recipe
@@ -56,5 +56,4 @@ TODO:
 - Create new monsters with D1/Infinitum/Sigma monster tokens
 - Reenable some disabled uniques and RWs in the files
 - Animdata for Haunt
-- 50 charges Oil of Renewal
 - Change Dragon Rerolls - make the Dragon drop an item that gives you an X amount of rerolls/chaos rerolls with the same ilvl as it works now. Maybe make the dragons only spawn in Destruction since they're pretty much useless in other difficulties
