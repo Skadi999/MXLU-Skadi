@@ -127,7 +127,7 @@ pr123	1				22	is107																													none	0
 pr124	1				10	is188																													none	0
 pr125	1				22	is151																													none	0
 pr126	1				11	is195																									Proc Skill on Swing	Skill #	% Chance	Level	none	0
-pr127	1				11	is198																									Proc Skill on Hit	Skill #	% Chance	Level	none	0
+pr127	1	ctc on striking			11	is198																									Proc Skill on Hit	Skill #	% Chance	Level	none	0
 pr128	1				11	is201																									Proc Skill on Get Hit	Skill #	% Chance	Level	none	0
 pr129																															Increase chance of finding Gems				none	0
 pr130																																			none	0
@@ -171,9 +171,9 @@ pr167																															Crush Damage		min	max	random amount from min
 pr168																															Crush Damage %		min %	max %	random amount from min to max is assigned to item	0
 pr169																															Thrust Damage		min	max	random amount from min to max is assigned to item	0
 pr170																															Thrust Damage %		min %	max %	random amount from min to max is assigned to item	0
-pr171					1	is333																									Absorb Slashing Damage		min amt	max amt	random amount from min to max is assigned to item	0
+pr171		fire pierce			1	is333																									Absorb Slashing Damage		min amt	max amt	random amount from min to max is assigned to item	0
 pr172					1	is334																									Absorb Crushing Damage		min amt	max amt	random amount from min to max is assigned to item	0
-pr173					1	is335																									Absorb Thrusting Damage		min amt	max amt	random amount from min to max is assigned to item	0
+pr173		cold pierce			1	is335																									Absorb Thrusting Damage		min amt	max amt	random amount from min to max is assigned to item	0
 pr174					1	is336																									Absorb Slashing Damage %		min %	max %	random amount from min to max is assigned to item	0
 pr175																															Absorb Crushing Damage %		min %	max %	random amount from min to max is assigned to item	0
 pr176																															Absorb Thrusting Damage %		min %	max %	random amount from min to max is assigned to item	0
