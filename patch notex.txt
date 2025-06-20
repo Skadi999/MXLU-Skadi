@@ -38,16 +38,18 @@ Current Changes:
 
 
 TODO:
-- fix haunt walk and hit sound - probably have to compile mpq
+- fix haunt walk and hit sound
 - IMPORTANT: Fix ilvl gap due to removing tiers, it's casuing some areas and act bosses not to drop any items
 - Reduce mob stun length
 - Change Zomghelp Recipe
 - Overhaul/remove crafting points
-- Overhaul Azmodan mobs and remove random stats from Azmodan and other bosses
+- Overhaul Azmodan and his trash mobs and remove random stats from Azmodan and other bosses
 - Overhaul some TUs, SUs
 - Restore some item stats that were removed in 2012 like 5% max res on Imperius set boots
 - Restore some Omega era unique item names
 - Bring back old SUs like the SU Battle Axe from Omega 1, old Warwind with Hades Gate proc, old items like Aeterna, etc.
+- Bring back items from 2008 (many different unique items there)
+- Add new ubers using maps from pd2, back to hellfire, etc. Change LC0 reward to drop from one of these new ubers
 - Completely deobfuscate everything, remove unused stuff, cleanup files
 - Changes to Mystic Orbs: Add a way to remove MOs, add an item that will allow re-using an MO
 - Revamp campaign monsters, some other mobs such as Summon Thunder Bear
