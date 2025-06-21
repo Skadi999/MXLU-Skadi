@@ -38,6 +38,7 @@ Current Changes:
 
 
 TODO:
+- IMPORTANT: Check if monster tokens that start with 0 are working properly - like 08 for Mutilator!
 - fix haunt walk and hit sound
 - IMPORTANT: Fix ilvl gap due to removing tiers, it's casuing some areas and act bosses not to drop any items
 - Reduce mob stun length
