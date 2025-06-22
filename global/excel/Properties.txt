@@ -390,71 +390,71 @@ pr386	1	new mod (combo)			1	is265																									Laz / Combination affi
 pr387	1	new mod (combo)			1	is299																									Laz / Combination affix		min	max	none	0
 pr388	1	new mod (combo)			1	is300																									Laz / Combination affix		min	max	none	0
 pr389	1	new mod (combo)			1	is259																									Laz / Combination affix		min	max	none	0
-pr390	1	new mod (combo)			1	is184																									Laz / Combination affix		min	max	none	0
-pr391	1	new mod (combo)			1	is191																									Laz / Combination affix		min	max	does it actually use cold length?	0
-pr392	1	new mod (combo)			1	is192																									Laz / Combination affix		min	max	none	0
-pr393	1	skills.txt			1	is193																									Laz / Interacts with skills.txt		min	max	none	0
-pr394	1	desc only			1	is202																									Laz / String for Evanescence		1	1	desc string for Evanescence	0
-pr395	1	new mod (combo)			1	is205																									Laz / Combination affix		min	max	also affects elem affixes?	0
-pr396	1	new mod (combo)			1	is206																									Laz / Combination affix		min	max	none	0
-pr397	1	none			1	is207																									Laz / HP per Lioness level	(8ths!)			none	0
-pr398	1	new mod (combo)			1	is213																									Laz / Combination affix		min	max	none	0
-pr399	1	new mod (combo)			1	is220																									Laz / Combination affix		min	max	none	0
-pr400	1	new mod (combo)			1	is221																									Laz / Combination affix		min	max	none	0
-pr401	1	skills.txt			1	is222																									Laz / Interacts with skills.txt		min	max	none	0
-pr402	1	skills.txt			1	is223																									Laz / Interacts with skills.txt		min	max	none	0
-pr403	1	skills.txt			1	is224																									Laz / Interacts with skills.txt		min	max	none	0
-pr404	1	skills.txt			1	is226																									Laz / Interacts with skills.txt		min	max	none	0
-pr405	1	new mod (combo)			1	is227																									Laz / Combination affix		min	max	none	0
-pr406	1	skills.txt			1	is228																									Laz / Interacts with skills.txt		min	max	none	0
-pr407	1	skills.txt			1	is229																									Laz / Interacts with skills.txt		min	max	none	0
-pr408	1	skills.txt			1	is234																									Laz / Interacts with skills.txt		min	max	none	0
-pr409	1	new mod			1	is235																									Laz / Life on striking		min	max	none	0
-pr410	1				1	is236																									AC per Player Level	(32nds)			none	0
-pr411	1				1	is237																									AC per Player Level	(32nds)			none	0
-pr412	1	desc only			1	is238																									Laz / String for special class		1	1	desc string for special item class	0
-pr413	1	new mod (combo)			1	is241																									Laz / Combination affix		min	max	none	0
-pr414	1	new mod			1	is242																									Laz / Life on striking		min	max	none	0
-pr415	1	tracker			1	is243																									Laz / Interacts with cubemain.txt		min	max	none	0
-pr416	1	skills.txt			1	is244																									Laz / Interacts with skills.txt		min	max	none	0
-pr417	1	desc + stat			1	is245																									Laz / String for Evanescence		1	1	desc string for Evanescence	0
-pr418	1	skills.txt			1	is246																									Laz / Interacts with skills.txt		min	max	none	0
-pr419	1	skills.txt			1	is249																									Laz / Interacts with skills.txt		min	max	none	0
-pr420	1	skills.txt			1	is251																									Laz / Interacts with skills.txt		min	max	none	0
-pr421	1	skills.txt			1	is255																									Laz / Interacts with skills.txt		min	max	none	0
-pr422	1	skills.txt			1	is256																									Laz / Interacts with skills.txt		min	max	none	0
-pr423	1				1	is257																									Laz / Combination affix		min	max	none	0
-pr424	1	automagic.txt			1	is258																									Laz / Whaa whaa whaa		min	max	none	0
-pr425	1	desc only			1	is263																									Laz / String for oscar		1	1	desc string for built-in cascade attack	0
-pr426	1				1	is264																									Laz / Combination affix		min	max	none	0
-pr427	1				1	is285																									Laz / New procs	Skill #	% Chance	Level		0
-pr428	1				1	is286																									Laz / New procs	Skill #	% Chance	Level		0
-pr429	1				1	is287																									Laz / New procs	Skill #	% Chance	Level		0
-pr430	1	skills.txt			1	is294																									Laz / Interacts with skills.txt		min	max	none	0
-pr431	1	skills.txt			1	is297																									Laz / Interacts with skills.txt		min	max	none	0
-pr432	1				1	is298																									Laz / New procs	Skill #	% Chance	Level	white text	0
-pr433	1				1	is304																									AC per Player Level	(32nds)			none	0
-pr434	1	desc only			1	is309																									Laz / String for Judas		1	1	none	0
-pr435	1	skills.txt			1	is310																									Laz / Interacts with skills.txt		min	max	none	0
-pr436	1	skills.txt			1	is311																									Laz / Interacts with skills.txt		min	max	none	0
-pr437	1	desc only			1	is312																									Laz / String for Judas		1	1	none	0
-pr438	1	desc only			1	is313																									Laz / String for Judas		1	1	none	0
-pr439	1	tracker			1	is314																									Laz / Interacts with cubemain.txt		min	max	none	0
-pr440	1	skills.txt			1	is369																									Laz / Interacts with skills.txt		min	max	none	0
-pr441	1	skills.txt			1	is370																									Laz / Interacts with skills.txt		min	max	none	0
-pr442	1	new mod (combo)			1	is382																									Laz / Combination affix		min	max	none	0
-pr443	1				1	is383																									Laz / New procs	Skill #	% Chance	Level	white text	0
-pr444	1	tracker			1	is393																									Laz / Interacts with cubemain.txt		min	max	none	0
-pr445	1				1	is397																													none	0
-pr446	1				1	is398																													none	0
-pr447	1	desc only			1	is400																									Laz / String for drain aura		1	1	none	0
-pr448	1				1	is401																													none	0
-pr449	1	cubemain.txt			1	is403																									Laz / MC counter		min	max	none	0
-pr450	1	cubemain.txt			1	is408																									Laz / MC counter		min	max	none	0
-pr451	1	cubemain.txt			1	is458																									Laz / MC counter		min	max	none	0
-pr452	1	cubemain.txt			1	is459																									Laz / MC counter		min	max	none	0
-pr453	1	cubemain.txt			1	is460																									Laz / MC counter		min	max	none	0
-pr454	1	cubemain.txt			1	is461																									Laz / MC counter		min	max	none	0
+pr390	1	Mystic Orbs			1	is184																									Mystic Orbs		min	max	none	0
+pr391	1	Mystic Orbs			1	is191																									Mystic Orbs		min	max	does it actually use cold length?	0
+pr392	1	Mystic Orbs			1	is192																									Mystic Orbs		min	max	none	0
+pr393	1	Mystic Orbs			1	is193																									Mystic Orbs		min	max	none	0
+pr394	1	Mystic Orbs			1	is202																									Mystic Orbs		1	1	desc string for Evanescence	0
+pr395	1	Mystic Orbs			1	is205																									Mystic Orbs		min	max	also affects elem affixes?	0
+pr396	1	Mystic Orbs			1	is206																									Mystic Orbs		min	max	none	0
+pr397	1	Mystic Orbs			1	is207																									Mystic Orbs	(8ths!)			none	0
+pr398	1	Mystic Orbs			1	is213																									Mystic Orbs		min	max	none	0
+pr399	1	Mystic Orbs			1	is220																									Mystic Orbs		min	max	none	0
+pr400	1	Mystic Orbs UNUSED			1	is221																									Mystic Orbs UNUSED		min	max	none	0
+pr401	1	Mystic Orbs			1	is222																									Mystic Orbs		min	max	none	0
+pr402	1	Mystic Orbs			1	is223																									Mystic Orbs		min	max	none	0
+pr403	1	Mystic Orbs			1	is224																									Mystic Orbs		min	max	none	0
+pr404	1	Mystic Orbs			1	is226																									Mystic Orbs		min	max	none	0
+pr405	1	Mystic Orbs			1	is227																									Mystic Orbs		min	max	none	0
+pr406	1	Mystic Orbs			1	is228																									Mystic Orbs		min	max	none	0
+pr407	1	Mystic Orbs			1	is229																									Mystic Orbs		min	max	none	0
+pr408	1	Mystic Orbs			1	is234																									Mystic Orbs		min	max	none	0
+pr409	1	Mystic Orbs			1	is235																									Mystic Orbs		min	max	none	0
+pr410	1	Mystic Orbs			1	is236																									Mystic Orbs	(32nds)			none	0
+pr411	1	Mystic Orbs			1	is237																									Mystic Orbs	(32nds)			none	0
+pr412	1	Mystic Orbs			1	is238																									Mystic Orbs		1	1	desc string for special item class	0
+pr413	1	Mystic Orbs			1	is241																									Mystic Orbs		min	max	none	0
+pr414	1	Mystic Orbs			1	is242																									Mystic Orbs		min	max	none	0
+pr415	1	Mystic Orbs			1	is243																									Mystic Orbs		min	max	none	0
+pr416	1	Mystic Orbs			1	is244																									Mystic Orbs		min	max	none	0
+pr417	1	Mystic Orbs			1	is245																									Mystic Orbs		1	1	desc string for Evanescence	0
+pr418	1	Mystic Orbs			1	is246																									Mystic Orbs		min	max	none	0
+pr419	1	Mystic Orbs			1	is249																									Mystic Orbs		min	max	none	0
+pr420	1	Mystic Orbs UNUSED			1	is251																									Mystic Orbs UNUSED		min	max	none	0
+pr421	1	Mystic Orbs			1	is255																									Mystic Orbs		min	max	none	0
+pr422	1	Mystic Orbs			1	is256																									Mystic Orbs		min	max	none	0
+pr423	1	Mystic Orbs			1	is257																									Mystic Orbs		min	max	none	0
+pr424	1	Mystic Orbs			1	is258																									Mystic Orbs		min	max	none	0
+pr425	1	Mystic Orbs			1	is263																									Mystic Orbs		1	1	desc string for built-in cascade attack	0
+pr426	1	Mystic Orbs			1	is264																									Mystic Orbs		min	max	none	0
+pr427	1	Mystic Orbs			1	is285																									Mystic Orbs	Skill #	% Chance	Level		0
+pr428	1	Mystic Orbs			1	is286																									Mystic Orbs	Skill #	% Chance	Level		0
+pr429	1	Mystic Orbs			1	is287																									Mystic Orbs	Skill #	% Chance	Level		0
+pr430	1	Mystic Orbs			1	is294																									Mystic Orbs		min	max	none	0
+pr431	1	Mystic Orbs			1	is297																									Mystic Orbs		min	max	none	0
+pr432	1	Mystic Orbs			1	is298																									Mystic Orbs	Skill #	% Chance	Level	white text	0
+pr433	1	Mystic Orbs			1	is304																									Mystic Orbs	(32nds)			none	0
+pr434	1	Mystic Orbs UNUSED			1	is309																									Mystic Orbs UNUSED		1	1	none	0
+pr435	1	Mystic Orbs			1	is310																									Mystic Orbs		min	max	none	0
+pr436	1	Mystic Orbs			1	is311																									Mystic Orbs		min	max	none	0
+pr437	1	Mystic Orbs			1	is312																									Mystic Orbs		1	1	none	0
+pr438	1	Mystic Orbs			1	is313																									Mystic Orbs		1	1	none	0
+pr439	1	Mystic Orbs			1	is314																									Mystic Orbs		min	max	none	0
+pr440	1	Mystic Orbs			1	is369																									Mystic Orbs		min	max	none	0
+pr441	1	Mystic Orbs			1	is370																									Mystic Orbs		min	max	none	0
+pr442	1	Mystic Orbs			1	is382																									Mystic Orbs		min	max	none	0
+pr443	1	Mystic Orbs			1	is383																									Mystic Orbs	Skill #	% Chance	Level	white text	0
+pr444	1	Mystic Orbs			1	is393																									Mystic Orbs		min	max	none	0
+pr445	1	Mystic Orbs			1	is397																									Mystic Orbs				none	0
+pr446	1	Mystic Orbs			1	is398																									Mystic Orbs				none	0
+pr447	1	Mystic Orbs			1	is400																									Mystic Orbs		1	1	none	0
+pr448	1	Mystic Orbs			1	is401																									Mystic Orbs				none	0
+pr449	1	Mystic Orbs			1	is403																									Mystic Orbs		min	max	none	0
+pr450	1	Mystic Orbs			1	is408																									Mystic Orbs		min	max	none	0
+pr451	1	Mystic Orbs UNUSED			1	is458																									Mystic Orbs UNUSED		min	max	none	0
+pr452	1	Mystic Orbs			1	is459																									Mystic Orbs		min	max	none	0
+pr453	1	Mystic Orbs			1	is460																									Mystic Orbs		min	max	none	0
+pr454	1	Mystic Orbs			1	is461																									Mystic Orbs		min	max	none	0
 pr455	1	cubemain.txt			1	is462																									Laz / MC counter		min	max	none	0
 pr456	1	cubemain.txt			1	is463																									Laz / MC counter		min	max	none	0
 pr457	1	cubemain.txt			1	is464																									Laz / MC counter		min	max	none	0

@@ -1062,8 +1062,6 @@ cm7345	Mystic Orbs	1			100	15	220	15		2	"armo,noe"	10+						useitem													
 cm7346	Mystic Orbs	1			100	15	220	15		2	misl	10+						useitem																																		10+																																																										0
 cm7347	Mystic Orbs	1			100	15	220	15		2	amul	10+						useitem																																		10+																																																										0
 cm7348	Mystic Orbs	1			100	15	220	15		2	ring	10+						useitem																																		10+																																																										0
-cm7349	Mystic Orbs	1			100	15	221	15		2	amul	11+						useitem																																		11+																																																										0
-cm7350	Mystic Orbs	1			100	15	221	15		2	ring	11+						useitem																																		11+																																																										0
 cm7351	Mystic Orbs	1			100	15	222	15		2	"weap,noe"	12+						useitem																																		12+																																																										0
 cm7352	Mystic Orbs	1			100	15	222	15		2	"armo,noe"	12+						useitem																																		12+																																																										0
 cm7353	Mystic Orbs	1			100	15	222	15		2	misl	12+						useitem																																		12+																																																										0
@@ -1107,7 +1105,6 @@ cm7390	Mystic Orbs	1			100	15	244	15		2	"armo,noe"	27+						useitem													
 cm7391	Mystic Orbs	1			100	15	245	15		2	"armo,noe"	28+						useitem																																		28+																																																										0
 cm7392	Mystic Orbs	1			100	15	246	15		2	"armo,noe"	29+						useitem																																		29+																																																										0
 cm7393	Mystic Orbs	1			100	15	249	15		2	"armo,noe"	30+						useitem																																		30+																																																										0
-cm7394	Mystic Orbs	1			100	15	251	15		2	"weap,noe"	31+						useitem																																		31+																																																										0
 cm7395	Mystic Orbs	1			100	15	255	15		2	"weap,noe"	32+						useitem																																		32+																																																										0
 cm7396	Mystic Orbs	1			100	15	256	15		2	"weap,noe"	33+						useitem																																		33+																																																										0
 cm7397	Mystic Orbs	1			100	15	257	15		2	"weap,noe"	34+						useitem																																		34+																																																										0
@@ -1137,8 +1134,6 @@ cm7420	Mystic Orbs	1			100	15	304	15		2	"armo,noe"	44+						useitem													
 cm7421	Mystic Orbs	1			100	15	304	15		2	misl	44+						useitem																																		44+																																																										0
 cm7422	Mystic Orbs	1			100	15	304	15		2	amul	44+						useitem																																		44+																																																										0
 cm7423	Mystic Orbs	1			100	15	304	15		2	ring	44+						useitem																																		44+																																																										0
-cm7424	Mystic Orbs	1			100	15	309	15		2	amul	45+						useitem																																		45+																																																										0
-cm7425	Mystic Orbs	1			100	15	309	15		2	ring	45+						useitem																																		45+																																																										0
 cm7426	Mystic Orbs	1			100	15	310	15		2	"armo,noe"	46+						useitem																																		46+																																																										0
 cm7427	Mystic Orbs	1			100	15	311	15		2	"armo,noe"	47+						useitem																																		47+																																																										0
 cm7428	Mystic Orbs	1			100	15	312	15		2	"armo,noe"	48+						useitem																																		48+																																																										0
@@ -1155,7 +1150,6 @@ cm7438	Mystic Orbs	1			100	15	400	15		2	"weap,noe"	58+						useitem													
 cm7439	Mystic Orbs	1			100	15	401	15		2	"weap,noe"	59+						useitem																																		59+																																																										0
 cm7440	Mystic Orbs	1			100	15	403	15		2	"weap,noe"	60+						useitem																																		60+																																																										0
 cm7441	Mystic Orbs	1			100	15	408	15		2	"weap,noe"	61+						useitem																																		61+																																																										0
-cm7442	Mystic Orbs	1			100	15	458	15		2	"weap,noe"	62+						useitem																																		62+																																																										0
 cm7443	Mystic Orbs	1			100	15	459	15		2	"weap,noe"	63+						useitem																																		63+																																																										0
 cm7444	Mystic Orbs	1			100	15	460	15		2	"weap,noe"	64+						useitem																																		64+																																																										0
 cm7445	Mystic Orbs	1			100	15	461	15		2	"weap,noe"	65+						useitem																																		65+																																																										0
@@ -1209,8 +1203,6 @@ cm7639	Mystic Orbs	1			100	15	296	1		2	"armo,noe"	10+						useitem				pr3				4	4
 cm7640	Mystic Orbs	1			100	15	296	1		2	misl	10+						useitem				pr3				4	4	pr202				2	2	pr399				1	1																																																																							0
 cm7641	Mystic Orbs	1			100	15	296	1		2	amul	10+						useitem				pr3				4	4	pr202				2	2	pr399				1	1																																																																							0
 cm7642	Mystic Orbs	1			100	15	296	1		2	ring	10+						useitem				pr3				4	4	pr202				2	2	pr399				1	1																																																																							0
-cm7643	Mystic Orbs	1			100	15	296	1		2	amul	11+						useitem				pr62				8	8	pr202				2	2	pr400				1	1																																																																							0
-cm7644	Mystic Orbs	1			100	15	296	1		2	ring	11+						useitem				pr62				8	8	pr202				2	2	pr400				1	1																																																																							0
 cm7645	Mystic Orbs	1			100	15	296	1		2	"weap,noe"	12+						useitem				pr269				4	4	pr202				2	2	pr401				1	1																																																																							0
 cm7646	Mystic Orbs	1			100	15	296	1		2	"armo,noe"	12+						useitem				pr269				4	4	pr202				2	2	pr401				1	1																																																																							0
 cm7647	Mystic Orbs	1			100	15	296	1		2	misl	12+						useitem				pr269				4	4	pr202				2	2	pr401				1	1																																																																							0
@@ -1254,7 +1246,6 @@ cm7684	Mystic Orbs	1			100	15	296	1		2	"armo,noe"	27+						useitem				pr222				4
 cm7685	Mystic Orbs	1			100	15	296	1		2	"armo,noe"	28+						useitem				pr295				8	8	pr202				2	2	pr417				1	1																																																																							0
 cm7686	Mystic Orbs	1			100	15	296	1		2	"armo,noe"	29+						useitem				pr328				12	12	pr202				2	2	pr418				1	1																																																																							0
 cm7687	Mystic Orbs	1			100	15	296	1		2	"armo,noe"	30+						useitem				pr221				2	2	pr202				2	2	pr419				1	1																																																																							0
-cm7688	Mystic Orbs	1			100	15	296	1		2	"weap,noe"	31+						useitem				pr191				2	2	pr202				2	2	pr420				1	1																																																																							0
 cm7689	Mystic Orbs	1			100	15	296	1		2	"weap,noe"	32+						useitem				pr66				4	4	pr202				2	2	pr421				1	1																																																																							0
 cm7690	Mystic Orbs	1			100	15	296	1		2	"weap,noe"	33+						useitem				pr65				4	4	pr202				2	2	pr422				1	1																																																																							0
 cm7691	Mystic Orbs	1			100	15	296	1		2	"weap,noe"	34+						useitem				pr126			496	2	3	pr202				2	2	pr423				1	1																																																																							0
@@ -1284,8 +1275,6 @@ cm7714	Mystic Orbs	1			100	15	296	1		2	"armo,noe"	44+						useitem				pr174				2
 cm7715	Mystic Orbs	1			100	15	296	1		2	misl	44+						useitem				pr174				2	2	pr202				2	2	pr433				1	1																																																																							0
 cm7716	Mystic Orbs	1			100	15	296	1		2	amul	44+						useitem				pr174				2	2	pr202				2	2	pr433				1	1																																																																							0
 cm7717	Mystic Orbs	1			100	15	296	1		2	ring	44+						useitem				pr174				2	2	pr202				2	2	pr433				1	1																																																																							0
-cm7718	Mystic Orbs	1			100	15	296	1		2	amul	45+						useitem				pr239				50	50	pr202				2	2	pr434				1	1																																																																							0
-cm7719	Mystic Orbs	1			100	15	296	1		2	ring	45+						useitem				pr239				50	50	pr202				2	2	pr434				1	1																																																																							0
 cm7720	Mystic Orbs	1			100	15	296	1		2	"armo,noe"	46+						useitem				pr41				4	4	pr202				2	2	pr435				1	1																																																																							0
 cm7721	Mystic Orbs	1			100	15	296	1		2	"armo,noe"	47+						useitem				pr75				-2	-2	pr202				2	2	pr436				1	1																																																																							0
 cm7722	Mystic Orbs	1			100	15	296	1		2	"armo,noe"	48+						useitem				pr117			760	2	2	pr202				2	2	pr437				1	1																																																																							0
@@ -1302,7 +1291,6 @@ cm7732	Mystic Orbs	1			100	15	296	1		2	"weap,noe"	58+						useitem				pr126			50
 cm7733	Mystic Orbs	1			100	15	296	1		2	"weap,noe"	59+						useitem				pr205	2		163	1	1	pr202				2	2	pr448				1	1																																																																							0
 cm7734	Mystic Orbs	1			100	15	296	1		2	"weap,noe"	60+						useitem				pr356				20	20	pr202				2	2	pr449				1	1																																																																							0
 cm7735	Mystic Orbs	1			100	15	296	1		2	"weap,noe"	61+						useitem				pr359				20	20	pr202				2	2	pr450				1	1																																																																							0
-cm7736	Mystic Orbs	1			100	15	296	1		2	"weap,noe"	62+						useitem				pr291				4	4	pr202				2	2	pr451				1	1																																																																							0
 cm7737	Mystic Orbs	1			100	15	296	1		2	"weap,noe"	63+						useitem				pr223				20	20	pr202				2	2	pr452				1	1																																																																							0
 cm7738	Mystic Orbs	1			100	15	296	1		2	"weap,noe"	64+						useitem				pr87				6	6	pr202				2	2	pr453				1	1																																																																							0
 cm7739	Mystic Orbs	1			100	15	296	1		2	"weap,noe"	65+						useitem				pr57				6	6	pr202				2	2	pr454				1	1																																																																							0
@@ -1356,8 +1344,6 @@ cm7786	Mystic Orbs	1			100					2	"armo,noe"	10+						useitem				pr3				2	2	pr202
 cm7787	Mystic Orbs	1			100					2	misl	10+						useitem				pr3				2	2	pr202				2	2	pr399				1	1																																																																							0
 cm7788	Mystic Orbs	1			100					2	amul	10+						useitem				pr3				2	2	pr202				2	2	pr399				1	1																																																																							0
 cm7789	Mystic Orbs	1			100					2	ring	10+						useitem				pr3				2	2	pr202				2	2	pr399				1	1																																																																							0
-cm7790	Mystic Orbs	1			100					2	amul	11+						useitem				pr62				4	4	pr202				2	2	pr400				1	1																																																																							0
-cm7791	Mystic Orbs	1			100					2	ring	11+						useitem				pr62				4	4	pr202				2	2	pr400				1	1																																																																							0
 cm7792	Mystic Orbs	1			100					2	"weap,noe"	12+						useitem				pr269				2	2	pr202				2	2	pr401				1	1																																																																							0
 cm7793	Mystic Orbs	1			100					2	"armo,noe"	12+						useitem				pr269				2	2	pr202				2	2	pr401				1	1																																																																							0
 cm7794	Mystic Orbs	1			100					2	misl	12+						useitem				pr269				2	2	pr202				2	2	pr401				1	1																																																																							0
@@ -1401,7 +1387,6 @@ cm7831	Mystic Orbs	1			100					2	"armo,noe"	27+						useitem				pr222				2	2	pr2
 cm7832	Mystic Orbs	1			100					2	"armo,noe"	28+						useitem				pr295				4	4	pr202				2	2	pr417				1	1																																																																							0
 cm7833	Mystic Orbs	1			100					2	"armo,noe"	29+						useitem				pr328				6	6	pr202				2	2	pr418				1	1																																																																							0
 cm7834	Mystic Orbs	1			100					2	"armo,noe"	30+						useitem				pr221				1	1	pr202				2	2	pr419				1	1																																																																							0
-cm7835	Mystic Orbs	1			100					2	"weap,noe"	31+						useitem				pr191				1	1	pr202				2	2	pr420				1	1																																																																							0
 cm7836	Mystic Orbs	1			100					2	"weap,noe"	32+						useitem				pr66				2	2	pr202				2	2	pr421				1	1																																																																							0
 cm7837	Mystic Orbs	1			100					2	"weap,noe"	33+						useitem				pr65				2	2	pr202				2	2	pr422				1	1																																																																							0
 cm7838	Mystic Orbs	1			100					2	"weap,noe"	34+						useitem				pr126			496	1	3	pr202				2	2	pr423				1	1																																																																							0
@@ -1431,8 +1416,6 @@ cm7861	Mystic Orbs	1			100					2	"armo,noe"	44+						useitem				pr174				1	1	pr2
 cm7862	Mystic Orbs	1			100					2	misl	44+						useitem				pr174				1	1	pr202				2	2	pr433				1	1																																																																							0
 cm7863	Mystic Orbs	1			100					2	amul	44+						useitem				pr174				1	1	pr202				2	2	pr433				1	1																																																																							0
 cm7864	Mystic Orbs	1			100					2	ring	44+						useitem				pr174				1	1	pr202				2	2	pr433				1	1																																																																							0
-cm7865	Mystic Orbs	1			100					2	amul	45+						useitem				pr239				25	25	pr202				2	2	pr434				1	1																																																																							0
-cm7866	Mystic Orbs	1			100					2	ring	45+						useitem				pr239				25	25	pr202				2	2	pr434				1	1																																																																							0
 cm7867	Mystic Orbs	1			100					2	"armo,noe"	46+						useitem				pr41				2	2	pr202				2	2	pr435				1	1																																																																							0
 cm7868	Mystic Orbs	1			100					2	"armo,noe"	47+						useitem				pr75				-1	-1	pr202				2	2	pr436				1	1																																																																							0
 cm7869	Mystic Orbs	1			100					2	"armo,noe"	48+						useitem				pr117			760	1	1	pr202				2	2	pr437				1	1																																																																							0
@@ -1449,7 +1432,6 @@ cm7879	Mystic Orbs	1			100					2	"weap,noe"	58+						useitem				pr126			500	1	6	
 cm7880	Mystic Orbs	1			100					2	"weap,noe"	59+						useitem				pr357	2			1	1	pr202				2	2	pr448				1	1																																																																							0
 cm7881	Mystic Orbs	1			100					2	"weap,noe"	60+						useitem				pr356				10	10	pr202				2	2	pr449				1	1																																																																							0
 cm7882	Mystic Orbs	1			100					2	"weap,noe"	61+						useitem				pr359				10	10	pr202				2	2	pr450				1	1																																																																							0
-cm7883	Mystic Orbs	1			100					2	"weap,noe"	62+						useitem				pr291				2	2	pr202				2	2	pr451				1	1																																																																							0
 cm7884	Mystic Orbs	1			100					2	"weap,noe"	63+						useitem				pr223				10	10	pr202				2	2	pr452				1	1																																																																							0
 cm7885	Mystic Orbs	1			100					2	"weap,noe"	64+						useitem				pr87				3	3	pr202				2	2	pr453				1	1																																																																							0
 cm7886	Mystic Orbs	1			100					2	"weap,noe"	65+						useitem				pr57				3	3	pr202				2	2	pr454				1	1																																																																							0

@@ -42,7 +42,7 @@ JollyRoger		1		1	1	1	5	yq7							1	5	5000					so0		so0	pr279		1	1	pr278		1	1	pr1
 ZakarumsEar		1		1	1	1	80	yq8							1	5	5000					so0		so0	pr191		16	25	pr219		6	10	pr73		2	2																																					0
 TomeOfTheSpider		1		1	1	1	100	yqe							1	5	5000					so0		so0	pr95		1	1	pr291		21	25	pr280		1	1	pr204	829	1	1																																	0
 HerbalQuintessence		1		1	1	1	100	yqx							1	5	5000					so0		so0	pr53		11	40	pr96		21	150	pr87		10	10	pr57		10	10																																	0
-HotTJ		1		1	1	1	40	0u1							1	5	5000					so0		so0	pr239		50	50	pr291		21	25	pr321	8	8	8																																					0
+HotTJ		1		1	1	1	40	0u1	Hammer of the Taan Judges						1	5	5000					so0		so0	pr239		50	50	pr291		21	25	pr321	8	8	8																																					0
 TheBookOfLies2		1		1	1	1	60	k@k							1	5	5000	cred	cred			so0		so0	pr13		51	500	pr11		51	500																																									0
 UniqueDemonsbane		1		1	1	1	100	t@t							1	5	5000	oran	oran		demonsbaneZ	so0		so0	pr67			2	pr122			2	pr71			2	pr121			2	pr69			2	pr68			2	pr70			2	pr53		50	50																	0
 ColdFusionSchematics		1		1	1	1	100	w@w							1	5	5000	lblu	lblu		coldfusion	so0		so0	pr127	542	5	10	pr7		11	50	pr8		11	50	pr10		11	50	pr9		11	50	pr198	564	100	59																									0

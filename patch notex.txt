@@ -24,6 +24,7 @@ Current Changes:
 -Oil of Blessed Luck, previously obtained from the Special Box, is now obtained via Oil of Luck + Arcane Crystal
 -Catalyst of Destruction removed
 -Removed item tiers 2,3,5
+-Removed the following useless Mystic Orbs: Crafting Points (Jewelry), Experience (Weapon), Energy Factor (Weapon), Regenerate Mana (Jewelry)
 
 --- Monsters ---
 -Added a new monster - Haunt. This monster replaces Necromorbs in Duncraig. Haunts are significantly tougher than Slain Souls and have an Area of Effect attack
