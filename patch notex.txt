@@ -40,7 +40,6 @@ Current Changes:
 
 TODO:
 - IMPORTANT: Check if monster tokens that start with 0 are working properly - like 08 for Mutilator!
-- IMPORTANT: Fix ilvl gap due to removing tiers, it's casuing some areas and act bosses not to drop any items. maybe copy ilvls from lod
 - Reduce mob stun length
 - Add a new stat that shows real value of hp regen
 - Change Zomghelp Recipe
