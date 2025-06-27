@@ -1,253 +1,287 @@
-ItemType	*Laz / status	subdivide	makepage	Code	Equiv1	Equiv2	Repair	Body	BodyLoc1	BodyLoc2	Shoots	Quiver	Throwable	Reload	ReEquip	AutoStack	Magic	Rare	Normal	Charm	Gem	Beltable	MaxSock1	MaxSock25	MaxSock40	TreasureClass	Rarity	StaffMods	CostFormula	Class	VarInvGfx	InvGfx1	InvGfx2	InvGfx3	InvGfx4	InvGfx5	InvGfx6	StorePage	*eol
-    				    																							3												0
-    				    																							3												0
-shie				shie	shld		1	1	rarm	larm								1					6	6	6		3		1									armo	0
-tors				tors	armo		1	1	tors	tors								1					6	6	6		3		1									armo	0
-gold				gold	misc														1								3												0
-bowq				bowq	misl			1	rarm	larm		bow		1		1		1									3		1									misc	0
-xboq				xboq	misl			1	rarm	larm		xbow		1		1		1									3		1									misc	0
-play				play	misc														1	1							3											misc	0
-herb				herb	misc																						3											misc	0
-poti				poti	misc														1			1					3											misc	0
-ring				ring	misc	dcht		1	rrin	lrin							1	1									3		1		5	invrin1	invrin2	invrin3	invrin4	invrin5		misc	0
-elix				elix	misc																	1					3											misc	0
-amul				amul	misc	dcht		1	neck	neck							1	1									3		1		3	invamu1	invamu2	invamu3				misc	0
-char				char	misc															1							3				3	invch1	invch4	invch7				misc	0
-    				    																							3												0
-boot				boot	armo		1	1	feet	feet								1					4	4	4		3		1									armo	0
-glov				glov	armo		1	1	glov	glov								1					4	4	4		3		1									armo	0
-    				    																							3												0
-book				book	misc														1								3											misc	0
-belt				belt	armo		1	1	belt	belt								1					2	2	2		3		1									armo	0
-gem 				gem 	sock														1		1						3											misc	0
-torc				torc	misc			1											1								3											misc	0
-scro				scro	misc														1			1					3											misc	0
-    				    																							3												0
-scep				scep	rod	mace	1	1	rarm	larm								1					6	6	6		2											weap	0
-wand				wand	rod		1	1	rarm	larm								1					6	6	6		2			nec								weap	0
-staf				staf	rod		1	1	rarm	larm								1					6	6	6		2											weap	0
-bow 				bow 	miss			1	rarm	larm	bowq							1					6	6	6	1	3											weap	0
-axe 				axe 	mele	dbox	1	1	rarm	larm								1					6	6	6		3											weap	0
-club				club	blun	dbox	1	1	rarm	larm								1					6	6	6		3											weap	0
-swor				swor	mele		1	1	rarm	larm								1					6	6	6		3											weap	0
-hamm				hamm	blun		1	1	rarm	larm								1					6	6	6		3											weap	0
-knif				knif	mele	dbox	1	1	rarm	larm								1					6	6	6		3											weap	0
-spea				spea	mele		1	1	rarm	larm								1					6	6	6		3											weap	0
-pole				pole	mele		1	1	rarm	larm								1					6	6	6		3											weap	0
-xbow				xbow	miss		1	1	rarm	larm	xboq							1					6	6	6		3											weap	0
-mace				mace	blun		1	1	rarm	larm								1					6	6	6		3											weap	0
-Helm				helm	armo		1	1	head	head			0	0	0	0		1	0	0	0	0	6	6	6	0	3		1		0							armo	0
-tpot				tpot	thro			1	rarm	larm			1	1	1	1			1								3											misc	0
-ques				ques																							3												0
-body				body	misc														1								3		2									misc	0
-key 				key 	misc											1			1								3											misc	0
-tkni				tkni	comb	knif	1	1	rarm	larm			1	1	1	1		1					6	6	6		3											misc	0
-taxe				taxe	comb	axe	1	1	rarm	larm			1	1	1	1		1					6	6	6		3											misc	0
-jave				jave	comb	spea	1	1	rarm	larm			1	1	1	1		1					6	6	6		3											misc	0
-weap				weap	dcht													1								1	3												0
-mele				mele	weap													1								1	3												0
-miss				miss	weap													1									3												0
-thro				thro	weap								1					1									3												0
-comb				comb	mele	thro							1					1									3												0
-armo				armo	dcht													1								1	3												0
-shld				shld	armo	seco												1									3												0
-misc				misc														1									3												0
-sock				sock	misc																						3												0
-seco				seco														1									3												0
-rod 				rod 	blun													1									3												0
-misl				misl	misc	dcht																	1	1	1		3												0
-blun				blun	mele													1									3												0
-Expansion																																							0
-jewl				jewl	sock	dcht											1	1			1						3				6	invjw1	invjw2	invjw3	invjw4	invjw5	invjw6	misc	0
-clas				clas														1									3												0
-amaz				amaz	clas	fbox												1									2			ama									0
-barb				barb	clas	fbox												1									2			bar									0
-necr				necr	clas													1									2			nec									0
-pala				pala	clas													1									2			pal									0
-sorc				sorc	clas	sbox												1									2			sor									0
-assn				assn	clas	fbox												1									2			ass									0
-drui				drui	clas													1									2			dru									0
-h2h 				h2h 	mele	assn	1	1	rarm	larm								1					6	6	6		2			ass								weap	0
-orb 				orb 	mele	sorc	1	1	rarm	larm								1					6	6	6		2			sor								weap	0
-head				head	shie	necr	1	1	rarm	larm								1					6	6	6		2			nec								armo	0
-ashd				ashd	shie	pala	1	1	rarm	larm								1					6	6	6		2			pal								armo	0
-phlm				phlm	helm	barb	1	1	head	head								1					6	6	6		2			bar								armo	0
-pelt				pelt	helm	drui	1	1	head	head								1					6	6	6		2			dru								armo	0
-cloa				cloa	tors	assn	1	1	tors	tors								1									2			ass								armo	0
-rune				rune	sock														1		1						3											misc	0
-circ				circ	helm		1	1	head	head								1					6	6	6		3		1									armo	0
-hpot				hpot	poti														1			1					3											misc	0
-mpot				mpot	poti														1			1					3											misc	0
-rpot				rpot	hpot	mpot													1			1					3											misc	0
-spot				spot	poti														1			1					3											misc	0
-apot				apot	poti														1			1					3											misc	0
-wpot				wpot	poti														1			1					3											misc	0
-scha				scha	char															1							3				3	invch1	invch4	invch7				misc	0
-mcha				mcha	char															1							3				3	invch2	invch5	invch8				misc	0
-lcha				lcha	char															1							3				3	invch3	invch6	invch9				misc	0
-abow				abow	bow	amaz		1	rarm	larm	bowq							1					6	6	6	1	2			ama								weap	0
-aspe				aspe	spea	amaz	1	1	rarm	larm								1					6	6	6		2			ama								weap	0
-ajav				ajav	jave	amaz	1	1	rarm	larm			1	1	1	1		1					3	3	3		2			ama								misc	0
-h2h2				h2h2	h2h		1	1	rarm	larm								1					6	6	6		2	ass		ass								weap	0
-mboq				mboq	bowq			1	rarm	larm		bow		1			1	1									3											misc	0
-mxbq				mxbq	xboq			1	rarm	larm		xbow		1			1	1									3											misc	0
-gem0				gem0	gem														1		1						3											misc	0
-gem1				gem1	gem														1		1						3											misc	0
-gem2				gem2	gem														1		1						3											misc	0
-gem3				gem3	gem														1		1						3											misc	0
-gem4				gem4	gem														1		1						3											misc	0
-gema				gema	gem														1		1						3											misc	0
-gemd				gemd	gem														1		1						3											misc	0
-geme				geme	gem														1		1						3											misc	0
-gemr				gemr	gem														1		1						3											misc	0
-gems				gems	gem														1		1						3											misc	0
-gemt				gemt	gem														1		1						3											misc	0
-gemz				gemz	gem														1		1						3											misc	0
-crsd				crsd	swor		1	1	rarm	larm								1					6	6	6		3											weap	0
-bshi				bshi	shie		1	1	rarm	larm								1					6	6	6		3		1									armo	0
-bhlm				bhlm	helm		1	1	head	head								1					4	4	4		3		1									armo	0
-crow				crow	helm		1	1	head	head								1					4	4	4		3		1									armo	0
-woot				woot	ques																						3												0
-tcur				tcur	amul			1	neck	neck							1	1									3				3	invamu1	invamu2	invamu3				misc	0
-thng				thng															1								3											misc	0
-summ				summ	char															1							3											misc	0
-grtz				grtz	char															1							3											misc	0
-scyh				scyh	pole		1	1	rarm	larm								1					6	6	6		3											weap	0
-gep1				gep1															1								3											misc	0
-gep2				gep2	gep1														1								3											misc	0
-gep3				gep3	gep2														1								3											misc	0
-gep4				gep4	gep3														1								3											misc	0
-araa				araa	char															1							3			ama								misc	0
-arab				arab	char															1							3			ass								misc	0
-arac				arac	char															1							3			bar								misc	0
-arad				arad	char															1							3			dru								misc	0
-arae				arae	char															1							3			nec								misc	0
-araf				araf	char															1							3			pal								misc	0
-arag				arag	char															1							3			sor								misc	0
-gemx				gemx	gem														1		1						3											misc	0
-qshi				qshi	shie	ct1a	1	1	rarm	larm								1					6	6	6		3		1									armo	0
-qtor				qtor	tors	ct2a	1	1	tors	tors								1					6	6	6		3		1									armo	0
-qbot				qbot	boot	ct1a	1	1	feet	feet								1					4	4	4		3		1									armo	0
-qglv				qglv	glov	ct1a	1	1	glov	glov								1					4	4	4		3		1									armo	0
-qblt				qblt	belt	ct1a	1	1	belt	belt								1					2	2	2		3		1									armo	0
-qscp				qscp	scep	ct1w	1	1	rarm	larm								1					6	6	6		2											weap	0
-qwnd				qwnd	wand	ct1w	1	1	rarm	larm								1					6	6	6		2			nec								weap	0
-qstf				qstf	staf	ct2w	1	1	rarm	larm								1					6	6	6		2											weap	0
-qbow				qbow	bow	ct2w		1	rarm	larm	bowq							1					6	6	6	1	3											weap	0
-qaxe				qaxe	axe	ct1w	1	1	rarm	larm								1					6	6	6		3											weap	0
-qclb				qclb	club	ct1w	1	1	rarm	larm								1					6	6	6		3											weap	0
-qswd				qswd	swor	ct1w	1	1	rarm	larm								1					6	6	6		3											weap	0
-qham				qham	hamm		1	1	rarm	larm								1					6	6	6		3											weap	0
-qknf				qknf	knif	ct1w	1	1	rarm	larm								1					6	6	6		3											weap	0
-qspe				qspe	spea	ct2w	1	1	rarm	larm								1					6	6	6		3											weap	0
-qpol				qpol	pole	ct2w	1	1	rarm	larm								1					6	6	6		3											weap	0
-qxbw				qxbw	xbow	ct2w	1	1	rarm	larm	xboq							1					6	6	6		3											weap	0
-qmac				qmac	mace	ct1w	1	1	rarm	larm								1					6	6	6		3											weap	0
-qhlm				qhlm	helm	ct1a	1	1	head	head								1					4	4	4		3		1									armo	0
-qtkn				qtkn	tkni	ct1w	1	1	rarm	larm			1	1	1	1		1					6	6	6		3											misc	0
-qtax				qtax	taxe	ct1w	1	1	rarm	larm			1	1	1	1		1					6	6	6		3											misc	0
-qjvn				qjvn	jave	ct1w	1	1	rarm	larm			1	1	1	1		1					6	6	6		3											misc	0
-qcic				qcic	circ	ct1a	1	1	head	head								1					4	4	4		3		1									armo	0
-qh2h				qh2h	h2h	ct1w	1	1	rarm	larm								1					6	6	6		2			ass								weap	0
-qorb				qorb	orb	ct1w	1	1	rarm	larm								1					3	3	3		2			sor								weap	0
-qhed				qhed	head	ct1a	1	1	rarm	larm								1					4	4	4		2			nec								armo	0
-qaur				qaur	ashd	ct1a	1	1	rarm	larm								1					6	6	6		2			pal								armo	0
-qphm				qphm	phlm	ct1a	1	1	head	head								1					4	4	4		2			bar								armo	0
-qplt				qplt	pelt	ct1a	1	1	head	head								1					4	4	4		2			dru								armo	0
-qabw				qabw	abow	ct2w		1	rarm	larm	bowq							1					6	6	6	1	2			ama								weap	0
-qasp				qasp	aspe	ct2w	1	1	rarm	larm								1					6	6	6		2			ama								weap	0
-qajv				qajv	ajav	ct1w	1	1	rarm	larm			1	1	1	1		1					3	3	3		2			ama								misc	0
-qcrs				qcrs	crsd	ct1w	1	1	rarm	larm								1					6	6	6		3											weap	0
-qbon				qbon	qshi		1	1	rarm	larm								1					6	6	6		3		1									armo	0
-qbhe				qbhe	qhlm		1	1	head	head								1					4	4	4		3		1									armo	0
-qcrn				qcrn	qbhe		1	1	head	head								1					6	6	6		3		1									armo	0
-qscy				qscy	scyh	ct2w	1	1	rarm	larm								1					6	6	6		3											weap	0
-azhm				azhm	helm		1	1	head	head								1					6	6	6		2		1	ama								armo	0
-szhm				szhm	azhm	ct1a	1	1	head	head								1					4	4	4		2		1	ama								armo	0
-azsd				azsd	shie		1	1	rarm	larm								1					6	6	6		2		1	ama								armo	0
-sasz				sasz	azsd	ct1a	1	1	rarm	larm								1					6	6	6		2		1	ama								armo	0
-nagi				nagi	mele	assn	1	1	rarm	larm								1					6	6	6		2			ass								weap	0
-snag				snag	nagi	ct2w	1	1	rarm	larm								1					6	6	6		2			ass								weap	0
-ishd				ishd	shie		1	1	rarm	larm								1					6	6	6		2		1	ass								armo	0
-sisd				sisd	ishd	ct1a	1	1	rarm	larm								1					6	6	6		2		1	ass								armo	0
-baxe				baxe	axe	barb	1	1	rarm	larm								1					6	6	6		2			bar								weap	0
-sbax				sbax	baxe	ct1w	1	1	rarm	larm								1					6	6	6		2			bar								weap	0
-basd				basd	shie	barb	1	1	rarm	larm								1					6	6	6		2		1	bar								armo	0
-saba				saba	basd	ct1a	1	1	rarm	larm								1					6	6	6		2		1	bar								armo	0
-bswd				bswd	swor	barb	1	1	rarm	larm								1					6	6	6		2			bar								weap	0
-sbsd				sbsd	bswd	ct1w	1	1	rarm	larm								1					6	6	6		2			bar								weap	0
-dbow				dbow	bow	dbox		1	rarm	larm	bowq							1					6	6	6	1	2			dru								weap	0
-sdbw				sdbw	dbow	ct2w		1	rarm	larm	bowq							1					6	6	6	1	2			dru								weap	0
-dstf				dstf	staf	dbox	1	1	rarm	larm								1					6	6	6		2			dru								weap	0
-sdst				sdst	dstf	ct2w	1	1	rarm	larm								1					6	6	6		2			dru								weap	0
-nknf				nknf	knif	nbox	1	1	rarm	larm								1					6	6	6		2			nec								weap	0
-snkf				snkf	nknf	ct1w	1	1	rarm	larm								1					6	6	6		2			nec								weap	0
-nscy				nscy	scyh	nbox	1	1	rarm	larm								1					6	6	6		2			nec								weap	0
-snsy				snsy	nscy	ct2w	1	1	rarm	larm								1					6	6	6		2			nec								weap	0
-nstf				nstf	staf	nbox	1	1	rarm	larm								1					6	6	6		2			nec								weap	0
-snst				snst	nstf	ct2w	1	1	rarm	larm								1					6	6	6		2			nec								weap	0
-nxbw				nxbw	xbow	nbox	1	1	rarm	larm	xboq							1					6	6	6		2			nec								weap	0
-snxb				snxb	nxbw	ct2w	1	1	rarm	larm	xboq							1					6	6	6		2			nec								weap	0
-pclb				pclb	club	pbox	1	1	rarm	larm								1					6	6	6		2			pal								weap	0
-spcb				spcb	pclb	ct1w	1	1	rarm	larm								1					6	6	6		2			pal								weap	0
-pham				pham	hamm	pbox	1	1	rarm	larm								1					6	6	6		2			pal								weap	0
-sphm				sphm	pham	ct2w	1	1	rarm	larm								1					6	6	6		2			pal								weap	0
-pzhm				pzhm	helm		1	1	head	head								1					4	4	4		2		1	pal								armo	0
-sphz				sphz	pzhm	ct1a	1	1	head	head								1					4	4	4		2		1	pal								armo	0
-pmac				pmac	mace	pbox	1	1	rarm	larm								1					6	6	6		2			pal								weap	0
-spmc				spmc	pmac	ct1w	1	1	rarm	larm								1					6	6	6		2			pal								weap	0
-pspe				pspe	spea	pbox	1	1	rarm	larm								1					6	6	6		2			pal								weap	0
-spsp				spsp	pspe	ct2w	1	1	rarm	larm								1					6	6	6		2			pal								weap	0
-scrd				scrd	mele	sbox	1	1	rarm	larm								1					6	6	6		3			sor								weap	0
-sscd				sscd	scrd	ct1w	1	1	rarm	larm								1					6	6	6		3			sor								weap	0
-stor				stor	tors		1	1	tors	tors								1					6	6	6		2		1	sor								armo	0
-sstr				sstr	stor	ct2a	1	1	tors	tors								1					6	6	6		2		1	sor								armo	0
-waah				waah																							3											misc	0
-asaa				asaa															1								3											misc	0
-qamu				qamu	amul			1	neck	neck							1	1									3		1		3	invamu1	invamu2	invamu3				misc	0
-qrin				qrin	ring			1	rrin	lrin							1	1									3		1		5	invrin1	invrin2	invrin3	invrin4	invrin5		misc	0
-qmsl				qmsl	misl												1	1									3												0
-qaqv				qaqv	qmsl			1	rarm	larm		bow		1		1	1	1									3											misc	0
-qcqv				qcqv	qmsl			1	rarm	larm		xbow		1		1	1	1									3											misc	0
-2hbs				2hbs	bswd	2hsd	1	1	rarm	larm								1					6	6	6		2			bar								weap	0
-2hbx				2hbx	baxe	2hax	1	1	rarm	larm								1					6	6	6		2			bar								weap	0
-2hax				2hax	axe		1	1	rarm	larm								1					6	6	6		2											weap	0
-2hsd				2hsd	swor		1	1	rarm	larm								1					6	6	6		2											weap	0
-s2hb				s2hb	2hbs	ct2w	1	1	rarm	larm								1					6	6	6		2			bar								weap	0
-s2hx				s2hx	2hbx	ct2w	1	1	rarm	larm								1					6	6	6		2			bar								weap	0
-s2ha				s2ha	2hax	ct2w	1	1	rarm	larm								1					6	6	6		2											weap	0
-s2hd				s2hd	2hsd	ct2w	1	1	rarm	larm								1					6	6	6		2											weap	0
-gemq				gemq	gem														1		1						3											misc	0
-gemp				gemp	gem														1		1						3											misc	0
-gemo				gemo	gem														1		1						3											misc	0
-geml				geml	gem														1		1						3											misc	0
-kill				kill	misc			1	rrin	lrin							1	1									3		1		5	invrin1	invrin2	invrin3	invrin4	invrin5		misc	0
-tier				tier																							3												0
-ct1a				ct1a	ssgl																						3												0
-ct2a				ct2a	ssgl																						3												0
-ct1w				ct1w	ssgl																						3												0
-ct2w				ct2w	ssgl																						3												0
-#bow				#bow	bow			1	rarm	larm	bowq							1								1	2											weap	0
-dcht				dcht																							3												0
-ssgl				ssgl																							3												0
-asa#				asa#															1								3											misc	0
-####				####	mele			1	rarm									1																				weap	0
-dbox				dbox	fbox																						3												0
-nbox				nbox	fbox																						3												0
-pbox				pbox	fbox																						3												0
-sbox				sbox	fbox																						3												0
-xrun				xrun	rune	gem													1		1						3											misc	0
-fbox				fbox																							3												0
-phbx				phbx													1	1									3												0
-prsh				prsh	thng														1								3											misc	0
-sh10				sh10	prsh														1								3											misc	0
-####				####	mele			1	rarm									1																					0
-###1				###1	ring			1	rrin	lrin								1													2	lab_rn1	lab_rn2						0
-###2				###2	amul			1	neck	neck								1																					0
-###4				###4	qshi			1	rarm	larm								1																					0
-###3				###3	qtor			1	tors	tors								1																					0
-###8				###8	qbot			1	feet	feet								1																					0
-###7				###7	qglv			1	glov	glov								1																					0
-###6				###6	qblt			1	belt	belt								1																					0
-###5				###5	qhlm			1	head	head								1																					0
-shco				shco	thng												1	1									3												0
+ItemType	subdivide	makepage	Code	Equiv1	Equiv2	Repair	Body	BodyLoc1	BodyLoc2	Shoots	Quiver	Throwable	Reload	ReEquip	AutoStack	Magic	Rare	Normal	Charm	Gem	Beltable	MaxSock1	MaxSock25	MaxSock40	TreasureClass	Rarity	StaffMods	CostFormula	Class	VarInvGfx	InvGfx1	InvGfx2	InvGfx3	InvGfx4	InvGfx5	InvGfx6	StorePage	*eol
+    			    																							3												0
+    			    																							3												0
+shie			shie	shld		1	1	rarm	larm								1					6	6	6		3		1									armo	0
+tors			tors	armo		1	1	tors	tors								1					6	6	6		3		1									armo	0
+gold			gold	misc														1								3												0
+bowq			bowq	misl			1	rarm	larm		bow		1		1		1									3		1									misc	0
+xboq			xboq	misl			1	rarm	larm		xbow		1		1		1									3		1									misc	0
+play			play	misc														1	1							3											misc	0
+herb			herb	misc																						3											misc	0
+poti			poti	misc														1			1					3											misc	0
+ring			ring	misc	dcht		1	rrin	lrin							1	1									3		1		5	invrin1	invrin2	invrin3	invrin4	invrin5		misc	0
+elix			elix	misc																	1					3											misc	0
+amul			amul	misc	dcht		1	neck	neck							1	1									3		1		3	invamu1	invamu2	invamu3				misc	0
+char			char	misc															1							3				3	invch1	invch4	invch7				misc	0
+    			    																							3												0
+boot			boot	armo		1	1	feet	feet								1					4	4	4		3		1									armo	0
+glov			glov	armo		1	1	glov	glov								1					4	4	4		3		1									armo	0
+    			    																							3												0
+book			book	misc														1								3											misc	0
+belt			belt	armo		1	1	belt	belt								1					2	2	2		3		1									armo	0
+gem 			gem 	sock														1		1						3											misc	0
+torc			torc	misc			1											1								3											misc	0
+scro			scro	misc														1			1					3											misc	0
+    			    																							3												0
+scep			scep	rod	mace	1	1	rarm	larm								1					6	6	6		2											weap	0
+wand			wand	rod		1	1	rarm	larm								1					6	6	6		2			nec								weap	0
+staf			staf	rod		1	1	rarm	larm								1					6	6	6		2											weap	0
+bow 			bow 	miss			1	rarm	larm	bowq							1					6	6	6	1	3											weap	0
+axe 			axe 	mele	dbox	1	1	rarm	larm								1					6	6	6		3											weap	0
+club			club	blun	dbox	1	1	rarm	larm								1					6	6	6		3											weap	0
+swor			swor	mele		1	1	rarm	larm								1					6	6	6		3											weap	0
+hamm			hamm	blun		1	1	rarm	larm								1					6	6	6		3											weap	0
+knif			knif	mele	dbox	1	1	rarm	larm								1					6	6	6		3											weap	0
+spea			spea	mele		1	1	rarm	larm								1					6	6	6		3											weap	0
+pole			pole	mele		1	1	rarm	larm								1					6	6	6		3											weap	0
+xbow			xbow	miss		1	1	rarm	larm	xboq							1					6	6	6		3											weap	0
+mace			mace	blun		1	1	rarm	larm								1					6	6	6		3											weap	0
+Helm			helm	armo		1	1	head	head			0	0	0	0		1	0	0	0	0	6	6	6	0	3		1		0							armo	0
+tpot			tpot	thro			1	rarm	larm			1	1	1	1			1								3											misc	0
+ques			ques																							3												0
+body			body	misc														1								3		2									misc	0
+key 			key 	misc											1			1								3											misc	0
+tkni			tkni	comb	knif	1	1	rarm	larm			1	1	1	1		1					6	6	6		3											misc	0
+taxe			taxe	comb	axe	1	1	rarm	larm			1	1	1	1		1					6	6	6		3											misc	0
+jave			jave	comb	spea	1	1	rarm	larm			1	1	1	1		1					6	6	6		3											misc	0
+weap			weap	dcht													1								1	3												0
+mele			mele	weap													1								1	3												0
+miss			miss	weap													1									3												0
+thro			thro	weap								1					1									3												0
+comb			comb	mele	thro							1					1									3												0
+armo			armo	dcht													1								1	3												0
+shld			shld	armo	seco												1									3												0
+misc			misc														1									3												0
+sock			sock	misc																						3												0
+seco			seco														1									3												0
+rod 			rod 	blun													1									3												0
+misl			misl	misc	dcht																	1	1	1		3												0
+blun			blun	mele													1									3												0
+Expansion																																						0
+jewl			jewl	sock	dcht											1	1			1						3				6	invjw1	invjw2	invjw3	invjw4	invjw5	invjw6	misc	0
+clas			clas														1									3												0
+amaz			amaz	clas	fbox												1									2			ama									0
+barb			barb	clas	fbox												1									2			bar									0
+necr			necr	clas													1									2			nec									0
+pala			pala	clas													1									2			pal									0
+sorc			sorc	clas	sbox												1									2			sor									0
+assn			assn	clas	fbox												1									2			ass									0
+drui			drui	clas													1									2			dru									0
+h2h 			h2h 	mele	assn	1	1	rarm	larm								1					6	6	6		2			ass								weap	0
+orb 			orb 	mele	sorc	1	1	rarm	larm								1					6	6	6		2			sor								weap	0
+head			head	shie	necr	1	1	rarm	larm								1					6	6	6		2			nec								armo	0
+ashd			ashd	shie	pala	1	1	rarm	larm								1					6	6	6		2			pal								armo	0
+phlm			phlm	helm	barb	1	1	head	head								1					6	6	6		2			bar								armo	0
+pelt			pelt	helm	drui	1	1	head	head								1					6	6	6		2			dru								armo	0
+cloa			cloa	tors	assn	1	1	tors	tors								1									2			ass								armo	0
+rune			rune	sock														1		1						3											misc	0
+circ			circ	helm		1	1	head	head								1					6	6	6		3		1									armo	0
+hpot			hpot	poti														1			1					3											misc	0
+mpot			mpot	poti														1			1					3											misc	0
+rpot			rpot	hpot	mpot													1			1					3											misc	0
+spot			spot	poti														1			1					3											misc	0
+apot			apot	poti														1			1					3											misc	0
+wpot			wpot	poti														1			1					3											misc	0
+scha			scha	char															1							3				3	invch1	invch4	invch7				misc	0
+mcha			mcha	char															1							3				3	invch2	invch5	invch8				misc	0
+lcha			lcha	char															1							3				3	invch3	invch6	invch9				misc	0
+abow			abow	bow	amaz		1	rarm	larm	bowq							1					6	6	6	1	2			ama								weap	0
+aspe			aspe	spea	amaz	1	1	rarm	larm								1					6	6	6		2			ama								weap	0
+ajav			ajav	jave	amaz	1	1	rarm	larm			1	1	1	1		1					3	3	3		2			ama								misc	0
+h2h2			h2h2	h2h		1	1	rarm	larm								1					6	6	6		2	ass		ass								weap	0
+mboq			mboq	bowq			1	rarm	larm		bow		1			1	1									3											misc	0
+mxbq			mxbq	xboq			1	rarm	larm		xbow		1			1	1									3											misc	0
+gem0			gem0	gem														1		1						3											misc	0
+gem1			gem1	gem														1		1						3											misc	0
+gem2			gem2	gem														1		1						3											misc	0
+gem3			gem3	gem														1		1						3											misc	0
+gem4			gem4	gem														1		1						3											misc	0
+gema			gema	gem														1		1						3											misc	0
+gemd			gemd	gem														1		1						3											misc	0
+geme			geme	gem														1		1						3											misc	0
+gemr			gemr	gem														1		1						3											misc	0
+gems			gems	gem														1		1						3											misc	0
+gemt			gemt	gem														1		1						3											misc	0
+gemz			gemz	gem														1		1						3											misc	0
+crsd			crsd	swor		1	1	rarm	larm								1					6	6	6		3											weap	0
+bshi			bshi	shie		1	1	rarm	larm								1					6	6	6		3		1									armo	0
+bhlm			bhlm	helm		1	1	head	head								1					4	4	4		3		1									armo	0
+crow			crow	helm		1	1	head	head								1					4	4	4		3		1									armo	0
+woot			woot	ques																						3												0
+tcur			tcur	amul			1	neck	neck							1	1									3				3	invamu1	invamu2	invamu3				misc	0
+thng			thng															1								3											misc	0
+summ			summ	char															1							3											misc	0
+grtz			grtz	char															1							3											misc	0
+scyh			scyh	pole		1	1	rarm	larm								1					6	6	6		3											weap	0
+gep1			gep1															1								3											misc	0
+gep2			gep2	gep1														1								3											misc	0
+gep3			gep3	gep2														1								3											misc	0
+gep4			gep4	gep3														1								3											misc	0
+araa			araa	char															1							3			ama								misc	0
+arab			arab	char															1							3			ass								misc	0
+arac			arac	char															1							3			bar								misc	0
+arad			arad	char															1							3			dru								misc	0
+arae			arae	char															1							3			nec								misc	0
+araf			araf	char															1							3			pal								misc	0
+arag			arag	char															1							3			sor								misc	0
+gemx			gemx	gem														1		1						3											misc	0
+qshi			qshi	shie	ct1a	1	1	rarm	larm								1					6	6	6		3		1									armo	0
+qtor			qtor	tors	ct2a	1	1	tors	tors								1					6	6	6		3		1									armo	0
+qbot			qbot	boot	ct1a	1	1	feet	feet								1					4	4	4		3		1									armo	0
+qglv			qglv	glov	ct1a	1	1	glov	glov								1					4	4	4		3		1									armo	0
+qblt			qblt	belt	ct1a	1	1	belt	belt								1					2	2	2		3		1									armo	0
+qscp			qscp	scep	ct1w	1	1	rarm	larm								1					6	6	6		2											weap	0
+qwnd			qwnd	wand	ct1w	1	1	rarm	larm								1					6	6	6		2			nec								weap	0
+qstf			qstf	staf	ct2w	1	1	rarm	larm								1					6	6	6		2											weap	0
+qbow			qbow	bow	ct2w		1	rarm	larm	bowq							1					6	6	6	1	3											weap	0
+qaxe			qaxe	axe	ct1w	1	1	rarm	larm								1					6	6	6		3											weap	0
+qclb			qclb	club	ct1w	1	1	rarm	larm								1					6	6	6		3											weap	0
+qswd			qswd	swor	ct1w	1	1	rarm	larm								1					6	6	6		3											weap	0
+qham			qham	hamm		1	1	rarm	larm								1					6	6	6		3											weap	0
+qknf			qknf	knif	ct1w	1	1	rarm	larm								1					6	6	6		3											weap	0
+qspe			qspe	spea	ct2w	1	1	rarm	larm								1					6	6	6		3											weap	0
+qpol			qpol	pole	ct2w	1	1	rarm	larm								1					6	6	6		3											weap	0
+qxbw			qxbw	xbow	ct2w	1	1	rarm	larm	xboq							1					6	6	6		3											weap	0
+qmac			qmac	mace	ct1w	1	1	rarm	larm								1					6	6	6		3											weap	0
+qhlm			qhlm	helm	ct1a	1	1	head	head								1					4	4	4		3		1									armo	0
+qtkn			qtkn	tkni	ct1w	1	1	rarm	larm			1	1	1	1		1					6	6	6		3											misc	0
+qtax			qtax	taxe	ct1w	1	1	rarm	larm			1	1	1	1		1					6	6	6		3											misc	0
+qjvn			qjvn	jave	ct1w	1	1	rarm	larm			1	1	1	1		1					6	6	6		3											misc	0
+qcic			qcic	circ	ct1a	1	1	head	head								1					4	4	4		3		1									armo	0
+qh2h			qh2h	h2h	ct1w	1	1	rarm	larm								1					6	6	6		2			ass								weap	0
+qorb			qorb	orb	ct1w	1	1	rarm	larm								1					3	3	3		2			sor								weap	0
+qhed			qhed	head	ct1a	1	1	rarm	larm								1					4	4	4		2			nec								armo	0
+qaur			qaur	ashd	ct1a	1	1	rarm	larm								1					6	6	6		2			pal								armo	0
+qphm			qphm	phlm	ct1a	1	1	head	head								1					4	4	4		2			bar								armo	0
+qplt			qplt	pelt	ct1a	1	1	head	head								1					4	4	4		2			dru								armo	0
+qabw			qabw	abow	ct2w		1	rarm	larm	bowq							1					6	6	6	1	2			ama								weap	0
+qasp			qasp	aspe	ct2w	1	1	rarm	larm								1					6	6	6		2			ama								weap	0
+qajv			qajv	ajav	ct1w	1	1	rarm	larm			1	1	1	1		1					3	3	3		2			ama								misc	0
+qcrs			qcrs	crsd	ct1w	1	1	rarm	larm								1					6	6	6		3											weap	0
+qbon			qbon	qshi		1	1	rarm	larm								1					6	6	6		3		1									armo	0
+qbhe			qbhe	qhlm		1	1	head	head								1					4	4	4		3		1									armo	0
+qcrn			qcrn	qbhe		1	1	head	head								1					6	6	6		3		1									armo	0
+qscy			qscy	scyh	ct2w	1	1	rarm	larm								1					6	6	6		3											weap	0
+azhm			azhm	helm		1	1	head	head								1					6	6	6		2		1	ama								armo	0
+szhm			szhm	azhm	ct1a	1	1	head	head								1					4	4	4		2		1	ama								armo	0
+azsd			azsd	shie		1	1	rarm	larm								1					6	6	6		2		1	ama								armo	0
+sasz			sasz	azsd	ct1a	1	1	rarm	larm								1					6	6	6		2		1	ama								armo	0
+nagi			nagi	mele	assn	1	1	rarm	larm								1					6	6	6		2			ass								weap	0
+snag			snag	nagi	ct2w	1	1	rarm	larm								1					6	6	6		2			ass								weap	0
+ishd			ishd	shie		1	1	rarm	larm								1					6	6	6		2		1	ass								armo	0
+sisd			sisd	ishd	ct1a	1	1	rarm	larm								1					6	6	6		2		1	ass								armo	0
+baxe			baxe	axe	barb	1	1	rarm	larm								1					6	6	6		2			bar								weap	0
+sbax			sbax	baxe	ct1w	1	1	rarm	larm								1					6	6	6		2			bar								weap	0
+basd			basd	shie	barb	1	1	rarm	larm								1					6	6	6		2		1	bar								armo	0
+saba			saba	basd	ct1a	1	1	rarm	larm								1					6	6	6		2		1	bar								armo	0
+bswd			bswd	swor	barb	1	1	rarm	larm								1					6	6	6		2			bar								weap	0
+sbsd			sbsd	bswd	ct1w	1	1	rarm	larm								1					6	6	6		2			bar								weap	0
+dbow			dbow	bow	dbox		1	rarm	larm	bowq							1					6	6	6	1	2			dru								weap	0
+sdbw			sdbw	dbow	ct2w		1	rarm	larm	bowq							1					6	6	6	1	2			dru								weap	0
+dstf			dstf	staf	dbox	1	1	rarm	larm								1					6	6	6		2			dru								weap	0
+sdst			sdst	dstf	ct2w	1	1	rarm	larm								1					6	6	6		2			dru								weap	0
+nknf			nknf	knif	nbox	1	1	rarm	larm								1					6	6	6		2			nec								weap	0
+snkf			snkf	nknf	ct1w	1	1	rarm	larm								1					6	6	6		2			nec								weap	0
+nscy			nscy	scyh	nbox	1	1	rarm	larm								1					6	6	6		2			nec								weap	0
+snsy			snsy	nscy	ct2w	1	1	rarm	larm								1					6	6	6		2			nec								weap	0
+nstf			nstf	staf	nbox	1	1	rarm	larm								1					6	6	6		2			nec								weap	0
+snst			snst	nstf	ct2w	1	1	rarm	larm								1					6	6	6		2			nec								weap	0
+nxbw			nxbw	xbow	nbox	1	1	rarm	larm	xboq							1					6	6	6		2			nec								weap	0
+snxb			snxb	nxbw	ct2w	1	1	rarm	larm	xboq							1					6	6	6		2			nec								weap	0
+pclb			pclb	club	pbox	1	1	rarm	larm								1					6	6	6		2			pal								weap	0
+spcb			spcb	pclb	ct1w	1	1	rarm	larm								1					6	6	6		2			pal								weap	0
+pham			pham	hamm	pbox	1	1	rarm	larm								1					6	6	6		2			pal								weap	0
+sphm			sphm	pham	ct2w	1	1	rarm	larm								1					6	6	6		2			pal								weap	0
+pzhm			pzhm	helm		1	1	head	head								1					4	4	4		2		1	pal								armo	0
+sphz			sphz	pzhm	ct1a	1	1	head	head								1					4	4	4		2		1	pal								armo	0
+pmac			pmac	mace	pbox	1	1	rarm	larm								1					6	6	6		2			pal								weap	0
+spmc			spmc	pmac	ct1w	1	1	rarm	larm								1					6	6	6		2			pal								weap	0
+pspe			pspe	spea	pbox	1	1	rarm	larm								1					6	6	6		2			pal								weap	0
+spsp			spsp	pspe	ct2w	1	1	rarm	larm								1					6	6	6		2			pal								weap	0
+scrd			scrd	mele	sbox	1	1	rarm	larm								1					6	6	6		3			sor								weap	0
+sscd			sscd	scrd	ct1w	1	1	rarm	larm								1					6	6	6		3			sor								weap	0
+stor			stor	tors		1	1	tors	tors								1					6	6	6		2		1	sor								armo	0
+sstr			sstr	stor	ct2a	1	1	tors	tors								1					6	6	6		2		1	sor								armo	0
+waah			waah																							3											misc	0
+asaa			asaa															1								3											misc	0
+qamu			qamu	amul			1	neck	neck							1	1									3		1		3	invamu1	invamu2	invamu3				misc	0
+qrin			qrin	ring			1	rrin	lrin							1	1									3		1		5	invrin1	invrin2	invrin3	invrin4	invrin5		misc	0
+qmsl			qmsl	misl												1	1									3												0
+qaqv			qaqv	qmsl			1	rarm	larm		bow		1		1	1	1									3											misc	0
+qcqv			qcqv	qmsl			1	rarm	larm		xbow		1		1	1	1									3											misc	0
+2hbs			2hbs	bswd	2hsd	1	1	rarm	larm								1					6	6	6		2			bar								weap	0
+2hbx			2hbx	baxe	2hax	1	1	rarm	larm								1					6	6	6		2			bar								weap	0
+2hax			2hax	axe		1	1	rarm	larm								1					6	6	6		2											weap	0
+2hsd			2hsd	swor		1	1	rarm	larm								1					6	6	6		2											weap	0
+s2hb			s2hb	2hbs	ct2w	1	1	rarm	larm								1					6	6	6		2			bar								weap	0
+s2hx			s2hx	2hbx	ct2w	1	1	rarm	larm								1					6	6	6		2			bar								weap	0
+s2ha			s2ha	2hax	ct2w	1	1	rarm	larm								1					6	6	6		2											weap	0
+s2hd			s2hd	2hsd	ct2w	1	1	rarm	larm								1					6	6	6		2											weap	0
+gemq			gemq	gem														1		1						3											misc	0
+gemp			gemp	gem														1		1						3											misc	0
+gemo			gemo	gem														1		1						3											misc	0
+geml			geml	gem														1		1						3											misc	0
+kill			kill	misc			1	rrin	lrin							1	1									3		1		5	invrin1	invrin2	invrin3	invrin4	invrin5		misc	0
+tier			tier																							3												0
+ct1a			ct1a	ssgl																						3												0
+ct2a			ct2a	ssgl																						3												0
+ct1w			ct1w	ssgl																						3												0
+ct2w			ct2w	ssgl																						3												0
+#bow			#bow	bow			1	rarm	larm	bowq							1								1	2											weap	0
+dcht			dcht																							3												0
+ssgl			ssgl																							3												0
+asa#			asa#															1								3											misc	0
+####			####	mele			1	rarm									1																				weap	0
+dbox			dbox	fbox																						3												0
+nbox			nbox	fbox																						3												0
+pbox			pbox	fbox																						3												0
+sbox			sbox	fbox																						3												0
+xrun			xrun	rune	gem													1		1						3											misc	0
+fbox			fbox																							3												0
+phbx			phbx													1	1									3												0
+prsh			prsh	thng														1								3											misc	0
+sh10			sh10	prsh														1								3											misc	0
+####			####	mele			1	rarm									1																					0
+###1			###1	ring			1	rrin	lrin								1													2	lab_rn1	lab_rn2						0
+###2			###2	amul			1	neck	neck								1																					0
+###4			###4	qshi			1	rarm	larm								1																					0
+###3			###3	qtor			1	tors	tors								1																					0
+###8			###8	qbot			1	feet	feet								1																					0
+###7			###7	qglv			1	glov	glov								1																					0
+###6			###6	qblt			1	belt	belt								1																					0
+###5			###5	qhlm			1	head	head								1																					0
+shco			shco	thng												1	1									3												0
+Generic Rune			rung			0	0					0	0	0	1			1	0	0	0	0	0	0	0	3		0		0								0
+El Rune Generic			r01g	rung		0	0					0	0	0	1			1	0	0	0	0	0	0	0	3		0		0								0
+Eld Rune Generic			r02g	rung		0	0					0	0	0	1			1	0	0	0	0	0	0	0	3		0		0								0
+Tir Rune Generic			r03g	rung		0	0					0	0	0	1			1	0	0	0	0	0	0	0	3		0		0								0
+Nef Rune Generic			r04g	rung		0	0					0	0	0	1			1	0	0	0	0	0	0	0	3		0		0								0
+Eth Rune Generic			r05g	rung		0	0					0	0	0	1			1	0	0	0	0	0	0	0	3		0		0								0
+Ith Rune Generic			r06g	rung		0	0					0	0	0	1			1	0	0	0	0	0	0	0	3		0		0								0
+Tal Rune Generic			r07g	rung		0	0					0	0	0	1			1	0	0	0	0	0	0	0	3		0		0								0
+Ral Rune Generic			r08g	rung		0	0					0	0	0	1			1	0	0	0	0	0	0	0	3		0		0								0
+Ort Rune Generic			r09g	rung		0	0					0	0	0	1			1	0	0	0	0	0	0	0	3		0		0								0
+Thul Rune Generic			r10g	rung		0	0					0	0	0	1			1	0	0	0	0	0	0	0	3		0		0								0
+Amn Rune Generic			r11g	rung		0	0					0	0	0	1			1	0	0	0	0	0	0	0	3		0		0								0
+Sol Rune Generic			r12g	rung		0	0					0	0	0	1			1	0	0	0	0	0	0	0	3		0		0								0
+Shael Rune Generic			r13g	rung		0	0					0	0	0	1			1	0	0	0	0	0	0	0	3		0		0								0
+Dol Rune Generic			r14g	rung		0	0					0	0	0	1			1	0	0	0	0	0	0	0	3		0		0								0
+Hel Rune Generic			r15g	rung		0	0					0	0	0	1			1	0	0	0	0	0	0	0	3		0		0								0
+Io Rune Generic			r16g	rung		0	0					0	0	0	1			1	0	0	0	0	0	0	0	3		0		0								0
+Lum Rune Generic			r17g	rung		0	0					0	0	0	1			1	0	0	0	0	0	0	0	3		0		0								0
+Ko Rune Generic			r18g	rung		0	0					0	0	0	1			1	0	0	0	0	0	0	0	3		0		0								0
+Fal Rune Generic			r19g	rung		0	0					0	0	0	1			1	0	0	0	0	0	0	0	3		0		0								0
+Lem Rune Generic			r20g	rung		0	0					0	0	0	1			1	0	0	0	0	0	0	0	3		0		0								0
+Pul Rune Generic			r21g	rung		0	0					0	0	0	1			1	0	0	0	0	0	0	0	3		0		0								0
+Um Rune Generic			r22g	rung		0	0					0	0	0	1			1	0	0	0	0	0	0	0	3		0		0								0
+Mal Rune Generic			r23g	rung		0	0					0	0	0	1			1	0	0	0	0	0	0	0	3		0		0								0
+Ist Rune Generic			r24g	rung		0	0					0	0	0	1			1	0	0	0	0	0	0	0	3		0		0								0
+Gul Rune Generic			r25g	rung		0	0					0	0	0	1			1	0	0	0	0	0	0	0	3		0		0								0
+Vex Rune Generic			r26g	rung		0	0					0	0	0	1			1	0	0	0	0	0	0	0	3		0		0								0
+Ohm Rune Generic			r27g	rung		0	0					0	0	0	1			1	0	0	0	0	0	0	0	3		0		0								0
+Lo Rune Generic			r28g	rung		0	0					0	0	0	1			1	0	0	0	0	0	0	0	3		0		0								0
+Sur Rune Generic			r29g	rung		0	0					0	0	0	1			1	0	0	0	0	0	0	0	3		0		0								0
+Ber Rune Generic			r30g	rung		0	0					0	0	0	1			1	0	0	0	0	0	0	0	3		0		0								0
+Jah Rune Generic			r31g	rung		0	0					0	0	0	1			1	0	0	0	0	0	0	0	3		0		0								0
+Cham Rune Generic			r32g	rung		0	0					0	0	0	1			1	0	0	0	0	0	0	0	3		0		0								0
+Zod Rune Generic			r33g	rung		0	0					0	0	0	1			1	0	0	0	0	0	0	0	3		0		0								0
