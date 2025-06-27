@@ -301,6 +301,73 @@ cm297	Gem Upgrade	1								3	"5$b,qty=2"	5$c						5$d																											
 cm298	Gem Upgrade	1								4	"5$b,qty=4"							5$d																																																																																							0
 cm299	Gem Upgrade	1								3	"5$c,qty=2"	5$d						5$e																																																																																							0
 cm300	Gem Upgrade	1								4	"5$c,qty=4"							5$e																																																																																							0
+dev create rune	Convert Rune into Stacked	1			100					1	hpot							r12s			100																																																																																				0
+r01	Convert Rune into Stacked	1			100					1	r01							r01s			100																																																																																				0
+r02	Convert Rune into Stacked	1			100					1	r02							r02s			100																																																																																				0
+r03	Convert Rune into Stacked	1			100					1	r03							r03s			100																																																																																				0
+r04	Convert Rune into Stacked	1			100					1	r04							r04s			100																																																																																				0
+r05	Convert Rune into Stacked	1			100					1	r05							r05s			100																																																																																				0
+r06	Convert Rune into Stacked	1			100					1	r06							r06s			100																																																																																				0
+r07	Convert Rune into Stacked	1			100					1	r07							r07s			100																																																																																				0
+r08	Convert Rune into Stacked	1			100					1	r08							r08s			100																																																																																				0
+r09	Convert Rune into Stacked	1			100					1	r09							r09s			100																																																																																				0
+r10	Convert Rune into Stacked	1			100					1	r10							r10s			100																																																																																				0
+r11	Convert Rune into Stacked	1			100					1	r11							r11s			100																																																																																				0
+r12	Convert Rune into Stacked	1			100					1	r12							r12s			100																																																																																				0
+r13	Convert Rune into Stacked	1			100					1	r13							r13s			100																																																																																				0
+r14	Convert Rune into Stacked	1			100					1	r14							r14s			100																																																																																				0
+r15	Convert Rune into Stacked	1			100					1	r15							r15s			100																																																																																				0
+r16	Convert Rune into Stacked	1			100					1	r16							r16s			100																																																																																				0
+r17	Convert Rune into Stacked	1			100					1	r17							r17s			100																																																																																				0
+r18	Convert Rune into Stacked	1			100					1	r18							r18s			100																																																																																				0
+r19	Convert Rune into Stacked	1			100					1	r19							r19s			100																																																																																				0
+r20	Convert Rune into Stacked	1			100					1	r20							r20s			100																																																																																				0
+r21	Convert Rune into Stacked	1			100					1	r21							r21s			100																																																																																				0
+r22	Convert Rune into Stacked	1			100					1	r22							r22s			100																																																																																				0
+r23	Convert Rune into Stacked	1			100					1	r23							r23s			100																																																																																				0
+r24	Convert Rune into Stacked	1			100					1	r24							r24s			100																																																																																				0
+r25	Convert Rune into Stacked	1			100					1	r25							r25s			100																																																																																				0
+r26	Convert Rune into Stacked	1			100					1	r26							r26s			100																																																																																				0
+r27	Convert Rune into Stacked	1			100					1	r27							r27s			100																																																																																				0
+r28	Convert Rune into Stacked	1			100					1	r28							r28s			100																																																																																				0
+r29	Convert Rune into Stacked	1			100					1	r29							r29s			100																																																																																				0
+r30	Convert Rune into Stacked	1			100					1	r30							r30s			100																																																																																				0
+r31	Convert Rune into Stacked	1			100					1	r31							r31s			100																																																																																				0
+r32	Convert Rune into Stacked	1			100					1	r32							r32s			100																																																																																				0
+r33	Convert Rune into Stacked	1			100					1	r33							r33s			100																																																																																				0
+r01s	Unstack Rune	1			100					1	"r01s,qty=1"							r01			100																																																																																				0
+r02s	Unstack Rune	1			100					1	"r02s,qty=1"							r02			100																																																																																				0
+r03s	Unstack Rune	1			100					1	"r03s,qty=1"							r03			100																																																																																				0
+r04s	Unstack Rune	1			100					1	"r04s,qty=1"							r04			100																																																																																				0
+r05s	Unstack Rune	1			100					1	"r05s,qty=1"							r05			100																																																																																				0
+r06s	Unstack Rune	1			100					1	"r06s,qty=1"							r06			100																																																																																				0
+r07s	Unstack Rune	1			100					1	"r07s,qty=1"							r07			100																																																																																				0
+r08s	Unstack Rune	1			100					1	"r08s,qty=1"							r08			100																																																																																				0
+r09s	Unstack Rune	1			100					1	"r09s,qty=1"							r09			100																																																																																				0
+r10s	Unstack Rune	1			100					1	"r10s,qty=1"							r10			100																																																																																				0
+r11s	Unstack Rune	1			100					1	"r11s,qty=1"							r11			100																																																																																				0
+r12s	Unstack Rune	1			100					1	"r12s,qty=1"							r12			100																																																																																				0
+r13s	Unstack Rune	1			100					1	"r13s,qty=1"							r13			100																																																																																				0
+r14s	Unstack Rune	1			100					1	"r14s,qty=1"							r14			100																																																																																				0
+r15s	Unstack Rune	1			100					1	"r15s,qty=1"							r15			100																																																																																				0
+r16s	Unstack Rune	1			100					1	"r16s,qty=1"							r16			100																																																																																				0
+r17s	Unstack Rune	1			100					1	"r17s,qty=1"							r17			100																																																																																				0
+r18s	Unstack Rune	1			100					1	"r18s,qty=1"							r18			100																																																																																				0
+r19s	Unstack Rune	1			100					1	"r19s,qty=1"							r19			100																																																																																				0
+r20s	Unstack Rune	1			100					1	"r20s,qty=1"							r20			100																																																																																				0
+r21s	Unstack Rune	1			100					1	"r21s,qty=1"							r21			100																																																																																				0
+r22s	Unstack Rune	1			100					1	"r22s,qty=1"							r22			100																																																																																				0
+r23s	Unstack Rune	1			100					1	"r23s,qty=1"							r23			100																																																																																				0
+r24s	Unstack Rune	1			100					1	"r24s,qty=1"							r24			100																																																																																				0
+r25s	Unstack Rune	1			100					1	"r25s,qty=1"							r25			100																																																																																				0
+r26s	Unstack Rune	1			100					1	"r26s,qty=1"							r26			100																																																																																				0
+r27s	Unstack Rune	1			100					1	"r27s,qty=1"							r27			100																																																																																				0
+r28s	Unstack Rune	1			100					1	"r28s,qty=1"							r28			100																																																																																				0
+r29s	Unstack Rune	1			100					1	"r29s,qty=1"							r29			100																																																																																				0
+r30s	Unstack Rune	1			100					1	"r30s,qty=1"							r30			100																																																																																				0
+r31s	Unstack Rune	1			100					1	"r31s,qty=1"							r31			100																																																																																				0
+r32s	Unstack Rune	1			100					1	"r32s,qty=1"							r32			100																																																																																				0
+r33s	Unstack Rune	1			100					1	"r33s,qty=1"							r33			100																																																																																				0
 cm301	Rune Upgrade	1			100					2	"r01,qty=2"							r02																																																																																							0
 cm302	Rune Upgrade	1			100					2	"r02,qty=2"							r03																																																																																							0
 cm303	Rune Upgrade	1			100					2	"r03,qty=2"							r04																																																																																							0
@@ -8761,154 +8828,3 @@ cm3	DEV RECIPE				100					1	hpot							TradersChest2	120		120																			
 cm4	DEV RECIPE				100					2	"hpot,qty=2"							MRHadriel's Courage	120		120																										MRHadriel's Pure Heart	120		120																											120		120																										0
 cm5	DEV RECIPE				100					1	rin							useitem				pr125		1156	1	1																					MSApehand	120		120																											120		120																										0
 cm6	DEV RECIPE				100					1	armo							"useitem,rem"																																																																																							0
-Renewal + Preservation	Oil of Renewal Rare reroll with Preservation	1			100					3	"dcht,rar"	5oµ	c;0					"usetype,rar"			100																										c;1																													5oµ																													0
-Renewal + Preservation	Oil of Renewal Rare reroll with Preservation	1			100					3	"dcht,rar"	5oµ	c;1					"usetype,rar"			100																										c;2																													5oµ																													0
-Renewal + Preservation	Oil of Renewal Rare reroll with Preservation	1			100					3	"dcht,rar"	5oµ	c;2					"usetype,rar"			100																										c;3																													5oµ																													0
-Renewal + Preservation	Oil of Renewal Rare reroll with Preservation	1			100					3	"dcht,rar"	5oµ	c;3					"usetype,rar"			100																										c;4																													5oµ																													0
-Renewal + Preservation	Oil of Renewal Rare reroll with Preservation	1			100					3	"dcht,rar"	5oµ	c;4					"usetype,rar"			100																										c;5																													5oµ																													0
-Renewal + Preservation	Oil of Renewal Rare reroll with Preservation	1			100					3	"dcht,rar"	5oµ	c;5					"usetype,rar"			100																										c;6																													5oµ																													0
-Renewal + Preservation	Oil of Renewal Rare reroll with Preservation	1			100					3	"dcht,rar"	5oµ	c;6					"usetype,rar"			100																										c;7																													5oµ																													0
-Renewal + Preservation	Oil of Renewal Rare reroll with Preservation	1			100					3	"dcht,rar"	5oµ	c;7					"usetype,rar"			100																										c;8																													5oµ																													0
-Renewal + Preservation	Oil of Renewal Rare reroll with Preservation	1			100					3	"dcht,rar"	5oµ	c;8					"usetype,rar"			100																										c;9																													5oµ																													0
-Renewal + Preservation	Oil of Renewal Rare reroll with Preservation	1			100					3	"dcht,rar"	5oµ	c;9					"usetype,rar"			100																										c;a																													5oµ																													0
-Renewal + Preservation	Oil of Renewal Rare reroll with Preservation	1			100					3	"dcht,rar"	5oµ	c;a					"usetype,rar"			100																										c;b																													5oµ																													0
-Renewal + Preservation	Oil of Renewal Rare reroll with Preservation	1			100					3	"dcht,rar"	5oµ	c;b					"usetype,rar"			100																										c;c																													5oµ																													0
-Renewal + Preservation	Oil of Renewal Rare reroll with Preservation	1			100					3	"dcht,rar"	5oµ	c;c					"usetype,rar"			100																										c;d																													5oµ																													0
-Renewal + Preservation	Oil of Renewal Rare reroll with Preservation	1			100					3	"dcht,rar"	5oµ	c;d					"usetype,rar"			100																										c;e																													5oµ																													0
-Renewal + Preservation	Oil of Renewal Rare reroll with Preservation	1			100					3	"dcht,rar"	5oµ	c;e					"usetype,rar"			100																										c;f																													5oµ																													0
-Renewal + Preservation	Oil of Renewal Rare reroll with Preservation	1			100					3	"dcht,rar"	5oµ	c;f					"usetype,rar"			100																										c;g																													5oµ																													0
-Renewal + Preservation	Oil of Renewal Rare reroll with Preservation	1			100					3	"dcht,rar"	5oµ	c;g					"usetype,rar"			100																										c;h																													5oµ																													0
-Renewal + Preservation	Oil of Renewal Rare reroll with Preservation	1			100					3	"dcht,rar"	5oµ	c;h					"usetype,rar"			100																										c;i																													5oµ																													0
-Renewal + Preservation	Oil of Renewal Rare reroll with Preservation	1			100					3	"dcht,rar"	5oµ	c;i					"usetype,rar"			100																										c;j																													5oµ																													0
-Renewal + Preservation	Oil of Renewal Rare reroll with Preservation	1			100					3	"dcht,rar"	5oµ	c;j					"usetype,rar"			100																										c;k																													5oµ																													0
-Renewal + Preservation	Oil of Renewal Rare reroll with Preservation	1			100					3	"dcht,rar"	5oµ	c;k					"usetype,rar"			100																										c;l																													5oµ																													0
-Renewal + Preservation	Oil of Renewal Rare reroll with Preservation	1			100					3	"dcht,rar"	5oµ	c;l					"usetype,rar"			100																										c;m																													5oµ																													0
-Renewal + Preservation	Oil of Renewal Rare reroll with Preservation	1			100					3	"dcht,rar"	5oµ	c;m					"usetype,rar"			100																										c;n																													5oµ																													0
-Renewal + Preservation	Oil of Renewal Rare reroll with Preservation	1			100					3	"dcht,rar"	5oµ	c;n					"usetype,rar"			100																										c;o																													5oµ																													0
-Renewal + Preservation	Oil of Renewal Rare reroll with Preservation	1			100					3	"dcht,rar"	5oµ	c;o					"usetype,rar"			100																										c;p																													5oµ																													0
-Renewal + Preservation	Oil of Renewal Rare reroll with Preservation	1			100					3	"dcht,rar"	5oµ	c;p					"usetype,rar"			100																										c;q																													5oµ																													0
-Renewal + Preservation	Oil of Renewal Rare reroll with Preservation	1			100					3	"dcht,rar"	5oµ	c;q					"usetype,rar"			100																										c;r																													5oµ																													0
-Renewal + Preservation	Oil of Renewal Rare reroll with Preservation	1			100					3	"dcht,rar"	5oµ	c;r					"usetype,rar"			100																										c;s																													5oµ																													0
-Renewal + Preservation	Oil of Renewal Rare reroll with Preservation	1			100					3	"dcht,rar"	5oµ	c;s					"usetype,rar"			100																										c;t																													5oµ																													0
-Renewal + Preservation	Oil of Renewal Rare reroll with Preservation	1			100					3	"dcht,rar"	5oµ	c;t					"usetype,rar"			100																										c;u																													5oµ																													0
-Renewal + Preservation	Oil of Renewal Rare reroll with Preservation	1			100					3	"dcht,rar"	5oµ	c;u					"usetype,rar"			100																										c;v																													5oµ																													0
-Renewal + Preservation	Oil of Renewal Rare reroll with Preservation	1			100					3	"dcht,rar"	5oµ	c;v					"usetype,rar"			100																										c;w																													5oµ																													0
-Renewal + Preservation	Oil of Renewal Rare reroll with Preservation	1			100					3	"dcht,rar"	5oµ	c;w					"usetype,rar"			100																										c;x																													5oµ																													0
-Renewal + Preservation	Oil of Renewal Rare reroll with Preservation	1			100					3	"dcht,rar"	5oµ	c;x					"usetype,rar"			100																										c;y																													5oµ																													0
-Renewal + Preservation	Oil of Renewal Rare reroll with Preservation	1			100					3	"dcht,rar"	5oµ	c;y					"usetype,rar"			100																										c;z																													5oµ																													0
-Renewal + Preservation	Oil of Renewal Rare reroll with Preservation	1			100					3	"dcht,rar"	5oµ	c;z					"usetype,rar"			100																										0;c																													5oµ																													0
-Renewal + Preservation	Oil of Renewal Rare reroll with Preservation	1			100					3	"dcht,rar"	5oµ	0;c					"usetype,rar"			100																										1;c																													5oµ																													0
-Renewal + Preservation	Oil of Renewal Rare reroll with Preservation	1			100					3	"dcht,rar"	5oµ	1;c					"usetype,rar"			100																										2;c																													5oµ																													0
-Renewal + Preservation	Oil of Renewal Rare reroll with Preservation	1			100					3	"dcht,rar"	5oµ	2;c					"usetype,rar"			100																										3;c																													5oµ																													0
-Renewal + Preservation	Oil of Renewal Rare reroll with Preservation	1			100					3	"dcht,rar"	5oµ	3;c					"usetype,rar"			100																										4;c																													5oµ																													0
-Renewal + Preservation	Oil of Renewal Rare reroll with Preservation	1			100					3	"dcht,rar"	5oµ	4;c					"usetype,rar"			100																										5;c																													5oµ																													0
-Renewal + Preservation	Oil of Renewal Rare reroll with Preservation	1			100					3	"dcht,rar"	5oµ	5;c					"usetype,rar"			100																										6;c																													5oµ																													0
-Renewal + Preservation	Oil of Renewal Rare reroll with Preservation	1			100					3	"dcht,rar"	5oµ	6;c					"usetype,rar"			100																										7;c																													5oµ																													0
-Renewal + Preservation	Oil of Renewal Rare reroll with Preservation	1			100					3	"dcht,rar"	5oµ	7;c					"usetype,rar"			100																										8;c																													5oµ																													0
-Renewal + Preservation	Oil of Renewal Rare reroll with Preservation	1			100					3	"dcht,rar"	5oµ	8;c					"usetype,rar"			100																										9;c																													5oµ																													0
-Renewal + Preservation	Oil of Renewal Rare reroll with Preservation	1			100					3	"dcht,rar"	5oµ	9;c					"usetype,rar"			100																										a;c																													5oµ																													0
-Renewal + Preservation	Oil of Renewal Rare reroll with Preservation	1			100					3	"dcht,rar"	5oµ	a;c					"usetype,rar"			100																										b;c																													5oµ																													0
-Renewal + Preservation	Oil of Renewal Rare reroll with Preservation	1			100					3	"dcht,rar"	5oµ	b;c					"usetype,rar"			100																										d;c																													5oµ																													0
-Renewal + Preservation	Oil of Renewal Rare reroll with Preservation	1			100					3	"dcht,rar"	5oµ	d;c					"usetype,rar"			100																										e;c																													5oµ																													0
-Renewal + Preservation	Oil of Renewal Rare reroll with Preservation	1			100					3	"dcht,rar"	5oµ	e;c					"usetype,rar"			100																										5oµ																																																										0
-Renewal + Preservation	Oil of Renewal Magic reroll with Preservation	1			100					3	"dcht,mag"	5oµ	c;0					"usetype,mag"			100																										c;1																													5oµ																													0
-Renewal + Preservation	Oil of Renewal Magic reroll with Preservation	1			100					3	"dcht,mag"	5oµ	c;1					"usetype,mag"			100																										c;2																													5oµ																													0
-Renewal + Preservation	Oil of Renewal Magic reroll with Preservation	1			100					3	"dcht,mag"	5oµ	c;2					"usetype,mag"			100																										c;3																													5oµ																													0
-Renewal + Preservation	Oil of Renewal Magic reroll with Preservation	1			100					3	"dcht,mag"	5oµ	c;3					"usetype,mag"			100																										c;4																													5oµ																													0
-Renewal + Preservation	Oil of Renewal Magic reroll with Preservation	1			100					3	"dcht,mag"	5oµ	c;4					"usetype,mag"			100																										c;5																													5oµ																													0
-Renewal + Preservation	Oil of Renewal Magic reroll with Preservation	1			100					3	"dcht,mag"	5oµ	c;5					"usetype,mag"			100																										c;6																													5oµ																													0
-Renewal + Preservation	Oil of Renewal Magic reroll with Preservation	1			100					3	"dcht,mag"	5oµ	c;6					"usetype,mag"			100																										c;7																													5oµ																													0
-Renewal + Preservation	Oil of Renewal Magic reroll with Preservation	1			100					3	"dcht,mag"	5oµ	c;7					"usetype,mag"			100																										c;8																													5oµ																													0
-Renewal + Preservation	Oil of Renewal Magic reroll with Preservation	1			100					3	"dcht,mag"	5oµ	c;8					"usetype,mag"			100																										c;9																													5oµ																													0
-Renewal + Preservation	Oil of Renewal Magic reroll with Preservation	1			100					3	"dcht,mag"	5oµ	c;9					"usetype,mag"			100																										c;a																													5oµ																													0
-Renewal + Preservation	Oil of Renewal Magic reroll with Preservation	1			100					3	"dcht,mag"	5oµ	c;a					"usetype,mag"			100																										c;b																													5oµ																													0
-Renewal + Preservation	Oil of Renewal Magic reroll with Preservation	1			100					3	"dcht,mag"	5oµ	c;b					"usetype,mag"			100																										c;c																													5oµ																													0
-Renewal + Preservation	Oil of Renewal Magic reroll with Preservation	1			100					3	"dcht,mag"	5oµ	c;c					"usetype,mag"			100																										c;d																													5oµ																													0
-Renewal + Preservation	Oil of Renewal Magic reroll with Preservation	1			100					3	"dcht,mag"	5oµ	c;d					"usetype,mag"			100																										c;e																													5oµ																													0
-Renewal + Preservation	Oil of Renewal Magic reroll with Preservation	1			100					3	"dcht,mag"	5oµ	c;e					"usetype,mag"			100																										c;f																													5oµ																													0
-Renewal + Preservation	Oil of Renewal Magic reroll with Preservation	1			100					3	"dcht,mag"	5oµ	c;f					"usetype,mag"			100																										c;g																													5oµ																													0
-Renewal + Preservation	Oil of Renewal Magic reroll with Preservation	1			100					3	"dcht,mag"	5oµ	c;g					"usetype,mag"			100																										c;h																													5oµ																													0
-Renewal + Preservation	Oil of Renewal Magic reroll with Preservation	1			100					3	"dcht,mag"	5oµ	c;h					"usetype,mag"			100																										c;i																													5oµ																													0
-Renewal + Preservation	Oil of Renewal Magic reroll with Preservation	1			100					3	"dcht,mag"	5oµ	c;i					"usetype,mag"			100																										c;j																													5oµ																													0
-Renewal + Preservation	Oil of Renewal Magic reroll with Preservation	1			100					3	"dcht,mag"	5oµ	c;j					"usetype,mag"			100																										c;k																													5oµ																													0
-Renewal + Preservation	Oil of Renewal Magic reroll with Preservation	1			100					3	"dcht,mag"	5oµ	c;k					"usetype,mag"			100																										c;l																													5oµ																													0
-Renewal + Preservation	Oil of Renewal Magic reroll with Preservation	1			100					3	"dcht,mag"	5oµ	c;l					"usetype,mag"			100																										c;m																													5oµ																													0
-Renewal + Preservation	Oil of Renewal Magic reroll with Preservation	1			100					3	"dcht,mag"	5oµ	c;m					"usetype,mag"			100																										c;n																													5oµ																													0
-Renewal + Preservation	Oil of Renewal Magic reroll with Preservation	1			100					3	"dcht,mag"	5oµ	c;n					"usetype,mag"			100																										c;o																													5oµ																													0
-Renewal + Preservation	Oil of Renewal Magic reroll with Preservation	1			100					3	"dcht,mag"	5oµ	c;o					"usetype,mag"			100																										c;p																													5oµ																													0
-Renewal + Preservation	Oil of Renewal Magic reroll with Preservation	1			100					3	"dcht,mag"	5oµ	c;p					"usetype,mag"			100																										c;q																													5oµ																													0
-Renewal + Preservation	Oil of Renewal Magic reroll with Preservation	1			100					3	"dcht,mag"	5oµ	c;q					"usetype,mag"			100																										c;r																													5oµ																													0
-Renewal + Preservation	Oil of Renewal Magic reroll with Preservation	1			100					3	"dcht,mag"	5oµ	c;r					"usetype,mag"			100																										c;s																													5oµ																													0
-Renewal + Preservation	Oil of Renewal Magic reroll with Preservation	1			100					3	"dcht,mag"	5oµ	c;s					"usetype,mag"			100																										c;t																													5oµ																													0
-Renewal + Preservation	Oil of Renewal Magic reroll with Preservation	1			100					3	"dcht,mag"	5oµ	c;t					"usetype,mag"			100																										c;u																													5oµ																													0
-Renewal + Preservation	Oil of Renewal Magic reroll with Preservation	1			100					3	"dcht,mag"	5oµ	c;u					"usetype,mag"			100																										c;v																													5oµ																													0
-Renewal + Preservation	Oil of Renewal Magic reroll with Preservation	1			100					3	"dcht,mag"	5oµ	c;v					"usetype,mag"			100																										c;w																													5oµ																													0
-Renewal + Preservation	Oil of Renewal Magic reroll with Preservation	1			100					3	"dcht,mag"	5oµ	c;w					"usetype,mag"			100																										c;x																													5oµ																													0
-Renewal + Preservation	Oil of Renewal Magic reroll with Preservation	1			100					3	"dcht,mag"	5oµ	c;x					"usetype,mag"			100																										c;y																													5oµ																													0
-Renewal + Preservation	Oil of Renewal Magic reroll with Preservation	1			100					3	"dcht,mag"	5oµ	c;y					"usetype,mag"			100																										c;z																													5oµ																													0
-Renewal + Preservation	Oil of Renewal Magic reroll with Preservation	1			100					3	"dcht,mag"	5oµ	c;z					"usetype,mag"			100																										0;c																													5oµ																													0
-Renewal + Preservation	Oil of Renewal Magic reroll with Preservation	1			100					3	"dcht,mag"	5oµ	0;c					"usetype,mag"			100																										1;c																													5oµ																													0
-Renewal + Preservation	Oil of Renewal Magic reroll with Preservation	1			100					3	"dcht,mag"	5oµ	1;c					"usetype,mag"			100																										2;c																													5oµ																													0
-Renewal + Preservation	Oil of Renewal Magic reroll with Preservation	1			100					3	"dcht,mag"	5oµ	2;c					"usetype,mag"			100																										3;c																													5oµ																													0
-Renewal + Preservation	Oil of Renewal Magic reroll with Preservation	1			100					3	"dcht,mag"	5oµ	3;c					"usetype,mag"			100																										4;c																													5oµ																													0
-Renewal + Preservation	Oil of Renewal Magic reroll with Preservation	1			100					3	"dcht,mag"	5oµ	4;c					"usetype,mag"			100																										5;c																													5oµ																													0
-Renewal + Preservation	Oil of Renewal Magic reroll with Preservation	1			100					3	"dcht,mag"	5oµ	5;c					"usetype,mag"			100																										6;c																													5oµ																													0
-Renewal + Preservation	Oil of Renewal Magic reroll with Preservation	1			100					3	"dcht,mag"	5oµ	6;c					"usetype,mag"			100																										7;c																													5oµ																													0
-Renewal + Preservation	Oil of Renewal Magic reroll with Preservation	1			100					3	"dcht,mag"	5oµ	7;c					"usetype,mag"			100																										8;c																													5oµ																													0
-Renewal + Preservation	Oil of Renewal Magic reroll with Preservation	1			100					3	"dcht,mag"	5oµ	8;c					"usetype,mag"			100																										9;c																													5oµ																													0
-Renewal + Preservation	Oil of Renewal Magic reroll with Preservation	1			100					3	"dcht,mag"	5oµ	9;c					"usetype,mag"			100																										a;c																													5oµ																													0
-Renewal + Preservation	Oil of Renewal Magic reroll with Preservation	1			100					3	"dcht,mag"	5oµ	a;c					"usetype,mag"			100																										b;c																													5oµ																													0
-Renewal + Preservation	Oil of Renewal Magic reroll with Preservation	1			100					3	"dcht,mag"	5oµ	b;c					"usetype,mag"			100																										d;c																													5oµ																													0
-Renewal + Preservation	Oil of Renewal Magic reroll with Preservation	1			100					3	"dcht,mag"	5oµ	d;c					"usetype,mag"			100																										e;c																													5oµ																													0
-Renewal + Preservation	Oil of Renewal Magic reroll with Preservation	1			100					3	"dcht,mag"	5oµ	e;c					"usetype,mag"			100																										5oµ																																																										0
-Renewal + Preservation	Oil of Renewal Super reroll with Preservation	1			100					3	"dcht,hiq"	5oµ	c;0					"usetype,hig"			100																										c;1																													5oµ																													0
-Renewal + Preservation	Oil of Renewal Super reroll with Preservation	1			100					3	"dcht,hiq"	5oµ	c;1					"usetype,hig"			100																										c;2																													5oµ																													0
-Renewal + Preservation	Oil of Renewal Super reroll with Preservation	1			100					3	"dcht,hiq"	5oµ	c;2					"usetype,hig"			100																										c;3																													5oµ																													0
-Renewal + Preservation	Oil of Renewal Super reroll with Preservation	1			100					3	"dcht,hiq"	5oµ	c;3					"usetype,hig"			100																										c;4																													5oµ																													0
-Renewal + Preservation	Oil of Renewal Super reroll with Preservation	1			100					3	"dcht,hiq"	5oµ	c;4					"usetype,hig"			100																										c;5																													5oµ																													0
-Renewal + Preservation	Oil of Renewal Super reroll with Preservation	1			100					3	"dcht,hiq"	5oµ	c;5					"usetype,hig"			100																										c;6																													5oµ																													0
-Renewal + Preservation	Oil of Renewal Super reroll with Preservation	1			100					3	"dcht,hiq"	5oµ	c;6					"usetype,hig"			100																										c;7																													5oµ																													0
-Renewal + Preservation	Oil of Renewal Super reroll with Preservation	1			100					3	"dcht,hiq"	5oµ	c;7					"usetype,hig"			100																										c;8																													5oµ																													0
-Renewal + Preservation	Oil of Renewal Super reroll with Preservation	1			100					3	"dcht,hiq"	5oµ	c;8					"usetype,hig"			100																										c;9																													5oµ																													0
-Renewal + Preservation	Oil of Renewal Super reroll with Preservation	1			100					3	"dcht,hiq"	5oµ	c;9					"usetype,hig"			100																										c;a																													5oµ																													0
-Renewal + Preservation	Oil of Renewal Super reroll with Preservation	1			100					3	"dcht,hiq"	5oµ	c;a					"usetype,hig"			100																										c;b																													5oµ																													0
-Renewal + Preservation	Oil of Renewal Super reroll with Preservation	1			100					3	"dcht,hiq"	5oµ	c;b					"usetype,hig"			100																										c;c																													5oµ																													0
-Renewal + Preservation	Oil of Renewal Super reroll with Preservation	1			100					3	"dcht,hiq"	5oµ	c;c					"usetype,hig"			100																										c;d																													5oµ																													0
-Renewal + Preservation	Oil of Renewal Super reroll with Preservation	1			100					3	"dcht,hiq"	5oµ	c;d					"usetype,hig"			100																										c;e																													5oµ																													0
-Renewal + Preservation	Oil of Renewal Super reroll with Preservation	1			100					3	"dcht,hiq"	5oµ	c;e					"usetype,hig"			100																										c;f																													5oµ																													0
-Renewal + Preservation	Oil of Renewal Super reroll with Preservation	1			100					3	"dcht,hiq"	5oµ	c;f					"usetype,hig"			100																										c;g																													5oµ																													0
-Renewal + Preservation	Oil of Renewal Super reroll with Preservation	1			100					3	"dcht,hiq"	5oµ	c;g					"usetype,hig"			100																										c;h																													5oµ																													0
-Renewal + Preservation	Oil of Renewal Super reroll with Preservation	1			100					3	"dcht,hiq"	5oµ	c;h					"usetype,hig"			100																										c;i																													5oµ																													0
-Renewal + Preservation	Oil of Renewal Super reroll with Preservation	1			100					3	"dcht,hiq"	5oµ	c;i					"usetype,hig"			100																										c;j																													5oµ																													0
-Renewal + Preservation	Oil of Renewal Super reroll with Preservation	1			100					3	"dcht,hiq"	5oµ	c;j					"usetype,hig"			100																										c;k																													5oµ																													0
-Renewal + Preservation	Oil of Renewal Super reroll with Preservation	1			100					3	"dcht,hiq"	5oµ	c;k					"usetype,hig"			100																										c;l																													5oµ																													0
-Renewal + Preservation	Oil of Renewal Super reroll with Preservation	1			100					3	"dcht,hiq"	5oµ	c;l					"usetype,hig"			100																										c;m																													5oµ																													0
-Renewal + Preservation	Oil of Renewal Super reroll with Preservation	1			100					3	"dcht,hiq"	5oµ	c;m					"usetype,hig"			100																										c;n																													5oµ																													0
-Renewal + Preservation	Oil of Renewal Super reroll with Preservation	1			100					3	"dcht,hiq"	5oµ	c;n					"usetype,hig"			100																										c;o																													5oµ																													0
-Renewal + Preservation	Oil of Renewal Super reroll with Preservation	1			100					3	"dcht,hiq"	5oµ	c;o					"usetype,hig"			100																										c;p																													5oµ																													0
-Renewal + Preservation	Oil of Renewal Super reroll with Preservation	1			100					3	"dcht,hiq"	5oµ	c;p					"usetype,hig"			100																										c;q																													5oµ																													0
-Renewal + Preservation	Oil of Renewal Super reroll with Preservation	1			100					3	"dcht,hiq"	5oµ	c;q					"usetype,hig"			100																										c;r																													5oµ																													0
-Renewal + Preservation	Oil of Renewal Super reroll with Preservation	1			100					3	"dcht,hiq"	5oµ	c;r					"usetype,hig"			100																										c;s																													5oµ																													0
-Renewal + Preservation	Oil of Renewal Super reroll with Preservation	1			100					3	"dcht,hiq"	5oµ	c;s					"usetype,hig"			100																										c;t																													5oµ																													0
-Renewal + Preservation	Oil of Renewal Super reroll with Preservation	1			100					3	"dcht,hiq"	5oµ	c;t					"usetype,hig"			100																										c;u																													5oµ																													0
-Renewal + Preservation	Oil of Renewal Super reroll with Preservation	1			100					3	"dcht,hiq"	5oµ	c;u					"usetype,hig"			100																										c;v																													5oµ																													0
-Renewal + Preservation	Oil of Renewal Super reroll with Preservation	1			100					3	"dcht,hiq"	5oµ	c;v					"usetype,hig"			100																										c;w																													5oµ																													0
-Renewal + Preservation	Oil of Renewal Super reroll with Preservation	1			100					3	"dcht,hiq"	5oµ	c;w					"usetype,hig"			100																										c;x																													5oµ																													0
-Renewal + Preservation	Oil of Renewal Super reroll with Preservation	1			100					3	"dcht,hiq"	5oµ	c;x					"usetype,hig"			100																										c;y																													5oµ																													0
-Renewal + Preservation	Oil of Renewal Super reroll with Preservation	1			100					3	"dcht,hiq"	5oµ	c;y					"usetype,hig"			100																										c;z																													5oµ																													0
-Renewal + Preservation	Oil of Renewal Super reroll with Preservation	1			100					3	"dcht,hiq"	5oµ	c;z					"usetype,hig"			100																										0;c																													5oµ																													0
-Renewal + Preservation	Oil of Renewal Super reroll with Preservation	1			100					3	"dcht,hiq"	5oµ	0;c					"usetype,hig"			100																										1;c																													5oµ																													0
-Renewal + Preservation	Oil of Renewal Super reroll with Preservation	1			100					3	"dcht,hiq"	5oµ	1;c					"usetype,hig"			100																										2;c																													5oµ																													0
-Renewal + Preservation	Oil of Renewal Super reroll with Preservation	1			100					3	"dcht,hiq"	5oµ	2;c					"usetype,hig"			100																										3;c																													5oµ																													0
-Renewal + Preservation	Oil of Renewal Super reroll with Preservation	1			100					3	"dcht,hiq"	5oµ	3;c					"usetype,hig"			100																										4;c																													5oµ																													0
-Renewal + Preservation	Oil of Renewal Super reroll with Preservation	1			100					3	"dcht,hiq"	5oµ	4;c					"usetype,hig"			100																										5;c																													5oµ																													0
-Renewal + Preservation	Oil of Renewal Super reroll with Preservation	1			100					3	"dcht,hiq"	5oµ	5;c					"usetype,hig"			100																										6;c																													5oµ																													0
-Renewal + Preservation	Oil of Renewal Super reroll with Preservation	1			100					3	"dcht,hiq"	5oµ	6;c					"usetype,hig"			100																										7;c																													5oµ																													0
-Renewal + Preservation	Oil of Renewal Super reroll with Preservation	1			100					3	"dcht,hiq"	5oµ	7;c					"usetype,hig"			100																										8;c																													5oµ																													0
-Renewal + Preservation	Oil of Renewal Super reroll with Preservation	1			100					3	"dcht,hiq"	5oµ	8;c					"usetype,hig"			100																										9;c																													5oµ																													0
-Renewal + Preservation	Oil of Renewal Super reroll with Preservation	1			100					3	"dcht,hiq"	5oµ	9;c					"usetype,hig"			100																										a;c																													5oµ																													0
-Renewal + Preservation	Oil of Renewal Super reroll with Preservation	1			100					3	"dcht,hiq"	5oµ	a;c					"usetype,hig"			100																										b;c																													5oµ																													0
-Renewal + Preservation	Oil of Renewal Super reroll with Preservation	1			100					3	"dcht,hiq"	5oµ	b;c					"usetype,hig"			100																										d;c																													5oµ																													0
-Renewal + Preservation	Oil of Renewal Super reroll with Preservation	1			100					3	"dcht,hiq"	5oµ	d;c					"usetype,hig"			100																										e;c																													5oµ																													0
-Renewal + Preservation	Oil of Renewal Super reroll with Preservation	1			100					3	"dcht,hiq"	5oµ	e;c					"usetype,hig"			100																										5oµ																																																										0
-r01	Convert Rune into Stacked	1			100					1	hpot							r01s			100																																																																																				0
