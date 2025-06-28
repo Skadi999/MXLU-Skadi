@@ -368,200 +368,153 @@ r30s	Unstack Rune	1			100					1	"r30s,qty=1"							r30			100																				
 r31s	Unstack Rune	1			100					1	"r31s,qty=1"							r31			100																																																																																				0
 r32s	Unstack Rune	1			100					1	"r32s,qty=1"							r32			100																																																																																				0
 r33s	Unstack Rune	1			100					1	"r33s,qty=1"							r33			100																																																																																				0
-cm301	Rune Upgrade	1			100					2	"r01,qty=2"							r02																																																																																							0
-cm302	Rune Upgrade	1			100					2	"r02,qty=2"							r03																																																																																							0
-cm303	Rune Upgrade	1			100					2	"r03,qty=2"							r04																																																																																							0
-cm304	Rune Upgrade	1			100					2	"r04,qty=2"							r05																																																																																							0
-cm305	Rune Upgrade	1			100					2	"r05,qty=2"							r06																																																																																							0
-cm306	Rune Upgrade	1			100					2	"r06,qty=2"							r07																																																																																							0
-cm307	Rune Upgrade	1			100					2	"r07,qty=2"							r08																																																																																							0
-cm308	Rune Upgrade	1			100					2	"r08,qty=2"							r09																																																																																							0
-cm309	Rune Upgrade	1			100					2	"r09,qty=2"							r10																																																																																							0
-cm310	Rune Upgrade	1			100					2	"r10,qty=2"							r11																																																																																							0
-cm311	Rune Upgrade	1			100					2	"r11,qty=2"							r12																																																																																							0
-cm312	Rune Upgrade	1			100					2	"r12,qty=2"							r13																																																																																							0
-cm313	Rune Upgrade	1			100					2	"r13,qty=2"							r14																																																																																							0
-cm314	Rune Upgrade	1			100					2	"r14,qty=2"							r15																																																																																							0
-cm315	Rune Upgrade	1			100					2	"r15,qty=2"							r16																																																																																							0
-cm316	Rune Upgrade	1			100					2	"r16,qty=2"							r17																																																																																							0
-cm317	Rune Upgrade	1			100					2	"r17,qty=2"							r18																																																																																							0
-cm318	Rune Upgrade	1			100					2	"r18,qty=2"							r19																																																																																							0
-cm319	Rune Upgrade	1			100					2	"r19,qty=2"							r20																																																																																							0
-cm320	Rune Upgrade	1			100					2	"r20,qty=2"							r21																																																																																							0
-cm321	Rune Upgrade	1			100					2	"r21,qty=2"							r22																																																																																							0
-cm322	Rune Upgrade	1			100					2	"r22,qty=2"							r23																																																																																							0
-cm323	Rune Upgrade	1			100					2	"r23,qty=2"							r24																																																																																							0
-cm324	Rune Upgrade	1			100					2	"r24,qty=2"							r25																																																																																							0
-cm325	Rune Upgrade	1			100					2	"r25,qty=2"							r26																																																																																							0
-cm326	Rune Upgrade	1			100					2	"r26,qty=2"							r27																																																																																							0
-cm327	Rune Upgrade	1			100					2	"r27,qty=2"							r28																																																																																							0
-cm328	Rune Upgrade	1			100					2	"r28,qty=2"							r29																																																																																							0
-cm329	Rune Upgrade	1			100					2	"r29,qty=2"							r30																																																																																							0
-cm330	Rune Upgrade	1			100					2	"r30,qty=2"							r31																																																																																							0
-cm331	Rune Upgrade	1			100					2	"r31,qty=2"							r32																																																																																							0
-cm332	Rune Upgrade	1			100					2	"r32,qty=2"							r33																																																																																							0
-cm333	Rune Upgrade	1			100					2	"r33,qty=2"							r34																																																																																							0
-cm334	Rune Upgrade	1			100					2	"r34,qty=2"							r35																																																																																							0
-cm335	Rune Upgrade	1			100					2	"r35,qty=2"							r36																																																																																							0
-cm336	Rune Upgrade	1			100					2	"r36,qty=2"							r37																																																																																							0
-cm337	Rune Upgrade	1			100					2	"r37,qty=2"							r38																																																																																							0
-cm338	Rune Upgrade	1			100					2	"r38,qty=2"							r39																																																																																							0
-cm339	Rune Upgrade	1			100					2	"r39,qty=2"							r40																																																																																							0
-cm340	Rune Upgrade	1			100					2	"r40,qty=2"							r41																																																																																							0
-cm341	Rune Upgrade	1			100					2	"r41,qty=2"							r42																																																																																							0
-cm342	Rune Upgrade	1			100					2	"r42,qty=2"							r43																																																																																							0
-cm343	Rune Upgrade	1			100					2	"r43,qty=2"							r44																																																																																							0
-cm344	Rune Upgrade	1			100					2	"r44,qty=2"							r45																																																																																							0
-cm345	Rune Upgrade	1			100					2	"r45,qty=2"							r46																																																																																							0
-cm346	Rune Upgrade	1			100					2	"r46,qty=2"							r47																																																																																							0
-cm347	Rune Upgrade	1			100					2	"r47,qty=2"							r48																																																																																							0
-cm348	Rune Upgrade	1			100					2	"r48,qty=2"							r49																																																																																							0
-cm349	Rune Upgrade	1			100					2	"r49,qty=2"							r50																																																																																							0
-cm350	Rune Upgrade	1			100					4	"r01,qty=4"							r03																																																																																							0
-cm351	Rune Upgrade	1			100					3	"r01,qty=2"	r02						r03																																																																																							0
-cm352	Rune Upgrade	1			100					4	"r02,qty=4"							r04																																																																																							0
-cm353	Rune Upgrade	1			100					3	"r02,qty=2"	r03						r04																																																																																							0
-cm354	Rune Upgrade	1			100					4	"r03,qty=4"							r05																																																																																							0
-cm355	Rune Upgrade	1			100					3	"r03,qty=2"	r04						r05																																																																																							0
-cm356	Rune Upgrade	1			100					4	"r04,qty=4"							r06																																																																																							0
-cm357	Rune Upgrade	1			100					3	"r04,qty=2"	r05						r06																																																																																							0
-cm358	Rune Upgrade	1			100					4	"r05,qty=4"							r07																																																																																							0
-cm359	Rune Upgrade	1			100					3	"r05,qty=2"	r06						r07																																																																																							0
-cm360	Rune Upgrade	1			100					4	"r06,qty=4"							r08																																																																																							0
-cm361	Rune Upgrade	1			100					3	"r06,qty=2"	r07						r08																																																																																							0
-cm362	Rune Upgrade	1			100					4	"r07,qty=4"							r09																																																																																							0
-cm363	Rune Upgrade	1			100					3	"r07,qty=2"	r08						r09																																																																																							0
-cm364	Rune Upgrade	1			100					4	"r08,qty=4"							r10																																																																																							0
-cm365	Rune Upgrade	1			100					3	"r08,qty=2"	r09						r10																																																																																							0
-cm366	Rune Upgrade	1			100					4	"r09,qty=4"							r11																																																																																							0
-cm367	Rune Upgrade	1			100					3	"r09,qty=2"	r10						r11																																																																																							0
-cm368	Rune Upgrade	1			100					4	"r10,qty=4"							r12																																																																																							0
-cm369	Rune Upgrade	1			100					3	"r10,qty=2"	r11						r12																																																																																							0
-cm370	Rune Upgrade	1			100					4	"r11,qty=4"							r13																																																																																							0
-cm371	Rune Upgrade	1			100					3	"r11,qty=2"	r12						r13																																																																																							0
-cm372	Rune Upgrade	1			100					4	"r12,qty=4"							r14																																																																																							0
-cm373	Rune Upgrade	1			100					3	"r12,qty=2"	r13						r14																																																																																							0
-cm374	Rune Upgrade	1			100					4	"r13,qty=4"							r15																																																																																							0
-cm375	Rune Upgrade	1			100					3	"r13,qty=2"	r14						r15																																																																																							0
-cm376	Rune Upgrade	1			100					4	"r14,qty=4"							r16																																																																																							0
-cm377	Rune Upgrade	1			100					3	"r14,qty=2"	r15						r16																																																																																							0
-cm378	Rune Upgrade	1			100					4	"r15,qty=4"							r17																																																																																							0
-cm379	Rune Upgrade	1			100					3	"r15,qty=2"	r16						r17																																																																																							0
-cm380	Rune Upgrade	1			100					4	"r16,qty=4"							r18																																																																																							0
-cm381	Rune Upgrade	1			100					3	"r16,qty=2"	r17						r18																																																																																							0
-cm382	Rune Upgrade	1			100					4	"r17,qty=4"							r19																																																																																							0
-cm383	Rune Upgrade	1			100					3	"r17,qty=2"	r18						r19																																																																																							0
-cm384	Rune Upgrade	1			100					4	"r18,qty=4"							r20																																																																																							0
-cm385	Rune Upgrade	1			100					3	"r18,qty=2"	r19						r20																																																																																							0
-cm386	Rune Upgrade	1			100					4	"r19,qty=4"							r21																																																																																							0
-cm387	Rune Upgrade	1			100					3	"r19,qty=2"	r20						r21																																																																																							0
-cm388	Rune Upgrade	1			100					4	"r20,qty=4"							r22																																																																																							0
-cm389	Rune Upgrade	1			100					3	"r20,qty=2"	r21						r22																																																																																							0
-cm390	Rune Upgrade	1			100					4	"r21,qty=4"							r23																																																																																							0
-cm391	Rune Upgrade	1			100					3	"r21,qty=2"	r22						r23																																																																																							0
-cm392	Rune Upgrade	1			100					4	"r22,qty=4"							r24																																																																																							0
-cm393	Rune Upgrade	1			100					3	"r22,qty=2"	r23						r24																																																																																							0
-cm394	Rune Upgrade	1			100					4	"r23,qty=4"							r25																																																																																							0
-cm395	Rune Upgrade	1			100					3	"r23,qty=2"	r24						r25																																																																																							0
-cm396	Rune Upgrade	1			100					4	"r24,qty=4"							r26																																																																																							0
-cm397	Rune Upgrade	1			100					3	"r24,qty=2"	r25						r26																																																																																							0
-cm398	Rune Upgrade	1			100					4	"r25,qty=4"							r27																																																																																							0
-cm399	Rune Upgrade	1			100					3	"r25,qty=2"	r26						r27																																																																																							0
-cm400	Rune Upgrade	1			100					4	"r26,qty=4"							r28																																																																																							0
-cm401	Rune Upgrade	1			100					3	"r26,qty=2"	r27						r28																																																																																							0
-cm402	Rune Upgrade	1			100					4	"r27,qty=4"							r29																																																																																							0
-cm403	Rune Upgrade	1			100					3	"r27,qty=2"	r28						r29																																																																																							0
-cm404	Rune Upgrade	1			100					4	"r28,qty=4"							r30																																																																																							0
-cm405	Rune Upgrade	1			100					3	"r28,qty=2"	r29						r30																																																																																							0
-cm406	Rune Upgrade	1			100					4	"r29,qty=4"							r31																																																																																							0
-cm407	Rune Upgrade	1			100					3	"r29,qty=2"	r30						r31																																																																																							0
-cm408	Rune Upgrade	1			100					4	"r30,qty=4"							r32																																																																																							0
-cm409	Rune Upgrade	1			100					3	"r30,qty=2"	r31						r32																																																																																							0
-cm410	Rune Upgrade	1			100					4	"r31,qty=4"							r33																																																																																							0
-cm411	Rune Upgrade	1			100					3	"r31,qty=2"	r32						r33																																																																																							0
-cm412	Rune Upgrade	1			100					4	"r32,qty=4"							r34																																																																																							0
-cm413	Rune Upgrade	1			100					3	"r32,qty=2"	r33						r34																																																																																							0
-cm414	Rune Upgrade	1			100					4	"r33,qty=4"							r35																																																																																							0
-cm415	Rune Upgrade	1			100					3	"r33,qty=2"	r34						r35																																																																																							0
-cm416	Rune Upgrade	1			100					4	"r34,qty=4"							r36																																																																																							0
-cm417	Rune Upgrade	1			100					3	"r34,qty=2"	r35						r36																																																																																							0
-cm418	Rune Upgrade	1			100					4	"r35,qty=4"							r37																																																																																							0
-cm419	Rune Upgrade	1			100					3	"r35,qty=2"	r36						r37																																																																																							0
-cm420	Rune Upgrade	1			100					4	"r36,qty=4"							r38																																																																																							0
-cm421	Rune Upgrade	1			100					3	"r36,qty=2"	r37						r38																																																																																							0
-cm422	Rune Upgrade	1			100					4	"r37,qty=4"							r39																																																																																							0
-cm423	Rune Upgrade	1			100					3	"r37,qty=2"	r38						r39																																																																																							0
-cm424	Rune Upgrade	1			100					4	"r38,qty=4"							r40																																																																																							0
-cm425	Rune Upgrade	1			100					3	"r38,qty=2"	r39						r40																																																																																							0
-cm426	Rune Upgrade	1			100					4	"r39,qty=4"							r41																																																																																							0
-cm427	Rune Upgrade	1			100					3	"r39,qty=2"	r40						r41																																																																																							0
-cm428	Rune Upgrade	1			100					4	"r40,qty=4"							r42																																																																																							0
-cm429	Rune Upgrade	1			100					3	"r40,qty=2"	r41						r42																																																																																							0
-cm430	Rune Upgrade	1			100					4	"r41,qty=4"							r43																																																																																							0
-cm431	Rune Upgrade	1			100					3	"r41,qty=2"	r42						r43																																																																																							0
-cm432	Rune Upgrade	1			100					4	"r42,qty=4"							r44																																																																																							0
-cm433	Rune Upgrade	1			100					3	"r42,qty=2"	r43						r44																																																																																							0
-cm434	Rune Upgrade	1			100					4	"r43,qty=4"							r45																																																																																							0
-cm435	Rune Upgrade	1			100					3	"r43,qty=2"	r44						r45																																																																																							0
-cm436	Rune Upgrade	1			100					4	"r44,qty=4"							r46																																																																																							0
-cm437	Rune Upgrade	1			100					3	"r44,qty=2"	r45						r46																																																																																							0
-cm438	Rune Upgrade	1			100					4	"r45,qty=4"							r47																																																																																							0
-cm439	Rune Upgrade	1			100					3	"r45,qty=2"	r46						r47																																																																																							0
-cm440	Rune Upgrade	1			100					4	"r46,qty=4"							r48																																																																																							0
-cm441	Rune Upgrade	1			100					3	"r46,qty=2"	r47						r48																																																																																							0
-cm442	Rune Upgrade	1			100					4	"r47,qty=4"							r49																																																																																							0
-cm443	Rune Upgrade	1			100					3	"r47,qty=2"	r48						r49																																																																																							0
-cm444	Rune Upgrade	1			100					4	"r48,qty=4"							r50																																																																																							0
-cm445	Rune Upgrade	1			100					3	"r48,qty=2"	r49						r50																																																																																							0
-cm446	Rune Downgrade	1			100					1	r02							r01																																																																																							0
-cm447	Rune Downgrade	1			100					1	r03							r02																																																																																							0
-cm448	Rune Downgrade	1			100					1	r04							r03																																																																																							0
-cm449	Rune Downgrade	1			100					1	r05							r04																																																																																							0
-cm450	Rune Downgrade	1			100					1	r06							r05																																																																																							0
-cm451	Rune Downgrade	1			100					1	r07							r06																																																																																							0
-cm452	Rune Downgrade	1			100					1	r08							r07																																																																																							0
-cm453	Rune Downgrade	1			100					1	r09							r08																																																																																							0
-cm454	Rune Downgrade	1			100					1	r10							r09																																																																																							0
-cm455	Rune Downgrade	1			100					1	r11							r10																																																																																							0
-cm456	Rune Downgrade	1			100					1	r12							r11																																																																																							0
-cm457	Rune Downgrade	1			100					1	r13							r12																																																																																							0
-cm458	Rune Downgrade	1			100					1	r14							r13																																																																																							0
-cm459	Rune Downgrade	1			100					1	r15							r14																																																																																							0
-cm460	Rune Downgrade	1			100					1	r16							r15																																																																																							0
-cm461	Rune Downgrade	1			100					1	r17							r16																																																																																							0
-cm462	Rune Downgrade	1			100					1	r18							r17																																																																																							0
-cm463	Rune Downgrade	1			100					1	r19							r18																																																																																							0
-cm464	Rune Downgrade	1			100					1	r20							r19																																																																																							0
-cm465	Rune Downgrade	1			100					1	r21							r20																																																																																							0
-cm466	Rune Downgrade	1			100					1	r22							r21																																																																																							0
-cm467	Rune Downgrade	1			100					1	r23							r22																																																																																							0
-cm468	Rune Downgrade	1			100					1	r24							r23																																																																																							0
-cm469	Rune Downgrade	1			100					1	r25							r24																																																																																							0
-cm470	Rune Downgrade	1			100					1	r26							r25																																																																																							0
-cm471	Rune Downgrade	1			100					1	r27							r26																																																																																							0
-cm472	Rune Downgrade	1			100					1	r28							r27																																																																																							0
-cm473	Rune Downgrade	1			100					1	r29							r28																																																																																							0
-cm474	Rune Downgrade	1			100					1	r30							r29																																																																																							0
-cm475	Rune Downgrade	1			100					1	r31							r30																																																																																							0
-cm476	Rune Downgrade	1			100					1	r32							r31																																																																																							0
-cm477	Rune Downgrade	1			100					1	r33							r32																																																																																							0
-cm478	Rune Downgrade	1			100					1	r34							r33																																																																																							0
-cm479	Rune Downgrade	1			100					1	r35							r34																																																																																							0
-cm480	Rune Downgrade	1			100					1	r36							r35																																																																																							0
-cm481	Rune Downgrade	1			100					1	r37							r36																																																																																							0
-cm482	Rune Downgrade	1			100					1	r38							r37																																																																																							0
-cm483	Rune Downgrade	1			100					1	r39							r38																																																																																							0
-cm484	Rune Downgrade	1			100					1	r40							r39																																																																																							0
-cm485	Rune Downgrade	1			100					1	r41							r40																																																																																							0
-cm486	Rune Downgrade	1			100					1	r42							r41																																																																																							0
-cm487	Rune Downgrade	1			100					1	r43							r42																																																																																							0
-cm488	Rune Downgrade	1			100					1	r44							r43																																																																																							0
-cm489	Rune Downgrade	1			100					1	r45							r44																																																																																							0
-cm490	Rune Downgrade	1			100					1	r46							r45																																																																																							0
-cm491	Rune Downgrade	1			100					1	r47							r46																																																																																							0
-cm492	Rune Downgrade	1			100					1	r48							r47																																																																																							0
-cm493	Rune Downgrade	1			100					1	r49							r48																																																																																							0
-cm494	Rune Downgrade	1			100					1	r50							r49																																																																																							0
+Rune Upgrade 1	Rune Upgrade Stacked	1			100					2	"key,qty=1"	"r01s,qty=2"						useitem			100																										r02s																																																										0
+Rune Upgrade 2	Rune Upgrade Stacked	1			100					2	"key,qty=1"	"r02s,qty=2"						useitem			100																										r03s																																																										0
+Rune Upgrade 3	Rune Upgrade Stacked	1			100					2	"key,qty=1"	"r03s,qty=2"						useitem			100																										r04s																																																										0
+Rune Upgrade 4	Rune Upgrade Stacked	1			100					2	"key,qty=1"	"r04s,qty=2"						useitem			100																										r05s																																																										0
+Rune Upgrade 5	Rune Upgrade Stacked	1			100					2	"key,qty=1"	"r05s,qty=2"						useitem			100																										r06s																																																										0
+Rune Upgrade 6	Rune Upgrade Stacked	1			100					2	"key,qty=1"	"r06s,qty=2"						useitem			100																										r07s																																																										0
+Rune Upgrade 7	Rune Upgrade Stacked	1			100					2	"key,qty=1"	"r07s,qty=2"						useitem			100																										r08s																																																										0
+Rune Upgrade 8	Rune Upgrade Stacked	1			100					2	"key,qty=1"	"r08s,qty=2"						useitem			100																										r09s																																																										0
+Rune Upgrade 9	Rune Upgrade Stacked	1			100					2	"key,qty=1"	"r09s,qty=2"						useitem			100																										r10s																																																										0
+Rune Upgrade 10	Rune Upgrade Stacked	1			100					2	"key,qty=1"	"r10s,qty=2"						useitem			100																										r11s																																																										0
+Rune Upgrade 11	Rune Upgrade Stacked	1			100					2	"key,qty=1"	"r11s,qty=2"						useitem			100																										r12s																																																										0
+Rune Upgrade 12	Rune Upgrade Stacked	1			100					2	"key,qty=1"	"r12s,qty=2"						useitem			100																										r13s																																																										0
+Rune Upgrade 13	Rune Upgrade Stacked	1			100					2	"key,qty=1"	"r13s,qty=2"						useitem			100																										r14s																																																										0
+Rune Upgrade 14	Rune Upgrade Stacked	1			100					2	"key,qty=1"	"r14s,qty=2"						useitem			100																										r15s																																																										0
+Rune Upgrade 15	Rune Upgrade Stacked	1			100					2	"key,qty=1"	"r15s,qty=2"						useitem			100																										r16s																																																										0
+Rune Upgrade 16	Rune Upgrade Stacked	1			100					2	"key,qty=1"	"r16s,qty=2"						useitem			100																										r17s																																																										0
+Rune Upgrade 17	Rune Upgrade Stacked	1			100					2	"key,qty=1"	"r17s,qty=2"						useitem			100																										r18s																																																										0
+Rune Upgrade 18	Rune Upgrade Stacked	1			100					2	"key,qty=1"	"r18s,qty=2"						useitem			100																										r19s																																																										0
+Rune Upgrade 19	Rune Upgrade Stacked	1			100					2	"key,qty=1"	"r19s,qty=2"						useitem			100																										r20s																																																										0
+Rune Upgrade 20	Rune Upgrade Stacked	1			100					2	"key,qty=1"	"r20s,qty=2"						useitem			100																										r21s																																																										0
+Rune Upgrade 21	Rune Upgrade Stacked	1			100					2	"key,qty=1"	"r21s,qty=2"						useitem			100																										r22s																																																										0
+Rune Upgrade 22	Rune Upgrade Stacked	1			100					2	"key,qty=1"	"r22s,qty=2"						useitem			100																										r23s																																																										0
+Rune Upgrade 23	Rune Upgrade Stacked	1			100					2	"key,qty=1"	"r23s,qty=2"						useitem			100																										r24s																																																										0
+Rune Upgrade 24	Rune Upgrade Stacked	1			100					2	"key,qty=1"	"r24s,qty=2"						useitem			100																										r25s																																																										0
+Rune Upgrade 25	Rune Upgrade Stacked	1			100					2	"key,qty=1"	"r25s,qty=2"						useitem			100																										r26s																																																										0
+Rune Upgrade 26	Rune Upgrade Stacked	1			100					2	"key,qty=1"	"r26s,qty=2"						useitem			100																										r27s																																																										0
+Rune Upgrade 27	Rune Upgrade Stacked	1			100					2	"key,qty=1"	"r27s,qty=2"						useitem			100																										r28s																																																										0
+Rune Upgrade 28	Rune Upgrade Stacked	1			100					2	"key,qty=1"	"r28s,qty=2"						useitem			100																										r29s																																																										0
+Rune Upgrade 29	Rune Upgrade Stacked	1			100					2	"key,qty=1"	"r29s,qty=2"						useitem			100																										r30s																																																										0
+Rune Upgrade 30	Rune Upgrade Stacked	1			100					2	"key,qty=1"	"r30s,qty=2"						useitem			100																										r31s																																																										0
+Rune Upgrade 31	Rune Upgrade Stacked	1			100					2	"key,qty=1"	"r31s,qty=2"						useitem			100																										r32s																																																										0
+Rune Upgrade 32	Rune Upgrade Stacked	1			100					2	"key,qty=1"	"r32s,qty=2"						useitem			100																										r33s																																																										0
+Rune Upgrade 33	Rune Upgrade Stacked	1			100					2	"key,qty=1"	"r33s,qty=2"						useitem			100																										r34s																																																										0
+Rune Upgrade 34	Rune Upgrade Stacked	1			100					2	"key,qty=1"	"r34s,qty=2"						useitem			100																										r35s																																																										0
+Rune Upgrade 35	Rune Upgrade Stacked	1			100					2	"key,qty=1"	"r35s,qty=2"						useitem			100																										r36s																																																										0
+Rune Upgrade 36	Rune Upgrade Stacked	1			100					2	"key,qty=1"	"r36s,qty=2"						useitem			100																										r37s																																																										0
+Rune Upgrade 37	Rune Upgrade Stacked	1			100					2	"key,qty=1"	"r37s,qty=2"						useitem			100																										r38s																																																										0
+Rune Upgrade 38	Rune Upgrade Stacked	1			100					2	"key,qty=1"	"r38s,qty=2"						useitem			100																										r39s																																																										0
+Rune Upgrade 39	Rune Upgrade Stacked	1			100					2	"key,qty=1"	"r39s,qty=2"						useitem			100																										r40s																																																										0
+Rune Upgrade 40	Rune Upgrade Stacked	1			100					2	"key,qty=1"	"r40s,qty=2"						useitem			100																										r41s																																																										0
+Rune Upgrade 41	Rune Upgrade Stacked	1			100					2	"key,qty=1"	"r41s,qty=2"						useitem			100																										r42s																																																										0
+Rune Upgrade 42	Rune Upgrade Stacked	1			100					2	"key,qty=1"	"r42s,qty=2"						useitem			100																										r43s																																																										0
+Rune Upgrade 43	Rune Upgrade Stacked	1			100					2	"key,qty=1"	"r43s,qty=2"						useitem			100																										r44s																																																										0
+Rune Upgrade 44	Rune Upgrade Stacked	1			100					2	"key,qty=1"	"r44s,qty=2"						useitem			100																										r45s																																																										0
+Rune Upgrade 45	Rune Upgrade Stacked	1			100					2	"key,qty=1"	"r45s,qty=2"						useitem			100																										r46s																																																										0
+Rune Upgrade 46	Rune Upgrade Stacked	1			100					2	"key,qty=1"	"r46s,qty=2"						useitem			100																										r47s																																																										0
+Rune Upgrade 47	Rune Upgrade Stacked	1			100					2	"key,qty=1"	"r47s,qty=2"						useitem			100																										r48s																																																										0
+Rune Upgrade 48	Rune Upgrade Stacked	1			100					2	"key,qty=1"	"r48s,qty=2"						useitem			100																										r49s																																																										0
+Rune Upgrade 49	Rune Upgrade Stacked	1			100					2	"key,qty=1"	"r49s,qty=2"						useitem			100																										r50s																																																										0
+cm301	Rune Upgrade	1			100					2	"key,qty=1"	"r01,qty=2"						useitem			100																										r02																																																										0
+cm302	Rune Upgrade	1			100					2	"key,qty=1"	"r02,qty=2"						useitem			100																										r03																																																										0
+cm303	Rune Upgrade	1			100					2	"key,qty=1"	"r03,qty=2"						useitem			100																										r04																																																										0
+cm304	Rune Upgrade	1			100					2	"key,qty=1"	"r04,qty=2"						useitem			100																										r05																																																										0
+cm305	Rune Upgrade	1			100					2	"key,qty=1"	"r05,qty=2"						useitem			100																										r06																																																										0
+cm306	Rune Upgrade	1			100					2	"key,qty=1"	"r06,qty=2"						useitem			100																										r07																																																										0
+cm307	Rune Upgrade	1			100					2	"key,qty=1"	"r07,qty=2"						useitem			100																										r08																																																										0
+cm308	Rune Upgrade	1			100					2	"key,qty=1"	"r08,qty=2"						useitem			100																										r09																																																										0
+cm309	Rune Upgrade	1			100					2	"key,qty=1"	"r09,qty=2"						useitem			100																										r10																																																										0
+cm310	Rune Upgrade	1			100					2	"key,qty=1"	"r10,qty=2"						useitem			100																										r11																																																										0
+cm311	Rune Upgrade	1			100					2	"key,qty=1"	"r11,qty=2"						useitem			100																										r12																																																										0
+cm312	Rune Upgrade	1			100					2	"key,qty=1"	"r12,qty=2"						useitem			100																										r13																																																										0
+cm313	Rune Upgrade	1			100					2	"key,qty=1"	"r13,qty=2"						useitem			100																										r14																																																										0
+cm314	Rune Upgrade	1			100					2	"key,qty=1"	"r14,qty=2"						useitem			100																										r15																																																										0
+cm315	Rune Upgrade	1			100					2	"key,qty=1"	"r15,qty=2"						useitem			100																										r16																																																										0
+cm316	Rune Upgrade	1			100					2	"key,qty=1"	"r16,qty=2"						useitem			100																										r17																																																										0
+cm317	Rune Upgrade	1			100					2	"key,qty=1"	"r17,qty=2"						useitem			100																										r18																																																										0
+cm318	Rune Upgrade	1			100					2	"key,qty=1"	"r18,qty=2"						useitem			100																										r19																																																										0
+cm319	Rune Upgrade	1			100					2	"key,qty=1"	"r19,qty=2"						useitem			100																										r20																																																										0
+cm320	Rune Upgrade	1			100					2	"key,qty=1"	"r20,qty=2"						useitem			100																										r21																																																										0
+cm321	Rune Upgrade	1			100					2	"key,qty=1"	"r21,qty=2"						useitem			100																										r22																																																										0
+cm322	Rune Upgrade	1			100					2	"key,qty=1"	"r22,qty=2"						useitem			100																										r23																																																										0
+cm323	Rune Upgrade	1			100					2	"key,qty=1"	"r23,qty=2"						useitem			100																										r24																																																										0
+cm324	Rune Upgrade	1			100					2	"key,qty=1"	"r24,qty=2"						useitem			100																										r25																																																										0
+cm325	Rune Upgrade	1			100					2	"key,qty=1"	"r25,qty=2"						useitem			100																										r26																																																										0
+cm326	Rune Upgrade	1			100					2	"key,qty=1"	"r26,qty=2"						useitem			100																										r27																																																										0
+cm327	Rune Upgrade	1			100					2	"key,qty=1"	"r27,qty=2"						useitem			100																										r28																																																										0
+cm328	Rune Upgrade	1			100					2	"key,qty=1"	"r28,qty=2"						useitem			100																										r29																																																										0
+cm329	Rune Upgrade	1			100					2	"key,qty=1"	"r29,qty=2"						useitem			100																										r30																																																										0
+cm330	Rune Upgrade	1			100					2	"key,qty=1"	"r30,qty=2"						useitem			100																										r31																																																										0
+cm331	Rune Upgrade	1			100					2	"key,qty=1"	"r31,qty=2"						useitem			100																										r32																																																										0
+cm332	Rune Upgrade	1			100					2	"key,qty=1"	"r32,qty=2"						useitem			100																										r33																																																										0
+cm333	Rune Upgrade	1			100					2	"key,qty=1"	"r33,qty=2"						useitem			100																										r34																																																										0
+cm334	Rune Upgrade	1			100					2	"key,qty=1"	"r34,qty=2"						useitem			100																										r35																																																										0
+cm335	Rune Upgrade	1			100					2	"key,qty=1"	"r35,qty=2"						useitem			100																										r36																																																										0
+cm336	Rune Upgrade	1			100					2	"key,qty=1"	"r36,qty=2"						useitem			100																										r37																																																										0
+cm337	Rune Upgrade	1			100					2	"key,qty=1"	"r37,qty=2"						useitem			100																										r38																																																										0
+cm338	Rune Upgrade	1			100					2	"key,qty=1"	"r38,qty=2"						useitem			100																										r39																																																										0
+cm339	Rune Upgrade	1			100					2	"key,qty=1"	"r39,qty=2"						useitem			100																										r40																																																										0
+cm340	Rune Upgrade	1			100					2	"key,qty=1"	"r40,qty=2"						useitem			100																										r41																																																										0
+cm341	Rune Upgrade	1			100					2	"key,qty=1"	"r41,qty=2"						useitem			100																										r42																																																										0
+cm342	Rune Upgrade	1			100					2	"key,qty=1"	"r42,qty=2"						useitem			100																										r43																																																										0
+cm343	Rune Upgrade	1			100					2	"key,qty=1"	"r43,qty=2"						useitem			100																										r44																																																										0
+cm344	Rune Upgrade	1			100					2	"key,qty=1"	"r44,qty=2"						useitem			100																										r45																																																										0
+cm345	Rune Upgrade	1			100					2	"key,qty=1"	"r45,qty=2"						useitem			100																										r46																																																										0
+cm346	Rune Upgrade	1			100					2	"key,qty=1"	"r46,qty=2"						useitem			100																										r47																																																										0
+cm347	Rune Upgrade	1			100					2	"key,qty=1"	"r47,qty=2"						useitem			100																										r48																																																										0
+cm348	Rune Upgrade	1			100					2	"key,qty=1"	"r48,qty=2"						useitem			100																										r49																																																										0
+cm349	Rune Upgrade	1			100					2	"key,qty=1"	"r49,qty=2"						useitem			100																										r50																																																										0
+cm446	Rune Downgrade	1			100					2	"key,qty=1"	r02						r01																																																																																							0
+cm447	Rune Downgrade	1			100					2	"key,qty=1"	r03						r02																																																																																							0
+cm448	Rune Downgrade	1			100					2	"key,qty=1"	r04						r03																																																																																							0
+cm449	Rune Downgrade	1			100					2	"key,qty=1"	r05						r04																																																																																							0
+cm450	Rune Downgrade	1			100					2	"key,qty=1"	r06						r05																																																																																							0
+cm451	Rune Downgrade	1			100					2	"key,qty=1"	r07						r06																																																																																							0
+cm452	Rune Downgrade	1			100					2	"key,qty=1"	r08						r07																																																																																							0
+cm453	Rune Downgrade	1			100					2	"key,qty=1"	r09						r08																																																																																							0
+cm454	Rune Downgrade	1			100					2	"key,qty=1"	r10						r09																																																																																							0
+cm455	Rune Downgrade	1			100					2	"key,qty=1"	r11						r10																																																																																							0
+cm456	Rune Downgrade	1			100					2	"key,qty=1"	r12						r11																																																																																							0
+cm457	Rune Downgrade	1			100					2	"key,qty=1"	r13						r12																																																																																							0
+cm458	Rune Downgrade	1			100					2	"key,qty=1"	r14						r13																																																																																							0
+cm459	Rune Downgrade	1			100					2	"key,qty=1"	r15						r14																																																																																							0
+cm460	Rune Downgrade	1			100					2	"key,qty=1"	r16						r15																																																																																							0
+cm461	Rune Downgrade	1			100					2	"key,qty=1"	r17						r16																																																																																							0
+cm462	Rune Downgrade	1			100					2	"key,qty=1"	r18						r17																																																																																							0
+cm463	Rune Downgrade	1			100					2	"key,qty=1"	r19						r18																																																																																							0
+cm464	Rune Downgrade	1			100					2	"key,qty=1"	r20						r19																																																																																							0
+cm465	Rune Downgrade	1			100					2	"key,qty=1"	r21						r20																																																																																							0
+cm466	Rune Downgrade	1			100					2	"key,qty=1"	r22						r21																																																																																							0
+cm467	Rune Downgrade	1			100					2	"key,qty=1"	r23						r22																																																																																							0
+cm468	Rune Downgrade	1			100					2	"key,qty=1"	r24						r23																																																																																							0
+cm469	Rune Downgrade	1			100					2	"key,qty=1"	r25						r24																																																																																							0
+cm470	Rune Downgrade	1			100					2	"key,qty=1"	r26						r25																																																																																							0
+cm471	Rune Downgrade	1			100					2	"key,qty=1"	r27						r26																																																																																							0
+cm472	Rune Downgrade	1			100					2	"key,qty=1"	r28						r27																																																																																							0
+cm473	Rune Downgrade	1			100					2	"key,qty=1"	r29						r28																																																																																							0
+cm474	Rune Downgrade	1			100					2	"key,qty=1"	r30						r29																																																																																							0
+cm475	Rune Downgrade	1			100					2	"key,qty=1"	r31						r30																																																																																							0
+cm476	Rune Downgrade	1			100					2	"key,qty=1"	r32						r31																																																																																							0
+cm477	Rune Downgrade	1			100					2	"key,qty=1"	r33						r32																																																																																							0
+cm478	Rune Downgrade	1			100					2	"key,qty=1"	r34						r33																																																																																							0
+cm479	Rune Downgrade	1			100					2	"key,qty=1"	r35						r34																																																																																							0
+cm480	Rune Downgrade	1			100					2	"key,qty=1"	r36						r35																																																																																							0
+cm481	Rune Downgrade	1			100					2	"key,qty=1"	r37						r36																																																																																							0
+cm482	Rune Downgrade	1			100					2	"key,qty=1"	r38						r37																																																																																							0
+cm483	Rune Downgrade	1			100					2	"key,qty=1"	r39						r38																																																																																							0
+cm484	Rune Downgrade	1			100					2	"key,qty=1"	r40						r39																																																																																							0
+cm485	Rune Downgrade	1			100					2	"key,qty=1"	r41						r40																																																																																							0
+cm486	Rune Downgrade	1			100					2	"key,qty=1"	r42						r41																																																																																							0
+cm487	Rune Downgrade	1			100					2	"key,qty=1"	r43						r42																																																																																							0
+cm488	Rune Downgrade	1			100					2	"key,qty=1"	r44						r43																																																																																							0
+cm489	Rune Downgrade	1			100					2	"key,qty=1"	r45						r44																																																																																							0
+cm490	Rune Downgrade	1			100					2	"key,qty=1"	r46						r45																																																																																							0
+cm491	Rune Downgrade	1			100					2	"key,qty=1"	r47						r46																																																																																							0
+cm492	Rune Downgrade	1			100					2	"key,qty=1"	r48						r47																																																																																							0
+cm493	Rune Downgrade	1			100					2	"key,qty=1"	r49						r48																																																																																							0
+cm494	Rune Downgrade	1			100					2	"key,qty=1"	r50						r49																																																																																							0
 Item Unsocket - Low	Oil of Disjunction Unsocket Grey	1			100	16	219	8		5	"dcht,sock,low"	2oµ	"gem4,qty=3"					"useitem,rem"																																																																																							0
 Item Unsocket - Normal	Oil of Disjunction Unsocket Grey	1			100	16	219	8		5	"dcht,sock,nor"	2oµ	"gem4,qty=3"					"useitem,rem"																																																																																							0
 Item Unsocket - Superior	Oil of Disjunction Unsocket Grey	1			100	16	219	8		5	"dcht,sock,hig"	2oµ	"gem4,qty=3"					"useitem,rem"																																																																																							0
