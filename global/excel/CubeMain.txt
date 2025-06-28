@@ -301,7 +301,7 @@ cm297	Gem Upgrade	1								3	"5$b,qty=2"	5$c						5$d																											
 cm298	Gem Upgrade	1								4	"5$b,qty=4"							5$d																																																																																							0
 cm299	Gem Upgrade	1								3	"5$c,qty=2"	5$d						5$e																																																																																							0
 cm300	Gem Upgrade	1								4	"5$c,qty=4"							5$e																																																																																							0
-dev create rune	Convert Rune into Stacked	1			100					1	hpot							r12s			100																																																																																				0
+dev create rune	Convert Rune into Stacked	1			100					1	hpot							r48s			100																																																																																				0
 r01	Convert Rune into Stacked	1			100					1	r01							r01s			100																																																																																				0
 r02	Convert Rune into Stacked	1			100					1	r02							r02s			100																																																																																				0
 r03	Convert Rune into Stacked	1			100					1	r03							r03s			100																																																																																				0
@@ -335,6 +335,29 @@ r30	Convert Rune into Stacked	1			100					1	r30							r30s			100																
 r31	Convert Rune into Stacked	1			100					1	r31							r31s			100																																																																																				0
 r32	Convert Rune into Stacked	1			100					1	r32							r32s			100																																																																																				0
 r33	Convert Rune into Stacked	1			100					1	r33							r33s			100																																																																																				0
+r34	Convert Rune into Stacked	1			100					1	r34							r34s			100																																																																																				0
+r35	Convert Rune into Stacked	1			100					1	r35							r35s			100																																																																																				0
+r36	Convert Rune into Stacked	1			100					1	r36							r36s			100																																																																																				0
+r37	Convert Rune into Stacked	1			100					1	r37							r37s			100																																																																																				0
+r38	Convert Rune into Stacked	1			100					1	r38							r38s			100																																																																																				0
+r39	Convert Rune into Stacked	1			100					1	r39							r39s			100																																																																																				0
+r40	Convert Rune into Stacked	1			100					1	r40							r40s			100																																																																																				0
+r41	Convert Rune into Stacked	1			100					1	r41							r41s			100																																																																																				0
+r42	Convert Rune into Stacked	1			100					1	r42							r42s			100																																																																																				0
+r43	Convert Rune into Stacked	1			100					1	r43							r43s			100																																																																																				0
+r44	Convert Rune into Stacked	1			100					1	r44							r44s			100																																																																																				0
+r45	Convert Rune into Stacked	1			100					1	r45							r45s			100																																																																																				0
+r46	Convert Rune into Stacked	1			100					1	r46							r46s			100																																																																																				0
+r47	Convert Rune into Stacked	1			100					1	r47							r47s			100																																																																																				0
+r48	Convert Rune into Stacked	1			100					1	r48							r48s			100																																																																																				0
+r49	Convert Rune into Stacked	1			100					1	r49							r49s			100																																																																																				0
+r50	Convert Rune into Stacked	1			100					1	r50							r50s			100																																																																																				0
+r51	Convert Rune into Stacked	1			100					1	r51							r51s			100																																																																																				0
+r52	Convert Rune into Stacked	1			100					1	r52							r52s			100																																																																																				0
+r53	Convert Rune into Stacked	1			100					1	r53							r53s			100																																																																																				0
+r54	Convert Rune into Stacked	1			100					1	r54							r54s			100																																																																																				0
+r55	Convert Rune into Stacked	1			100					1	r55							r55s			100																																																																																				0
+r56	Convert Rune into Stacked	1			100					1	r56							r56s			100																																																																																				0
 r01s	Unstack Rune	1			100					1	"r01s,qty=1"							r01			100																																																																																				0
 r02s	Unstack Rune	1			100					1	"r02s,qty=1"							r02			100																																																																																				0
 r03s	Unstack Rune	1			100					1	"r03s,qty=1"							r03			100																																																																																				0
@@ -368,6 +391,29 @@ r30s	Unstack Rune	1			100					1	"r30s,qty=1"							r30			100																				
 r31s	Unstack Rune	1			100					1	"r31s,qty=1"							r31			100																																																																																				0
 r32s	Unstack Rune	1			100					1	"r32s,qty=1"							r32			100																																																																																				0
 r33s	Unstack Rune	1			100					1	"r33s,qty=1"							r33			100																																																																																				0
+r34s	Unstack Rune	1			100					1	"r34s,qty=1"							r34			100																																																																																				0
+r35s	Unstack Rune	1			100					1	"r35s,qty=1"							r35			100																																																																																				0
+r36s	Unstack Rune	1			100					1	"r36s,qty=1"							r36			100																																																																																				0
+r37s	Unstack Rune	1			100					1	"r37s,qty=1"							r37			100																																																																																				0
+r38s	Unstack Rune	1			100					1	"r38s,qty=1"							r38			100																																																																																				0
+r39s	Unstack Rune	1			100					1	"r39s,qty=1"							r39			100																																																																																				0
+r40s	Unstack Rune	1			100					1	"r40s,qty=1"							r40			100																																																																																				0
+r41s	Unstack Rune	1			100					1	"r41s,qty=1"							r41			100																																																																																				0
+r42s	Unstack Rune	1			100					1	"r42s,qty=1"							r42			100																																																																																				0
+r43s	Unstack Rune	1			100					1	"r43s,qty=1"							r43			100																																																																																				0
+r44s	Unstack Rune	1			100					1	"r44s,qty=1"							r44			100																																																																																				0
+r45s	Unstack Rune	1			100					1	"r45s,qty=1"							r45			100																																																																																				0
+r46s	Unstack Rune	1			100					1	"r46s,qty=1"							r46			100																																																																																				0
+r47s	Unstack Rune	1			100					1	"r47s,qty=1"							r47			100																																																																																				0
+r48s	Unstack Rune	1			100					1	"r48s,qty=1"							r48			100																																																																																				0
+r49s	Unstack Rune	1			100					1	"r49s,qty=1"							r49			100																																																																																				0
+r50s	Unstack Rune	1			100					1	"r50s,qty=1"							r50			100																																																																																				0
+r51s	Unstack Rune	1			100					1	"r51s,qty=1"							r51			100																																																																																				0
+r52s	Unstack Rune	1			100					1	"r52s,qty=1"							r52			100																																																																																				0
+r53s	Unstack Rune	1			100					1	"r53s,qty=1"							r53			100																																																																																				0
+r54s	Unstack Rune	1			100					1	"r54s,qty=1"							r54			100																																																																																				0
+r55s	Unstack Rune	1			100					1	"r55s,qty=1"							r55			100																																																																																				0
+r56s	Unstack Rune	1			100					1	"r56s,qty=1"							r56			100																																																																																				0
 Rune Upgrade 1	Rune Upgrade Stacked	1			100					2	"key,qty=1"	"r01s,qty=2"						useitem			100																										r02s																																																										0
 Rune Upgrade 2	Rune Upgrade Stacked	1			100					2	"key,qty=1"	"r02s,qty=2"						useitem			100																										r03s																																																										0
 Rune Upgrade 3	Rune Upgrade Stacked	1			100					2	"key,qty=1"	"r03s,qty=2"						useitem			100																										r04s																																																										0
