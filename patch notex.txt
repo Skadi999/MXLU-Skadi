@@ -1,11 +1,11 @@
 PD2 CORE CHANGES:
 - Stacking: Currently implemented for:
   - All clod runes + all cmxl runes 
+  - Gems
   - All Shrines
 
 TODO:
 - Stacking:
-  - Gems
   - Elemental Runes, essences, unknown skull,...
   - Mystic Orbs - only stacked
   - Oils - only stacked

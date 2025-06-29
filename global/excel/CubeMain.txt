@@ -4,13 +4,13 @@ cm1	Khalim's Will	1				28				4	qf1	qhr	qey	qbr				qf2																											
 cm2	Cow Portal	1				28				1	leg							Cow Portal																																																																																							0
 cm33	Belladonna Elixir	1								2	8oµ	rune						toa	99																																																																																						0
 cm34	Book of Summoning	1								6	"mec,qty=3"	"vic,qty=3"						ScrollOfSummons																																																																																							0
-dev create itemmm	DEV RECIPE	1			100					1	hpot							A0+																																																																																							0
-cm3	DEV RECIPE				100					1	hpot							TradersChest2	120		120																										`^#	120		120																										9$a	120		120																										0
+dev create itemmm	DEV RECIPE	1			100					1	hpot							5$es																																																																																							0
+cm3	DEV RECIPE	1			100					1	mpot							yo5s																																																																																							0
 cm4	DEV RECIPE				100					2	"hpot,qty=2"							MRHadriel's Courage	120		120																										MRHadriel's Pure Heart	120		120																											120		120																										0
 cm5	DEV RECIPE				100					1	rin							useitem				pr125		1156	1	1																					MSApehand	120		120																											120		120																										0
 cm6	DEV RECIPE				100					1	armo							"useitem,rem"																																																																																							0
-cm6	DEV RECIPE	1			100					1	mpot							@15																																																																																							0
-create rar dev	DEV RECIPE	1			100					1	@15							"usetype,rar"			85																																																																																				0
+cm6	DEV RECIPE				100					1	mpot							@15																																																																																							0
+create rar dev	DEV RECIPE				100					1	@15							"usetype,rar"			85																																																																																				0
 cm15	Bremmtown Decoy	1			100	18	491	1	ama	2	Sacred Sunstone	qum						useitem																																																																																							0
 cm16	Bremmtown Decoy	1			100	18	491	1	ass	2	Shadow Vortex	qum						useitem																																																																																							0
 cm17	Bremmtown Decoy	1			100	18	491	1	bar	2	Worldstone Orb	qum						useitem																																																																																							0
@@ -2143,3 +2143,27 @@ cm6190	Shrine Blessing	1			100	16	219			3	"ct1w,noe,tmp"	"O0+,qty=1"	qum					use
 cm6191	Shrine Blessing	1			100	16	219			3	"ct2w,noe,crf"	"O0+,qty=1"	qum					useitem			100	pr469			1	1	pr206	100		4	30	pr37	100		2	4	pr12	100		-15	-15						O1+																																																										0
 cm6192	Shrine Blessing	1			100	16	219			3	"ct2w,noe,rar"	"O0+,qty=1"	qum					useitem			100	pr469			1	1	pr206	100		4	30	pr37	100		2	4	pr12	100		-15	-15						O1+																																																										0
 cm6194	Shrine Blessing	1			100	16	219			3	"ct2w,noe,tmp"	"O0+,qty=1"	qum					useitem			100	pr469			1	1	pr206	100		4	30	pr37	100		2	4	pr12	100		-15	-15						O1+																																																										0
+Unstack Amethyst		1			100					1	"gpvs,qty=1"							gpv			100																																																																																				0
+Unstack Topaz		1			100					1	"gpys,qty=1"							gpy			100																																																																																				0
+Unstack Sapphire		1			100					1	"gpbs,qty=1"							gpb			100																																																																																				0
+Unstack Emerald		1			100					1	"gpgs,qty=1"							gpg			100																																																																																				0
+Unstack Ruby		1			100					1	"gprs,qty=1"							gpr			100																																																																																				0
+Unstack Diamond		1			100					1	"gpws,qty=1"							gpw			100																																																																																				0
+Unstack Skull		1			100					1	"skzs,qty=1"							skz			100																																																																																				0
+Stack Amethyst		1			100					1	gpv							gpvs			100																																																																																				0
+Stack Topaz		1			100					1	gpy							gpys			100																																																																																				0
+Stack Sapphire		1			100					1	gpb							gpbs			100																																																																																				0
+Stack Emerald		1			100					1	gpg							gpgs			100																																																																																				0
+Stack Ruby		1			100					1	gpr							gprs			100																																																																																				0
+Stack Diamond		1			100					1	gpw							gpws			100																																																																																				0
+Stack Skull		1			100					1	skz							skzs			100																																																																																				0
+Unstack Onyx		1			100					1	"g$es,qty=1"							g$e			100																																																																																				0
+Unstack Bloodstone		1			100					1	"9$es,qty=1"							9$e			100																																																																																				0
+Unstack Turquoise		1			100					1	"7$es,qty=1"							7$e			100																																																																																				0
+Unstack Amber		1			100					1	"5$es,qty=1"							5$e			100																																																																																				0
+Unstack Rainbow		1			100					1	"yo5s,qty=1"							yo5			100																																																																																				0
+Stack Onyx		1			100					1	g$e							g$es			100																																																																																				0
+Stack Bloodstone		1			100					1	9$e							9$es			100																																																																																				0
+Stack Turquoise		1			100					1	7$e							7$es			100																																																																																				0
+Stack Amber		1			100					1	5$e							5$es			100																																																																																				0
+Stack Rainbow		1			100					1	yo5							yo5s			100																																																																																				0
