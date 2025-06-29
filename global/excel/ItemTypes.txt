@@ -255,60 +255,60 @@ Stack Rune			runs												1			1								3											misc	0
 Stack Shrine			pshs												1			1								3											misc	0
 Generic Rune			rung												1			1								3											misc	0
 El Rune Generic			r01g	rung											1			1								3											misc	0
-Eld Rune Generic			r02g	rung											1			1								3												0
-Tir Rune Generic			r03g	rung											1			1								3												0
-Nef Rune Generic			r04g	rung											1			1								3												0
-Eth Rune Generic			r05g	rung											1			1								3												0
-Ith Rune Generic			r06g	rung											1			1								3												0
-Tal Rune Generic			r07g	rung											1			1								3												0
-Ral Rune Generic			r08g	rung											1			1								3												0
-Ort Rune Generic			r09g	rung											1			1								3												0
-Thul Rune Generic			r10g	rung											1			1								3												0
-Amn Rune Generic			r11g	rung											1			1								3												0
-Sol Rune Generic			r12g	rung											1			1								3												0
-Shael Rune Generic			r13g	rung											1			1								3												0
-Dol Rune Generic			r14g	rung											1			1								3												0
-Hel Rune Generic			r15g	rung											1			1								3												0
-Io Rune Generic			r16g	rung											1			1								3												0
-Lum Rune Generic			r17g	rung											1			1								3												0
-Ko Rune Generic			r18g	rung											1			1								3												0
-Fal Rune Generic			r19g	rung											1			1								3												0
-Lem Rune Generic			r20g	rung											1			1								3												0
-Pul Rune Generic			r21g	rung											1			1								3												0
-Um Rune Generic			r22g	rung											1			1								3												0
-Mal Rune Generic			r23g	rung											1			1								3												0
-Ist Rune Generic			r24g	rung											1			1								3												0
-Gul Rune Generic			r25g	rung											1			1								3												0
-Vex Rune Generic			r26g	rung											1			1								3												0
-Ohm Rune Generic			r27g	rung											1			1								3												0
-Lo Rune Generic			r28g	rung											1			1								3												0
-Sur Rune Generic			r29g	rung											1			1								3												0
-Ber Rune Generic			r30g	rung											1			1								3												0
-Jah Rune Generic			r31g	rung											1			1								3												0
-Cham Rune Generic			r32g	rung											1			1								3												0
-Zod Rune Generic			r33g	rung											1			1								3												0
-Sha Rune Generic			r34g	rung											1			1								3												0
-Lah Rune Generic			r35g	rung											1			1								3												0
-Kur Rune Generic			r36g	rung											1			1								3												0
-Ix Rune Generic			r37g	rung											1			1								3												0
-Thur Rune Generic			r38g	rung											1			1								3												0
-Nas Rune Generic			r39g	rung											1			1								3												0
-Ath Rune Generic			r40g	rung											1			1								3												0
-Kra Rune Generic			r41g	rung											1			1								3												0
-Vith Rune Generic			r42g	rung											1			1								3												0
-No Rune Generic			r43g	rung											1			1								3												0
-Yul Rune Generic			r44g	rung											1			1								3												0
-Thai Rune Generic			r45g	rung											1			1								3												0
-Rha Rune Generic			r46g	rung											1			1								3												0
-Xar Rune Generic			r47g	rung											1			1								3												0
-Nih Rune Generic			r48g	rung											1			1								3												0
-Lai Rune Stock			r49g	rung											1			1								3												0
-On Rune Generic			r50g	rung											1			1								3												0
-Taha Rune Generic			r51g	rung											1			1								3												0
-Ghal Rune Generic			r52g	rung											1			1								3												0
-Qor Rune Generic			r53g	rung											1			1								3												0
-Krys Rune Generic			r54g	rung											1			1								3												0
-Auhe Rune Generic			r55g	rung											1			1								3												0
-Shaad Rune Generic			r56g	rung											1			1								3												0
+Eld Rune Generic			r02g	rung											1			1								3											misc	0
+Tir Rune Generic			r03g	rung											1			1								3											misc	0
+Nef Rune Generic			r04g	rung											1			1								3											misc	0
+Eth Rune Generic			r05g	rung											1			1								3											misc	0
+Ith Rune Generic			r06g	rung											1			1								3											misc	0
+Tal Rune Generic			r07g	rung											1			1								3											misc	0
+Ral Rune Generic			r08g	rung											1			1								3											misc	0
+Ort Rune Generic			r09g	rung											1			1								3											misc	0
+Thul Rune Generic			r10g	rung											1			1								3											misc	0
+Amn Rune Generic			r11g	rung											1			1								3											misc	0
+Sol Rune Generic			r12g	rung											1			1								3											misc	0
+Shael Rune Generic			r13g	rung											1			1								3											misc	0
+Dol Rune Generic			r14g	rung											1			1								3											misc	0
+Hel Rune Generic			r15g	rung											1			1								3											misc	0
+Io Rune Generic			r16g	rung											1			1								3											misc	0
+Lum Rune Generic			r17g	rung											1			1								3											misc	0
+Ko Rune Generic			r18g	rung											1			1								3											misc	0
+Fal Rune Generic			r19g	rung											1			1								3											misc	0
+Lem Rune Generic			r20g	rung											1			1								3											misc	0
+Pul Rune Generic			r21g	rung											1			1								3											misc	0
+Um Rune Generic			r22g	rung											1			1								3											misc	0
+Mal Rune Generic			r23g	rung											1			1								3											misc	0
+Ist Rune Generic			r24g	rung											1			1								3											misc	0
+Gul Rune Generic			r25g	rung											1			1								3											misc	0
+Vex Rune Generic			r26g	rung											1			1								3											misc	0
+Ohm Rune Generic			r27g	rung											1			1								3											misc	0
+Lo Rune Generic			r28g	rung											1			1								3											misc	0
+Sur Rune Generic			r29g	rung											1			1								3											misc	0
+Ber Rune Generic			r30g	rung											1			1								3											misc	0
+Jah Rune Generic			r31g	rung											1			1								3											misc	0
+Cham Rune Generic			r32g	rung											1			1								3											misc	0
+Zod Rune Generic			r33g	rung											1			1								3											misc	0
+Sha Rune Generic			r34g	rung											1			1								3											misc	0
+Lah Rune Generic			r35g	rung											1			1								3											misc	0
+Kur Rune Generic			r36g	rung											1			1								3											misc	0
+Ix Rune Generic			r37g	rung											1			1								3											misc	0
+Thur Rune Generic			r38g	rung											1			1								3											misc	0
+Nas Rune Generic			r39g	rung											1			1								3											misc	0
+Ath Rune Generic			r40g	rung											1			1								3											misc	0
+Kra Rune Generic			r41g	rung											1			1								3											misc	0
+Vith Rune Generic			r42g	rung											1			1								3											misc	0
+No Rune Generic			r43g	rung											1			1								3											misc	0
+Yul Rune Generic			r44g	rung											1			1								3											misc	0
+Thai Rune Generic			r45g	rung											1			1								3											misc	0
+Rha Rune Generic			r46g	rung											1			1								3											misc	0
+Xar Rune Generic			r47g	rung											1			1								3											misc	0
+Nih Rune Generic			r48g	rung											1			1								3											misc	0
+Lai Rune Stock			r49g	rung											1			1								3											misc	0
+On Rune Generic			r50g	rung											1			1								3											misc	0
+Taha Rune Generic			r51g	rung											1			1								3											misc	0
+Ghal Rune Generic			r52g	rung											1			1								3											misc	0
+Qor Rune Generic			r53g	rung											1			1								3											misc	0
+Krys Rune Generic			r54g	rung											1			1								3											misc	0
+Auhe Rune Generic			r55g	rung											1			1								3											misc	0
+Shaad Rune Generic			r56g	rung											1			1								3											misc	0
 Shrine Generic			pshg												1			1								3											misc	0
 Shrine Creepy G			p01g	pshg											1			1								3											misc	0
