@@ -31,6 +31,7 @@ Current Changes:
 -Affix Burn Recipe is now Weapon/Armor + Oil of Absolution.
 -Slain Monsters RIP now uses Oil of Absolution
 -Item destruction recipes removed
+-[UNTESTED] Zomghelp recipe removed, added a recipe to change any Superior/Magic/Rare item to ilvl 1: Item + Oil of Renewal + Oil of Absolution
 
 --- Items ---
 -Gemwords have been removed from the game as they're quite useless.
@@ -59,7 +60,6 @@ TODO:
 - Add normal/exceptional/elite codes to armor & weapons, remove unique uptier and add clod upgrade to exceptional/elite
 - Reduce mob stun length
 - Add a new stat that shows real value of hp regen
-- Change Zomghelp Recipe
 - Overhaul/remove crafting points
 - Overhaul Azmodan and his trash mobs and remove random stats from Azmodan and other bosses. Change Azmodan model and reuse old Azmodan model for a new boss
 - Use some sprites from later MXL versions like class charms and other mods
