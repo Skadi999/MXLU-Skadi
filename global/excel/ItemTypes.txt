@@ -312,3 +312,54 @@ Auhe Rune Generic			r55g	rung											1			1								3											misc	0
 Shaad Rune Generic			r56g	rung											1			1								3											misc	0
 Shrine Generic			pshg												1			1								3											misc	0
 Shrine Creepy G			p01g	pshg											1			1								3											misc	0
+Abandoned Shrine G			p02g	pshg											1			1								3											misc	0
+Quiet Shrine G			p03g	pshg											1			1								3											misc	0
+Eerie Shrine G			p04g	pshg											1			1								3											misc	0
+Weird Shrine G			p05g	pshg											1			1								3											misc	0
+Gloomy Shrine G			p06g	pshg											1			1								3											misc	0
+Tainted Shrine G			p07g	pshg											1			1								3											misc	0
+Fascinating Shrine G			p08g	pshg											1			1								3											misc	0
+Ornate Shrine G			p09g	pshg											1			1								3											misc	0
+Sacred Shrine G			p10g	pshg											1			1								3											misc	0
+Shimmering Shrine G			p11g	pshg											1			1								3											misc	0
+Spiritual Shrine G			p12g	pshg											1			1								3											misc	0
+Magical Shrine G			p13g	pshg											1			1								3											misc	0
+Enchanted Shrine G			p14g	pshg											1			1								3											misc	0
+Hidden Shrine G			p15g	pshg											1			1								3											misc	0
+Stone Shrine G			p16g	pshg											1			1								3											misc	0
+Stack gem			gsm	ggm											1			1								3											misc	0
+Stack Perfect Gem			gsm4	gsm	ggm4										1			1								3											misc	0
+Stack Amethyst			gsma	gsm	ggma										1			1								3											misc	0
+Stack Diamond			gsmd	gsm	ggmd										1			1								3											misc	0
+Stack Emerald			gsme	gsm	ggme										1			1								3											misc	0
+Stack Ruby			gsmr	gsm	ggmr										1			1								3											misc	0
+Stack Sapphire			gsms	gsm	ggms										1			1								3											misc	0
+Stack Topaz			gsmt	gsm	ggmt										1			1								3											misc	0
+Stack Skull			gsmz	gsm	ggmz										1			1								3											misc	0
+Generic Gem			ggm												1			1								3											misc	0
+Generic Flawless Gem			ggm3	ggm											1			1								3											misc	0
+Generic Perfect Gem			ggm4	ggm											1			1								3											misc	0
+Generic Amethyst			ggma	ggm											1			1								3											misc	0
+Generic Diamond			ggmd	ggm											1			1								3											misc	0
+Generic Emerald			ggme	ggm											1			1								3											misc	0
+Generic Ruby			ggmr	ggm											1			1								3											misc	0
+Generic Sapphire			ggms	ggm											1			1								3											misc	0
+Generic Topaz			ggmt	ggm											1			1								3											misc	0
+Generic Skull			ggmz	ggm											1			1								3											misc	0
+Generic P Onyx			ghma	ggm											1			1								3											misc	0
+Generic P Bloodstone			ghmb	ggm											1			1								3											misc	0
+Generic P Turquoise			ghmc	ggm											1			1								3											misc	0
+Generic P Amber			ghmd	ggm											1			1								3											misc	0
+Generic P Rainbow			ghme	ggm											1			1								3											misc	0
+Generic P Amethyst			gg4a	ggma	ggm4										1			1								3											misc	0
+Generic P Diamond			gg4d	ggmd	ggm4										1			1								3											misc	0
+Generic P Emerald			gg4e	ggme	ggm4										1			1								3											misc	0
+Generic P Ruby			gg4r	ggmr	ggm4										1			1								3											misc	0
+Generic P Sapphire			gg4s	ggms	ggm4										1			1								3											misc	0
+Generic P Topaz			gg4t	ggmt	ggm4										1			1								3											misc	0
+Generic P Skull			gg4z	ggmz	ggm4										1			1								3											misc	0
+Generic P Onyx			gh4a	ghma	ggm4										1			1								3											misc	0
+Generic P Bloodstone			gh4b	ghmb	ggm4										1			1								3											misc	0
+Generic P Turquoise			gh4c	ghmc	ggm4										1			1								3											misc	0
+Generic P Amber			gh4d	ghmd	ggm4										1			1								3											misc	0
+Generic P Rainbow			gh4e	ghme	ggm4										1			1								3											misc	0

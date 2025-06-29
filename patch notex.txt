@@ -1,3 +1,19 @@
+PD2 CORE CHANGES:
+- Stacking: Currently implemented for:
+  - All clod runes + all cmxl runes 
+  - All Shrines
+
+TODO:
+- Stacking:
+  - Gems
+  - Elemental Runes, essences, unknown skull,...
+  - Mystic Orbs - only stacked
+  - Oils - only stacked
+  - Arcane Shards - only stacked
+
+- Test out PD2 stuff like ctc on cast, maybe can remove the on kill monprop stuff, monster resists cant go below 0%?
+
+
 Current Changes:
 
 --- General ---
@@ -40,12 +56,13 @@ Current Changes:
 
 TODO:
 - IMPORTANT: Check if monster tokens that start with 0 are working properly - like 08 for Mutilator!
+- Add normal/exceptional/elite codes to armor & weapons, remove unique uptier and add clod upgrade to exceptional/elite
 - Reduce mob stun length
 - Add a new stat that shows real value of hp regen
 - Change Zomghelp Recipe
 - Overhaul/remove crafting points
 - Overhaul Azmodan and his trash mobs and remove random stats from Azmodan and other bosses. Change Azmodan model and reuse old Azmodan model for a new boss
-- Use some sprites from later MXL versions like class charms
+- Use some sprites from later MXL versions like class charms and other mods
 - Change class charm acquisition to recipe like in Sigma
 - Overhaul some TUs, SUs
 - Restore some item stats that were removed in 2012 like 5% max res on Imperius set boots
