@@ -1477,9 +1477,9 @@ Athulua Guard Charm				1	1024					x#y	1																																0
 Athulua Guard Reward				-2						Athulua Guard Charm	1		Andariel	1																													0
 asgagasgacxxccxx				1						asgagasgacxxcc	1																																0
 zvxmvknkmnmnxvjn1				1						"gld,mul=32096"	1																																0
-zvxmvknkmnmnxvjn2				1						qum	1																																0
-zvxmvknkmnmnxvjn3				1						qum	1																																0
-zvxmvknkmnmnxvjn4				1						qum	1																																0
+zvxmvknkmnmnxvjn2				1						qul1	1																																0
+zvxmvknkmnmnxvjn3				1						qul1	1																																0
+zvxmvknkmnmnxvjn4				1						qul1	1																																0
 zvxmvknkmnmnxvjn5				1						#X9	1																																0
 zvxmvknkmnmnxvjn6				1	1024					mlmxvzmvnjnajnjnjcznjn	1																																0
 sagkaskfmalsfmalksfm				-6						zvxmvknkmnmnxvjn1	1		zvxmvknkmnmnxvjn2	1		zvxmvknkmnmnxvjn3	1		zvxmvknkmnmnxvjn4	1		zvxmvknkmnmnxvjn5	1		zvxmvknkmnmnxvjn6	1																	0
@@ -1499,7 +1499,7 @@ Secret Chrysaor Equip			85	2	800					weap81	4		armo81	1		weap84	6		armo84	3		wea
 Secret Chrysaor US				1						r97	1																																0
 Secret Chrysaor Drop				-2						Secret Chrysaor US	1		Secret Chrysaor Equip	1																													0
 Maggot (H)				1	1024					BrachyceranReward	1																																0
-Maggot Boss SuperDrop				-6						||*	1		||`	1		qum	1		||_	1		Maggot (H)	1		Secret Chrysaor Equip	1																	0
+Maggot Boss SuperDrop				-6						||*	1		||`	1		qul1	1		||_	1		Maggot (H)	1		Secret Chrysaor Equip	1																	0
 LC0 Charmxx				1	1024					HEYTHISISLC0CHARM2	1																																0
 LC0 Dropz				-3						LC0 Charmxx	1		ChippedNGem	1		"gld,mul=4096"	1																										0
 Labrynth Set Drop A				1		1024				set_lab1	4		Blank TC	1																													0

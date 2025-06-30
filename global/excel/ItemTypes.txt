@@ -363,3 +363,4 @@ Generic P Bloodstone			gh4b	ghmb	ggm4										1			1								3											misc	0
 Generic P Turquoise			gh4c	ghmc	ggm4										1			1								3											misc	0
 Generic P Amber			gh4d	ghmd	ggm4										1			1								3											misc	0
 Generic P Rainbow			gh4e	ghme	ggm4										1			1								3											misc	0
+Stack Shards			quls												1			1								3											misc	0
