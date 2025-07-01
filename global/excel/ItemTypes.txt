@@ -203,7 +203,7 @@ sscd			sscd	scrd	ct1w	1	1	rarm	larm								1					6	6	6		3			sor								weap	0
 stor			stor	tors		1	1	tors	tors								1					6	6	6		2		1	sor								armo	0
 sstr			sstr	stor	ct2a	1	1	tors	tors								1					6	6	6		2		1	sor								armo	0
 waah			waah																							3											misc	0
-asaa			asaa															1								3											misc	0
+Mystic Orb			asaa															1								3											misc	0
 qamu			qamu	amul			1	neck	neck							1	1									3		1		3	invamu1	invamu2	invamu3				misc	0
 qrin			qrin	ring			1	rrin	lrin							1	1									3		1		5	invrin1	invrin2	invrin3	invrin4	invrin5		misc	0
 qmsl			qmsl	misl												1	1									3												0
@@ -230,7 +230,7 @@ ct2w			ct2w	ssgl																						3												0
 #bow			#bow	bow			1	rarm	larm	bowq							1								1	2											weap	0
 dcht			dcht																							3												0
 ssgl			ssgl																							3												0
-asa#			asa#															1								3											misc	0
+Mystic Orb Unique			asa#															1								3											misc	0
 ####			####	mele			1	rarm									1																				weap	0
 dbox			dbox	fbox																						3												0
 nbox			nbox	fbox																						3												0
