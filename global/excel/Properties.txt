@@ -420,7 +420,7 @@ pr416	1	Mystic Orbs			1	is244																									Mystic Orbs		min	max	none	
 pr417	1	Mystic Orbs			1	is245																									Mystic Orbs		1	1	desc string for Evanescence	0
 pr418	1	Mystic Orbs			1	is246																									Mystic Orbs		min	max	none	0
 pr419	1	Mystic Orbs			1	is249																									Mystic Orbs		min	max	none	0
-pr420	1	Mystic Orbs UNUSED			1	is251																									Mystic Orbs UNUSED		min	max	none	0
+pr420	1	Skill on Cast UNUSED			11	is251																									Proc Skill on Cast	Skill #	% Chance	Level	none	0
 pr421	1	Mystic Orbs			1	is255																									Mystic Orbs		min	max	none	0
 pr422	1	Mystic Orbs			1	is256																									Mystic Orbs		min	max	none	0
 pr423	1	Mystic Orbs			1	is257																									Mystic Orbs		min	max	none	0

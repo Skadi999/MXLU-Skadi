@@ -12,3 +12,4 @@ ev9	killed something
 ev10	killed by something
 ev11	dealt damage
 ev12	gain a level
+dospellcast	do skill that uses mode SC

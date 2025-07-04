@@ -5,13 +5,16 @@ PD2 CORE CHANGES:
   - All Shrines
   - Arcane Shards
   - Mystic Orbs
+  - Resistance penetration now works at ½ efficiency below 0% resist instead of capping at 0%
+  - Summon res capped at 90%?
 
 TODO:
 - Stacking:
   - Elemental Runes, essences, unknown skull,...
   - Oils - only stacked
+  - Jewel Fragments
 
-- Test out PD2 stuff like ctc on cast, maybe can remove the on kill monprop stuff, monster resists cant go below 0%?
+- Test out PD2 stuff like ctc on cast
 
 
 Current Changes:

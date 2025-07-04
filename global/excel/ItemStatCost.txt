@@ -250,7 +250,7 @@ is247	247			1	6											213	1024	1024		6		10				2	5	is12	is136						1					86	7
 is248	248			1	6											181	128	1024		6		10				2	5	is12	is135						1					82	7	1	ModStr3m	ModStr3m	increaseswithplaylevelX								0
 is249	249	c		1	12											13	4	1024		5		5																															0
 is250	250	1.B9 TOTEMBOUND CHECK		1	6											118	512	1024		6		10																															0
-is251	251	c		1	12											13	4	1024		5		5																															0
+is251	251	Skill on Casting UNUSED 4 NOW		1	7	16						1			2	190	256	1024		21	0	7	0	16												dospellcast	30			160	15		ModItemSkOnCast	ModItemSkOnCast									0
 is252	252			1	5											106	256	1024		5		6																		3	11		ModStre9t	ModStre9t									0
 is253	253			1	5											106	256	1024		5		6																		4	3		ModStre9v	ModStre9v									0
 is254	254			1												99	10	1024		8		8																		5	3		ModStre9i	ModStre9i									0
