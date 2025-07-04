@@ -14,8 +14,6 @@ TODO:
   - Oils - only stacked
   - Jewel Fragments
 
-- Test out PD2 stuff like ctc on cast
-
 
 Current Changes:
 
