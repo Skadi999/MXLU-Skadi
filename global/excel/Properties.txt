@@ -390,7 +390,7 @@ pr386	1	new mod (combo)			1	is265																									Laz / Combination affi
 pr387	1	new mod (combo)			1	is299																									Laz / Combination affix		min	max	none	0
 pr388	1	new mod (combo)			1	is300																									Laz / Combination affix		min	max	none	0
 pr389	1	new mod (combo)			1	is259																									Laz / Combination affix		min	max	none	0
-pr390	1	Mystic Orbs			1	is184																									Mystic Orbs		min	max	none	0
+pr390	1	Mystic Orbs UNUSED			1	is184																									Mystic Orbs		min	max	none	0
 pr391	1	Mystic Orbs			1	is191																									Mystic Orbs		min	max	does it actually use cold length?	0
 pr392	1	Mystic Orbs			1	is192																									Mystic Orbs		min	max	none	0
 pr393	1	Mystic Orbs			1	is193																									Mystic Orbs		min	max	none	0
@@ -400,7 +400,7 @@ pr396	1	Mystic Orbs			1	is206																									Mystic Orbs		min	max	none	
 pr397	1	Mystic Orbs			1	is207																									Mystic Orbs	(8ths!)			none	0
 pr398	1	Mystic Orbs			1	is213																									Mystic Orbs		min	max	none	0
 pr399	1	Mystic Orbs			1	is220																									Mystic Orbs		min	max	none	0
-pr400	1	Mystic Orbs UNUSED			1	is221																									Mystic Orbs UNUSED		min	max	none	0
+pr400	1	Mystic Orbs			1	is221																									Mystic Orbs UNUSED		min	max	none	0
 pr401	1	Mystic Orbs			1	is222																									Mystic Orbs		min	max	none	0
 pr402	1	Mystic Orbs			1	is223																									Mystic Orbs		min	max	none	0
 pr403	1	Mystic Orbs			1	is224																									Mystic Orbs		min	max	none	0

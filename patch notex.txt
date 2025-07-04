@@ -4,11 +4,11 @@ PD2 CORE CHANGES:
   - Gems
   - All Shrines
   - Arcane Shards
+  - Mystic Orbs
 
 TODO:
 - Stacking:
   - Elemental Runes, essences, unknown skull,...
-  - Mystic Orbs - only stacked
   - Oils - only stacked
 
 - Test out PD2 stuff like ctc on cast, maybe can remove the on kill monprop stuff, monster resists cant go below 0%?
