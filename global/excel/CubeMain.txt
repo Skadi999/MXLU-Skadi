@@ -50,6 +50,10 @@ cm57	Ennead Upgrade	1			100				dru	2	Caoi Dulra Fruit	jewl						useitem				pr121
 cm58	Ennead Upgrade	1			100				nec	2	Soulstone Shard	jewl						useitem				pr69			2	2	pr272			1	1	pr269			40	40	pr270		65535	-1	-1	pr88			33	33																																																											0
 cm59	Ennead Upgrade	1			100				pal	2	Orb of Divinity	jewl						useitem				pr68			2	2	pr272			1	1	pr222			20	20	pr270		65535	-1	-1	pr88			33	33																																																											0
 cm60	Ennead Upgrade	1			100				sor	2	Nexus Crystal	jewl						useitem				pr70			2	2	pr272			1	1	pr207			25	25	pr270		65535	-1	-1	pr88			33	33																																																											0
+cm11717	LC0 Statue	1			100					1	zen							LC0_STATUE																																																																																							0
+cm11718	LC0 Decoy	1			100	15	219	1			"#X0,uni"																																																																																														0
+cm11719	LC0: Skip this if lvl < 6	1			100	3	12	6			"#X0,uni"																																																																																														0
+cm11720	LC0 Harkon Crystal Upgrade	1			100	6	507	49		1	"#X0,uni"							useitem				pr469			1	1	pr58			201	250	pr190			6	10	pr257			10	10	pr330		1	1336	1553																																																											0
 cm61	LC1				100	18	472	1		3	x#y	SunstoneOfFire						useitem																																																																																							0
 cm62	LC1				100	18	472	1		3	x#y	SunstoneOfIce						useitem																																																																																							0
 cm63	LC1				100	18	472	1		3	x#y	SunstoneOfThunder						useitem																																																																																							0
@@ -828,10 +832,6 @@ cm11713	Book of Laz Upgrade	1			100	15	192	15		2	BookOfLaz	||#																		
 cm11714	More Book Stuff	1			100					2	||#	thng						||*																																																																																							0
 cm11715	More Book Stuff	1			100					2	||`																																																																																														0
 cm11716	Book of Laz Upgrade	1			100					2	BookOfLaz	||#						useitem				pr392			15	15	pr317			-1	-1	pr104			2	2	pr280			1	1	pr190			25	25																																																											0
-cm11717	LC0 Statue	1			100					1	zen							LC0_STATUE																																																																																							0
-cm11718	Harkon Crystal	1			100	17	219			2	"#X0,uni"	gem																																																																																													0
-cm11719	Harkon Crystal	1			100	3	12	6		2	"#X0,uni"	gem																																																																																													0
-cm11720	Harkon Crystal	1			100	6	507	49		2	"#X0,uni"	gem						useitem				pr469			1	1	pr58			201	250	pr190			6	10	pr257			10	10	pr330		1	1336	1553																																																											0
 cm576	Jewelcrafting	1				3	183	50		4	jewl	7oµ	r03	"qul1,qty=1"				"jew,crf"			95	pr59			6	10																					r03																																																										0
 cm577	Jewelcrafting	1				3	183	50		4	jewl	7oµ	r06	"qul1,qty=1"				"jew,crf"			95	pr41			3	5																					r06																																																										0
 cm578	Jewelcrafting	1				3	183	100		4	jewl	7oµ	r09	"qul1,qty=1"				"jew,crf"			95	pr75			-2	-4																					r09																																																										0
