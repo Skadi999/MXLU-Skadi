@@ -7,7 +7,7 @@ PD2 CORE CHANGES:
   - Mystic Orbs
   - Resistance penetration now works at ½ efficiency below 0% resist instead of capping at 0%
   - Summon res capped at 90%?
-  - LC0 upgrade no longer requires the aura
+  - LC0 upgrade no longer requires the aura and doesn't require a chipped gym
   - Untargettable summons srvfunc changed to trap tye (45) because 114 doesn't work with PD2 core
 
 TODO:
