@@ -9,11 +9,11 @@ PD2 CORE CHANGES:
   - Summon res capped at 90%?
   - LC0 upgrade no longer requires the aura and doesn't require a chipped gym
   - Untargettable summons srvfunc changed to trap tye (45) because 114 doesn't work with PD2 core
+  - All Oils
 
 TODO:
 - Stacking:
   - Elemental Runes, essences, unknown skull,...
-  - Oils - only stacked
   - Jewel Fragments
 
 

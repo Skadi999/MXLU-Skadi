@@ -2,7 +2,7 @@ description	* info	enabled	ladder	min diff	version	op	param	value	class	numinput
 cm0	Horadric Staff	1				28				2	msf	vip						hst																																																																																							0
 cm1	Khalim's Will	1				28				4	qf1	qhr	qey	qbr				qf2																																																																																							0
 cm2	Cow Portal	1				28				1	leg							Cow Portal																																																																																							0
-cm33	Belladonna Elixir	1								2	8oµ	rune						toa	99																																																																																						0
+cm33	Belladonna Elixir	1								2	"8oµ,qty=1"	rune						toa	99																																																																																						0
 cm34	Book of Summoning	1								6	"mec,qty=3"	"vic,qty=3"						ScrollOfSummons																																																																																							0
 dev create itemmm	DEV RECIPE	1			100					1	hpot							jewl																																																																																							0
 cm3	DEV RECIPE	1			100					1	mpot							qul1																																																																																							0
@@ -571,74 +571,74 @@ cm491	Rune Downgrade	1			100					2	"key,qty=1"	r47						r46																					
 cm492	Rune Downgrade	1			100					2	"key,qty=1"	r48						r47																																																																																							0
 cm493	Rune Downgrade	1			100					2	"key,qty=1"	r49						r48																																																																																							0
 cm494	Rune Downgrade	1			100					2	"key,qty=1"	r50						r49																																																																																							0
-Item Unsocket - Low	Oil of Disjunction Unsocket Grey	1			100	16	219	8		5	"dcht,sock,low"	2oµ	"gem4,qty=3"					"useitem,rem"																																																																																							0
-Item Unsocket - Normal	Oil of Disjunction Unsocket Grey	1			100	16	219	8		5	"dcht,sock,nor"	2oµ	"gem4,qty=3"					"useitem,rem"																																																																																							0
-Item Unsocket - Superior	Oil of Disjunction Unsocket Grey	1			100	16	219	8		5	"dcht,sock,hig"	2oµ	"gem4,qty=3"					"useitem,rem"																																																																																							0
-Item Unsocket - Magic	Oil of Disjunction Unsocket	1			100	16	219	8		2	"dcht,sock,mag"	2oµ						"useitem,rem"																																																																																							0
-Item Unsocket - Rare	Oil of Disjunction Unsocket	1			100	16	219	8		2	"dcht,sock,rar"	2oµ						"useitem,rem"																																																																																							0
-Item Unsocket - Crafted	Oil of Disjunction Unsocket	1			100	16	219	8		2	"dcht,sock,crf"	2oµ						"useitem,rem"																																																																																							0
-Item Unsocket - Unique	Oil of Disjunction Unsocket	1			100	16	219	8		2	"dcht,sock,uni"	2oµ						"useitem,rem"																																																																																							0
-Item Unsocket - Set	Oil of Disjunction Unsocket	1			100	16	219	8		2	"dcht,sock,set"	2oµ						"useitem,rem"																																																																																							0
-Item Unsocket - Honorific	Oil of Disjunction Unsocket	1			100	16	219	8		2	"dcht,sock,tmp"	2oµ						"useitem,rem"																																																																																							0
-cm531	Oil of Enhancement	1			100					2	"weap,low"	4oµ						"usetype,nor"			100																																																																																				0
-cm532	Oil of Enhancement	1			100					2	"armo,low"	4oµ						"usetype,nor"			100																																																																																				0
-cm533	Oil of Enhancement	1			100					2	"weap,nor"	4oµ						"usetype,hiq"			100																																																																																				0
-cm534	Oil of Enhancement	1			100					2	"armo,nor"	4oµ						"usetype,hiq"			100																																																																																				0
-cm535	Oil of Enhancement + Rune	1			100					3	"weap,low"	4oµ	rune					"usetype,mag"			100																																																																																				0
-cm536	Oil of Enhancement + Rune	1			100					3	"armo,low"	4oµ	rune					"usetype,mag"			100																																																																																				0
-cm537	Oil of Enhancement + Rune	1			100					3	"weap,nor"	4oµ	rune					"usetype,mag"			100																																																																																				0
-cm538	Oil of Enhancement + Rune	1			100					3	"armo,nor"	4oµ	rune					"usetype,mag"			100																																																																																				0
-cm539	Oil of Enhancement + Rune	1			100					3	"aqv,nor"	4oµ	rune					"usetype,mag"			100																																																																																				0
-cm540	Oil of Enhancement + Rune	1			100					3	"cqv,nor"	4oµ	rune					"usetype,mag"			100																																																																																				0
-cm541	Oil of Enhancement + Rune	1			100					3	"weap,hiq"	4oµ	rune					"usetype,mag"			100																																																																																				0
-cm542	Oil of Enhancement + Rune	1			100					3	"armo,hiq"	4oµ	rune					"usetype,mag"			100																																																																																				0
-cm851	Oil of Enhancement + Rune	1			100					3	"weap,mag"	4oµ	rune					"usetype,rar"			85																																																																																				0
-cm852	Oil of Enhancement + Rune	1			100					3	"armo,mag"	4oµ	rune					"usetype,rar"			85																																																																																				0
-cm853	Oil of Enhancement + Rune	1			100					3	"amul,mag"	4oµ	rune					"usetype,rar"			85																																																																																				0
-cm854	Oil of Enhancement + Rune	1			100					3	"ring,mag"	4oµ	rune					"usetype,rar"			85																																																																																				0
-cm855	Oil of Enhancement + Rune	1			100					3	"misl,mag"	4oµ	rune					"usetype,rar"			85																																																																																				0
-cm856	Oil of Enhancement + Rune	1			100					3	"jewl,mag"	4oµ	rune					"usetype,rar"			85																																																																																				0
-cm552	Oil of Renewal reroll	1			100					2	"weap,low"	5oµ						"usetype,low"			100																																																																																				0
-cm553	Oil of Renewal reroll	1			100					2	"armo,low"	5oµ						"usetype,low"			100																																																																																				0
-cm554	Oil of Renewal reroll	1			100					2	"weap,nor"	5oµ						"usetype,nor"			100																																																																																				0
-cm555	Oil of Renewal reroll	1			100					2	"armo,nor"	5oµ						"usetype,nor"			100																																																																																				0
-cm556	Oil of Renewal reroll	1			100					2	"weap,hiq"	5oµ						"usetype,hiq"			100																																																																																				0
-cm557	Oil of Renewal reroll	1			100					2	"armo,hiq"	5oµ						"usetype,hiq"			100																																																																																				0
-cm558	Oil of Renewal reroll	1			100					2	"weap,mag"	5oµ						"usetype,mag"			100																																																																																				0
-cm559	Oil of Renewal reroll	1			100					2	"armo,mag"	5oµ						"usetype,mag"			100																																																																																				0
-cm560	Oil of Renewal reroll	1			100					2	"amul,mag"	5oµ						"usetype,mag"			100																																																																																				0
-cm561	Oil of Renewal reroll	1			100					2	"ring,mag"	5oµ						"usetype,mag"			100																																																																																				0
-cm562	Oil of Renewal reroll	1			100					2	"misl,mag"	5oµ						"usetype,mag"			100																																																																																				0
-cm563	Oil of Renewal reroll	1			100					2	"jewl,mag"	5oµ						"usetype,mag"			100																																																																																				0
-cm564	Oil of Renewal reroll	1			100					2	"weap,rar"	5oµ						"usetype,rar"			100																																																																																				0
-cm565	Oil of Renewal reroll	1			100					2	"armo,rar"	5oµ						"usetype,rar"			100																																																																																				0
-cm566	Oil of Renewal reroll	1			100					2	"amul,rar"	5oµ						"usetype,rar"			100																																																																																				0
-cm567	Oil of Renewal reroll	1			100					2	"ring,rar"	5oµ						"usetype,rar"			100																																																																																				0
-cm568	Oil of Renewal reroll	1			100					2	"misl,rar"	5oµ						"usetype,rar"			100																																																																																				0
-cm569	Oil of Renewal reroll	1			100					2	"jewl,rar"	5oµ						"usetype,rar"			100																																																																																				0
-cm570	Oil of Luck Bonus	1			100	18	443			2	"weap,noe"	6oµ						useitem				pr29	20		40	40	pr96	20		100	100	pr265			1	1																																																																					0
-cm571	Oil of Luck Bonus	1			100	18	443			2	"armo,noe"	6oµ						useitem				pr5	20		40	40	pr4	20		1	1	pr265			1	1																																																																					0
-cm572	Oil of Luck Bonus	1			100	18	443			2	amul	6oµ						useitem				pr104	20		1	1	pr265			1	1																																																																										0
-cm573	Oil of Luck Bonus	1			100	18	443			2	ring	6oµ						useitem				pr207	20		10	10	pr265			1	1																																																																										0
-cm574	Oil of Luck Bonus	1			100	18	443			2	misl	6oµ						useitem				pr219	20		5	5	pr265			1	1																																																																										0
-cm575	Oil of Luck Bonus	1			100	18	443			2	jewl	6oµ						useitem				pr7	20		2	2	pr8	20		2	2	pr10	20		2	2	pr9	20		2	2	pr265			1	1																																																											0
-cm11796	Create Oil of Blessed Luck	1								2	"qul1,qty=5"	6oµ						6xµ																																																																																							0
-cm11944	Oil of Blessed Luck Upgrade	1			100	18	443			2	"weap,noe"	6xµ						useitem				pr29	15		40	60	pr96	15		100	200	pr265			1	1																																																																					0
-cm11945	Oil of Blessed Luck Upgrade	1			100	18	443			2	"armo,noe"	6xµ						useitem				pr5	15		40	60	pr4	15		1	2	pr265			1	1																																																																					0
-cm11946	Oil of Blessed Luck Upgrade	1			100	18	443			2	amul	6xµ						useitem				pr104	15		1	2	pr265			1	1																																																																										0
-cm11947	Oil of Blessed Luck Upgrade	1			100	18	443			2	ring	6xµ						useitem				pr207	15		10	15	pr265			1	1																																																																										0
-cm11948	Oil of Blessed Luck Upgrade	1			100	18	443			2	misl	6xµ						useitem				pr219	15		5	10	pr265			1	1																																																																										0
-cm11949	Oil of Blessed Luck Upgrade	1			100	18	443			2	jewl	6xµ						useitem				pr7	15		2	4	pr8	15		2	4	pr10	15		2	4	pr9	15		2	4	pr265			1	1																																																											0
-cm543	Chaos Reroll	1			100					3	weap	jew	6oµ					usetype			99																																																																																				0
-cm544	Chaos Reroll	1			100					3	armo	jew	6oµ					usetype			99																																																																																				0
-cm545	Chaos Reroll	1			100					3	ring	jew	6oµ					usetype			99																																																																																				0
-cm546	Chaos Reroll	1			100					3	amul	jew	6oµ					usetype			99																																																																																				0
-cm547	Chaos Reroll	1			100					3	bowq	jew	6oµ					usetype			99																																																																																				0
-cm548	Chaos Reroll	1			100					3	xboq	jew	6oµ					usetype			99																																																																																				0
-cm549	Chaos Reroll	1			100					3	jew	jew	6oµ					usetype			99																																																																																				0
-cm550	Affix Burn Recipe	1			100					2	weap	8oµ						"usetype,hiq"			100																																																																																				0
-cm551	Affix Burn Recipe	1			100					2	armo	8oµ						"usetype,hiq"			100																																																																																				0
-cm10634	Slain Monsters Rest in Peace	1			100					3	"dcht"	8oµ	"qul1,qty=5"					useitem				pr194			1	1																																																																															0
+Item Unsocket - Low	Oil of Disjunction Unsocket Grey	1			100	16	219	8		5	"dcht,sock,low"	"2oµ,qty=1"	"gem4,qty=3"					"useitem,rem"																																																																																							0
+Item Unsocket - Normal	Oil of Disjunction Unsocket Grey	1			100	16	219	8		5	"dcht,sock,nor"	"2oµ,qty=1"	"gem4,qty=3"					"useitem,rem"																																																																																							0
+Item Unsocket - Superior	Oil of Disjunction Unsocket Grey	1			100	16	219	8		5	"dcht,sock,hig"	"2oµ,qty=1"	"gem4,qty=3"					"useitem,rem"																																																																																							0
+Item Unsocket - Magic	Oil of Disjunction Unsocket	1			100	16	219	8		2	"dcht,sock,mag"	"2oµ,qty=1"						"useitem,rem"																																																																																							0
+Item Unsocket - Rare	Oil of Disjunction Unsocket	1			100	16	219	8		2	"dcht,sock,rar"	"2oµ,qty=1"						"useitem,rem"																																																																																							0
+Item Unsocket - Crafted	Oil of Disjunction Unsocket	1			100	16	219	8		2	"dcht,sock,crf"	"2oµ,qty=1"						"useitem,rem"																																																																																							0
+Item Unsocket - Unique	Oil of Disjunction Unsocket	1			100	16	219	8		2	"dcht,sock,uni"	"2oµ,qty=1"						"useitem,rem"																																																																																							0
+Item Unsocket - Set	Oil of Disjunction Unsocket	1			100	16	219	8		2	"dcht,sock,set"	"2oµ,qty=1"						"useitem,rem"																																																																																							0
+Item Unsocket - Honorific	Oil of Disjunction Unsocket	1			100	16	219	8		2	"dcht,sock,tmp"	"2oµ,qty=1"						"useitem,rem"																																																																																							0
+cm531	Oil of Enhancement	1			100					2	"weap,low"	"4oµ,qty=1"						"usetype,nor"			100																																																																																				0
+cm532	Oil of Enhancement	1			100					2	"armo,low"	"4oµ,qty=1"						"usetype,nor"			100																																																																																				0
+cm533	Oil of Enhancement	1			100					2	"weap,nor"	"4oµ,qty=1"						"usetype,hiq"			100																																																																																				0
+cm534	Oil of Enhancement	1			100					2	"armo,nor"	"4oµ,qty=1"						"usetype,hiq"			100																																																																																				0
+cm535	Oil of Enhancement + Rune	1			100					3	"weap,low"	"4oµ,qty=1"	rune					"usetype,mag"			100																																																																																				0
+cm536	Oil of Enhancement + Rune	1			100					3	"armo,low"	"4oµ,qty=1"	rune					"usetype,mag"			100																																																																																				0
+cm537	Oil of Enhancement + Rune	1			100					3	"weap,nor"	"4oµ,qty=1"	rune					"usetype,mag"			100																																																																																				0
+cm538	Oil of Enhancement + Rune	1			100					3	"armo,nor"	"4oµ,qty=1"	rune					"usetype,mag"			100																																																																																				0
+cm539	Oil of Enhancement + Rune	1			100					3	"aqv,nor"	"4oµ,qty=1"	rune					"usetype,mag"			100																																																																																				0
+cm540	Oil of Enhancement + Rune	1			100					3	"cqv,nor"	"4oµ,qty=1"	rune					"usetype,mag"			100																																																																																				0
+cm541	Oil of Enhancement + Rune	1			100					3	"weap,hiq"	"4oµ,qty=1"	rune					"usetype,mag"			100																																																																																				0
+cm542	Oil of Enhancement + Rune	1			100					3	"armo,hiq"	"4oµ,qty=1"	rune					"usetype,mag"			100																																																																																				0
+cm851	Oil of Enhancement + Rune	1			100					3	"weap,mag"	"4oµ,qty=1"	rune					"usetype,rar"			85																																																																																				0
+cm852	Oil of Enhancement + Rune	1			100					3	"armo,mag"	"4oµ,qty=1"	rune					"usetype,rar"			85																																																																																				0
+cm853	Oil of Enhancement + Rune	1			100					3	"amul,mag"	"4oµ,qty=1"	rune					"usetype,rar"			85																																																																																				0
+cm854	Oil of Enhancement + Rune	1			100					3	"ring,mag"	"4oµ,qty=1"	rune					"usetype,rar"			85																																																																																				0
+cm855	Oil of Enhancement + Rune	1			100					3	"misl,mag"	"4oµ,qty=1"	rune					"usetype,rar"			85																																																																																				0
+cm856	Oil of Enhancement + Rune	1			100					3	"jewl,mag"	"4oµ,qty=1"	rune					"usetype,rar"			85																																																																																				0
+cm552	Oil of Renewal reroll	1			100					2	"weap,low"	"5oµ,qty=1"						"usetype,low"			100																																																																																				0
+cm553	Oil of Renewal reroll	1			100					2	"armo,low"	"5oµ,qty=1"						"usetype,low"			100																																																																																				0
+cm554	Oil of Renewal reroll	1			100					2	"weap,nor"	"5oµ,qty=1"						"usetype,nor"			100																																																																																				0
+cm555	Oil of Renewal reroll	1			100					2	"armo,nor"	"5oµ,qty=1"						"usetype,nor"			100																																																																																				0
+cm556	Oil of Renewal reroll	1			100					2	"weap,hiq"	"5oµ,qty=1"						"usetype,hiq"			100																																																																																				0
+cm557	Oil of Renewal reroll	1			100					2	"armo,hiq"	"5oµ,qty=1"						"usetype,hiq"			100																																																																																				0
+cm558	Oil of Renewal reroll	1			100					2	"weap,mag"	"5oµ,qty=1"						"usetype,mag"			100																																																																																				0
+cm559	Oil of Renewal reroll	1			100					2	"armo,mag"	"5oµ,qty=1"						"usetype,mag"			100																																																																																				0
+cm560	Oil of Renewal reroll	1			100					2	"amul,mag"	"5oµ,qty=1"						"usetype,mag"			100																																																																																				0
+cm561	Oil of Renewal reroll	1			100					2	"ring,mag"	"5oµ,qty=1"						"usetype,mag"			100																																																																																				0
+cm562	Oil of Renewal reroll	1			100					2	"misl,mag"	"5oµ,qty=1"						"usetype,mag"			100																																																																																				0
+cm563	Oil of Renewal reroll	1			100					2	"jewl,mag"	"5oµ,qty=1"						"usetype,mag"			100																																																																																				0
+cm564	Oil of Renewal reroll	1			100					2	"weap,rar"	"5oµ,qty=1"						"usetype,rar"			100																																																																																				0
+cm565	Oil of Renewal reroll	1			100					2	"armo,rar"	"5oµ,qty=1"						"usetype,rar"			100																																																																																				0
+cm566	Oil of Renewal reroll	1			100					2	"amul,rar"	"5oµ,qty=1"						"usetype,rar"			100																																																																																				0
+cm567	Oil of Renewal reroll	1			100					2	"ring,rar"	"5oµ,qty=1"						"usetype,rar"			100																																																																																				0
+cm568	Oil of Renewal reroll	1			100					2	"misl,rar"	"5oµ,qty=1"						"usetype,rar"			100																																																																																				0
+cm569	Oil of Renewal reroll	1			100					2	"jewl,rar"	"5oµ,qty=1"						"usetype,rar"			100																																																																																				0
+cm570	Oil of Luck Bonus	1			100	18	443			2	"weap,noe"	"6oµ,qty=1"						useitem				pr29	20		40	40	pr96	20		100	100	pr265			1	1																																																																					0
+cm571	Oil of Luck Bonus	1			100	18	443			2	"armo,noe"	"6oµ,qty=1"						useitem				pr5	20		40	40	pr4	20		1	1	pr265			1	1																																																																					0
+cm572	Oil of Luck Bonus	1			100	18	443			2	amul	"6oµ,qty=1"						useitem				pr104	20		1	1	pr265			1	1																																																																										0
+cm573	Oil of Luck Bonus	1			100	18	443			2	ring	"6oµ,qty=1"						useitem				pr207	20		10	10	pr265			1	1																																																																										0
+cm574	Oil of Luck Bonus	1			100	18	443			2	misl	"6oµ,qty=1"						useitem				pr219	20		5	5	pr265			1	1																																																																										0
+cm575	Oil of Luck Bonus	1			100	18	443			2	jewl	"6oµ,qty=1"						useitem				pr7	20		2	2	pr8	20		2	2	pr10	20		2	2	pr9	20		2	2	pr265			1	1																																																											0
+cm11796	Create Oil of Blessed Luck	1								2	"qul1,qty=5"	"6oµ,qty=1"						6xµ																																																																																							0
+cm11944	Oil of Blessed Luck Upgrade	1			100	18	443			2	"weap,noe"	"6xµ,qty=1"						useitem				pr29	15		40	60	pr96	15		100	200	pr265			1	1																																																																					0
+cm11945	Oil of Blessed Luck Upgrade	1			100	18	443			2	"armo,noe"	"6xµ,qty=1"						useitem				pr5	15		40	60	pr4	15		1	2	pr265			1	1																																																																					0
+cm11946	Oil of Blessed Luck Upgrade	1			100	18	443			2	amul	"6xµ,qty=1"						useitem				pr104	15		1	2	pr265			1	1																																																																										0
+cm11947	Oil of Blessed Luck Upgrade	1			100	18	443			2	ring	"6xµ,qty=1"						useitem				pr207	15		10	15	pr265			1	1																																																																										0
+cm11948	Oil of Blessed Luck Upgrade	1			100	18	443			2	misl	"6xµ,qty=1"						useitem				pr219	15		5	10	pr265			1	1																																																																										0
+cm11949	Oil of Blessed Luck Upgrade	1			100	18	443			2	jewl	"6xµ,qty=1"						useitem				pr7	15		2	4	pr8	15		2	4	pr10	15		2	4	pr9	15		2	4	pr265			1	1																																																											0
+cm543	Chaos Reroll	1			100					3	weap	jew	"6oµ,qty=1"					usetype			99																																																																																				0
+cm544	Chaos Reroll	1			100					3	armo	jew	"6oµ,qty=1"					usetype			99																																																																																				0
+cm545	Chaos Reroll	1			100					3	ring	jew	"6oµ,qty=1"					usetype			99																																																																																				0
+cm546	Chaos Reroll	1			100					3	amul	jew	"6oµ,qty=1"					usetype			99																																																																																				0
+cm547	Chaos Reroll	1			100					3	bowq	jew	"6oµ,qty=1"					usetype			99																																																																																				0
+cm548	Chaos Reroll	1			100					3	xboq	jew	"6oµ,qty=1"					usetype			99																																																																																				0
+cm549	Chaos Reroll	1			100					3	jew	jew	"6oµ,qty=1"					usetype			99																																																																																				0
+cm550	Affix Burn Recipe	1			100					2	weap	"8oµ,qty=1"						"usetype,hiq"			100																																																																																				0
+cm551	Affix Burn Recipe	1			100					2	armo	"8oµ,qty=1"						"usetype,hiq"			100																																																																																				0
+cm10634	Slain Monsters Rest in Peace	1			100					3	"dcht"	"8oµ,qty=1"	"qul1,qty=5"					useitem				pr194			1	1																																																																															0
 cm10640	Assur's Bane	1			100					6	l@l	m@m		p@p	q@q	BossKillerRing		UpgradedBossKillerRing	100																																																																																						0
 cm10642	I Am Rich Gem	1			100					3	bxt	##/	µ14					NewSuperGem	95																																																																																						0
 cm10650	Apply Trophy Bonus	1			100	16	219			2	TomeOfTheSpider	µ01						useitem			100	pr469			1	1	pr223			25	25																																																																										0
@@ -832,22 +832,22 @@ cm11713	Book of Laz Upgrade	1			100	15	192	15		2	BookOfLaz	||#																		
 cm11714	More Book Stuff	1			100					2	||#	thng						||*																																																																																							0
 cm11715	More Book Stuff	1			100					2	||`																																																																																														0
 cm11716	Book of Laz Upgrade	1			100					2	BookOfLaz	||#						useitem				pr392			15	15	pr317			-1	-1	pr104			2	2	pr280			1	1	pr190			25	25																																																											0
-cm576	Jewelcrafting	1				3	183	50		4	jewl	7oµ	r03	"qul1,qty=1"				"jew,crf"			95	pr59			6	10																					r03																																																										0
-cm577	Jewelcrafting	1				3	183	50		4	jewl	7oµ	r06	"qul1,qty=1"				"jew,crf"			95	pr41			3	5																					r06																																																										0
-cm578	Jewelcrafting	1				3	183	100		4	jewl	7oµ	r09	"qul1,qty=1"				"jew,crf"			95	pr75			-2	-4																					r09																																																										0
-cm579	Jewelcrafting	1				3	183	100		4	jewl	7oµ	r13	"qul1,qty=1"				"jew,crf"			95	pr0			21	50																					r13																																																										0
-cm580	Jewelcrafting	1				3	183	150		4	jewl	7oµ	r17	"qul1,qty=1"				"jew,crf"			95	pr191			1	2																					r17																																																										0
-cm581	Jewelcrafting	1				3	183	150		4	jewl	7oµ	r20	"qul1,qty=1"				"jew,crf"			95	pr190			3	5																					r20																																																										0
-cm582	Jewelcrafting	1				3	183	200		4	jewl	7oµ	r24	"qul1,qty=1"				"jew,crf"			95	pr267			4	6																					r24																																																										0
-cm583	Jewelcrafting	1				3	183	200		4	jewl	7oµ	r27	"qul1,qty=1"				"jew,crf"			95	pr28			4	12																					r27																																																										0
-cm584	Jewelcrafting	1				3	183	250		4	jewl	7oµ	r30	"qul1,qty=1"				"jew,crf"			95	pr66			1	2	pr65			1	2																r30																																																										0
-cm585	Jewelcrafting	1				3	183	250		4	jewl	7oµ	r33	"qul1,qty=1"				"jew,crf"			95	pr207			1	3																					r33																																																										0
-cm586	Jewelcrafting	1				3	183	300		4	jewl	7oµ	r36	"qul1,qty=1"				"jew,crf"			95	pr269			3	6																					r36																																																										0
-cm587	Jewelcrafting	1				3	183	300		4	jewl	7oµ	r39	"qul1,qty=1"				"jew,crf"			95	pr480			1	1																					r39																																																										0
-cm588	Jewelcrafting	1				3	183	350		4	jewl	7oµ	r42	"qul1,qty=1"				"jew,crf"			95	pr292			2	4																					r42																																																										0
-cm589	Jewelcrafting	1				3	183	350		4	jewl	7oµ	r45	"qul1,qty=1"				"jew,crf"			95	pr27			6	15																					r45																																																										0
-cm590	Jewelcrafting	1				3	183	500		4	jewl	7oµ	r50	"qul1,qty=1"				"jew,crf"			95	pr192			2	4	pr110			2	4																r50																																																										0
-cm591	Jewelcrafting	1				3	183	400		4	jewl	7oµ	r48	"qul1,qty=1"				"jew,crf"			95	pr356			2	8	pr359			2	8																r48																																																										0
+cm576	Jewelcrafting	1				3	183	50		4	jewl	"7oµ,qty=1"	r03	"qul1,qty=1"				"jew,crf"			95	pr59			6	10																					r03																																																										0
+cm577	Jewelcrafting	1				3	183	50		4	jewl	"7oµ,qty=1"	r06	"qul1,qty=1"				"jew,crf"			95	pr41			3	5																					r06																																																										0
+cm578	Jewelcrafting	1				3	183	100		4	jewl	"7oµ,qty=1"	r09	"qul1,qty=1"				"jew,crf"			95	pr75			-2	-4																					r09																																																										0
+cm579	Jewelcrafting	1				3	183	100		4	jewl	"7oµ,qty=1"	r13	"qul1,qty=1"				"jew,crf"			95	pr0			21	50																					r13																																																										0
+cm580	Jewelcrafting	1				3	183	150		4	jewl	"7oµ,qty=1"	r17	"qul1,qty=1"				"jew,crf"			95	pr191			1	2																					r17																																																										0
+cm581	Jewelcrafting	1				3	183	150		4	jewl	"7oµ,qty=1"	r20	"qul1,qty=1"				"jew,crf"			95	pr190			3	5																					r20																																																										0
+cm582	Jewelcrafting	1				3	183	200		4	jewl	"7oµ,qty=1"	r24	"qul1,qty=1"				"jew,crf"			95	pr267			4	6																					r24																																																										0
+cm583	Jewelcrafting	1				3	183	200		4	jewl	"7oµ,qty=1"	r27	"qul1,qty=1"				"jew,crf"			95	pr28			4	12																					r27																																																										0
+cm584	Jewelcrafting	1				3	183	250		4	jewl	"7oµ,qty=1"	r30	"qul1,qty=1"				"jew,crf"			95	pr66			1	2	pr65			1	2																r30																																																										0
+cm585	Jewelcrafting	1				3	183	250		4	jewl	"7oµ,qty=1"	r33	"qul1,qty=1"				"jew,crf"			95	pr207			1	3																					r33																																																										0
+cm586	Jewelcrafting	1				3	183	300		4	jewl	"7oµ,qty=1"	r36	"qul1,qty=1"				"jew,crf"			95	pr269			3	6																					r36																																																										0
+cm587	Jewelcrafting	1				3	183	300		4	jewl	"7oµ,qty=1"	r39	"qul1,qty=1"				"jew,crf"			95	pr480			1	1																					r39																																																										0
+cm588	Jewelcrafting	1				3	183	350		4	jewl	"7oµ,qty=1"	r42	"qul1,qty=1"				"jew,crf"			95	pr292			2	4																					r42																																																										0
+cm589	Jewelcrafting	1				3	183	350		4	jewl	"7oµ,qty=1"	r45	"qul1,qty=1"				"jew,crf"			95	pr27			6	15																					r45																																																										0
+cm590	Jewelcrafting	1				3	183	500		4	jewl	"7oµ,qty=1"	r50	"qul1,qty=1"				"jew,crf"			95	pr192			2	4	pr110			2	4																r50																																																										0
+cm591	Jewelcrafting	1				3	183	400		4	jewl	"7oµ,qty=1"	r48	"qul1,qty=1"				"jew,crf"			95	pr356			2	8	pr359			2	8																r48																																																										0
 cm11789	Gift Box	1			100				ass	1	#X9							"assn,uni"	25			pr476			1	1																					"ishd,uni"	25			pr476			1	1																					"tors,uni"	25			pr476			1	1																					0
 cm11790	Gift Box	1			100				ama	1	#X9							"amaz,uni"	25			pr476			1	1																					"azhm,uni"	25			pr476			1	1																					"glov,uni"	25			pr476			1	1																					0
 cm11791	Gift Box	1			100				bar	1	#X9							"barb,uni"	25			pr476			1	1																					"swor,uni"	25			pr476			1	1																					"belt,uni"	25			pr476			1	1																					0
@@ -856,10 +856,10 @@ cm11793	Gift Box	1			100				nec	1	#X9							"nbox,uni"	25			pr476			1	1									
 cm11794	Gift Box	1			100				pal	1	#X9							"pbox,uni"	25			pr476			1	1																					"pzhm,uni"	25			pr476			1	1																					"pala,uni"	25			pr476			1	1																					0
 cm11795	Gift Box	1			100				sor	1	#X9							"stor,uni"	25			pr476			1	1																					"staf,uni"	25			pr476			1	1																					"sbox,uni"	25			pr476			1	1																					0
 cm11982	Void Combine Scrolls	1								7	voi1	voi2	voi3	voi4	voi5	voi6	"vor1,uni"	"vor2,uni"	120		120																																																																																				0
-cm11983	Enchanting Crystal	1			100	16	219			3	"ct1a,uni"	4oµ	voDX					"usetype,uni"	120		120	pr469			1	1																																																																															0
-cm11984	Enchanting Crystal	1			100	16	219			3	"ct2a,uni"	4oµ	voDX					"usetype,uni"	120		120	pr469			1	1																																																																															0
-cm11985	Enchanting Crystal	1			100	16	219			3	"ct1w,uni"	4oµ	voDX					"usetype,uni"	120		120	pr469			1	1																																																																															0
-cm11986	Enchanting Crystal	1			100	16	219			3	"ct2w,uni"	4oµ	voDX					"usetype,uni"	120		120	pr469			1	1																																																																															0
+cm11983	Enchanting Crystal	1			100	16	219			3	"ct1a,uni"	"4oµ,qty=1"	voDX					"usetype,uni"	120		120	pr469			1	1																																																																															0
+cm11984	Enchanting Crystal	1			100	16	219			3	"ct2a,uni"	"4oµ,qty=1"	voDX					"usetype,uni"	120		120	pr469			1	1																																																																															0
+cm11985	Enchanting Crystal	1			100	16	219			3	"ct1w,uni"	"4oµ,qty=1"	voDX					"usetype,uni"	120		120	pr469			1	1																																																																															0
+cm11986	Enchanting Crystal	1			100	16	219			3	"ct2w,uni"	"4oµ,qty=1"	voDX					"usetype,uni"	120		120	pr469			1	1																																																																															0
 cm11987	Void Rathma's Supremacy	1			100	18	270	1		1	RathmasSupremacy2							useitem																																																																																							0
 cm11988	Void Rathma's Supremacy	1			100	6	507	250		1	RathmasSupremacy2							useitem				pr104			2	2	pr190			50	50	pr381			1	1	pr204		1221	3	7																																																																0
 cm857	Socket Punch	1								2	"weap,nos,noe"	jewl						useitem				pr133		1	1	1																																																																															0
@@ -1426,9 +1426,9 @@ Mystic Orbs	Mystic Orbs	1			100	15	296	1		2	amul	z5+						useitem				pr204		793	
 Mystic Orbs	Mystic Orbs	1			100	15	296	1		2	ring	z5+						useitem				pr204		793	2	2	pr202			2	2	pr459			1	1																																																																					0
 Mystic Orbs	Mystic Orbs	1			100					2	amul	z5+						useitem				pr204		793	1	1	pr202			2	2	pr459			1	1																																																																					0
 Mystic Orbs	Mystic Orbs	1			100					2	ring	z5+						useitem				pr204		793	1	1	pr202			2	2	pr459			1	1																																																																					0
-ZOMGHELP RECIPE mag	change ilvl of item to 1	1			100					3	"dcht,mag"	5oµ	8oµ					usetype			1																																																																																				0
-ZOMGHELP RECIPE rar	change ilvl of item to 1	1			100					3	"dcht,rar"	5oµ	8oµ					usetype			1																																																																																				0
-ZOMGHELP RECIPE sup	change ilvl of item to 1	1			100					3	"dcht,hiq"	5oµ	8oµ					usetype			1																																																																																				0
+ZOMGHELP RECIPE mag	change ilvl of item to 1	1			100					3	"dcht,mag"	"5oµ,qty=1"	"8oµ,qty=1"					usetype			1																																																																																				0
+ZOMGHELP RECIPE rar	change ilvl of item to 1	1			100					3	"dcht,rar"	"5oµ,qty=1"	"8oµ,qty=1"					usetype			1																																																																																				0
+ZOMGHELP RECIPE sup	change ilvl of item to 1	1			100					3	"dcht,hiq"	"5oµ,qty=1"	"8oµ,qty=1"					usetype			1																																																																																				0
 cm899	Shrine Crafting	1								2	"ct1a,crf"	"B0+,qty=1"						"usetype,crf"			100	pr133		6	6	6	pr357			1	1	pr8	50		4	25	pr216	50		4	10	pr96	25		24	150	B1+																																																										0
 cm900	Shrine Crafting	1								2	"ct1a,rar"	"B0+,qty=1"						"usetype,crf"			100	pr133		6	6	6	pr357			1	1	pr8	50		4	25	pr216	50		4	10	pr96	25		24	150	B1+																																																										0
 cm901	Shrine Crafting	1								2	"ct1a,set"	"B0+,qty=1"						"usetype,crf"			100	pr133		6	6	6	pr357			1	1	pr8	50		4	25	pr216	50		4	10	pr96	25		24	150	B1+																																																										0
