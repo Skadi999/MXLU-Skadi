@@ -31,12 +31,12 @@ ChippedNGem				1						yo1	1		g$a	2		9$a	2		7$a	2		5$a	2																				0
 FlawedNGem				1						yo2	1		g$b	2		9$b	2		7$b	2		5$b	2																				0
 NormalNGem				1						yo3	1		g$c	2		9$c	2		7$c	2		5$c	2																				0
 FlawlessNGem				1						yo4	1		g$d	2		9$d	2		7$d	2		5$d	2																				0
-PerfectNGem				1						yo5	1		g$e	2		9$e	2		7$e	2		5$e	2																				0
+PerfectNGem				1						yo5s	1		g$es	2		9$es	2		7$es	2		5$es	2																				0
 Chipped Gem				1						gcv	3		gcy	3		gcb	3		gcg	3		gcr	3		gcw	3		skc	3		ChippedNGem	7											0
 Flawed Gem				1						gfv	3		gfy	3		gfb	3		gfg	3		gfr	3		gfw	3		skf	3		FlawedNGem	7											0
 Normal Gem				1						gsv	3		gsy	3		gsb	3		gsg	3		gsr	3		gsw	3		sku	3		NormalNGem	7											0
 Flawless Gem				1						gzv	3		gly	3		glb	3		glg	3		glr	3		glw	3		skl	3		FlawlessNGem	7											0
-Perfect Gem				1						gpv	3		gpy	3		gpb	3		gpg	3		gpr	3		gpw	3		skz	3		PerfectNGem	7											0
+Perfect Gem				1						gpvs	3		gpys	3		gpbs	3		gpgs	3		gprs	3		gpws	3		skzs	3		PerfectNGem	7											0
 Ammo				1						aqv	1		cqv	1																													0
 Elixir				1						ey2	1		ey3	1		et1	1																										0
 Common Scrolls				1						tsc	1		isc	1																													0
@@ -59,33 +59,33 @@ Potion 3	Unused			1						hp2	2		hp3	5		hp4	4		mp2	1		mp3	3		mp4	2		rvs	1								
 Potion 4	Unused			1						hp3	2		hp4	4		hp5	3		mp3	1		mp4	3		mp5	2		rvs	1														0
 Potion 5	Unused			1						hp3	1		hp4	4		hp5	4		mp3	1		mp4	3		mp5	3		rvs	1														0
 Potion 6	Unused			1						hp4	4		hp5	6		mp4	2		mp5	4		rvs	1		rvl	1																	0
-Runes 1				1						r01	3		r02	3		r01	3		r02	3		r01	3		r02	3																	0
-Runes 2				1						r03	3		r04	3		Runes 1	4																										0
-Runes 3				1						r05	3		r06	3		Runes 2	7																										0
-Runes 4				1						r07	3		r08	3		Runes 3	11																										0
-Runes 5				1						r09	3		r10	3		Runes 4	16																										0
-Runes 6				1						r11	3		r12	3		Runes 5	22																										0
-Runes 7				1						r13	3		r14	3		Runes 6	29																										0
-Runes 8				1						r15	3		r16	3		Runes 7	37																										0
-Runes 9				1						r17	3		r18	3		Runes 8	46																										0
-Runes 10				1						r19	3		r20	3		Runes 9	56																										0
-Runes 11				1						r21	3		r22	3		Runes 10	67																										0
-Runes 12				1						r23	3		r24	3		Runes 11	79																										0
-Runes 13				1						r25	3		r26	3		Runes 12	92																										0
-Runes 14				1						r27	3		r28	3		Runes 13	106																										0
-Runes 15				1						r29	3		r30	3		Runes 14	121																										0
-Runes 16				1						r31	3		r32	3		Runes 15	137																										0
-Runes 17				1						r33	3		r34	3		Runes 16	154																										0
-Runes 18				1						r35	3		r36	3		Runes 17	172																										0
-Runes 19				1						r37	3		r38	3		Runes 18	191																										0
-Runes 20				1						r39	3		r40	3		Runes 19	211																										0
-Runes 21				1						r41	3		r42	3		Runes 20	232																										0
-Runes 22				1						r43	3		r44	3		Runes 21	254																										0
-Runes 23				1						r45	3		r46	3		Runes 22	277																										0
-Runes 24				1						r47	3		r48	3		Runes 23	301																										0
-Runes 25				1						r49	3		r50	3		Runes 24	326																										0
-Runes Super				1						r51	6		r52	4		r53	2		r51	6		r52	4		r53	2		Runes 25	4950														0
-Runes Toraja				1						r54	6		r55	4		r56	2		r54	6		r55	4		r56	2		Runes 25	4950														0
+Runes 1				1						r01s	3		r02s	3		r01s	3		r02s	3		r01s	3		r02s	3																	0
+Runes 2				1						r03s	3		r04s	3		Runes 1	4																										0
+Runes 3				1						r05s	3		r06s	3		Runes 2	7																										0
+Runes 4				1						r07s	3		r08s	3		Runes 3	11																										0
+Runes 5				1						r09s	3		r10s	3		Runes 4	16																										0
+Runes 6				1						r11s	3		r12s	3		Runes 5	22																										0
+Runes 7				1						r13s	3		r14s	3		Runes 6	29																										0
+Runes 8				1						r15s	3		r16s	3		Runes 7	37																										0
+Runes 9				1						r17s	3		r18s	3		Runes 8	46																										0
+Runes 10				1						r19s	3		r20s	3		Runes 9	56																										0
+Runes 11				1						r21s	3		r22s	3		Runes 10	67																										0
+Runes 12				1						r23s	3		r24s	3		Runes 11	79																										0
+Runes 13				1						r25s	3		r26s	3		Runes 12	92																										0
+Runes 14				1						r27s	3		r28s	3		Runes 13	106																										0
+Runes 15				1						r29s	3		r30s	3		Runes 14	121																										0
+Runes 16				1						r31s	3		r32s	3		Runes 15	137																										0
+Runes 17				1						r33s	3		r34s	3		Runes 16	154																										0
+Runes 18				1						r35s	3		r36s	3		Runes 17	172																										0
+Runes 19				1						r37s	3		r38s	3		Runes 18	191																										0
+Runes 20				1						r39s	3		r40s	3		Runes 19	211																										0
+Runes 21				1						r41s	3		r42s	3		Runes 20	232																										0
+Runes 22				1						r43s	3		r44s	3		Runes 21	254																										0
+Runes 23				1						r45s	3		r46s	3		Runes 22	277																										0
+Runes 24				1						r47s	3		r48s	3		Runes 23	301																										0
+Runes 25				1						r49s	3		r50s	3		Runes 24	326																										0
+Runes Super				1						r51s	6		r52s	4		r53s	2		r51s	6		r52s	4		r53s	2		Runes 25	4950														0
+Runes Toraja				1						r54s	6		r55s	4		r56s	2		r54s	6		r55s	4		r56s	2		Runes 25	4950														0
 Signets Minor				1						zku	30		zkw	67		zkq	3																										0
 Signets Full				1						zkr	10		zkx	10		zkq	5		Signets Minor	75																							0
 Act 1 Junk				1						Hpotion 1	49		Misc 0	20		Ammo	15		Elixir	8		Signets Minor	1		Hpotion 1	20																	0

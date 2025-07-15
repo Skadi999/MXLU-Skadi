@@ -4,8 +4,8 @@ cm1	Khalim's Will	1				28				4	qf1	qhr	qey	qbr				qf2																											
 cm2	Cow Portal	1				28				1	leg							Cow Portal																																																																																							0
 cm33	Belladonna Elixir	1								2	"8oµ,qty=1"	rune						toa	99																																																																																						0
 cm34	Book of Summoning	1								6	"mec,qty=3"	"vic,qty=3"						ScrollOfSummons																																																																																							0
-dev create itemmm	DEV RECIPE	1			100					1	hpot							jewl																																																																																							0
-cm3	DEV RECIPE	1			100					1	mpot							qul1																																																																																							0
+dev create itemmm	DEV RECIPE				100					1	hpot							jewl																																																																																							0
+cm3	DEV RECIPE				100					1	mpot							qul1																																																																																							0
 cm4	DEV RECIPE				100					2	"hpot,qty=2"							MRHadriel's Courage	120		120																										MRHadriel's Pure Heart	120		120																											120		120																										0
 cm5	DEV RECIPE				100					1	rin							useitem				pr125		1156	1	1																					MSApehand	120		120																											120		120																										0
 cm6	DEV RECIPE				100					1	armo							"useitem,rem"																																																																																							0
