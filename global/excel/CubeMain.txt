@@ -29,27 +29,27 @@ cm29	Toraja Lilith Upgrade	1			100	18	265	1		2	Xtalline2	"qul1,qty=5"						useit
 cm30	Toraja Lilith Upgrade	1			100	6	507	25		2	Xtalline2	"qul1,qty=5"						useitem				pr53			100	100	pr41			10	10	pr386			1	1	pr280			1	1																																																																0
 cm31	Judgement Day Bonus Quest	1			100	18	270	1		1	Xtalline2							useitem																																																																																							0
 cm32	Judgement Day Bonus Quest	1			100	6	507	998		1	Xtalline2							useitem				pr104			3	3	pr190			50	50	pr381			1	1	pr198		789	100	62																																																																0
-cm40	Ennead Decoy	1			100	3	12	81	ama	2	Sacred Sunstone	jewl						useitem																																																																																							0
-cm41	Ennead Decoy	1			100	3	12	81	ass	2	Shadow Vortex	jewl						useitem																																																																																							0
-cm42	Ennead Decoy	1			100	3	12	81	bar	2	Worldstone Orb	jewl						useitem																																																																																							0
-cm43	Ennead Decoy	1			100	3	12	81	dru	2	Caoi Dulra Fruit	jewl						useitem																																																																																							0
-cm44	Ennead Decoy	1			100	3	12	81	nec	2	Soulstone Shard	jewl						useitem																																																																																							0
-cm45	Ennead Decoy	1			100	3	12	81	pal	2	Orb of Divinity	jewl						useitem																																																																																							0
-cm46	Ennead Decoy	1			100	3	12	81	sor	2	Nexus Crystal	jewl						useitem																																																																																							0
-cm47	Ennead Decoy	1			100	17	471	1	ama	2	Sacred Sunstone	jewl						useitem																																																																																							0
-cm48	Ennead Decoy	1			100	17	471	1	ass	2	Shadow Vortex	jewl						useitem																																																																																							0
-cm49	Ennead Decoy	1			100	17	471	1	bar	2	Worldstone Orb	jewl						useitem																																																																																							0
-cm50	Ennead Decoy	1			100	17	471	1	dru	2	Caoi Dulra Fruit	jewl						useitem																																																																																							0
-cm51	Ennead Decoy	1			100	17	471	1	nec	2	Soulstone Shard	jewl						useitem																																																																																							0
-cm52	Ennead Decoy	1			100	17	471	1	pal	2	Orb of Divinity	jewl						useitem																																																																																							0
-cm53	Ennead Decoy	1			100	17	471	1	sor	2	Nexus Crystal	jewl						useitem																																																																																							0
-cm54	Ennead Upgrade	1			100				ama	2	Sacred Sunstone	jewl						useitem				pr67			2	2	pr272			1	1	pr14			15	15	pr270		65535	-1	-1	pr88			33	33																																																											0
-cm55	Ennead Upgrade	1			100				ass	2	Shadow Vortex	jewl						useitem				pr122			2	2	pr272			1	1	pr213			50	50	pr270		65535	-1	-1	pr88			33	33																																																											0
-cm56	Ennead Upgrade	1			100				bar	2	Worldstone Orb	jewl						useitem				pr71			2	2	pr272			1	1	pr267			20	20	pr270		65535	-1	-1	pr88			33	33																																																											0
-cm57	Ennead Upgrade	1			100				dru	2	Caoi Dulra Fruit	jewl						useitem				pr121			2	2	pr272			1	1	pr41			25	25	pr270		65535	-1	-1	pr88			33	33																																																											0
-cm58	Ennead Upgrade	1			100				nec	2	Soulstone Shard	jewl						useitem				pr69			2	2	pr272			1	1	pr269			40	40	pr270		65535	-1	-1	pr88			33	33																																																											0
-cm59	Ennead Upgrade	1			100				pal	2	Orb of Divinity	jewl						useitem				pr68			2	2	pr272			1	1	pr222			20	20	pr270		65535	-1	-1	pr88			33	33																																																											0
-cm60	Ennead Upgrade	1			100				sor	2	Nexus Crystal	jewl						useitem				pr70			2	2	pr272			1	1	pr207			25	25	pr270		65535	-1	-1	pr88			33	33																																																											0
+cm40	Ennead Decoy	1			100	3	12	81	ama	2	Sacred Sunstone	"jewg,qty=1"						useitem																																																																																							0
+cm41	Ennead Decoy	1			100	3	12	81	ass	2	Shadow Vortex	"jewg,qty=1"						useitem																																																																																							0
+cm42	Ennead Decoy	1			100	3	12	81	bar	2	Worldstone Orb	"jewg,qty=1"						useitem																																																																																							0
+cm43	Ennead Decoy	1			100	3	12	81	dru	2	Caoi Dulra Fruit	"jewg,qty=1"						useitem																																																																																							0
+cm44	Ennead Decoy	1			100	3	12	81	nec	2	Soulstone Shard	"jewg,qty=1"						useitem																																																																																							0
+cm45	Ennead Decoy	1			100	3	12	81	pal	2	Orb of Divinity	"jewg,qty=1"						useitem																																																																																							0
+cm46	Ennead Decoy	1			100	3	12	81	sor	2	Nexus Crystal	"jewg,qty=1"						useitem																																																																																							0
+cm47	Ennead Decoy	1			100	17	471	1	ama	2	Sacred Sunstone	"jewg,qty=1"						useitem																																																																																							0
+cm48	Ennead Decoy	1			100	17	471	1	ass	2	Shadow Vortex	"jewg,qty=1"						useitem																																																																																							0
+cm49	Ennead Decoy	1			100	17	471	1	bar	2	Worldstone Orb	"jewg,qty=1"						useitem																																																																																							0
+cm50	Ennead Decoy	1			100	17	471	1	dru	2	Caoi Dulra Fruit	"jewg,qty=1"						useitem																																																																																							0
+cm51	Ennead Decoy	1			100	17	471	1	nec	2	Soulstone Shard	"jewg,qty=1"						useitem																																																																																							0
+cm52	Ennead Decoy	1			100	17	471	1	pal	2	Orb of Divinity	"jewg,qty=1"						useitem																																																																																							0
+cm53	Ennead Decoy	1			100	17	471	1	sor	2	Nexus Crystal	"jewg,qty=1"						useitem																																																																																							0
+cm54	Ennead Upgrade	1			100				ama	2	Sacred Sunstone	"jewg,qty=1"						useitem				pr67			2	2	pr272			1	1	pr14			15	15	pr270		65535	-1	-1	pr88			33	33																																																											0
+cm55	Ennead Upgrade	1			100				ass	2	Shadow Vortex	"jewg,qty=1"						useitem				pr122			2	2	pr272			1	1	pr213			50	50	pr270		65535	-1	-1	pr88			33	33																																																											0
+cm56	Ennead Upgrade	1			100				bar	2	Worldstone Orb	"jewg,qty=1"						useitem				pr71			2	2	pr272			1	1	pr267			20	20	pr270		65535	-1	-1	pr88			33	33																																																											0
+cm57	Ennead Upgrade	1			100				dru	2	Caoi Dulra Fruit	"jewg,qty=1"						useitem				pr121			2	2	pr272			1	1	pr41			25	25	pr270		65535	-1	-1	pr88			33	33																																																											0
+cm58	Ennead Upgrade	1			100				nec	2	Soulstone Shard	"jewg,qty=1"						useitem				pr69			2	2	pr272			1	1	pr269			40	40	pr270		65535	-1	-1	pr88			33	33																																																											0
+cm59	Ennead Upgrade	1			100				pal	2	Orb of Divinity	"jewg,qty=1"						useitem				pr68			2	2	pr272			1	1	pr222			20	20	pr270		65535	-1	-1	pr88			33	33																																																											0
+cm60	Ennead Upgrade	1			100				sor	2	Nexus Crystal	"jewg,qty=1"						useitem				pr70			2	2	pr272			1	1	pr207			25	25	pr270		65535	-1	-1	pr88			33	33																																																											0
 cm11717	LC0 Statue	1			100					1	zen							LC0_STATUE																																																																																							0
 cm11718	LC0 Decoy	1			100	15	219	1			"#X0,uni"																																																																																														0
 cm11719	LC0: Skip this if lvl < 6	1			100	3	12	6			"#X0,uni"																																																																																														0
@@ -1902,3 +1902,28 @@ Stack Bloodstone		1			100					1	9$e							9$es			100																												
 Stack Turquoise		1			100					1	7$e							7$es			100																																																																																				0
 Stack Amber		1			100					1	5$e							5$es			100																																																																																				0
 Stack Rainbow		1			100					1	yo5							yo5s			100																																																																																				0
+Jewel -> Jewel Fragments		1			100					2	"key,qty=1"	jew						useitem			100																										jewf			100																																																							0
+Jewel -> Jewel Fragments x2		1			100					2	"key,qty=1"	"jew,qty=2"						useitem			100																										"jewf,qty=2"			100																																																							0
+Jewel -> Jewel Fragments x3		1			100					2	"key,qty=1"	"jew,qty=3"						useitem			100																										"jewf,qty=3"			100																																																							0
+Jewel -> Jewel Fragments x4		1			100					2	"key,qty=1"	"jew,qty=4"						useitem			100																										"jewf,qty=4"			100																																																							0
+Jewel -> Jewel Fragments x5		1			100					2	"key,qty=1"	"jew,qty=5"						useitem			100																										"jewf,qty=5"			100																																																							0
+Jewel -> Jewel Fragments x6		1			100					2	"key,qty=1"	"jew,qty=6"						useitem			100																										"jewf,qty=6"			100																																																							0
+Jewel -> Jewel Fragments x7		1			100					2	"key,qty=1"	"jew,qty=7"						useitem			100																										"jewf,qty=7"			100																																																							0
+Jewel -> Jewel Fragments x8		1			100					2	"key,qty=1"	"jew,qty=8"						useitem			100																										"jewf,qty=8"			100																																																							0
+Jewel -> Jewel Fragments x9		1			100					2	"key,qty=1"	"jew,qty=9"						useitem			100																										"jewf,qty=9"			100																																																							0
+Jewel -> Jewel Fragments x10		1			100					2	"key,qty=1"	"jew,qty=10"						useitem			100																										"jewf,qty=10"			100																																																							0
+Jewel -> Jewel Fragments x11		1			100					2	"key,qty=1"	"jew,qty=11"						useitem			100																										"jewf,qty=11"			100																																																							0
+Jewel -> Jewel Fragments x12		1			100					2	"key,qty=1"	"jew,qty=12"						useitem			100																										"jewf,qty=12"			100																																																							0
+Jewel -> Jewel Fragments x13		1			100					2	"key,qty=1"	"jew,qty=13"						useitem			100																										"jewf,qty=13"			100																																																							0
+Jewel -> Jewel Fragments x14		1			100					2	"key,qty=1"	"jew,qty=14"						useitem			100																										"jewf,qty=14"			100																																																							0
+Jewel -> Jewel Fragments x15		1			100					2	"key,qty=1"	"jew,qty=15"						useitem			100																										"jewf,qty=15"			100																																																							0
+Jewel -> Jewel Fragments x15		1			100					2	"key,qty=1"	"jew,qty=16"						useitem			100																										"jewf,qty=16"			100																																																							0
+Jewel -> Jewel Fragments x15		1			100					2	"key,qty=1"	"jew,qty=17"						useitem			100																										"jewf,qty=17"			100																																																							0
+Jewel -> Jewel Fragments x15		1			100					2	"key,qty=1"	"jew,qty=18"						useitem			100																										"jewf,qty=18"			100																																																							0
+Jewel -> Jewel Fragments x15		1			100					2	"key,qty=1"	"jew,qty=19"						useitem			100																										"jewf,qty=19"			100																																																							0
+Jewel -> Jewel Fragments x15		1			100					2	"key,qty=1"	"jew,qty=20"						useitem			100																										"jewf,qty=20"			100																																																							0
+Jewel -> Jewel Fragments x15		1			100					2	"key,qty=1"	"jew,qty=21"						useitem			100																										"jewf,qty=21"			100																																																							0
+Jewel -> Jewel Fragments x15		1			100					2	"key,qty=1"	"jew,qty=22"						useitem			100																										"jewf,qty=22"			100																																																							0
+Jewel -> Jewel Fragments x15		1			100					2	"key,qty=1"	"jew,qty=23"						useitem			100																										"jewf,qty=23"			100																																																							0
+Jewel -> Jewel Fragments x15		1			100					2	"key,qty=1"	"jew,qty=24"						useitem			100																										"jewf,qty=24"			100																																																							0
+Jewel -> Jewel Fragments x15		1			100					2	"key,qty=1"	"jew,qty=25"						useitem			100																										"jewf,qty=25"			100																																																							0

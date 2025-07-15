@@ -58,7 +58,7 @@ rod 			rod 	blun													1									3												0
 misl			misl	misc	dcht																	1	1	1		3												0
 blun			blun	mele													1									3												0
 Expansion																																						0
-jewl			jewl	sock	dcht											1	1			1						3				6	invjw1	invjw2	invjw3	invjw4	invjw5	invjw6	misc	0
+jewl			jewl	sock	jewg											1	1			1						3				6	invjw1	invjw2	invjw3	invjw4	invjw5	invjw6	misc	0
 clas			clas														1									3												0
 amaz			amaz	clas	fbox												1									2			ama									0
 barb			barb	clas	fbox												1									2			bar									0
@@ -365,3 +365,5 @@ Stack Shards			quls												1			1								3											misc	0
 Mystic Orb Unique			asa#	a#aa											1			1								3											misc	0
 Stack MO			a#aa												1			1								3											misc	0
 Stack Oil			a#ab												1			1								3											misc	0
+Jewel Generic			jewg	dcht																																	misc	0
+Jewel Fragments			jewf	jewg											1			1																			misc	0
