@@ -60,7 +60,7 @@ RathmasSupremacy2		1		1	1	120	120	voXX	Rathma's Supremacy						1	5	5000	blac	bla
 TrophyCarrier2		1		1	1	120	100	`|#	The Sleep						1	5	5000					so0		so0	pr390		1	1																																													0
 UldyssianCharm3		1		1	1	120	120	##.	Uldyssian's Sword						1	5	5000					so0		so0	pr128	248	5	1	pr104			2	pr41		11	30	pr182	876	100	1																																	0
 LC0_STATUE		1		1	1	1	1	||;	LC0 Statue						1							so0		so0	pr204	1139	1	1																																													0
-HEYTHISISLC0CHARM2		1		1	1	1	1	#X0	Harkon Crystal						1	1	1					so0		so0	pr390		1	1																																													0
+HEYTHISISLC0CHARM2		1		1	1	1	5	#X0	Harkon Crystal						1	1	1					so0		so0	pr58		201	250	pr190		6	10	pr257		10	10	pr330	1	1336	1553																																	0
 AncientRepositories		1		1	1	120	120	|\\	Ancient Repositories						1	5	5000					so0		so0	pr96		101	150	pr368		5	20	pr205	186	1	1	pr104			1	pr7		5	25	pr8		5	25	pr9		5	25	pr10		5	25	pr207		21	30	pr108		11	20	pr14		6	10					0
 BrachyceranReward		1		1	1	120	120	|\#	Xazax's Illusion						1	5	5000					so0		so0	pr53		100	250	pr39		26	50	pr78		11	15	pr122			1	pr67			1	pr121			1	pr71			1	pr70			1	pr68			1	pr69			1	pr63		100	100					0
 FLSG2		1		1	1	1	100	az!	Fool's Gold						1	5	5000					so0		so0	pr58		-75	-75	pr222		11	15	pr330	3	1256	1553	pr7		31	50	pr8		31	50	pr10		31	50	pr9		31	50	pr7		-12	-41	pr8		-12	-41	pr10		-12	-41	pr9		-12	-41	pr59		31	40	0

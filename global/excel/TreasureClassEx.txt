@@ -1501,7 +1501,7 @@ Secret Chrysaor Drop				-2						Secret Chrysaor US	1		Secret Chrysaor Equip	1			
 Maggot (H)				1	1024					BrachyceranReward	1																																0
 Maggot Boss SuperDrop				-6						||*	1		||`	1		qul1	1		||_	1		Maggot (H)	1		Secret Chrysaor Equip	1																	0
 LC0 Charmxx				1	1024					HEYTHISISLC0CHARM2	1																																0
-LC0 Dropz				-3						LC0 Charmxx	1		ChippedNGem	1		"gld,mul=4096"	1																										0
+LC0 Dropz				-3						LC0 Charmxx	1		"gld,mul=4096"	1																													0
 Labrynth Set Drop A				1		1024				set_lab1	4		Blank TC	1																													0
 Labrynth Set Drop AB				-2						Labrynth Set Drop A	1		Baal (H)	1																													0
 Labrynth Set Drop B				1		1024				set_lab2	4		Blank TC	1																													0

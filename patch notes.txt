@@ -11,6 +11,7 @@ PD2 CORE CHANGES:
   - Untargettable summons srvfunc changed to trap type (45) because 114 doesn't work with PD2 core
   - All Oils
   - Jewel Fragments (more of a prototype, you can't really use those anywhere except for the ennead challenge recipe)
+  - Volrath now drops his charm with the stats on it, there are no recipes anymore. No longer drops a chipped gem.
 
 TODO:
 - Stacking:

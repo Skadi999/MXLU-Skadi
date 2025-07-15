@@ -469,7 +469,7 @@ pr465	1	cubemain.txt			1	is52																									Laz / MC counter		min	max	
 pr466	1	cubemain.txt			1	is53																									Laz / MC counter		min	max	none	0
 pr467	1	cubemain.txt			1	is96			3	is1																					Laz / MC counter		min	max	none	0
 pr468	1	cubemain.txt			1	is441			3	is445																					Laz / MC counter		min	max	none	0
-pr469	1	cubemain.txt			1	is219																									Laz / MC counter		min	max	none	0
+pr469	1	Level Required			1	is219																									Laz / MC counter		min	max	none	0
 pr470	1	cubemain.txt			1	is93			3	is153			3	is329			3	is330			3	is331			3	is332			3	is377	Laz / MC counter		min	max	none	0
 pr471	1	cubemain.txt			1	is261																									Laz / MC counter		min	max	none	0
 pr472	1	cubemain.txt			1	is136			3	is362																					Laz / MC counter		min	max	none	0
