@@ -198,14 +198,14 @@ pr194	1				1	is108																									Resist Fire / time inc.	center period
 pr195	1				24	is179																									Resist Lightning / time inc	center period	min	max	max at center period, min at opposite period, linear progression	0
 pr196	1				24	is180																									Resist Poison / time inc	center period	min	max	max at center period, min at opposite period, linear progression	0
 pr197	1				11	is196																									Absorb Cold / time inc.	center period	min	max	max at center period, min at opposite period, linear progression	0
-pr198	1				11	is197																									Absorb Fire / time inc.	center period	min	max	max at center period, min at opposite period, linear progression	0
+pr198	1	Skill on Death			11	is197																									Absorb Fire / time inc.	center period	min	max	max at center period, min at opposite period, linear progression	0
 pr199	1				11	is199																									Absorb Lightning / time inc.	center period	min	max	max at center period, min at opposite period, linear progression	0
 pr200	1				12	is107																									Absorb Poison / time inc.	center period	min	max	max at center period, min at opposite period, linear progression	0
 pr201	1				17	is181																									Find Gold Amt % / time inc.	center period	min	max	max at center period, min at opposite period, linear progression	0
 pr202	1	Required Level			1	is92																									Find Magic % / time inc.	center period	min	max	max at center period, min at opposite period, linear progression	0
 pr203	1				23																										% / time inc.	center period	min	max	max at center period, min at opposite period, linear progression	0
 pr204	1				22	is97																									Stamina / time inc.	center period	min	max	max at center period, min at opposite period, linear progression	0
-pr205	1				24	is98																									Damage to Demons % / time inc.	center period	min	max	max at center period, min at opposite period, linear progression	0
+pr205	1	State			24	is98																									Damage to Demons % / time inc.	center period	min	max	max at center period, min at opposite period, linear progression	0
 pr206	1				1	is377																									Damage to Undead % / time inc.	center period	min	max	max at center period, min at opposite period, linear progression	0
 pr207	1				1	is329			3	is330			3	is331			3	is332			3	is377									To Hit Demons % / time inc.	center period	min	max	max at center period, min at opposite period, linear progression	0
 pr208	1				1	is363																									To Hit Undead % / time inc.	center period	min	max	max at center period, min at opposite period, linear progression	0
