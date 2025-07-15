@@ -38,7 +38,6 @@ SunstoneOfIce		1		1	1	1		x2x							1	5	5000					so0		so0	pr73		1	1														
 SunstoneOfThunder		1		1	1	1		x3x							1	5	5000					so0		so0	pr73		1	1																																													0
 SunstoneOfTheGods		1		1	1	1	100	x4x							1	5	5000					so0		so0	pr14		11	15	pr12		11	15	pr20		51	100	pr21		101	150	pr17		51	100	pr18		101	150	pr22		51	100	pr23		101	150	pr19		25	25													0
 NewSixAngelBag		1		1	1	1	60	yq2							1	5	5000					so0		so0	pr31		21	25	pr35		21	25	pr33		21	25	pr20		101	150	pr21		151	250	pr17		101	150	pr18		151	250	pr22		101	150	pr23		151	250	pr19		25	25									0
-JollyRoger		1		1	1	1	5	yq7							1	5	5000					so0		so0	pr279		1	1	pr278		1	1	pr125	290	1	1			4	4																																	0
 ZakarumsEar		1		1	1	1	80	yq8							1	5	5000					so0		so0	pr191		16	25	pr219		6	10	pr73		2	2																																					0
 TomeOfTheSpider		1		1	1	1	100	yqe							1	5	5000					so0		so0	pr95		1	1	pr291		21	25	pr280		1	1	pr204	829	1	1																																	0
 HerbalQuintessence		1		1	1	1	100	yqx							1	5	5000					so0		so0	pr53		11	40	pr96		21	150	pr87		10	10	pr57		10	10																																	0
