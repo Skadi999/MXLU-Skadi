@@ -1,14 +1,14 @@
 PD2 CORE CHANGES:
 - Stacking: Currently implemented for:
+  - PD2 Change: Resistance penetration now works at ½ efficiency below 0% resist instead of capping at 0%
+  - PD2 Change: Summon res capped at 90%
   - All clod runes + all cmxl runes 
   - Gems
   - All Shrines
   - Arcane Shards
   - Mystic Orbs
-  - Resistance penetration now works at ½ efficiency below 0% resist instead of capping at 0%
-  - Summon res capped at 90%?
-  - LC0 upgrade no longer requires the aura and doesn't require a chipped gym
-  - Untargettable summons srvfunc changed to trap tye (45) because 114 doesn't work with PD2 core
+  - LC0 upgrade no longer requires the aura and doesn't require a chipped gem
+  - Untargettable summons srvfunc changed to trap type (45) because 114 doesn't work with PD2 core
   - All Oils
   - Jewel Fragments (more of a prototype, you can't really use those anywhere except for the ennead challenge recipe)
 
