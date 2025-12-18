@@ -662,10 +662,10 @@ cm10743	Veteran Tokens	1			100	16	219		nec	6	Soulstone Shard	!@1	!@2	!@3	!@4	!@5
 cm10744	Veteran Tokens	1			100	16	219		pal	6	Orb of Divinity	!@1	!@2	!@3	!@4	!@5		useitem				pr469				1	1	pr68				1	1	pr191				20	20																																																																							0
 cm10745	Veteran Tokens	1			100	16	219		sor	6	Nexus Crystal	!@1	!@2	!@3	!@4	!@5		useitem				pr469				1	1	pr70				1	1	pr191				20	20																																																																							0
 cm10774	Create Skill Signets	1			100					2	2x5	qum						!@B																																																																																												0
-cm10775	Create Skill Signets	1			100					7	2x6	qum						!@B																																																																																												0
-cm10776	Create Skill Signets	1			100					7	2x7	qum						!@B																																																																																												0
-cm10777	Create Skill Signets	1			100					7	2x8	qum						!@B																																																																																												0
-cm10778	Create Skill Signets	1			100					7	2x9	qum						!@B																																																																																												0
+cm10775	Create Skill Signets	1			100					2	2x6	qum						!@B																																																																																												0
+cm10776	Create Skill Signets	1			100					2	2x7	qum						!@B																																																																																												0
+cm10777	Create Skill Signets	1			100					2	2x8	qum						!@B																																																																																												0
+cm10778	Create Skill Signets	1			100					2	2x9	qum						!@B																																																																																												0
 cm11490	Kabraxis Gems Upgrade	1			100	18	92			6	KabraxisSoul3	\\1	\\2	\\3	\\4	\\5		useitem				pr202				20	20	pr32					5	pr40					5	pr36					5	pr34					5																																																											0
 cm11491	Kabraxis Trophy	1			100	16	219			2	KabraxisSoul3	bxt						useitem			100	pr469				1	1	pr330			2	1256	1553	pr205			10	1	1	pr476				1	1																																																																	0
 cm11492	Lottery Recipe	1			100	18	443			2	"weap,noe,uni"	LegOfBlood						useitem				pr265				1	1	pr92	3			1	1	pr476				1	1																																																																							0
