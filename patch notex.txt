@@ -44,6 +44,15 @@ The following dll patches have been applied:
 - itemstatcost.txt and states.txt limtis have been raised. (states = 2047 rows, isc = 4096, but ONLY item stats above ID 509! Do not use IDs above 509 for character-saved stats!)
 - Support for stackable items (gems, runes,...) no hotkeys yet, only cube recipes for creating stacked items and unstacking
 
+--- Code Edit related cahnges: 
+- Stacking: Currently implemented for:
+  - All clod runes + all cmxl runes 
+  - Gems
+  - All Shrines
+  - Arcane Shards
+  - Mystic Orbs
+  - All Oils
+  - Jewel Fragments (more of a prototype, you can't really use those anywhere except for the ennead challenge recipe)
 
 TODO:
 - IMPORTANT: Check if monster tokens that start with 0 are working properly - like 08 for Mutilator!
