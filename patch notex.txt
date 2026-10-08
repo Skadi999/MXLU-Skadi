@@ -37,6 +37,24 @@ Current Changes:
 -All Median strings are now stored in expansionstring.tbl
 -Started cleaning up .txts and .tbls.
 
+--- Code Edits ---
+The following dll patches have been applied:
+- Throwing weapon & quiver quantity is now infinite
+- Skill timers are now individual, using a skill with a timer no longer locks all other timered skills
+- itemstatcost.txt and states.txt limtis have been raised. (states = 2047 rows, isc = 4096, but ONLY item stats above ID 509! Do not use IDs above 509 for character-saved stats!)
+- Support for stackable items (gems, runes,...) no hotkeys yet, only cube recipes for creating stacked items and unstacking
+- Runemaster and Paragon have been fixed. You no longer have to reequip items for the bonus to apply after dying/rejoining game
+
+--- Code Edit related changes: 
+- Stacking: Currently implemented for:
+  - All clod runes + all cmxl runes 
+  - Gems
+  - All Shrines
+  - Arcane Shards
+  - Mystic Orbs
+  - All Oils
+  - Jewel Fragments (more of a prototype, you can't really use those anywhere except for the ennead challenge recipe)
+Bug: Mystic Orbs don't show quantity
 
 TODO:
 - IMPORTANT: Check if monster tokens that start with 0 are working properly - like 08 for Mutilator!
