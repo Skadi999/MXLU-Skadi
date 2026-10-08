@@ -53,6 +53,7 @@ The following dll patches have been applied:
   - Mystic Orbs
   - All Oils
   - Jewel Fragments (more of a prototype, you can't really use those anywhere except for the ennead challenge recipe)
+Bug: Mystic Orbs don't show quantity
 
 TODO:
 - IMPORTANT: Check if monster tokens that start with 0 are working properly - like 08 for Mutilator!
