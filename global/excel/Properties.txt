@@ -400,7 +400,7 @@ pr396	1	Mystic Orbs			1	is206																									Mystic Orbs		min	max	none	
 pr397	1	Mystic Orbs			1	is207																									Mystic Orbs	(8ths!)			none	0
 pr398	1	Mystic Orbs			1	is213																									Mystic Orbs		min	max	none	0
 pr399	1	Mystic Orbs			1	is220																									Mystic Orbs		min	max	none	0
-pr400	1	Mystic Orbs UNUSED			1	is221																									Mystic Orbs UNUSED		min	max	none	0
+pr400	1	Mystic Orbs			1	is221																									Mystic Orbs UNUSED		min	max	none	0
 pr401	1	Mystic Orbs			1	is222																									Mystic Orbs		min	max	none	0
 pr402	1	Mystic Orbs			1	is223																									Mystic Orbs		min	max	none	0
 pr403	1	Mystic Orbs			1	is224																									Mystic Orbs		min	max	none	0
