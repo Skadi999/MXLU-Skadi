@@ -25,6 +25,14 @@ Current Changes:
 -Catalyst of Destruction removed
 -Removed item tiers 2,3,5
 -Removed the following useless Mystic Orbs: Crafting Points (Jewelry), Experience (Weapon), Energy Factor (Weapon), Regenerate Mana (Jewelry)
+- Stackable items:
+  - All clod runes + all cmxl runes 
+  - Gems
+  - All Shrines
+  - Arcane Shards
+  - Mystic Orbs
+  - All Oils
+  - Jewel Fragments (more of a prototype, you can't really use those anywhere except for the ennead challenge recipe)
 
 --- Monsters ---
 -Added a new monster - Haunt. This monster replaces Necromorbs in Duncraig. Haunts are significantly tougher than Slain Souls and have an Area of Effect attack
@@ -45,18 +53,6 @@ The following dll patches have been applied:
 - Support for stackable items (gems, runes,...) no hotkeys yet, only cube recipes for creating stacked items and unstacking
 - Runemaster and Paragon have been fixed. You no longer have to reequip items for the bonus to apply after dying/rejoining game
 - Added a damage divisor stat (is251) but it is currently unused
-
---- Code Edit related changes: 
-- Stacking: Currently implemented for:
-  - All clod runes + all cmxl runes 
-  - Gems
-  - All Shrines
-  - Arcane Shards
-  - Mystic Orbs
-  - All Oils
-  - Jewel Fragments (more of a prototype, you can't really use those anywhere except for the ennead challenge recipe)
-Bug: Mystic Orbs don't show quantity
-
 
 
 
