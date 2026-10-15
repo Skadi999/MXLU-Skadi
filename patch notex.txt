@@ -53,6 +53,7 @@ The following dll patches have been applied:
 - Support for stackable items (gems, runes,...) no hotkeys yet, only cube recipes for creating stacked items and unstacking
 - Runemaster and Paragon have been fixed. You no longer have to reequip items for the bonus to apply after dying/rejoining game
 - Added a damage divisor stat (is251) but it is currently unused
+- Mercenary aura bug fixed
 
 
 
