@@ -57,18 +57,17 @@ The following dll patches have been applied:
 - HP globe display bug fixed (same for mana and stamina)
 - Mercenary aura bug fixed
 - Replenish Life and Drain Life now display the real value regenerated per second
+- Added a ctc to cast skill on spell cast stat, but it is currently unused
 
 
 
 TODO:
-- IMPORTANT: Check if monster tokens that start with 0 are working properly - like 08 for Mutilator!
 - Reduce mob stun length
-- Add a new stat that shows real value of hp regen
 - Change Zomghelp Recipe
 - Overhaul/remove crafting points
 - Overhaul Azmodan and his trash mobs and remove random stats from Azmodan and other bosses. Change Azmodan model and reuse old Azmodan model for a new boss
 - Use some sprites from later MXL versions like class charms
-- Change class charm acquisition to recipe like in Sigma
+- Change Ennead challenge to require killing all 3 necs in X time, remove RNG from class charm drop
 - Overhaul some TUs, SUs
 - Restore some item stats that were removed in 2012 like 5% max res on Imperius set boots
 - Restore some Omega era unique item names
@@ -76,7 +75,7 @@ TODO:
 - Bring back items from 2008 (many different unique items there)
 - Add new ubers using maps from pd2, back to hellfire, etc. Change LC0 reward to drop from one of these new ubers
 - Completely deobfuscate everything, remove unused stuff, cleanup files
-- Changes to Mystic Orbs: Add a way to remove MOs, add an item that will allow re-using an MO
+- Add a way to remove MOs
 - Revamp campaign monsters, some other mobs such as Summon Thunder Bear
 - Some changes to skills: Make Runemaster a buff? Change stances to buffs? Remove/reduce timers on some skills, increase duration on others.
 - Use some item/spell/minion icons from later versions

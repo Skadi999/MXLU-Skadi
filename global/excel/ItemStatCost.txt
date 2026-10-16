@@ -308,7 +308,7 @@ is305	305			1	9											1432	513	1024				10	50																	88	20	1	Moditem
 is306	306			1	9											1240	497	1024				10	50																	88	20	1	Moditemenresfiresk	Moditemenresfiresk									0
 is307	307			1	9											1187	481	1024				10	50																	88	20	1	Moditemenresltngsk	Moditemenresltngsk									0
 is308	308			1	9											1322	506	1024				10	50																	88	20	1	Moditemenrespoissk	Moditemenrespoissk									0
-is309	309	c		1	12											13	4	1024		5		5																															0
+is309	309	Chance to cast skill on spell cast		1	7	17						1			2	190	256	1024		24		8		17												ev4	20			160	15		ItemExpansiveChancS	ItemExpansiveChancS									0
 is310	310	c		1	12											13	4	1024		5		5																															0
 is311	311	c		1	12											13	4	1024		5		5																															0
 is312	312	c		1	12											13	4	1024		5		5																															0

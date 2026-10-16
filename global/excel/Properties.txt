@@ -420,7 +420,7 @@ pr416	1	Mystic Orbs			1	is244																									Mystic Orbs		min	max	none	
 pr417	1	Mystic Orbs			1	is245																									Mystic Orbs		1	1	desc string for Evanescence	0
 pr418	1	Mystic Orbs			1	is246																									Mystic Orbs		min	max	none	0
 pr419	1	Mystic Orbs			1	is249																									Mystic Orbs		min	max	none	0
-pr420	1	Damage Divisor			1	is251																									HARDCODED: Divides damage by 1/X - Currently UNUSED		min	max	none	0
+pr420	1	Damage Divisor			1	is251																									HARDCODED: Divides damage by 1/X - Currently UNUSED		min	max	DO NOT MODIFY THIS ROW	0
 pr421	1	Mystic Orbs			1	is255																									Mystic Orbs		min	max	none	0
 pr422	1	Mystic Orbs			1	is256																									Mystic Orbs		min	max	none	0
 pr423	1	Mystic Orbs			1	is257																									Mystic Orbs		min	max	none	0
@@ -434,7 +434,7 @@ pr430	1	Mystic Orbs			1	is294																									Mystic Orbs		min	max	none	
 pr431	1	Mystic Orbs			1	is297																									Mystic Orbs		min	max	none	0
 pr432	1	Mystic Orbs			1	is298																									Mystic Orbs	Skill #	% Chance	Level	white text	0
 pr433	1	Mystic Orbs			1	is304																									Mystic Orbs	(32nds)			none	0
-pr434	1	Mystic Orbs UNUSED			1	is309																									Mystic Orbs UNUSED		1	1	none	0
+pr434	1	%ctc on spell cast			1	is309																									HARDCODED: ctc skill on a spell cast		1	1	DO NOT MODIFY THIS ROW	0
 pr435	1	Mystic Orbs			1	is310																									Mystic Orbs		min	max	none	0
 pr436	1	Mystic Orbs			1	is311																									Mystic Orbs		min	max	none	0
 pr437	1	Mystic Orbs			1	is312																									Mystic Orbs		1	1	none	0
